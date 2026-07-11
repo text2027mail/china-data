@@ -1,0 +1,46 @@
+name: Update Box Office Data
+
+on:
+  schedule:
+    # Run daily at 12:00 UTC (adjust to your time zone)
+    - cron: '0 12 * * *'
+  workflow_dispatch:   # Allows manual trigger from the Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use the token so that subsequent git push can trigger new workflows
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp aiofiles beautifulsoup4
+
+      - name: Run Box Office Tracker
+        run: python china_boxoffice.py
+        # The script uses incremental fetch by default.
+        # To perform a full fetch, add '--full' (first run only).
+        # You can uncomment the line below for the initial full run:
+        # run: python china_boxoffice.py --full
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/ database/ state.json
+          git diff --staged --quiet || git commit -m "Auto-update box office data $(date -u +'%Y-%m-%d')"
+          git push
+        env:
+          # GITHUB_TOKEN is automatically provided; ensure it has write permissions
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
