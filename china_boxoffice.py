@@ -37,8 +37,7 @@ YEARLY_DIR = DATA_DIR                      # year folders inside DATA_DIR
 STATE_FILE = BASE_DIR / "state.json"
 MOVIE_SLUG_MAP_FILE = DATA_DIR / "movieslug.json"
 CORRECTIONS_FILE = BASE_DIR / "correctedslug.json"
-
-SEMAPHORE = asyncio.Semaphore(20)          # concurrency limit
+SEMAPHORE = asyncio.Semaphore(500)          # concurrency limit
 
 # ---------- Utilities ----------
 def format_date_ymd(dt):
