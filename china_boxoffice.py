@@ -389,10 +389,6 @@ async def fetch_date(session, date_str_mdy):
         return None
 
 def parse_html(html, date_obj):
-    """
-    Parse the HTML table and return a list of entries.
-    Each entry: dict with movie_id, title, rank, gross, cume, showings, admissions, days.
-    """
     soup = BeautifulSoup(html, 'html.parser')
     table = soup.find('table', class_='person')
     if not table:
@@ -405,12 +401,16 @@ def parse_html(html, date_obj):
         # Skip header and separator rows
         if row.find('td', colspan='9') or row.find('b', string='Rank'):
             continue
-        cells = row.find_all('td')
+        # Get ONLY the direct td children (no nested table cells)
+        cells = row.find_all('td', recursive=False)
         if len(cells) < 9:
             continue
 
-        # Rank (skip)
-        # Title column (index 1) contains a link and maybe an image
+        # Rank
+        rank_str = cells[0].get_text(strip=True)
+        rank = parse_int(rank_str)
+
+        # Title column (index 1) – contains the link
         title_cell = cells[1]
         link = title_cell.find('a')
         if not link:
@@ -422,30 +422,30 @@ def parse_html(html, date_obj):
             movie_id = int(m.group(1))
         title = link.get_text(strip=True)
 
-        # Gross(M) - index 2
+        # Gross(M) – index 2
         gross_str = cells[2].get_text(strip=True)
         gross = parse_money(gross_str)
 
-        # Cume Gross(M) - index 3
+        # Cume Gross(M) – index 3
         cume_str = cells[3].get_text(strip=True)
         cume = parse_money(cume_str)
 
-        # Per Screen Avg (index 4) - skip
-        # Per Ticket Avg (index 5) - skip
+        # Per Screen Avg. (index 4) – skip
+        # Per Ticket Avg. (index 5) – skip
 
-        # Showings - index 6
+        # Showings – index 6
         showings_str = cells[6].get_text(strip=True)
         showings = parse_int(showings_str)
 
-        # Admissions - index 7
+        # Admissions – index 7
         admissions_str = cells[7].get_text(strip=True)
         admissions = parse_int(admissions_str)
 
-        # Days - index 8
+        # Days – index 8
         days_str = cells[8].get_text(strip=True)
-        days = parse_int(days_str) if days_str else None
+        days = parse_int(days_str) if days_str and days_str.strip() != '-' else None
 
-        # Compute release date if days is given and reasonable
+        # Compute release date if days is valid and reasonable
         release_date = None
         if days is not None and days > 0 and days < 10000:
             try:
@@ -457,7 +457,7 @@ def parse_html(html, date_obj):
         entries.append({
             "movie_id": movie_id,
             "title": title,
-            "rank": parse_int(cells[0].get_text(strip=True)),
+            "rank": rank,
             "gross": gross,
             "cume": cume,
             "showings": showings,
