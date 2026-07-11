@@ -1,0 +1,47 @@
+{
+  "movie_id": 682759,
+  "title": "Luis And The Aliens",
+  "releaseDate": "26-10-2019",
+  "entries": [
+    {
+      "date": "26-10-2019",
+      "rank": 9,
+      "gross": 0.35,
+      "cume": 0.36,
+      "showings": 13031,
+      "admissions": 77161,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-10-2019",
+      "rank": 9,
+      "gross": 0.24,
+      "cume": 0.61,
+      "showings": 8503,
+      "admissions": 53339,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-10-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.61,
+      "showings": 2871,
+      "admissions": 1718,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "29-10-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.62,
+      "showings": 2382,
+      "admissions": 1748,
+      "days": 4,
+      "day": "1st Tue"
+    }
+  ]
+}

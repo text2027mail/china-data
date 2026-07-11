@@ -1,0 +1,47 @@
+{
+  "movie_id": 680242,
+  "title": "CAT PRINCESS",
+  "releaseDate": "01-05-2019",
+  "entries": [
+    {
+      "date": "01-05-2019",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 3554,
+      "admissions": 15611,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-05-2019",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.1,
+      "showings": 2150,
+      "admissions": 8715,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "date": "03-05-2019",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.12,
+      "showings": 1808,
+      "admissions": 6416,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "date": "04-05-2019",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 1569,
+      "admissions": 4309,
+      "days": 4,
+      "day": "1st Sat"
+    }
+  ]
+}

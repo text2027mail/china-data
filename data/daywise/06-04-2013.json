@@ -1,0 +1,225 @@
+{
+  "date": "06-04-2013",
+  "data": [
+    {
+      "movie_id": 596800,
+      "title": "",
+      "gross": 3.33,
+      "cume": 56.63,
+      "showings": 17740,
+      "admissions": 702800,
+      "rank": 1,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 610462,
+      "title": "The Chef, the Actor, the Scoundrel",
+      "gross": 2.6,
+      "cume": 27.65,
+      "showings": 16519,
+      "admissions": 550915,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 595606,
+      "title": "Drug War",
+      "gross": 1.98,
+      "cume": 10.97,
+      "showings": 14548,
+      "admissions": 413739,
+      "rank": 3,
+      "days": 5,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 615223,
+      "title": "Oz The Great and Powerful",
+      "gross": 1.76,
+      "cume": 18.9,
+      "showings": 9858,
+      "admissions": 295251,
+      "rank": 4,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 595180,
+      "title": "Saving General Yang",
+      "gross": 1.09,
+      "cume": 4.09,
+      "showings": 10728,
+      "admissions": 230697,
+      "rank": 5,
+      "days": 3,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 602831,
+      "title": "Jack the Giant Slayer",
+      "gross": 0.17,
+      "cume": 7.47,
+      "showings": 1578,
+      "admissions": 27171,
+      "rank": 6,
+      "days": 13,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 615250,
+      "title": "A Good Day to Die Hard",
+      "gross": 0.04,
+      "cume": 29.56,
+      "showings": 621,
+      "admissions": 7419,
+      "rank": 7,
+      "days": 24,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 590044,
+      "title": "The House",
+      "gross": 0.02,
+      "cume": 0.44,
+      "showings": 1473,
+      "admissions": 5084,
+      "rank": 8,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 605823,
+      "title": "Resident Evil: Retribution",
+      "gross": 0.02,
+      "cume": 16.27,
+      "showings": 353,
+      "admissions": 2678,
+      "rank": 9,
+      "days": 21,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 608213,
+      "title": "Ip Man: Final Fight",
+      "gross": 0.01,
+      "cume": 1.59,
+      "showings": 1098,
+      "admissions": 2453,
+      "rank": 10,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 608215,
+      "title": "Princess and Seven Kung Fu Masters",
+      "gross": 0.01,
+      "cume": 10.33,
+      "showings": 675,
+      "admissions": 2399,
+      "rank": 11,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 615788,
+      "title": "Neverland",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 77,
+      "admissions": 1226,
+      "rank": 12,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 610888,
+      "title": "Silent Code",
+      "gross": 0.0,
+      "cume": 0.43,
+      "showings": 96,
+      "admissions": 865,
+      "rank": 13,
+      "days": 24,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 595857,
+      "title": "An End To Killing",
+      "gross": 0.0,
+      "cume": 0.64,
+      "showings": 521,
+      "admissions": 779,
+      "rank": 14,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 590372,
+      "title": "Jungle Master",
+      "gross": 0.0,
+      "cume": 1.29,
+      "showings": 49,
+      "admissions": 677,
+      "rank": 15,
+      "days": 78,
+      "day": "12th Sat"
+    },
+    {
+      "movie_id": 590327,
+      "title": "Love Bank",
+      "gross": 0.0,
+      "cume": 0.78,
+      "showings": 321,
+      "admissions": 507,
+      "rank": 16,
+      "days": 24,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 615519,
+      "title": "A Cherry on a Pomegranate Tree",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 74,
+      "admissions": 379,
+      "rank": 17,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 0.47,
+      "showings": 8,
+      "admissions": 352,
+      "rank": 18,
+      "days": 586,
+      "day": "13th Sat"
+    },
+    {
+      "movie_id": 595235,
+      "title": "Midnight Train",
+      "gross": 0.0,
+      "cume": 1.0,
+      "showings": 118,
+      "admissions": 368,
+      "rank": 19,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 597203,
+      "title": "Mark Of Youth",
+      "gross": 0.0,
+      "cume": 0.48,
+      "showings": 5,
+      "admissions": 291,
+      "rank": 20,
+      "days": 61,
+      "day": "9th Sat"
+    }
+  ]
+}

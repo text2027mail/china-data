@@ -1,0 +1,27 @@
+{
+  "movie_id": 644040,
+  "title": "Fan",
+  "releaseDate": "02-11-2016",
+  "entries": [
+    {
+      "date": "02-11-2016",
+      "rank": 6,
+      "gross": 0.11,
+      "cume": 0.11,
+      "showings": 13600,
+      "admissions": 31684,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-11-2016",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 0.19,
+      "showings": 11808,
+      "admissions": 20001,
+      "days": 2,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "18-09-2013",
+  "data": [
+    {
+      "movie_id": 611580,
+      "title": "",
+      "gross": 1.68,
+      "cume": 3.29,
+      "showings": 20996,
+      "admissions": 374782,
+      "rank": 1,
+      "days": 2,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 612672,
+      "title": "Silent Witness",
+      "gross": 1.27,
+      "cume": 9.77,
+      "showings": 14675,
+      "admissions": 277785,
+      "rank": 2,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 617573,
+      "title": "Turbo",
+      "gross": 0.7,
+      "cume": 0.7,
+      "showings": 10981,
+      "admissions": 133707,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 614862,
+      "title": "The Smurfs 2",
+      "gross": 0.61,
+      "cume": 10.84,
+      "showings": 8213,
+      "admissions": 115986,
+      "rank": 4,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 617719,
+      "title": "Elysium",
+      "gross": 0.4,
+      "cume": 19.89,
+      "showings": 4918,
+      "admissions": 71981,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 608944,
+      "title": "The Ideal City",
+      "gross": 0.18,
+      "cume": 0.19,
+      "showings": 6631,
+      "admissions": 40611,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 617713,
+      "title": "Mayday Nowhere 3D",
+      "gross": 0.17,
+      "cume": 0.17,
+      "showings": 394,
+      "admissions": 24427,
+      "rank": 7,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.14,
+      "cume": 4.51,
+      "showings": 369,
+      "admissions": 28743,
+      "rank": 8,
+      "days": 65,
+      "day": "11th Wed"
+    },
+    {
+      "movie_id": 602828,
+      "title": "The Great Gatsby",
+      "gross": 0.11,
+      "cume": 11.57,
+      "showings": 750,
+      "admissions": 16697,
+      "rank": 9,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 616532,
+      "title": "Avgust. Vosmogo",
+      "gross": 0.08,
+      "cume": 1.94,
+      "showings": 2753,
+      "admissions": 18815,
+      "rank": 10,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 595634,
+      "title": "The Empire Symbol",
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 3885,
+      "admissions": 17030,
+      "rank": 11,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 616427,
+      "title": "The Stolen Years",
+      "gross": 0.06,
+      "cume": 21.6,
+      "showings": 1199,
+      "admissions": 11462,
+      "rank": 12,
+      "days": 21,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 613462,
+      "title": "The Midas Touch",
+      "gross": 0.05,
+      "cume": 3.79,
+      "showings": 1069,
+      "admissions": 11126,
+      "rank": 13,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 348955,
+      "title": "Jurassic Park 3D",
+      "gross": 0.04,
+      "cume": 51.3,
+      "showings": 563,
+      "admissions": 6747,
+      "rank": 14,
+      "days": 30,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 617699,
+      "title": "Love Distance",
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 2340,
+      "admissions": 7938,
+      "rank": 15,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 615855,
+      "title": "Dead Sign",
+      "gross": 0.03,
+      "cume": 1.28,
+      "showings": 807,
+      "admissions": 6268,
+      "rank": 16,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 596592,
+      "title": "Pink Lady：Lover Run",
+      "gross": 0.02,
+      "cume": 0.56,
+      "showings": 18,
+      "admissions": 2627,
+      "rank": 17,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 593849,
+      "title": "Monsters University",
+      "gross": 0.01,
+      "cume": 30.85,
+      "showings": 198,
+      "admissions": 2297,
+      "rank": 18,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 614979,
+      "title": "The Impossible",
+      "gross": 0.01,
+      "cume": 8.04,
+      "showings": 193,
+      "admissions": 1370,
+      "rank": 19,
+      "days": 21,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 617706,
+      "title": "4B Qing Nian zhi 4 Lou B Zuo",
+      "gross": 0.0,
+      "cume": 0.64,
+      "showings": 391,
+      "admissions": 1034,
+      "rank": 20,
+      "days": 9,
+      "day": "2nd Wed"
+    }
+  ]
+}

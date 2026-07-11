@@ -1,0 +1,37 @@
+{
+  "movie_id": 701901,
+  "title": "Rapid Action",
+  "releaseDate": "14-02-2023",
+  "entries": [
+    {
+      "date": "14-02-2023",
+      "rank": 14,
+      "gross": 0.16,
+      "cume": 0.16,
+      "showings": 1008,
+      "admissions": 15716,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "15-02-2023",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 0.24,
+      "showings": 626,
+      "admissions": 7471,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "16-02-2023",
+      "rank": 13,
+      "gross": 0.07,
+      "cume": 0.3,
+      "showings": 580,
+      "admissions": 6480,
+      "days": 3,
+      "day": "1st Thu"
+    }
+  ]
+}

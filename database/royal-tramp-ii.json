@@ -1,0 +1,27 @@
+{
+  "movie_id": 4928,
+  "title": "Royal Tramp II",
+  "releaseDate": "07-02-2026",
+  "entries": [
+    {
+      "date": "07-02-2026",
+      "rank": 15,
+      "gross": 0.06,
+      "cume": 0.07,
+      "showings": 13848,
+      "admissions": 10422,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-02-2026",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.1,
+      "showings": 9261,
+      "admissions": 5892,
+      "days": 2,
+      "day": "1st Sun"
+    }
+  ]
+}

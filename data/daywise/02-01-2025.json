@@ -1,0 +1,225 @@
+{
+  "date": "02-01-2025",
+  "data": [
+    {
+      "movie_id": 749791,
+      "title": "",
+      "gross": 3.99,
+      "cume": 63.24,
+      "showings": 107725,
+      "admissions": 647163,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 741250,
+      "title": "Big World",
+      "gross": 2.97,
+      "cume": 71.66,
+      "showings": 97453,
+      "admissions": 505698,
+      "rank": 2,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 750815,
+      "title": "Honey Money Phony",
+      "gross": 1.91,
+      "cume": 23.31,
+      "showings": 54413,
+      "admissions": 362587,
+      "rank": 3,
+      "days": 3,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 739378,
+      "title": "The Prosecutor",
+      "gross": 0.38,
+      "cume": 32.2,
+      "showings": 17689,
+      "admissions": 61901,
+      "rank": 4,
+      "days": 7,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 708342,
+      "title": "Out of Order",
+      "gross": 0.28,
+      "cume": 4.58,
+      "showings": 27528,
+      "admissions": 45914,
+      "rank": 5,
+      "days": 3,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 461154,
+      "title": "Meitantei Conan: Meikyuu no crossroad",
+      "gross": 0.25,
+      "cume": 13.28,
+      "showings": 24335,
+      "admissions": 45222,
+      "rank": 6,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 773679,
+      "title": "The Last Dance",
+      "gross": 0.23,
+      "cume": 27.46,
+      "showings": 7313,
+      "admissions": 40592,
+      "rank": 7,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 775528,
+      "title": "Paddington in Peru",
+      "gross": 0.16,
+      "cume": 2.72,
+      "showings": 20036,
+      "admissions": 28150,
+      "rank": 8,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 736260,
+      "title": "Her Story",
+      "gross": 0.06,
+      "cume": 105.51,
+      "showings": 2456,
+      "admissions": 9440,
+      "rank": 9,
+      "days": 42,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 770609,
+      "title": "Mufasa: The Lion King",
+      "gross": 0.06,
+      "cume": 13.98,
+      "showings": 4643,
+      "admissions": 9401,
+      "rank": 10,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 736312,
+      "title": "I Am What I Am 2",
+      "gross": 0.03,
+      "cume": 10.23,
+      "showings": 2130,
+      "admissions": 4989,
+      "rank": 11,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 769087,
+      "title": "MEMORY MAZE",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 1082,
+      "admissions": 1575,
+      "rank": 12,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 745228,
+      "title": "Let Me Out",
+      "gross": 0.01,
+      "cume": 0.75,
+      "showings": 25,
+      "admissions": 1043,
+      "rank": 13,
+      "days": 77,
+      "day": "45th Thu"
+    },
+    {
+      "movie_id": 766108,
+      "title": "Moana 2",
+      "gross": 0.01,
+      "cume": 15.71,
+      "showings": 566,
+      "admissions": 895,
+      "rank": 14,
+      "days": 35,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 746635,
+      "title": "The Young Couple Apartment",
+      "gross": 0.01,
+      "cume": 19.07,
+      "showings": 719,
+      "admissions": 1182,
+      "rank": 15,
+      "days": 64,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 771234,
+      "title": "Maharaja",
+      "gross": 0.0,
+      "cume": 11.47,
+      "showings": 236,
+      "admissions": 803,
+      "rank": 16,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 737462,
+      "title": "Hot Pot Artist",
+      "gross": 0.0,
+      "cume": 0.55,
+      "showings": 57,
+      "admissions": 809,
+      "rank": 17,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 739371,
+      "title": "ULTIMATE GUARD",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 3,
+      "admissions": 597,
+      "rank": 18,
+      "days": 8,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 756240,
+      "title": "PLANET EARTH HOSTILE PARADISE OR PERFECT HELL",
+      "gross": 0.0,
+      "cume": 0.46,
+      "showings": 2,
+      "admissions": 962,
+      "rank": 19,
+      "days": 160,
+      "day": "24th Thu"
+    },
+    {
+      "movie_id": 400915,
+      "title": "Wicked",
+      "gross": 0.0,
+      "cume": 2.17,
+      "showings": 106,
+      "admissions": 502,
+      "rank": 20,
+      "days": 28,
+      "day": "4th Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "17-04-2016",
+  "data": [
+    {
+      "movie_id": 625797,
+      "title": "",
+      "gross": 15.89,
+      "cume": 47.14,
+      "showings": 79685,
+      "admissions": 3195891,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 637145,
+      "title": "London Has Fallen",
+      "gross": 2.49,
+      "cume": 43.75,
+      "showings": 27986,
+      "admissions": 531573,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 629520,
+      "title": "Lost In White",
+      "gross": 1.17,
+      "cume": 4.03,
+      "showings": 27621,
+      "admissions": 281442,
+      "rank": 3,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 643235,
+      "title": "Zootopia",
+      "gross": 0.85,
+      "cume": 225.81,
+      "showings": 8153,
+      "admissions": 184508,
+      "rank": 4,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 643747,
+      "title": "Flying Colors",
+      "gross": 0.73,
+      "cume": 3.17,
+      "showings": 11345,
+      "admissions": 178177,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 637117,
+      "title": "American Ultra",
+      "gross": 0.56,
+      "cume": 1.92,
+      "showings": 17543,
+      "admissions": 120400,
+      "rank": 6,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 617763,
+      "title": "Chongqing Hot Pot",
+      "gross": 0.55,
+      "cume": 53.19,
+      "showings": 8102,
+      "admissions": 112562,
+      "rank": 7,
+      "days": 17,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 630583,
+      "title": "New York New York",
+      "gross": 0.24,
+      "cume": 0.96,
+      "showings": 11527,
+      "admissions": 51234,
+      "rank": 8,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 628035,
+      "title": "The Bodyguard",
+      "gross": 0.17,
+      "cume": 47.42,
+      "showings": 3882,
+      "admissions": 35005,
+      "rank": 9,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 638260,
+      "title": "mother‘s revenge",
+      "gross": 0.11,
+      "cume": 0.38,
+      "showings": 4238,
+      "admissions": 29556,
+      "rank": 10,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 643388,
+      "title": "Batman v Superman: Dawn of Justice",
+      "gross": 0.07,
+      "cume": 91.2,
+      "showings": 1243,
+      "admissions": 12177,
+      "rank": 11,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 643746,
+      "title": "Ma Xiaole and His Toys",
+      "gross": 0.06,
+      "cume": 0.12,
+      "showings": 2843,
+      "admissions": 15306,
+      "rank": 12,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 637810,
+      "title": "Who Sleeps My Bro",
+      "gross": 0.05,
+      "cume": 18.41,
+      "showings": 1442,
+      "admissions": 12884,
+      "rank": 13,
+      "days": 17,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 642886,
+      "title": "The Revenant",
+      "gross": 0.02,
+      "cume": 55.69,
+      "showings": 380,
+      "admissions": 4221,
+      "rank": 14,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 630366,
+      "title": "When We Were Young",
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 758,
+      "admissions": 3291,
+      "rank": 15,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 643227,
+      "title": "The Boy",
+      "gross": 0.01,
+      "cume": 2.44,
+      "showings": 462,
+      "admissions": 3146,
+      "rank": 16,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 626499,
+      "title": "Hui Ma Ting",
+      "gross": 0.01,
+      "cume": 0.92,
+      "showings": 668,
+      "admissions": 2302,
+      "rank": 17,
+      "days": 39,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 642433,
+      "title": "Space Panda Hero Returns",
+      "gross": 0.01,
+      "cume": 0.9,
+      "showings": 629,
+      "admissions": 2236,
+      "rank": 18,
+      "days": 16,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 639351,
+      "title": "Kung Fu Panda 3",
+      "gross": 0.01,
+      "cume": 147.69,
+      "showings": 78,
+      "admissions": 2557,
+      "rank": 19,
+      "days": 80,
+      "day": "13th Sun"
+    },
+    {
+      "movie_id": 626153,
+      "title": "The Mermaid",
+      "gross": 0.01,
+      "cume": 500.48,
+      "showings": 179,
+      "admissions": 1548,
+      "rank": 20,
+      "days": 70,
+      "day": "11th Sun"
+    }
+  ]
+}

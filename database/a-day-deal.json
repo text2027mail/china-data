@@ -1,0 +1,27 @@
+{
+  "movie_id": 692510,
+  "title": "A DAY DEAL",
+  "releaseDate": "11-11-2020",
+  "entries": [
+    {
+      "date": "11-11-2020",
+      "rank": 8,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 11592,
+      "admissions": 10727,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "12-11-2020",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 4321,
+      "admissions": 2931,
+      "days": 2,
+      "day": "1st Thu"
+    }
+  ]
+}

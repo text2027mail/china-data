@@ -1,0 +1,225 @@
+{
+  "date": "27-11-2017",
+  "data": [
+    {
+      "movie_id": 670102,
+      "title": "",
+      "gross": 2.96,
+      "cume": 20.47,
+      "showings": 54292,
+      "admissions": 592140,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 349187,
+      "title": "Justice League",
+      "gross": 1.71,
+      "cume": 83.75,
+      "showings": 57784,
+      "admissions": 330632,
+      "rank": 2,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 637776,
+      "title": "Manhunt",
+      "gross": 1.05,
+      "cume": 12.0,
+      "showings": 55347,
+      "admissions": 216987,
+      "rank": 3,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 643292,
+      "title": "Explosion",
+      "gross": 0.59,
+      "cume": 5.37,
+      "showings": 32706,
+      "admissions": 137585,
+      "rank": 4,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 669767,
+      "title": "Angels Wear White",
+      "gross": 0.3,
+      "cume": 2.2,
+      "showings": 13903,
+      "admissions": 63492,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 644134,
+      "title": "Thor: Ragnarok",
+      "gross": 0.18,
+      "cume": 108.82,
+      "showings": 6639,
+      "admissions": 34551,
+      "rank": 6,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 659759,
+      "title": "Murder on the Orient Express",
+      "gross": 0.14,
+      "cume": 32.85,
+      "showings": 4591,
+      "admissions": 27876,
+      "rank": 7,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 666423,
+      "title": "The Golden Monk",
+      "gross": 0.12,
+      "cume": 12.76,
+      "showings": 8210,
+      "admissions": 24296,
+      "rank": 8,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 612268,
+      "title": "Pao Cai",
+      "gross": 0.08,
+      "cume": 0.38,
+      "showings": 121,
+      "admissions": 14057,
+      "rank": 9,
+      "days": 1191,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 618581,
+      "title": "Seventy-seven Days",
+      "gross": 0.07,
+      "cume": 12.25,
+      "showings": 2794,
+      "admissions": 14379,
+      "rank": 10,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 659563,
+      "title": "Inference Notes",
+      "gross": 0.07,
+      "cume": 1.37,
+      "showings": 14300,
+      "admissions": 16328,
+      "rank": 11,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 662824,
+      "title": "All the Way to Bloom",
+      "gross": 0.06,
+      "cume": 0.77,
+      "showings": 570,
+      "admissions": 11096,
+      "rank": 12,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 661004,
+      "title": "Never Say Die",
+      "gross": 0.04,
+      "cume": 324.47,
+      "showings": 1656,
+      "admissions": 8863,
+      "rank": 13,
+      "days": 59,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 666361,
+      "title": "HHhH",
+      "gross": 0.04,
+      "cume": 0.46,
+      "showings": 4702,
+      "admissions": 9508,
+      "rank": 14,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 640829,
+      "title": "Mr. No Problem",
+      "gross": 0.04,
+      "cume": 0.94,
+      "showings": 1234,
+      "admissions": 7764,
+      "rank": 15,
+      "days": 7,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 666742,
+      "title": "Spirit Touch Seventh Senses",
+      "gross": 0.03,
+      "cume": 0.31,
+      "showings": 3398,
+      "admissions": 8898,
+      "rank": 16,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 669931,
+      "title": "The Frontier Wairriors",
+      "gross": 0.03,
+      "cume": 0.71,
+      "showings": 49,
+      "admissions": 6170,
+      "rank": 17,
+      "days": 42,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 670581,
+      "title": "A Better Tomorrow",
+      "gross": 0.03,
+      "cume": 4.7,
+      "showings": 2041,
+      "admissions": 5632,
+      "rank": 18,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 659053,
+      "title": "Patriots Day",
+      "gross": 0.02,
+      "cume": 3.01,
+      "showings": 1002,
+      "admissions": 3600,
+      "rank": 19,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 669160,
+      "title": "The Storm Looming",
+      "gross": 0.01,
+      "cume": 3.95,
+      "showings": 1073,
+      "admissions": 1730,
+      "rank": 20,
+      "days": 11,
+      "day": "2nd Mon"
+    }
+  ]
+}

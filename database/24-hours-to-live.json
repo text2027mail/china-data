@@ -1,0 +1,77 @@
+{
+  "movie_id": 671502,
+  "title": "24 Hours To Live",
+  "releaseDate": "26-01-2018",
+  "entries": [
+    {
+      "date": "26-01-2018",
+      "rank": 6,
+      "gross": 0.55,
+      "cume": 0.55,
+      "showings": 23727,
+      "admissions": 137468,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-01-2018",
+      "rank": 9,
+      "gross": 0.33,
+      "cume": 0.88,
+      "showings": 14211,
+      "admissions": 82268,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-01-2018",
+      "rank": 9,
+      "gross": 0.24,
+      "cume": 1.12,
+      "showings": 11736,
+      "admissions": 58493,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-01-2018",
+      "rank": 8,
+      "gross": 0.11,
+      "cume": 1.23,
+      "showings": 10192,
+      "admissions": 25861,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-01-2018",
+      "rank": 8,
+      "gross": 0.09,
+      "cume": 1.31,
+      "showings": 8880,
+      "admissions": 21673,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "31-01-2018",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 1.39,
+      "showings": 8118,
+      "admissions": 17611,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "01-02-2018",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 1.41,
+      "showings": 2909,
+      "admissions": 4769,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

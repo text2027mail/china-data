@@ -1,0 +1,225 @@
+{
+  "date": "26-03-2017",
+  "data": [
+    {
+      "movie_id": 657877,
+      "title": "",
+      "gross": 21.91,
+      "cume": 74.21,
+      "showings": 120697,
+      "admissions": 4198295,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 658099,
+      "title": "Beauty and the Beast (2017)",
+      "gross": 4.27,
+      "cume": 74.76,
+      "showings": 40647,
+      "admissions": 832920,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 654668,
+      "title": "Top Funny Comedian: The Movie",
+      "gross": 1.89,
+      "cume": 7.25,
+      "showings": 39726,
+      "admissions": 389900,
+      "rank": 3,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 660278,
+      "title": "A Dog's Purpose",
+      "gross": 1.43,
+      "cume": 86.01,
+      "showings": 21070,
+      "admissions": 322497,
+      "rank": 4,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 656944,
+      "title": "Logan",
+      "gross": 0.37,
+      "cume": 107.01,
+      "showings": 9181,
+      "admissions": 79513,
+      "rank": 5,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 579746,
+      "title": "McDull, Kung Fu Kindergarten",
+      "gross": 0.19,
+      "cume": 12.15,
+      "showings": 8164,
+      "admissions": 47240,
+      "rank": 6,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 655350,
+      "title": "Extraordinary Mission",
+      "gross": 0.18,
+      "cume": 0.18,
+      "showings": 524,
+      "admissions": 32039,
+      "rank": 7,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 658818,
+      "title": "Sing",
+      "gross": 0.13,
+      "cume": 31.63,
+      "showings": 2076,
+      "admissions": 27305,
+      "rank": 8,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 655812,
+      "title": "The Summer Is Gone",
+      "gross": 0.11,
+      "cume": 0.35,
+      "showings": 4729,
+      "admissions": 21323,
+      "rank": 9,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 655318,
+      "title": "Boonie Bears：Entangled  Worlds",
+      "gross": 0.09,
+      "cume": 77.1,
+      "showings": 1544,
+      "admissions": 19030,
+      "rank": 10,
+      "days": 58,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 659754,
+      "title": "The Lego Batman Movie",
+      "gross": 0.07,
+      "cume": 6.18,
+      "showings": 1559,
+      "admissions": 14144,
+      "rank": 11,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 643220,
+      "title": "Haunted Sisters",
+      "gross": 0.03,
+      "cume": 0.59,
+      "showings": 1521,
+      "admissions": 5664,
+      "rank": 12,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 657339,
+      "title": "The Missing",
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 13,
+      "admissions": 1914,
+      "rank": 13,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 573814,
+      "title": "xXx: The Return of Xander Cage",
+      "gross": 0.02,
+      "cume": 166.28,
+      "showings": 489,
+      "admissions": 3242,
+      "rank": 14,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 630178,
+      "title": "Running Man",
+      "gross": 0.01,
+      "cume": 64.16,
+      "showings": 20,
+      "admissions": 3311,
+      "rank": 15,
+      "days": 787,
+      "day": "113th Sun"
+    },
+    {
+      "movie_id": 653966,
+      "title": "You Wan Mei Wan",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 8,
+      "admissions": 1397,
+      "rank": 16,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 610009,
+      "title": "Lost In Thailand",
+      "gross": 0.01,
+      "cume": 187.68,
+      "showings": 35,
+      "admissions": 3066,
+      "rank": 17,
+      "days": 1566,
+      "day": "221st Sun"
+    },
+    {
+      "movie_id": 658378,
+      "title": "La La Land",
+      "gross": 0.01,
+      "cume": 36.5,
+      "showings": 247,
+      "admissions": 2255,
+      "rank": 18,
+      "days": 41,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 641155,
+      "title": "The Devotion of Suspect X",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 7,
+      "admissions": 1263,
+      "rank": 19,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 625944,
+      "title": "My Original Dream",
+      "gross": 0.01,
+      "cume": 1.85,
+      "showings": 20,
+      "admissions": 2190,
+      "rank": 20,
+      "days": 502,
+      "day": "73rd Sun"
+    }
+  ]
+}

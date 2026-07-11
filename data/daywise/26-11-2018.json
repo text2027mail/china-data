@@ -1,0 +1,225 @@
+{
+  "date": "26-11-2018",
+  "data": [
+    {
+      "movie_id": 678587,
+      "title": "",
+      "gross": 4.28,
+      "cume": 55.39,
+      "showings": 78775,
+      "admissions": 838337,
+      "rank": 1,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 662209,
+      "title": "Venom",
+      "gross": 2.13,
+      "cume": 249.89,
+      "showings": 71013,
+      "admissions": 415996,
+      "rank": 2,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 678471,
+      "title": "Ralph Breaks the Internet: Wreck-It Ralph 2",
+      "gross": 1.41,
+      "cume": 21.43,
+      "showings": 59213,
+      "admissions": 267674,
+      "rank": 3,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 682016,
+      "title": "Johnny English Strikes Again",
+      "gross": 1.36,
+      "cume": 13.09,
+      "showings": 52646,
+      "admissions": 305101,
+      "rank": 4,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 671046,
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "gross": 0.56,
+      "cume": 53.97,
+      "showings": 22925,
+      "admissions": 100127,
+      "rank": 5,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 663152,
+      "title": "Peacekeeping Force",
+      "gross": 0.15,
+      "cume": 1.69,
+      "showings": 14486,
+      "admissions": 35049,
+      "rank": 6,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 631011,
+      "title": "Replicas",
+      "gross": 0.07,
+      "cume": 0.5,
+      "showings": 5505,
+      "admissions": 16763,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 680504,
+      "title": "The Taste of Apple",
+      "gross": 0.04,
+      "cume": 1.44,
+      "showings": 171,
+      "admissions": 9609,
+      "rank": 8,
+      "days": 111,
+      "day": "17th Mon"
+    },
+    {
+      "movie_id": 659027,
+      "title": "The Express",
+      "gross": 0.03,
+      "cume": 0.19,
+      "showings": 2223,
+      "admissions": 6497,
+      "rank": 9,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 677693,
+      "title": "Last Letter",
+      "gross": 0.02,
+      "cume": 11.69,
+      "showings": 1276,
+      "admissions": 3509,
+      "rank": 10,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 672442,
+      "title": "Blood-Soaked GuangChang",
+      "gross": 0.02,
+      "cume": 13.87,
+      "showings": 41,
+      "admissions": 3393,
+      "rank": 11,
+      "days": 118,
+      "day": "18th Mon"
+    },
+    {
+      "movie_id": 677066,
+      "title": "Detective Conan: Zero The Enforcer",
+      "gross": 0.02,
+      "cume": 18.59,
+      "showings": 1718,
+      "admissions": 4193,
+      "rank": 12,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 679732,
+      "title": "Beijing international film festival 1",
+      "gross": 0.01,
+      "cume": 1.06,
+      "showings": 5,
+      "admissions": 1023,
+      "rank": 13,
+      "days": null,
+      "day": "20th Mon"
+    },
+    {
+      "movie_id": 675992,
+      "title": "From the Mountain a Smile",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 125,
+      "admissions": 2951,
+      "rank": 14,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 593944,
+      "title": "That Year School Ended",
+      "gross": 0.01,
+      "cume": 0.78,
+      "showings": 109,
+      "admissions": 2188,
+      "rank": 15,
+      "days": 2258,
+      "day": "41st Mon"
+    },
+    {
+      "movie_id": 677543,
+      "title": "102 Not Out",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 126,
+      "admissions": 1874,
+      "rank": 16,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 638262,
+      "title": "Great Cold",
+      "gross": 0.01,
+      "cume": 0.95,
+      "showings": 11,
+      "admissions": 1274,
+      "rank": 17,
+      "days": 319,
+      "day": "46th Mon"
+    },
+    {
+      "movie_id": 616162,
+      "title": "My Avatar Horse",
+      "gross": 0.01,
+      "cume": 0.98,
+      "showings": 78,
+      "admissions": 2045,
+      "rank": 18,
+      "days": 2291,
+      "day": "293rd Mon"
+    },
+    {
+      "movie_id": 669767,
+      "title": "Angels Wear White",
+      "gross": 0.01,
+      "cume": 3.32,
+      "showings": 3,
+      "admissions": 800,
+      "rank": 19,
+      "days": 368,
+      "day": "53rd Mon"
+    },
+    {
+      "movie_id": 678280,
+      "title": "Sky Rise",
+      "gross": 0.01,
+      "cume": 0.66,
+      "showings": 21,
+      "admissions": 1713,
+      "rank": 20,
+      "days": 67,
+      "day": "10th Mon"
+    }
+  ]
+}

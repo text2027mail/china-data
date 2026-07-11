@@ -1,0 +1,87 @@
+{
+  "movie_id": 712206,
+  "title": "Sheep and Wolves",
+  "releaseDate": "26-03-2022",
+  "entries": [
+    {
+      "date": "26-03-2022",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 6401,
+      "admissions": 13736,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-03-2022",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.12,
+      "showings": 6026,
+      "admissions": 11283,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-04-2022",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.16,
+      "showings": 6576,
+      "admissions": 9112,
+      "days": 1,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "04-04-2022",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.2,
+      "showings": 5335,
+      "admissions": 8448,
+      "days": 2,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "05-04-2022",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.23,
+      "showings": 4873,
+      "admissions": 6627,
+      "days": 3,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "06-04-2022",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.23,
+      "showings": 986,
+      "admissions": 337,
+      "days": 4,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "09-04-2022",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 1337,
+      "admissions": 1417,
+      "days": 7,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "10-04-2022",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 1291,
+      "admissions": 1229,
+      "days": 8,
+      "day": "3rd Sun"
+    }
+  ]
+}

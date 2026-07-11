@@ -1,0 +1,225 @@
+{
+  "date": "28-11-2016",
+  "data": [
+    {
+      "movie_id": 643984,
+      "title": "",
+      "gross": 4.82,
+      "cume": 46.65,
+      "showings": 70787,
+      "admissions": 968047,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 640103,
+      "title": "I Am Not Madame Bovary",
+      "gross": 1.2,
+      "cume": 50.42,
+      "showings": 22544,
+      "admissions": 243154,
+      "rank": 2,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 644926,
+      "title": "Moana",
+      "gross": 1.05,
+      "cume": 13.68,
+      "showings": 33870,
+      "admissions": 230479,
+      "rank": 3,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 652864,
+      "title": "Sky on Fire",
+      "gross": 0.49,
+      "cume": 4.43,
+      "showings": 24797,
+      "admissions": 112313,
+      "rank": 4,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 644062,
+      "title": "Detective Conan: The Darkest Nightmare",
+      "gross": 0.31,
+      "cume": 3.73,
+      "showings": 15768,
+      "admissions": 76980,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 325408,
+      "title": "Doctor Strange",
+      "gross": 0.2,
+      "cume": 110.4,
+      "showings": 7369,
+      "admissions": 39637,
+      "rank": 6,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 625158,
+      "title": "Billy Lynn's Long Halftime Walk",
+      "gross": 0.15,
+      "cume": 23.15,
+      "showings": 1448,
+      "admissions": 13872,
+      "rank": 7,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 631476,
+      "title": "A Chinese Odyssey: Part Three",
+      "gross": 0.1,
+      "cume": 53.81,
+      "showings": 243,
+      "admissions": 26734,
+      "rank": 8,
+      "days": 76,
+      "day": "11th Mon"
+    },
+    {
+      "movie_id": 627914,
+      "title": "Min & Max",
+      "gross": 0.08,
+      "cume": 0.65,
+      "showings": 6466,
+      "admissions": 17923,
+      "rank": 9,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 656548,
+      "title": "Deepwater Horizon",
+      "gross": 0.04,
+      "cume": 10.6,
+      "showings": 1816,
+      "admissions": 8258,
+      "rank": 10,
+      "days": 14,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 656204,
+      "title": "Soul House",
+      "gross": 0.03,
+      "cume": 0.21,
+      "showings": 2743,
+      "admissions": 8643,
+      "rank": 11,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 628862,
+      "title": "Perfect Imperfection",
+      "gross": 0.02,
+      "cume": 0.64,
+      "showings": 3198,
+      "admissions": 6481,
+      "rank": 12,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 639445,
+      "title": "Operation Mekong",
+      "gross": 0.02,
+      "cume": 174.56,
+      "showings": 466,
+      "admissions": 5701,
+      "rank": 13,
+      "days": 60,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 637633,
+      "title": "Super Express",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 9,
+      "admissions": 1378,
+      "rank": 14,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 643886,
+      "title": "Pali Road",
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 3113,
+      "admissions": 3739,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 640662,
+      "title": "Suddenly Seventeen",
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 26,
+      "admissions": 1593,
+      "rank": 16,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 646950,
+      "title": "Unforgettable Times",
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 12,
+      "admissions": 2094,
+      "rank": 17,
+      "days": 333,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 627541,
+      "title": "Scandal Maker",
+      "gross": 0.01,
+      "cume": 8.88,
+      "showings": 845,
+      "admissions": 2442,
+      "rank": 18,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 653289,
+      "title": "One Piece Film Gold",
+      "gross": 0.01,
+      "cume": 15.8,
+      "showings": 603,
+      "admissions": 2360,
+      "rank": 19,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 628208,
+      "title": "Poor Rich Dad",
+      "gross": 0.01,
+      "cume": 0.74,
+      "showings": 61,
+      "admissions": 1551,
+      "rank": 20,
+      "days": 19,
+      "day": "3rd Mon"
+    }
+  ]
+}

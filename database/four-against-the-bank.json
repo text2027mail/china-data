@@ -1,0 +1,77 @@
+{
+  "movie_id": 670417,
+  "title": "Four Against the Bank",
+  "releaseDate": "01-12-2017",
+  "entries": [
+    {
+      "date": "01-12-2017",
+      "rank": 10,
+      "gross": 0.11,
+      "cume": 0.11,
+      "showings": 5727,
+      "admissions": 25904,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "02-12-2017",
+      "rank": 13,
+      "gross": 0.13,
+      "cume": 0.24,
+      "showings": 4524,
+      "admissions": 29434,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-12-2017",
+      "rank": 11,
+      "gross": 0.1,
+      "cume": 0.34,
+      "showings": 4047,
+      "admissions": 23457,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-12-2017",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.39,
+      "showings": 3978,
+      "admissions": 10685,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "05-12-2017",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.43,
+      "showings": 3992,
+      "admissions": 9973,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "06-12-2017",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.47,
+      "showings": 3838,
+      "admissions": 8716,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "07-12-2017",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.51,
+      "showings": 3668,
+      "admissions": 8543,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

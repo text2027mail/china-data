@@ -1,0 +1,57 @@
+{
+  "movie_id": 703237,
+  "title": "Momenti Di Trascurabile Felicità",
+  "releaseDate": "31-10-2020",
+  "entries": [
+    {
+      "date": "31-10-2020",
+      "rank": 10,
+      "gross": 0.16,
+      "cume": 0.16,
+      "showings": 9025,
+      "admissions": 29373,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-11-2020",
+      "rank": 11,
+      "gross": 0.11,
+      "cume": 0.27,
+      "showings": 5553,
+      "admissions": 19216,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-11-2020",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.28,
+      "showings": 2613,
+      "admissions": 2285,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-11-2020",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.29,
+      "showings": 2316,
+      "admissions": 1647,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "05-11-2020",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 1982,
+      "admissions": 1379,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

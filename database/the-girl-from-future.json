@@ -1,0 +1,67 @@
+{
+  "movie_id": 668700,
+  "title": "The Girl From Future",
+  "releaseDate": "01-02-2018",
+  "entries": [
+    {
+      "date": "01-02-2018",
+      "rank": 10,
+      "gross": 0.14,
+      "cume": 0.14,
+      "showings": 3279,
+      "admissions": 24258,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "23-02-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 9,
+      "admissions": 1522,
+      "days": 23,
+      "day": "4th Fri"
+    },
+    {
+      "date": "26-02-2018",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 6,
+      "admissions": 1751,
+      "days": 26,
+      "day": "4th Mon"
+    },
+    {
+      "date": "27-02-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 5,
+      "admissions": 1024,
+      "days": 27,
+      "day": "4th Tue"
+    },
+    {
+      "date": "28-02-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 6,
+      "admissions": 927,
+      "days": 28,
+      "day": "4th Wed"
+    },
+    {
+      "date": "07-03-2018",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.26,
+      "showings": 4,
+      "admissions": 502,
+      "days": 35,
+      "day": "5th Wed"
+    }
+  ]
+}

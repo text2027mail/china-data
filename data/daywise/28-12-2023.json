@@ -1,0 +1,225 @@
+{
+  "date": "28-12-2023",
+  "data": [
+    {
+      "movie_id": 711997,
+      "title": "",
+      "gross": 2.63,
+      "cume": 75.34,
+      "showings": 79325,
+      "admissions": 428538,
+      "rank": 1,
+      "days": 14,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 686787,
+      "title": "Aquaman and the Lost Kingdom",
+      "gross": 1.72,
+      "cume": 42.35,
+      "showings": 92857,
+      "admissions": 305425,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 710613,
+      "title": "Wolf Hiding",
+      "gross": 1.2,
+      "cume": 32.56,
+      "showings": 53824,
+      "admissions": 195561,
+      "rank": 3,
+      "days": 13,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 735034,
+      "title": "Love Life Light",
+      "gross": 0.52,
+      "cume": 36.9,
+      "showings": 32509,
+      "admissions": 85653,
+      "rank": 4,
+      "days": 21,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 707875,
+      "title": "THE VOLUNTEERS：TO THE WAR",
+      "gross": 0.41,
+      "cume": 125.45,
+      "showings": 586,
+      "admissions": 50931,
+      "rank": 5,
+      "days": 92,
+      "day": "14th Thu"
+    },
+    {
+      "movie_id": 694197,
+      "title": "Ever Victorious",
+      "gross": 0.35,
+      "cume": 0.36,
+      "showings": 4160,
+      "admissions": 109913,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 745657,
+      "title": "THE PEOPLE",
+      "gross": 0.24,
+      "cume": 0.77,
+      "showings": 3800,
+      "admissions": 39383,
+      "rank": 7,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 744432,
+      "title": "Detective Conan The Movie: Black Iron Submarine",
+      "gross": 0.24,
+      "cume": 18.21,
+      "showings": 28141,
+      "admissions": 47773,
+      "rank": 8,
+      "days": 13,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 658378,
+      "title": "La La Land",
+      "gross": 0.17,
+      "cume": 39.56,
+      "showings": 10363,
+      "admissions": 30939,
+      "rank": 9,
+      "days": 2509,
+      "day": "359th Thu"
+    },
+    {
+      "movie_id": 713368,
+      "title": "The Lone Warriors",
+      "gross": 0.15,
+      "cume": 0.18,
+      "showings": 565,
+      "admissions": 22787,
+      "rank": 10,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 716094,
+      "title": "Bursting Point",
+      "gross": 0.11,
+      "cume": 14.23,
+      "showings": 4908,
+      "admissions": 17822,
+      "rank": 11,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 710184,
+      "title": "So Long for Love",
+      "gross": 0.1,
+      "cume": 35.43,
+      "showings": 11750,
+      "admissions": 16704,
+      "rank": 12,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 709609,
+      "title": "Struggle and Courage",
+      "gross": 0.1,
+      "cume": 4.15,
+      "showings": 200,
+      "admissions": 14816,
+      "rank": 13,
+      "days": 31,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 715557,
+      "title": "I Do It My Day",
+      "gross": 0.09,
+      "cume": 0.29,
+      "showings": 18,
+      "admissions": 1527,
+      "rank": 14,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 744663,
+      "title": "DogMan",
+      "gross": 0.08,
+      "cume": 1.93,
+      "showings": 4004,
+      "admissions": 14744,
+      "rank": 15,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 741165,
+      "title": "Beyond The Clouds",
+      "gross": 0.07,
+      "cume": 13.25,
+      "showings": 424,
+      "admissions": 12840,
+      "rank": 16,
+      "days": 35,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 743917,
+      "title": "Wonka",
+      "gross": 0.06,
+      "cume": 6.93,
+      "showings": 3499,
+      "admissions": 10889,
+      "rank": 17,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 691309,
+      "title": "Nation General",
+      "gross": 0.06,
+      "cume": 0.78,
+      "showings": 129,
+      "admissions": 7990,
+      "rank": 18,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 702018,
+      "title": "The Invisible Guest",
+      "gross": 0.05,
+      "cume": 24.44,
+      "showings": 7050,
+      "admissions": 8625,
+      "rank": 19,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 739375,
+      "title": "HEROES OF THE GOLDEN MASK",
+      "gross": 0.05,
+      "cume": 0.25,
+      "showings": 110,
+      "admissions": 10910,
+      "rank": 20,
+      "days": null,
+      "day": "1st Thu"
+    }
+  ]
+}

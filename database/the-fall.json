@@ -1,0 +1,57 @@
+{
+  "movie_id": 653921,
+  "title": "The Fall",
+  "releaseDate": "18-02-2024",
+  "entries": [
+    {
+      "date": "18-02-2024",
+      "rank": 7,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 169,
+      "admissions": 3606,
+      "days": 25,
+      "day": "1st Sun"
+    },
+    {
+      "date": "19-02-2024",
+      "rank": 5,
+      "gross": 0.03,
+      "cume": 0.1,
+      "showings": 195,
+      "admissions": 5101,
+      "days": 26,
+      "day": "1st Mon"
+    },
+    {
+      "date": "20-02-2024",
+      "rank": 6,
+      "gross": 0.03,
+      "cume": 0.13,
+      "showings": 182,
+      "admissions": 4519,
+      "days": 27,
+      "day": "1st Tue"
+    },
+    {
+      "date": "21-02-2024",
+      "rank": 7,
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 148,
+      "admissions": 2783,
+      "days": 28,
+      "day": "1st Wed"
+    },
+    {
+      "date": "22-02-2024",
+      "rank": 8,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 76,
+      "admissions": 1656,
+      "days": 29,
+      "day": "1st Thu"
+    }
+  ]
+}

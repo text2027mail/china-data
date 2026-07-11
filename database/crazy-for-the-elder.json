@@ -1,0 +1,37 @@
+{
+  "movie_id": 679538,
+  "title": "Crazy for the elder",
+  "releaseDate": "07-10-2019",
+  "entries": [
+    {
+      "date": "07-10-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 54,
+      "admissions": 1392,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "08-10-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 61,
+      "admissions": 1464,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "date": "09-10-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 48,
+      "admissions": 1182,
+      "days": 3,
+      "day": "1st Wed"
+    }
+  ]
+}

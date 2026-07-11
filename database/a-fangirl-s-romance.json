@@ -1,0 +1,57 @@
+{
+  "movie_id": 659500,
+  "title": "A Fangirl’s Romance",
+  "releaseDate": "28-05-2021",
+  "entries": [
+    {
+      "date": "28-05-2021",
+      "rank": 7,
+      "gross": 0.17,
+      "cume": 0.17,
+      "showings": 28703,
+      "admissions": 30979,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "29-05-2021",
+      "rank": 11,
+      "gross": 0.1,
+      "cume": 0.27,
+      "showings": 15045,
+      "admissions": 18933,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "30-05-2021",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.32,
+      "showings": 10203,
+      "admissions": 8381,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "31-05-2021",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.33,
+      "showings": 7040,
+      "admissions": 3276,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-06-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 2989,
+      "admissions": 1143,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

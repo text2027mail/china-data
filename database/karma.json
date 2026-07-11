@@ -1,0 +1,67 @@
+{
+  "movie_id": 655917,
+  "title": "Karma",
+  "releaseDate": "08-06-2018",
+  "entries": [
+    {
+      "date": "08-06-2018",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.06,
+      "showings": 6297,
+      "admissions": 7700,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-06-2018",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.08,
+      "showings": 1727,
+      "admissions": 5536,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-06-2018",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 0.12,
+      "showings": 1946,
+      "admissions": 5894,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-06-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 767,
+      "admissions": 1479,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-06-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 736,
+      "admissions": 1364,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-06-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 688,
+      "admissions": 1739,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

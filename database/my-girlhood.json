@@ -1,0 +1,67 @@
+{
+  "movie_id": 592765,
+  "title": "My Girlhood",
+  "releaseDate": "19-11-2015",
+  "entries": [
+    {
+      "date": "19-11-2015",
+      "rank": 7,
+      "gross": 0.12,
+      "cume": 0.21,
+      "showings": 1208,
+      "admissions": 28390,
+      "days": 1784,
+      "day": "1st Thu"
+    },
+    {
+      "date": "20-11-2015",
+      "rank": 9,
+      "gross": 0.1,
+      "cume": 0.3,
+      "showings": 653,
+      "admissions": 23050,
+      "days": 1785,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-11-2015",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.37,
+      "showings": 302,
+      "admissions": 15911,
+      "days": 1786,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-11-2015",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.41,
+      "showings": 201,
+      "admissions": 8861,
+      "days": 1787,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-11-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.44,
+      "showings": 69,
+      "admissions": 2737,
+      "days": 1793,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "29-11-2015",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.45,
+      "showings": 63,
+      "admissions": 1991,
+      "days": 1794,
+      "day": "2nd Sun"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "06-09-2016",
+  "data": [
+    {
+      "movie_id": 644394,
+      "title": "",
+      "gross": 2.94,
+      "cume": 36.81,
+      "showings": 70836,
+      "admissions": 585471,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 646925,
+      "title": "Parasyte",
+      "gross": 0.58,
+      "cume": 4.92,
+      "showings": 23203,
+      "admissions": 147261,
+      "rank": 2,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 628417,
+      "title": "Days of Our Own",
+      "gross": 0.53,
+      "cume": 4.78,
+      "showings": 23899,
+      "admissions": 123125,
+      "rank": 3,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 644495,
+      "title": "Jason Bourne",
+      "gross": 0.46,
+      "cume": 63.5,
+      "showings": 18405,
+      "admissions": 98549,
+      "rank": 4,
+      "days": 15,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 643772,
+      "title": "Ice Age: Collision Course",
+      "gross": 0.43,
+      "cume": 59.62,
+      "showings": 23321,
+      "admissions": 93440,
+      "rank": 5,
+      "days": 15,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 637798,
+      "title": "Line Walker",
+      "gross": 0.27,
+      "cume": 88.36,
+      "showings": 8283,
+      "admissions": 64169,
+      "rank": 6,
+      "days": 27,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 639644,
+      "title": "Southpaw",
+      "gross": 0.09,
+      "cume": 0.92,
+      "showings": 8557,
+      "admissions": 21812,
+      "rank": 7,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 611818,
+      "title": "Time Raiders",
+      "gross": 0.09,
+      "cume": 147.24,
+      "showings": 3326,
+      "admissions": 19985,
+      "rank": 8,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 631411,
+      "title": "Love O2O",
+      "gross": 0.07,
+      "cume": 40.48,
+      "showings": 2960,
+      "admissions": 13569,
+      "rank": 9,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 644633,
+      "title": "Born in China",
+      "gross": 0.04,
+      "cume": 9.23,
+      "showings": 1681,
+      "admissions": 8841,
+      "rank": 10,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 640075,
+      "title": "Who Is Crying At Midnight",
+      "gross": 0.04,
+      "cume": 0.26,
+      "showings": 2773,
+      "admissions": 10027,
+      "rank": 11,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 642478,
+      "title": "Fengmei Mao",
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 40,
+      "admissions": 4120,
+      "rank": 12,
+      "days": 70,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 653081,
+      "title": "New Happy Dad Son2:The Instant Genius",
+      "gross": 0.01,
+      "cume": 12.84,
+      "showings": 1673,
+      "admissions": 2800,
+      "rank": 13,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 590216,
+      "title": "Crosscurrent",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 1021,
+      "rank": 14,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 639257,
+      "title": "Call of Heroes",
+      "gross": 0.01,
+      "cume": 24.67,
+      "showings": 360,
+      "admissions": 1399,
+      "rank": 15,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 615322,
+      "title": "Elanne Starlight",
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 79,
+      "admissions": 1586,
+      "rank": 16,
+      "days": 12,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 643879,
+      "title": "The Secret Life of Pets",
+      "gross": 0.01,
+      "cume": 57.34,
+      "showings": 428,
+      "admissions": 1273,
+      "rank": 17,
+      "days": 36,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 621641,
+      "title": "Skiptrace",
+      "gross": 0.0,
+      "cume": 131.2,
+      "showings": 254,
+      "admissions": 1093,
+      "rank": 18,
+      "days": 48,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 628843,
+      "title": "The Weird Bride",
+      "gross": 0.0,
+      "cume": 0.58,
+      "showings": 471,
+      "admissions": 972,
+      "rank": 19,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 643898,
+      "title": "On - drakon",
+      "gross": 0.0,
+      "cume": 8.87,
+      "showings": 258,
+      "admissions": 657,
+      "rank": 20,
+      "days": 19,
+      "day": "3rd Tue"
+    }
+  ]
+}

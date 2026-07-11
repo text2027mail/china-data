@@ -1,0 +1,225 @@
+{
+  "date": "27-06-2021",
+  "data": [
+    {
+      "movie_id": 701782,
+      "title": "",
+      "gross": 3.84,
+      "cume": 11.02,
+      "showings": 85153,
+      "admissions": 709537,
+      "rank": 1,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 706713,
+      "title": "Man In Love",
+      "gross": 1.86,
+      "cume": 26.2,
+      "showings": 45927,
+      "admissions": 387350,
+      "rank": 2,
+      "days": 17,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 695809,
+      "title": "Peter Rabbit 2: The Runaway",
+      "gross": 1.49,
+      "cume": 20.92,
+      "showings": 28511,
+      "admissions": 303934,
+      "rank": 3,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 706449,
+      "title": "On Your Mark",
+      "gross": 1.18,
+      "cume": 15.48,
+      "showings": 29278,
+      "admissions": 220124,
+      "rank": 4,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 707206,
+      "title": "Between Us",
+      "gross": 0.95,
+      "cume": 4.83,
+      "showings": 59011,
+      "admissions": 193875,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 692580,
+      "title": "Cruella",
+      "gross": 0.7,
+      "cume": 19.81,
+      "showings": 12740,
+      "admissions": 123077,
+      "rank": 6,
+      "days": 22,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 707737,
+      "title": "Island Keeper",
+      "gross": 0.58,
+      "cume": 8.49,
+      "showings": 17932,
+      "admissions": 104237,
+      "rank": 7,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 695549,
+      "title": "Hello World",
+      "gross": 0.51,
+      "cume": 15.26,
+      "showings": 17931,
+      "admissions": 109035,
+      "rank": 8,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 696991,
+      "title": "A Quiet Place Part Ⅱ",
+      "gross": 0.37,
+      "cume": 36.82,
+      "showings": 8762,
+      "admissions": 63115,
+      "rank": 9,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 706639,
+      "title": "The Father",
+      "gross": 0.29,
+      "cume": 2.67,
+      "showings": 4486,
+      "admissions": 47781,
+      "rank": 10,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 692841,
+      "title": "The perfect Victim",
+      "gross": 0.24,
+      "cume": 0.85,
+      "showings": 11938,
+      "admissions": 50933,
+      "rank": 11,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 676103,
+      "title": "Three Piglets 3",
+      "gross": 0.17,
+      "cume": 0.4,
+      "showings": 12480,
+      "admissions": 35913,
+      "rank": 12,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 695422,
+      "title": "Never Stop",
+      "gross": 0.15,
+      "cume": 20.14,
+      "showings": 8413,
+      "admissions": 31030,
+      "rank": 13,
+      "days": 16,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 707185,
+      "title": "Sunny Sisters",
+      "gross": 0.15,
+      "cume": 13.12,
+      "showings": 6588,
+      "admissions": 28558,
+      "rank": 14,
+      "days": 17,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 696263,
+      "title": "New Happy Dad and Son 4",
+      "gross": 0.15,
+      "cume": 0.27,
+      "showings": 1209,
+      "admissions": 28421,
+      "rank": 15,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 695516,
+      "title": "Cliff Walkers",
+      "gross": 0.13,
+      "cume": 174.87,
+      "showings": 3174,
+      "admissions": 21886,
+      "rank": 16,
+      "days": 59,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 704464,
+      "title": "Stand by Me Doraemon 2",
+      "gross": 0.12,
+      "cume": 39.81,
+      "showings": 4332,
+      "admissions": 25127,
+      "rank": 17,
+      "days": 31,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 674137,
+      "title": "White Snake",
+      "gross": 0.1,
+      "cume": 2.92,
+      "showings": 1433,
+      "admissions": 17499,
+      "rank": 18,
+      "days": 39,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 672770,
+      "title": "Hell of Volcano",
+      "gross": 0.07,
+      "cume": 0.93,
+      "showings": 673,
+      "admissions": 7106,
+      "rank": 19,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 704679,
+      "title": "The Pioneer",
+      "gross": 0.07,
+      "cume": 0.12,
+      "showings": 85,
+      "admissions": 10946,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

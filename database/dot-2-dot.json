@@ -1,0 +1,27 @@
+{
+  "movie_id": 637832,
+  "title": "Dot 2 Dot",
+  "releaseDate": "17-04-2015",
+  "entries": [
+    {
+      "date": "17-04-2015",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 133,
+      "admissions": 1040,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "18-04-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 96,
+      "admissions": 415,
+      "days": null,
+      "day": "1st Sat"
+    }
+  ]
+}

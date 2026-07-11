@@ -1,0 +1,57 @@
+{
+  "movie_id": 653817,
+  "title": "Morning Princess",
+  "releaseDate": "13-12-2019",
+  "entries": [
+    {
+      "date": "13-12-2019",
+      "rank": 6,
+      "gross": 0.55,
+      "cume": 0.56,
+      "showings": 4825,
+      "admissions": 69833,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-12-2019",
+      "rank": 10,
+      "gross": 0.57,
+      "cume": 1.13,
+      "showings": 1235,
+      "admissions": 71752,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-12-2019",
+      "rank": 8,
+      "gross": 0.61,
+      "cume": 1.74,
+      "showings": 1153,
+      "admissions": 76544,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-12-2019",
+      "rank": 5,
+      "gross": 0.63,
+      "cume": 2.37,
+      "showings": 1046,
+      "admissions": 78030,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "17-12-2019",
+      "rank": 5,
+      "gross": 0.63,
+      "cume": 3.0,
+      "showings": 1170,
+      "admissions": 77191,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

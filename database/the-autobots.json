@@ -1,0 +1,117 @@
+{
+  "movie_id": 639002,
+  "title": "The Autobots",
+  "releaseDate": "03-07-2015",
+  "entries": [
+    {
+      "date": "03-07-2015",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 3330,
+      "admissions": 13565,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "04-07-2015",
+      "rank": 9,
+      "gross": 0.28,
+      "cume": 0.34,
+      "showings": 6346,
+      "admissions": 68503,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "05-07-2015",
+      "rank": 9,
+      "gross": 0.24,
+      "cume": 0.58,
+      "showings": 5546,
+      "admissions": 57092,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "06-07-2015",
+      "rank": 10,
+      "gross": 0.07,
+      "cume": 0.64,
+      "showings": 4695,
+      "admissions": 16514,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "07-07-2015",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 0.71,
+      "showings": 4392,
+      "admissions": 16597,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "08-07-2015",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.76,
+      "showings": 4231,
+      "admissions": 13591,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "09-07-2015",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.8,
+      "showings": 2595,
+      "admissions": 8789,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "11-07-2015",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.82,
+      "showings": 575,
+      "admissions": 2888,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "12-07-2015",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.83,
+      "showings": 571,
+      "admissions": 3518,
+      "days": 9,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "19-07-2015",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.85,
+      "showings": 320,
+      "admissions": 1135,
+      "days": 16,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "20-07-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.85,
+      "showings": 295,
+      "admissions": 876,
+      "days": 17,
+      "day": "3rd Mon"
+    }
+  ]
+}

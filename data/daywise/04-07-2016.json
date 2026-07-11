@@ -1,0 +1,225 @@
+{
+  "date": "04-07-2016",
+  "data": [
+    {
+      "movie_id": 644009,
+      "title": "",
+      "gross": 5.01,
+      "cume": 30.18,
+      "showings": 62474,
+      "admissions": 1006169,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 615259,
+      "title": "Bounty Hunters",
+      "gross": 3.14,
+      "cume": 20.52,
+      "showings": 40585,
+      "admissions": 669740,
+      "rank": 2,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 643771,
+      "title": "Now You See Me 2",
+      "gross": 2.32,
+      "cume": 82.81,
+      "showings": 29789,
+      "admissions": 477351,
+      "rank": 3,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 644099,
+      "title": "Independence Day: Resurgence",
+      "gross": 1.62,
+      "cume": 67.17,
+      "showings": 21907,
+      "admissions": 321800,
+      "rank": 4,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 639833,
+      "title": "No One's Life Is Easy: So I Married an Anti-Fan",
+      "gross": 0.85,
+      "cume": 9.41,
+      "showings": 20814,
+      "admissions": 197308,
+      "rank": 5,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 643885,
+      "title": "Finding Dory",
+      "gross": 0.35,
+      "cume": 35.62,
+      "showings": 8355,
+      "admissions": 75862,
+      "rank": 6,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 402117,
+      "title": "Warcraft",
+      "gross": 0.13,
+      "cume": 216.71,
+      "showings": 2805,
+      "admissions": 24085,
+      "rank": 7,
+      "days": 27,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 644103,
+      "title": "The Precipice Game",
+      "gross": 0.12,
+      "cume": 0.82,
+      "showings": 6014,
+      "admissions": 28519,
+      "rank": 8,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 631111,
+      "title": "Three",
+      "gross": 0.1,
+      "cume": 14.45,
+      "showings": 3440,
+      "admissions": 22390,
+      "rank": 9,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 638693,
+      "title": "Da Huo Zhong",
+      "gross": 0.05,
+      "cume": 0.32,
+      "showings": 272,
+      "admissions": 10863,
+      "rank": 10,
+      "days": 8,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 644443,
+      "title": "The Adventure Of The Ugly Duckling",
+      "gross": 0.04,
+      "cume": 0.47,
+      "showings": 4307,
+      "admissions": 11997,
+      "rank": 11,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 589485,
+      "title": "Rock Dog",
+      "gross": 0.01,
+      "cume": 0.22,
+      "showings": 12,
+      "admissions": 2541,
+      "rank": 12,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 619127,
+      "title": "Never Gone",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 6,
+      "admissions": 1243,
+      "rank": 13,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 626946,
+      "title": "Nankou In 1937",
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 24,
+      "admissions": 2056,
+      "rank": 14,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 644690,
+      "title": "Dang De Nv Er Yin Ling Zhi",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 102,
+      "admissions": 1295,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 644004,
+      "title": "Foolish Plan",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 12,
+      "admissions": 1230,
+      "rank": 16,
+      "days": null,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 638447,
+      "title": "The Last Race",
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 404,
+      "admissions": 1243,
+      "rank": 17,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 641094,
+      "title": "The Curse of Chopsticks",
+      "gross": 0.0,
+      "cume": 1.57,
+      "showings": 335,
+      "admissions": 1087,
+      "rank": 18,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 641092,
+      "title": "The Death War",
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 176,
+      "admissions": 884,
+      "rank": 19,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 618087,
+      "title": "Big Fish & Begonia",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 757,
+      "rank": 20,
+      "days": null,
+      "day": "1st Mon"
+    }
+  ]
+}

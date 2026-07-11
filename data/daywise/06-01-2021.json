@@ -1,0 +1,225 @@
+{
+  "date": "06-01-2021",
+  "data": [
+    {
+      "movie_id": 701874,
+      "title": "",
+      "gross": 4.65,
+      "cume": 128.88,
+      "showings": 106445,
+      "admissions": 861320,
+      "rank": 1,
+      "days": 7,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 695877,
+      "title": "Warm Hug",
+      "gross": 2.58,
+      "cume": 87.0,
+      "showings": 83557,
+      "admissions": 481028,
+      "rank": 2,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 691902,
+      "title": "Shock Wave 2",
+      "gross": 2.33,
+      "cume": 129.63,
+      "showings": 64190,
+      "admissions": 411742,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 703448,
+      "title": "Soul",
+      "gross": 0.84,
+      "cume": 27.67,
+      "showings": 28658,
+      "admissions": 156188,
+      "rank": 4,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 673155,
+      "title": "The Rescue",
+      "gross": 0.23,
+      "cume": 66.7,
+      "showings": 11880,
+      "admissions": 42332,
+      "rank": 5,
+      "days": 20,
+      "day": "50th Wed"
+    },
+    {
+      "movie_id": 459128,
+      "title": "Ponyo on the Cliff by the Sea",
+      "gross": 0.07,
+      "cume": 2.85,
+      "showings": 8060,
+      "admissions": 14878,
+      "rank": 6,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 678807,
+      "title": "Wonder Woman 1984",
+      "gross": 0.03,
+      "cume": 24.27,
+      "showings": 1961,
+      "admissions": 5631,
+      "rank": 7,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 698915,
+      "title": "Bath Buddy",
+      "gross": 0.02,
+      "cume": 59.64,
+      "showings": 2473,
+      "admissions": 5186,
+      "rank": 8,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 643623,
+      "title": "The Croods: A New Age",
+      "gross": 0.02,
+      "cume": 50.76,
+      "showings": 1458,
+      "admissions": 4428,
+      "rank": 9,
+      "days": 41,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 682062,
+      "title": "Three Adventures of Brooke",
+      "gross": 0.01,
+      "cume": 0.83,
+      "showings": 100,
+      "admissions": 3172,
+      "rank": 10,
+      "days": 41,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 703441,
+      "title": "Salute to the Heroes",
+      "gross": 0.01,
+      "cume": 0.4,
+      "showings": 42,
+      "admissions": 2505,
+      "rank": 11,
+      "days": 76,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 702863,
+      "title": "I Remember",
+      "gross": 0.01,
+      "cume": 10.14,
+      "showings": 1629,
+      "admissions": 1719,
+      "rank": 12,
+      "days": 14,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 699989,
+      "title": "Huang Wenxiu",
+      "gross": 0.01,
+      "cume": 7.78,
+      "showings": 39,
+      "admissions": 1878,
+      "rank": 13,
+      "days": 147,
+      "day": "19th Wed"
+    },
+    {
+      "movie_id": 699452,
+      "title": "Ma Yong Zhen",
+      "gross": 0.01,
+      "cume": 0.83,
+      "showings": 58,
+      "admissions": 2680,
+      "rank": 14,
+      "days": 55,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 684466,
+      "title": "She is in Danger",
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 607,
+      "admissions": 2157,
+      "rank": 15,
+      "days": 15,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 672464,
+      "title": "Suburban Birds",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 40,
+      "admissions": 931,
+      "rank": 16,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 659727,
+      "title": "Rising From Ashes",
+      "gross": 0.01,
+      "cume": 1.55,
+      "showings": 157,
+      "admissions": 1169,
+      "rank": 17,
+      "days": 104,
+      "day": "15th Wed"
+    },
+    {
+      "movie_id": 683688,
+      "title": "Caught In Time",
+      "gross": 0.01,
+      "cume": 79.34,
+      "showings": 210,
+      "admissions": 3007,
+      "rank": 18,
+      "days": 48,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 685551,
+      "title": "T-34",
+      "gross": 0.0,
+      "cume": 2.98,
+      "showings": 299,
+      "admissions": 995,
+      "rank": 19,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 702573,
+      "title": "Doraemon the Movie: Nobita's New Dinosaur",
+      "gross": 0.0,
+      "cume": 9.38,
+      "showings": 468,
+      "admissions": 1022,
+      "rank": 20,
+      "days": 27,
+      "day": "5th Wed"
+    }
+  ]
+}

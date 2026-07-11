@@ -1,0 +1,225 @@
+{
+  "date": "15-02-2023",
+  "data": [
+    {
+      "movie_id": 704382,
+      "title": "",
+      "gross": 2.25,
+      "cume": 553.05,
+      "showings": 74307,
+      "admissions": 336868,
+      "rank": 1,
+      "days": 25,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 713237,
+      "title": "Full River Red",
+      "gross": 2.13,
+      "cume": 639.03,
+      "showings": 72974,
+      "admissions": 335091,
+      "rank": 2,
+      "days": 25,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 707469,
+      "title": "Hidden Blade",
+      "gross": 0.96,
+      "cume": 130.18,
+      "showings": 20349,
+      "admissions": 134274,
+      "rank": 3,
+      "days": 25,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 0.89,
+      "cume": 116.63,
+      "showings": 33279,
+      "admissions": 141306,
+      "rank": 4,
+      "days": 25,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 734256,
+      "title": "Black Panther: Wakanda Forever",
+      "gross": 0.43,
+      "cume": 14.2,
+      "showings": 23418,
+      "admissions": 73751,
+      "rank": 5,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 735278,
+      "title": "Behind the Blue Eyes",
+      "gross": 0.42,
+      "cume": 5.74,
+      "showings": 33926,
+      "admissions": 67669,
+      "rank": 6,
+      "days": 2,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 733627,
+      "title": "Boonie Bears: Guardian Code",
+      "gross": 0.26,
+      "cume": 200.63,
+      "showings": 13943,
+      "admissions": 42445,
+      "rank": 7,
+      "days": 25,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 708388,
+      "title": "Five Hundred Miles",
+      "gross": 0.21,
+      "cume": 56.39,
+      "showings": 10650,
+      "admissions": 33681,
+      "rank": 8,
+      "days": 25,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 612244,
+      "title": "Avatar: The Way of Water",
+      "gross": 0.14,
+      "cume": 247.55,
+      "showings": 3950,
+      "admissions": 22858,
+      "rank": 9,
+      "days": 62,
+      "day": "10th Wed"
+    },
+    {
+      "movie_id": 705243,
+      "title": "COULD YOU DON`T LEAVE ME",
+      "gross": 0.14,
+      "cume": 2.79,
+      "showings": 21229,
+      "admissions": 24159,
+      "rank": 10,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 683508,
+      "title": "Where the Wind Blows",
+      "gross": 0.09,
+      "cume": 6.86,
+      "showings": 4751,
+      "admissions": 13132,
+      "rank": 11,
+      "days": 11,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 701901,
+      "title": "Rapid Action",
+      "gross": 0.08,
+      "cume": 0.24,
+      "showings": 626,
+      "admissions": 7471,
+      "rank": 12,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.03,
+      "cume": 32.2,
+      "showings": 318,
+      "admissions": 6440,
+      "rank": 13,
+      "days": 139,
+      "day": "21st Wed"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 0.01,
+      "cume": 59.53,
+      "showings": 586,
+      "admissions": 1321,
+      "rank": 14,
+      "days": 54,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.01,
+      "cume": 1.33,
+      "showings": 5,
+      "admissions": 864,
+      "rank": 15,
+      "days": 1324,
+      "day": "81st Wed"
+    },
+    {
+      "movie_id": 735288,
+      "title": "A Guilty Conscience",
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 6,
+      "admissions": 850,
+      "rank": 16,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.0,
+      "cume": 6.85,
+      "showings": 243,
+      "admissions": 623,
+      "rank": 17,
+      "days": 55,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 700622,
+      "title": "Beautiful Life",
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 15,
+      "admissions": 508,
+      "rank": 18,
+      "days": 90,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 703298,
+      "title": "Like Father And Son",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 8,
+      "admissions": 364,
+      "rank": 19,
+      "days": null,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 703781,
+      "title": "Ready to go",
+      "gross": 0.0,
+      "cume": 0.33,
+      "showings": 134,
+      "admissions": 308,
+      "rank": 20,
+      "days": 202,
+      "day": "20th Wed"
+    }
+  ]
+}

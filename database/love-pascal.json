@@ -1,0 +1,77 @@
+{
+  "movie_id": 628716,
+  "title": "Love Pascal",
+  "releaseDate": "30-03-2018",
+  "entries": [
+    {
+      "date": "30-03-2018",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 335,
+      "admissions": 4672,
+      "days": 106,
+      "day": "1st Fri"
+    },
+    {
+      "date": "31-03-2018",
+      "rank": 17,
+      "gross": 0.07,
+      "cume": 0.09,
+      "showings": 285,
+      "admissions": 12213,
+      "days": 107,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-04-2018",
+      "rank": 16,
+      "gross": 0.07,
+      "cume": 0.16,
+      "showings": 228,
+      "admissions": 11898,
+      "days": 108,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-04-2018",
+      "rank": 10,
+      "gross": 0.07,
+      "cume": 0.23,
+      "showings": 240,
+      "admissions": 11807,
+      "days": 109,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-04-2018",
+      "rank": 10,
+      "gross": 0.07,
+      "cume": 0.3,
+      "showings": 222,
+      "admissions": 13251,
+      "days": 110,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-04-2018",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.36,
+      "showings": 148,
+      "admissions": 9996,
+      "days": 111,
+      "day": "1st Wed"
+    },
+    {
+      "date": "16-04-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.48,
+      "showings": 23,
+      "admissions": 2075,
+      "days": 123,
+      "day": "3rd Mon"
+    }
+  ]
+}

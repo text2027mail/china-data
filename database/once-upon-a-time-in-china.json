@@ -1,0 +1,47 @@
+{
+  "movie_id": 674771,
+  "title": "Once Upon a Time in China",
+  "releaseDate": "08-03-2019",
+  "entries": [
+    {
+      "date": "08-03-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 439,
+      "admissions": 3036,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-03-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 112,
+      "admissions": 2455,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "22-03-2019",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 99,
+      "admissions": 4340,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "28-03-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 68,
+      "admissions": 2514,
+      "days": 21,
+      "day": "3rd Thu"
+    }
+  ]
+}

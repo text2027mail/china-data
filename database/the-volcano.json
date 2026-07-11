@@ -1,0 +1,127 @@
+{
+  "movie_id": 619001,
+  "title": "The Volcano",
+  "releaseDate": "09-05-2014",
+  "entries": [
+    {
+      "date": "09-05-2014",
+      "rank": 6,
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 5107,
+      "admissions": 19026,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "10-05-2014",
+      "rank": 8,
+      "gross": 0.12,
+      "cume": 0.2,
+      "showings": 4185,
+      "admissions": 26378,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-05-2014",
+      "rank": 9,
+      "gross": 0.1,
+      "cume": 0.3,
+      "showings": 3728,
+      "admissions": 21888,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "12-05-2014",
+      "rank": 6,
+      "gross": 0.06,
+      "cume": 0.36,
+      "showings": 4099,
+      "admissions": 13519,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-05-2014",
+      "rank": 6,
+      "gross": 0.06,
+      "cume": 0.42,
+      "showings": 3945,
+      "admissions": 14148,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-05-2014",
+      "rank": 6,
+      "gross": 0.06,
+      "cume": 0.48,
+      "showings": 3867,
+      "admissions": 13396,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-05-2014",
+      "rank": 6,
+      "gross": 0.06,
+      "cume": 0.53,
+      "showings": 3782,
+      "admissions": 13349,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "16-05-2014",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.54,
+      "showings": 549,
+      "admissions": 1973,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "17-05-2014",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 494,
+      "admissions": 2732,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "18-05-2014",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.57,
+      "showings": 493,
+      "admissions": 2903,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "19-05-2014",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.57,
+      "showings": 565,
+      "admissions": 1136,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "20-05-2014",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.58,
+      "showings": 396,
+      "admissions": 1518,
+      "days": 12,
+      "day": "2nd Tue"
+    }
+  ]
+}

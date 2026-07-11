@@ -1,0 +1,67 @@
+{
+  "movie_id": 694291,
+  "title": "Kungfu Stuntmen",
+  "releaseDate": "28-08-2021",
+  "entries": [
+    {
+      "date": "28-08-2021",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 7250,
+      "admissions": 8724,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-08-2021",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.08,
+      "showings": 4064,
+      "admissions": 4961,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-08-2021",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 2575,
+      "admissions": 2650,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-08-2021",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 2339,
+      "admissions": 2171,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-09-2021",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 2251,
+      "admissions": 1862,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-09-2021",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 2159,
+      "admissions": 1491,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

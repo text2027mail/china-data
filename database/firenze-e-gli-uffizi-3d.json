@@ -1,0 +1,47 @@
+{
+  "movie_id": 666209,
+  "title": "Firenze e gli Uffizi 3D",
+  "releaseDate": "08-07-2017",
+  "entries": [
+    {
+      "date": "08-07-2017",
+      "rank": 17,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 45,
+      "admissions": 4921,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-07-2017",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 21,
+      "admissions": 2545,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "15-07-2017",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 22,
+      "admissions": 2456,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "22-07-2017",
+      "rank": 19,
+      "gross": 0.03,
+      "cume": 0.12,
+      "showings": 23,
+      "admissions": 3203,
+      "days": 15,
+      "day": "3rd Sat"
+    }
+  ]
+}

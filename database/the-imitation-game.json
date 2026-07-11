@@ -1,0 +1,317 @@
+{
+  "movie_id": 625804,
+  "title": "The Imitation Game",
+  "releaseDate": "21-07-2015",
+  "entries": [
+    {
+      "date": "21-07-2015",
+      "rank": 5,
+      "gross": 0.42,
+      "cume": 0.42,
+      "showings": 7723,
+      "admissions": 89702,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "22-07-2015",
+      "rank": 4,
+      "gross": 0.48,
+      "cume": 0.9,
+      "showings": 7370,
+      "admissions": 99886,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "23-07-2015",
+      "rank": 6,
+      "gross": 0.44,
+      "cume": 1.34,
+      "showings": 5249,
+      "admissions": 88094,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "24-07-2015",
+      "rank": 7,
+      "gross": 0.31,
+      "cume": 1.65,
+      "showings": 2396,
+      "admissions": 58844,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "date": "25-07-2015",
+      "rank": 6,
+      "gross": 0.56,
+      "cume": 2.2,
+      "showings": 2715,
+      "admissions": 105110,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-07-2015",
+      "rank": 6,
+      "gross": 0.59,
+      "cume": 2.79,
+      "showings": 3029,
+      "admissions": 113059,
+      "days": 6,
+      "day": "1st Sun"
+    },
+    {
+      "date": "27-07-2015",
+      "rank": 6,
+      "gross": 0.37,
+      "cume": 3.17,
+      "showings": 3369,
+      "admissions": 74653,
+      "days": 7,
+      "day": "1st Mon"
+    },
+    {
+      "date": "28-07-2015",
+      "rank": 6,
+      "gross": 0.4,
+      "cume": 3.57,
+      "showings": 3763,
+      "admissions": 81938,
+      "days": 8,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "29-07-2015",
+      "rank": 5,
+      "gross": 0.41,
+      "cume": 3.97,
+      "showings": 4019,
+      "admissions": 81577,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "30-07-2015",
+      "rank": 7,
+      "gross": 0.16,
+      "cume": 4.14,
+      "showings": 1210,
+      "admissions": 31165,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "31-07-2015",
+      "rank": 9,
+      "gross": 0.14,
+      "cume": 4.28,
+      "showings": 671,
+      "admissions": 25972,
+      "days": 11,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "01-08-2015",
+      "rank": 10,
+      "gross": 0.3,
+      "cume": 4.58,
+      "showings": 947,
+      "admissions": 52601,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "02-08-2015",
+      "rank": 10,
+      "gross": 0.31,
+      "cume": 4.89,
+      "showings": 1098,
+      "admissions": 56084,
+      "days": 13,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "03-08-2015",
+      "rank": 9,
+      "gross": 0.17,
+      "cume": 5.07,
+      "showings": 1284,
+      "admissions": 33685,
+      "days": 14,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "04-08-2015",
+      "rank": 9,
+      "gross": 0.2,
+      "cume": 5.27,
+      "showings": 1451,
+      "admissions": 39671,
+      "days": 15,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "05-08-2015",
+      "rank": 8,
+      "gross": 0.19,
+      "cume": 5.46,
+      "showings": 1519,
+      "admissions": 37957,
+      "days": 16,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "06-08-2015",
+      "rank": 10,
+      "gross": 0.16,
+      "cume": 5.62,
+      "showings": 1135,
+      "admissions": 29912,
+      "days": 17,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "07-08-2015",
+      "rank": 10,
+      "gross": 0.15,
+      "cume": 5.77,
+      "showings": 716,
+      "admissions": 27297,
+      "days": 18,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "08-08-2015",
+      "rank": 11,
+      "gross": 0.26,
+      "cume": 6.03,
+      "showings": 870,
+      "admissions": 46051,
+      "days": 19,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "09-08-2015",
+      "rank": 10,
+      "gross": 0.3,
+      "cume": 6.32,
+      "showings": 1107,
+      "admissions": 54264,
+      "days": 20,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "10-08-2015",
+      "rank": 10,
+      "gross": 0.15,
+      "cume": 6.48,
+      "showings": 1221,
+      "admissions": 29829,
+      "days": 21,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "11-08-2015",
+      "rank": 10,
+      "gross": 0.17,
+      "cume": 6.65,
+      "showings": 1391,
+      "admissions": 34163,
+      "days": 22,
+      "day": "4th Tue"
+    },
+    {
+      "date": "12-08-2015",
+      "rank": 11,
+      "gross": 0.17,
+      "cume": 6.82,
+      "showings": 1436,
+      "admissions": 32493,
+      "days": 23,
+      "day": "4th Wed"
+    },
+    {
+      "date": "13-08-2015",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 6.9,
+      "showings": 682,
+      "admissions": 15289,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "date": "14-08-2015",
+      "rank": 13,
+      "gross": 0.11,
+      "cume": 7.01,
+      "showings": 712,
+      "admissions": 20790,
+      "days": 25,
+      "day": "4th Fri"
+    },
+    {
+      "date": "15-08-2015",
+      "rank": 12,
+      "gross": 0.19,
+      "cume": 7.2,
+      "showings": 764,
+      "admissions": 34499,
+      "days": 26,
+      "day": "4th Sat"
+    },
+    {
+      "date": "16-08-2015",
+      "rank": 12,
+      "gross": 0.19,
+      "cume": 7.39,
+      "showings": 849,
+      "admissions": 34497,
+      "days": 27,
+      "day": "4th Sun"
+    },
+    {
+      "date": "17-08-2015",
+      "rank": 12,
+      "gross": 0.09,
+      "cume": 7.48,
+      "showings": 921,
+      "admissions": 17096,
+      "days": 28,
+      "day": "4th Mon"
+    },
+    {
+      "date": "18-08-2015",
+      "rank": 13,
+      "gross": 0.09,
+      "cume": 7.57,
+      "showings": 975,
+      "admissions": 18552,
+      "days": 29,
+      "day": "5th Tue"
+    },
+    {
+      "date": "19-08-2015",
+      "rank": 14,
+      "gross": 0.09,
+      "cume": 7.66,
+      "showings": 908,
+      "admissions": 17224,
+      "days": 30,
+      "day": "5th Wed"
+    },
+    {
+      "date": "20-08-2015",
+      "rank": 13,
+      "gross": 0.1,
+      "cume": 7.76,
+      "showings": 467,
+      "admissions": 18246,
+      "days": 31,
+      "day": "5th Thu"
+    }
+  ]
+}

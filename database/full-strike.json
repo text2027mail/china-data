@@ -1,0 +1,27 @@
+{
+  "movie_id": 626299,
+  "title": "Full Strike",
+  "releaseDate": "11-12-2015",
+  "entries": [
+    {
+      "date": "11-12-2015",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 4844,
+      "admissions": 8947,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-12-2015",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 2196,
+      "admissions": 5447,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

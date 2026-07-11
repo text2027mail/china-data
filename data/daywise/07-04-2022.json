@@ -1,0 +1,225 @@
+{
+  "date": "07-04-2022",
+  "data": [
+    {
+      "movie_id": 708491,
+      "title": "",
+      "gross": 0.25,
+      "cume": 4.02,
+      "showings": 32111,
+      "admissions": 52080,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 712140,
+      "title": "Moonfall",
+      "gross": 0.2,
+      "cume": 17.49,
+      "showings": 34513,
+      "admissions": 39531,
+      "rank": 2,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 707673,
+      "title": "Hotel Transylvania 4: Transformania",
+      "gross": 0.16,
+      "cume": 4.6,
+      "showings": 29639,
+      "admissions": 31910,
+      "rank": 3,
+      "days": 5,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 710883,
+      "title": "Fantastic BeaFantastic Beasts: The Secrets of Dumbledore",
+      "gross": 0.15,
+      "cume": 0.15,
+      "showings": 1413,
+      "admissions": 22294,
+      "rank": 4,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 709649,
+      "title": "The Battle At Lake Changjin II",
+      "gross": 0.14,
+      "cume": 597.94,
+      "showings": 7034,
+      "admissions": 21654,
+      "rank": 5,
+      "days": 66,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 711120,
+      "title": "Uncharted",
+      "gross": 0.12,
+      "cume": 15.78,
+      "showings": 17522,
+      "admissions": 24397,
+      "rank": 6,
+      "days": 25,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 702458,
+      "title": "The Batman",
+      "gross": 0.12,
+      "cume": 20.0,
+      "showings": 15591,
+      "admissions": 20239,
+      "rank": 7,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 708179,
+      "title": "Too Cool To Kill",
+      "gross": 0.04,
+      "cume": 386.56,
+      "showings": 5754,
+      "admissions": 7188,
+      "rank": 8,
+      "days": 66,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 706338,
+      "title": "Nice View",
+      "gross": 0.02,
+      "cume": 202.88,
+      "showings": 3911,
+      "admissions": 4453,
+      "rank": 9,
+      "days": 66,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 706422,
+      "title": "I Fell in Love Like A Flower Bouquet",
+      "gross": 0.02,
+      "cume": 13.12,
+      "showings": 2497,
+      "admissions": 3853,
+      "rank": 10,
+      "days": 45,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 710039,
+      "title": "Why Are The Flower So Red",
+      "gross": 0.01,
+      "cume": 0.58,
+      "showings": 229,
+      "admissions": 1679,
+      "rank": 11,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 712222,
+      "title": "Kanaa",
+      "gross": 0.01,
+      "cume": 0.39,
+      "showings": 922,
+      "admissions": 1456,
+      "rank": 12,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.01,
+      "cume": 88.73,
+      "showings": 1344,
+      "admissions": 1209,
+      "rank": 13,
+      "days": 66,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 684635,
+      "title": "Brothers",
+      "gross": 0.01,
+      "cume": 0.71,
+      "showings": 2329,
+      "admissions": 1161,
+      "rank": 14,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 708481,
+      "title": "A Wkward Happiness",
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 5,
+      "admissions": 690,
+      "rank": 15,
+      "days": 217,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 641904,
+      "title": "Unordered Space",
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 889,
+      "admissions": 1001,
+      "rank": 16,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 703424,
+      "title": "Do You Love Me as I Love You",
+      "gross": 0.0,
+      "cume": 2.36,
+      "showings": 1106,
+      "admissions": 883,
+      "rank": 17,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 711139,
+      "title": "Twin Sister",
+      "gross": 0.0,
+      "cume": 0.92,
+      "showings": 24,
+      "admissions": 786,
+      "rank": 18,
+      "days": 89,
+      "day": "13th Thu"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 0.0,
+      "cume": 142.08,
+      "showings": 835,
+      "admissions": 302,
+      "rank": 19,
+      "days": 66,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.0,
+      "cume": 2.15,
+      "showings": 11,
+      "admissions": 314,
+      "rank": 20,
+      "days": null,
+      "day": "21st Thu"
+    }
+  ]
+}

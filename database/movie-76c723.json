@@ -1,0 +1,107 @@
+{
+  "movie_id": 659574,
+  "title": "",
+  "releaseDate": "29-03-2019",
+  "entries": [
+    {
+      "date": "29-03-2019",
+      "rank": 1,
+      "gross": 4.49,
+      "cume": 4.49,
+      "showings": 113722,
+      "admissions": 851372,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-03-2019",
+      "rank": 5,
+      "gross": 2.57,
+      "cume": 7.06,
+      "showings": 86906,
+      "admissions": 492656,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "31-03-2019",
+      "rank": 5,
+      "gross": 1.29,
+      "cume": 8.35,
+      "showings": 60469,
+      "admissions": 246830,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "01-04-2019",
+      "rank": 5,
+      "gross": 0.39,
+      "cume": 8.74,
+      "showings": 45340,
+      "admissions": 75216,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-04-2019",
+      "rank": 6,
+      "gross": 0.29,
+      "cume": 9.03,
+      "showings": 39246,
+      "admissions": 55568,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-04-2019",
+      "rank": 9,
+      "gross": 0.17,
+      "cume": 9.2,
+      "showings": 28604,
+      "admissions": 33098,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "04-04-2019",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 9.23,
+      "showings": 5562,
+      "admissions": 6889,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "08-04-2019",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 9.29,
+      "showings": 1585,
+      "admissions": 1315,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "09-04-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 9.29,
+      "showings": 1623,
+      "admissions": 1288,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "10-04-2019",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 9.3,
+      "showings": 1593,
+      "admissions": 984,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

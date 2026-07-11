@@ -1,0 +1,27 @@
+{
+  "movie_id": 673874,
+  "title": "Stranger Road",
+  "releaseDate": "19-08-2019",
+  "entries": [
+    {
+      "date": "19-08-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 12,
+      "admissions": 1878,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "date": "20-08-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 13,
+      "admissions": 1908,
+      "days": 7,
+      "day": "1st Tue"
+    }
+  ]
+}

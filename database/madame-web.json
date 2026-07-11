@@ -1,0 +1,107 @@
+{
+  "movie_id": 747315,
+  "title": "Madame Web",
+  "releaseDate": "01-03-2024",
+  "entries": [
+    {
+      "date": "01-03-2024",
+      "rank": 6,
+      "gross": 0.29,
+      "cume": 0.29,
+      "showings": 27131,
+      "admissions": 49160,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "02-03-2024",
+      "rank": 8,
+      "gross": 0.24,
+      "cume": 0.53,
+      "showings": 13100,
+      "admissions": 38522,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-03-2024",
+      "rank": 8,
+      "gross": 0.14,
+      "cume": 0.67,
+      "showings": 9651,
+      "admissions": 21745,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-03-2024",
+      "rank": 8,
+      "gross": 0.04,
+      "cume": 0.71,
+      "showings": 8882,
+      "admissions": 7018,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "05-03-2024",
+      "rank": 9,
+      "gross": 0.03,
+      "cume": 0.75,
+      "showings": 7967,
+      "admissions": 5622,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "06-03-2024",
+      "rank": 9,
+      "gross": 0.03,
+      "cume": 0.78,
+      "showings": 7323,
+      "admissions": 5140,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "07-03-2024",
+      "rank": 9,
+      "gross": 0.03,
+      "cume": 0.81,
+      "showings": 6964,
+      "admissions": 5089,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "09-03-2024",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.83,
+      "showings": 543,
+      "admissions": 956,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "10-03-2024",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.83,
+      "showings": 594,
+      "admissions": 1349,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "11-03-2024",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.84,
+      "showings": 899,
+      "admissions": 478,
+      "days": 11,
+      "day": "2nd Mon"
+    }
+  ]
+}

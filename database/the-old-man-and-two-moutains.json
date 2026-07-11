@@ -1,0 +1,57 @@
+{
+  "movie_id": 677283,
+  "title": "The Old Man and Two Moutains",
+  "releaseDate": "10-09-2020",
+  "entries": [
+    {
+      "date": "10-09-2020",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 1418,
+      "admissions": 8434,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "11-09-2020",
+      "rank": 8,
+      "gross": 0.05,
+      "cume": 0.1,
+      "showings": 1361,
+      "admissions": 7672,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-09-2020",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.17,
+      "showings": 2220,
+      "admissions": 13757,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-09-2020",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.23,
+      "showings": 2019,
+      "admissions": 12345,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-09-2020",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.26,
+      "showings": 492,
+      "admissions": 2647,
+      "days": 11,
+      "day": "2nd Sun"
+    }
+  ]
+}

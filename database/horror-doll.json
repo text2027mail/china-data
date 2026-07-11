@@ -1,0 +1,27 @@
+{
+  "movie_id": 1061481,
+  "title": "Horror Doll",
+  "releaseDate": "30-04-2026",
+  "entries": [
+    {
+      "date": "30-04-2026",
+      "rank": 19,
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 4796,
+      "admissions": 6720,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "02-05-2026",
+      "rank": 20,
+      "gross": 0.03,
+      "cume": 0.07,
+      "showings": 2945,
+      "admissions": 5833,
+      "days": 3,
+      "day": "1st Sat"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "01-02-2019",
+  "data": [
+    {
+      "movie_id": 682701,
+      "title": "",
+      "gross": 3.24,
+      "cume": 58.63,
+      "showings": 67599,
+      "admissions": 598912,
+      "rank": 1,
+      "days": 22,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 657841,
+      "title": "Once upon a Deadpool",
+      "gross": 2.61,
+      "cume": 36.88,
+      "showings": 95476,
+      "admissions": 535918,
+      "rank": 2,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 678494,
+      "title": "Bumblebee",
+      "gross": 1.77,
+      "cume": 165.2,
+      "showings": 52562,
+      "admissions": 349615,
+      "rank": 3,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 685233,
+      "title": "Escape Room",
+      "gross": 1.77,
+      "cume": 30.2,
+      "showings": 43909,
+      "admissions": 359443,
+      "rank": 4,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 675107,
+      "title": "The Big Shot",
+      "gross": 0.93,
+      "cume": 54.11,
+      "showings": 26894,
+      "admissions": 172746,
+      "rank": 5,
+      "days": 23,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 665526,
+      "title": "Aquaman",
+      "gross": 0.22,
+      "cume": 296.58,
+      "showings": 4737,
+      "admissions": 32026,
+      "rank": 6,
+      "days": 57,
+      "day": "9th Fri"
+    },
+    {
+      "movie_id": 676520,
+      "title": "Dragon Force-Rise of Ultraman",
+      "gross": 0.16,
+      "cume": 3.98,
+      "showings": 8822,
+      "admissions": 31514,
+      "rank": 7,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 684800,
+      "title": "Mortal Engines",
+      "gross": 0.1,
+      "cume": 7.2,
+      "showings": 5313,
+      "admissions": 19587,
+      "rank": 8,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 685290,
+      "title": "A Dog's Way Home",
+      "gross": 0.1,
+      "cume": 5.11,
+      "showings": 4727,
+      "admissions": 21332,
+      "rank": 9,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 684192,
+      "title": "Kill Mobile",
+      "gross": 0.08,
+      "cume": 94.46,
+      "showings": 2858,
+      "admissions": 15622,
+      "rank": 10,
+      "days": 36,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 684774,
+      "title": "I Want to Eat Your Pancreas",
+      "gross": 0.06,
+      "cume": 3.39,
+      "showings": 3361,
+      "admissions": 13305,
+      "rank": 11,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 684593,
+      "title": "Battle of Tortoise and Rabbit",
+      "gross": 0.06,
+      "cume": 1.37,
+      "showings": 44,
+      "admissions": 4420,
+      "rank": 12,
+      "days": 34,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 638565,
+      "title": "The Great Detective",
+      "gross": 0.05,
+      "cume": 1.09,
+      "showings": 7296,
+      "admissions": 10294,
+      "rank": 13,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 684504,
+      "title": "How I Became Russian",
+      "gross": 0.05,
+      "cume": 1.09,
+      "showings": 4392,
+      "admissions": 8991,
+      "rank": 14,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 684559,
+      "title": "The Stolen Princess",
+      "gross": 0.05,
+      "cume": 1.04,
+      "showings": 2168,
+      "admissions": 10240,
+      "rank": 15,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 674436,
+      "title": "Sky Stream",
+      "gross": 0.02,
+      "cume": 2.26,
+      "showings": 39,
+      "admissions": 4139,
+      "rank": 16,
+      "days": 64,
+      "day": "9th Fri"
+    },
+    {
+      "movie_id": 680396,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "gross": 0.02,
+      "cume": 63.0,
+      "showings": 843,
+      "admissions": 4452,
+      "rank": 17,
+      "days": 43,
+      "day": "7th Fri"
+    },
+    {
+      "movie_id": 669946,
+      "title": "The Fatal Love",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 60,
+      "admissions": 2020,
+      "rank": 18,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 673489,
+      "title": "Startups",
+      "gross": 0.01,
+      "cume": 1.17,
+      "showings": 515,
+      "admissions": 2630,
+      "rank": 19,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 638977,
+      "title": "Brave Rabbit 3：The Creazy Time Machine",
+      "gross": 0.01,
+      "cume": 0.68,
+      "showings": 1287,
+      "admissions": 2841,
+      "rank": 20,
+      "days": 15,
+      "day": "3rd Fri"
+    }
+  ]
+}

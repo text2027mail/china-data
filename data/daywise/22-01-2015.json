@@ -1,0 +1,225 @@
+{
+  "date": "22-01-2015",
+  "data": [
+    {
+      "movie_id": 385808,
+      "title": "",
+      "gross": 1.49,
+      "cume": 21.95,
+      "showings": 34581,
+      "admissions": 272186,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 626506,
+      "title": "Miss Granny",
+      "gross": 1.49,
+      "cume": 42.65,
+      "showings": 25630,
+      "admissions": 320146,
+      "rank": 2,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 623592,
+      "title": "Night at the Museum: Secret of the Tomb",
+      "gross": 0.82,
+      "cume": 42.16,
+      "showings": 17193,
+      "admissions": 175409,
+      "rank": 3,
+      "days": 19,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 625819,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "gross": 0.74,
+      "cume": 0.74,
+      "showings": 1774,
+      "admissions": 117758,
+      "rank": 4,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 613812,
+      "title": "The Taking Of Tiger Mountain",
+      "gross": 0.5,
+      "cume": 127.1,
+      "showings": 8924,
+      "admissions": 89477,
+      "rank": 5,
+      "days": 31,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 618610,
+      "title": "The Unbearable Lightness of Inspector Fan",
+      "gross": 0.25,
+      "cume": 3.24,
+      "showings": 12398,
+      "admissions": 54144,
+      "rank": 6,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 630478,
+      "title": "Lotus Code",
+      "gross": 0.19,
+      "cume": 2.22,
+      "showings": 2015,
+      "admissions": 36298,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 629956,
+      "title": "Kung Fu Hustle",
+      "gross": 0.19,
+      "cume": 3.54,
+      "showings": 9625,
+      "admissions": 33285,
+      "rank": 8,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 628995,
+      "title": "One Hundred Thousand Bad Jokes",
+      "gross": 0.06,
+      "cume": 17.32,
+      "showings": 2161,
+      "admissions": 13418,
+      "rank": 9,
+      "days": 23,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 629493,
+      "title": "The Grandmaster 3D",
+      "gross": 0.04,
+      "cume": 9.19,
+      "showings": 1421,
+      "admissions": 5978,
+      "rank": 10,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 620797,
+      "title": "Predestination",
+      "gross": 0.02,
+      "cume": 1.78,
+      "showings": 1222,
+      "admissions": 4159,
+      "rank": 11,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 617813,
+      "title": "Love on the cloud",
+      "gross": 0.02,
+      "cume": 42.2,
+      "showings": 896,
+      "admissions": 4389,
+      "rank": 12,
+      "days": 30,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 630521,
+      "title": "Tales of Mystery",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 236,
+      "admissions": 4366,
+      "rank": 13,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 593247,
+      "title": "Khumba",
+      "gross": 0.02,
+      "cume": 5.4,
+      "showings": 938,
+      "admissions": 3946,
+      "rank": 14,
+      "days": 23,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 615672,
+      "title": "Bloody Doll",
+      "gross": 0.02,
+      "cume": 3.78,
+      "showings": 1231,
+      "admissions": 4006,
+      "rank": 15,
+      "days": 23,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 621864,
+      "title": "The Two Faces of January",
+      "gross": 0.01,
+      "cume": 1.26,
+      "showings": 724,
+      "admissions": 2868,
+      "rank": 16,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 605517,
+      "title": "The Nut Job",
+      "gross": 0.01,
+      "cume": 5.2,
+      "showings": 539,
+      "admissions": 2632,
+      "rank": 17,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 629662,
+      "title": "Who's The One",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 1891,
+      "admissions": 2538,
+      "rank": 18,
+      "days": 77,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 620987,
+      "title": "Annie",
+      "gross": 0.0,
+      "cume": 0.49,
+      "showings": 248,
+      "admissions": 881,
+      "rank": 19,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 609631,
+      "title": "Brave Rabbit 2 Crazy Circus",
+      "gross": 0.0,
+      "cume": 3.02,
+      "showings": 320,
+      "admissions": 747,
+      "rank": 20,
+      "days": 22,
+      "day": "5th Thu"
+    }
+  ]
+}

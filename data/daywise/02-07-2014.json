@@ -1,0 +1,225 @@
+{
+  "date": "02-07-2014",
+  "data": [
+    {
+      "movie_id": 612232,
+      "title": "",
+      "gross": 13.98,
+      "cume": 142.06,
+      "showings": 50198,
+      "admissions": 2286850,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 618253,
+      "title": "Breakup Guru",
+      "gross": 4.99,
+      "cume": 38.2,
+      "showings": 30646,
+      "admissions": 1029794,
+      "rank": 2,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 625380,
+      "title": "Maleficent",
+      "gross": 0.56,
+      "cume": 37.32,
+      "showings": 6712,
+      "admissions": 106776,
+      "rank": 3,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 617329,
+      "title": "Tiny Time 3",
+      "gross": 0.06,
+      "cume": 0.11,
+      "showings": 78,
+      "admissions": 10345,
+      "rank": 4,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 626889,
+      "title": "Godzilla",
+      "gross": 0.06,
+      "cume": 70.71,
+      "showings": 1296,
+      "admissions": 10256,
+      "rank": 5,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 627649,
+      "title": "The Eternity Of Jiao Yulu",
+      "gross": 0.06,
+      "cume": 0.7,
+      "showings": 285,
+      "admissions": 16653,
+      "rank": 6,
+      "days": 48,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 627609,
+      "title": "A Noble Spirit",
+      "gross": 0.05,
+      "cume": 0.55,
+      "showings": 168,
+      "admissions": 11932,
+      "rank": 7,
+      "days": 46,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 621407,
+      "title": "Grace of Monaco",
+      "gross": 0.04,
+      "cume": 3.61,
+      "showings": 677,
+      "admissions": 6455,
+      "rank": 8,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 624654,
+      "title": "Edge of Tomorrow",
+      "gross": 0.02,
+      "cume": 59.88,
+      "showings": 471,
+      "admissions": 4401,
+      "rank": 9,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 616067,
+      "title": "Night Mail",
+      "gross": 0.01,
+      "cume": 0.92,
+      "showings": 1411,
+      "admissions": 2788,
+      "rank": 10,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.01,
+      "cume": 0.89,
+      "showings": 83,
+      "admissions": 3531,
+      "rank": 11,
+      "days": 79,
+      "day": "12th Wed"
+    },
+    {
+      "movie_id": 626911,
+      "title": "Midnight Hair",
+      "gross": 0.01,
+      "cume": 1.97,
+      "showings": 515,
+      "admissions": 2750,
+      "rank": 12,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 613881,
+      "title": "Attack of Sea Turtle",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 954,
+      "admissions": 1496,
+      "rank": 13,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 617485,
+      "title": "Bunshinsaba 3",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 4,
+      "admissions": 861,
+      "rank": 14,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 614086,
+      "title": "Zhen Hai Bao Wei Zhan",
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 7,
+      "admissions": 1283,
+      "rank": 15,
+      "days": 34,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 626986,
+      "title": "Lan Hui",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 23,
+      "admissions": 1308,
+      "rank": 16,
+      "days": 16,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 626350,
+      "title": "Who is Undercover",
+      "gross": 0.0,
+      "cume": 0.28,
+      "showings": 37,
+      "admissions": 3120,
+      "rank": 17,
+      "days": 41,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 627857,
+      "title": "Winds And Clouds In 1927",
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 32,
+      "admissions": 1190,
+      "rank": 18,
+      "days": 41,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 627456,
+      "title": "Happy Little Submarines 4 – Adventure of Octopus",
+      "gross": 0.0,
+      "cume": 7.01,
+      "showings": 88,
+      "admissions": 690,
+      "rank": 19,
+      "days": 34,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 626992,
+      "title": "The Adventures of Sinbad 2014",
+      "gross": 0.0,
+      "cume": 3.81,
+      "showings": 225,
+      "admissions": 689,
+      "rank": 20,
+      "days": 34,
+      "day": "5th Wed"
+    }
+  ]
+}

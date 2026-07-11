@@ -1,0 +1,225 @@
+{
+  "date": "08-03-2024",
+  "data": [
+    {
+      "movie_id": 596852,
+      "title": "",
+      "gross": 7.3,
+      "cume": 41.72,
+      "showings": 70287,
+      "admissions": 1269127,
+      "rank": 1,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 739312,
+      "title": "Dune: Part Two",
+      "gross": 6.35,
+      "cume": 6.35,
+      "showings": 63737,
+      "admissions": 919142,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 710288,
+      "title": "I Miss You",
+      "gross": 5.44,
+      "cume": 5.44,
+      "showings": 74884,
+      "admissions": 897880,
+      "rank": 3,
+      "days": 1,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 735035,
+      "title": "Article 20",
+      "gross": 3.87,
+      "cume": 343.05,
+      "showings": 47790,
+      "admissions": 647131,
+      "rank": 4,
+      "days": 28,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 737452,
+      "title": "Pegasus 2",
+      "gross": 2.67,
+      "cume": 482.99,
+      "showings": 49892,
+      "admissions": 432149,
+      "rank": 5,
+      "days": 28,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 716595,
+      "title": "Yolo",
+      "gross": 1.72,
+      "cume": 500.69,
+      "showings": 29320,
+      "admissions": 288487,
+      "rank": 6,
+      "days": 28,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 739598,
+      "title": "Boonie Bears:Time Twist",
+      "gross": 0.61,
+      "cume": 279.33,
+      "showings": 14834,
+      "admissions": 101107,
+      "rank": 7,
+      "days": 28,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 745229,
+      "title": "Remember Me",
+      "gross": 0.59,
+      "cume": 0.63,
+      "showings": 10764,
+      "admissions": 108643,
+      "rank": 8,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 711952,
+      "title": "Off the Stage",
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 5171,
+      "admissions": 12735,
+      "rank": 9,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 741899,
+      "title": "Great Love Dunhuang",
+      "gross": 0.04,
+      "cume": 1.36,
+      "showings": 57,
+      "admissions": 4565,
+      "rank": 10,
+      "days": 113,
+      "day": "17th Fri"
+    },
+    {
+      "movie_id": 708416,
+      "title": "PATHFINDERS",
+      "gross": 0.03,
+      "cume": 4.06,
+      "showings": 50,
+      "admissions": 5436,
+      "rank": 11,
+      "days": 194,
+      "day": "27th Fri"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.03,
+      "cume": 38.49,
+      "showings": 468,
+      "admissions": 3812,
+      "rank": 12,
+      "days": 869,
+      "day": "125th Fri"
+    },
+    {
+      "movie_id": 710176,
+      "title": "A woman",
+      "gross": 0.03,
+      "cume": 0.04,
+      "showings": 251,
+      "admissions": 6346,
+      "rank": 13,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 747822,
+      "title": "Corro da te",
+      "gross": 0.03,
+      "cume": 0.04,
+      "showings": 4512,
+      "admissions": 4616,
+      "rank": 14,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 745267,
+      "title": "Room 6 At Midnight",
+      "gross": 0.03,
+      "cume": 0.42,
+      "showings": 2154,
+      "admissions": 6491,
+      "rank": 15,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 713368,
+      "title": "The Lone Warriors",
+      "gross": 0.03,
+      "cume": 4.26,
+      "showings": 40,
+      "admissions": 4348,
+      "rank": 16,
+      "days": 72,
+      "day": "11th Fri"
+    },
+    {
+      "movie_id": 741165,
+      "title": "Beyond The Clouds",
+      "gross": 0.02,
+      "cume": 14.75,
+      "showings": 58,
+      "admissions": 4685,
+      "rank": 17,
+      "days": 106,
+      "day": "17th Fri"
+    },
+    {
+      "movie_id": 714218,
+      "title": "The Killing Performance",
+      "gross": 0.02,
+      "cume": 1.22,
+      "showings": 1284,
+      "admissions": 4064,
+      "rank": 18,
+      "days": 7,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 745628,
+      "title": "Table For Six 2",
+      "gross": 0.02,
+      "cume": 2.54,
+      "showings": 677,
+      "admissions": 3641,
+      "rank": 19,
+      "days": 14,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 713398,
+      "title": "Turning Point",
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 174,
+      "admissions": 3527,
+      "rank": 20,
+      "days": null,
+      "day": "2nd Fri"
+    }
+  ]
+}

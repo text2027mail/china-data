@@ -1,0 +1,507 @@
+{
+  "movie_id": 589946,
+  "title": "Forever Young",
+  "releaseDate": "09-01-2018",
+  "entries": [
+    {
+      "date": "09-01-2018",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 116,
+      "admissions": 12459,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "10-01-2018",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 27,
+      "admissions": 1980,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "11-01-2018",
+      "rank": 10,
+      "gross": 0.07,
+      "cume": 0.17,
+      "showings": 618,
+      "admissions": 15718,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "12-01-2018",
+      "rank": 3,
+      "gross": 5.24,
+      "cume": 5.42,
+      "showings": 57391,
+      "admissions": 1236441,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-01-2018",
+      "rank": 3,
+      "gross": 7.2,
+      "cume": 12.61,
+      "showings": 54870,
+      "admissions": 1598732,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-01-2018",
+      "rank": 2,
+      "gross": 7.98,
+      "cume": 20.59,
+      "showings": 54889,
+      "admissions": 1722886,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "15-01-2018",
+      "rank": 2,
+      "gross": 4.95,
+      "cume": 25.55,
+      "showings": 57019,
+      "admissions": 1083868,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "16-01-2018",
+      "rank": 1,
+      "gross": 5.39,
+      "cume": 30.94,
+      "showings": 62758,
+      "admissions": 1185110,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "17-01-2018",
+      "rank": 1,
+      "gross": 5.74,
+      "cume": 36.68,
+      "showings": 66455,
+      "admissions": 1251977,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "18-01-2018",
+      "rank": 1,
+      "gross": 5.65,
+      "cume": 42.33,
+      "showings": 65836,
+      "admissions": 1233423,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "19-01-2018",
+      "rank": 2,
+      "gross": 4.87,
+      "cume": 47.2,
+      "showings": 30994,
+      "admissions": 1035083,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "20-01-2018",
+      "rank": 2,
+      "gross": 9.26,
+      "cume": 56.46,
+      "showings": 45321,
+      "admissions": 1943525,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "21-01-2018",
+      "rank": 2,
+      "gross": 8.22,
+      "cume": 64.68,
+      "showings": 51727,
+      "admissions": 1719980,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "22-01-2018",
+      "rank": 2,
+      "gross": 3.89,
+      "cume": 68.57,
+      "showings": 53274,
+      "admissions": 839473,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "23-01-2018",
+      "rank": 2,
+      "gross": 3.65,
+      "cume": 72.22,
+      "showings": 54770,
+      "admissions": 798856,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "24-01-2018",
+      "rank": 2,
+      "gross": 3.28,
+      "cume": 75.5,
+      "showings": 55215,
+      "admissions": 711751,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "25-01-2018",
+      "rank": 2,
+      "gross": 2.97,
+      "cume": 78.47,
+      "showings": 54933,
+      "admissions": 641209,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "26-01-2018",
+      "rank": 3,
+      "gross": 2.94,
+      "cume": 81.41,
+      "showings": 38175,
+      "admissions": 628565,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "27-01-2018",
+      "rank": 3,
+      "gross": 4.36,
+      "cume": 85.77,
+      "showings": 39517,
+      "admissions": 914402,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "28-01-2018",
+      "rank": 3,
+      "gross": 4.08,
+      "cume": 89.85,
+      "showings": 40003,
+      "admissions": 861164,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "29-01-2018",
+      "rank": 3,
+      "gross": 1.98,
+      "cume": 91.83,
+      "showings": 40727,
+      "admissions": 432007,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "30-01-2018",
+      "rank": 3,
+      "gross": 1.91,
+      "cume": 93.74,
+      "showings": 41046,
+      "admissions": 418701,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "date": "31-01-2018",
+      "rank": 3,
+      "gross": 1.82,
+      "cume": 95.56,
+      "showings": 41072,
+      "admissions": 401881,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "date": "01-02-2018",
+      "rank": 4,
+      "gross": 1.4,
+      "cume": 96.96,
+      "showings": 31197,
+      "admissions": 298804,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "date": "02-02-2018",
+      "rank": 6,
+      "gross": 1.09,
+      "cume": 98.05,
+      "showings": 17340,
+      "admissions": 225769,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "date": "03-02-2018",
+      "rank": 6,
+      "gross": 1.68,
+      "cume": 99.72,
+      "showings": 18875,
+      "admissions": 340029,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "date": "04-02-2018",
+      "rank": 5,
+      "gross": 1.64,
+      "cume": 101.37,
+      "showings": 19945,
+      "admissions": 338448,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "date": "05-02-2018",
+      "rank": 4,
+      "gross": 0.9,
+      "cume": 102.27,
+      "showings": 22119,
+      "admissions": 191720,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "date": "06-02-2018",
+      "rank": 4,
+      "gross": 0.89,
+      "cume": 103.16,
+      "showings": 22760,
+      "admissions": 191662,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "date": "07-02-2018",
+      "rank": 4,
+      "gross": 0.87,
+      "cume": 104.03,
+      "showings": 23026,
+      "admissions": 188193,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "date": "08-02-2018",
+      "rank": 4,
+      "gross": 0.89,
+      "cume": 104.92,
+      "showings": 23247,
+      "admissions": 192596,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "date": "09-02-2018",
+      "rank": 5,
+      "gross": 0.92,
+      "cume": 105.85,
+      "showings": 20436,
+      "admissions": 195735,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "date": "10-02-2018",
+      "rank": 4,
+      "gross": 1.22,
+      "cume": 107.07,
+      "showings": 21922,
+      "admissions": 254633,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "date": "11-02-2018",
+      "rank": 4,
+      "gross": 0.96,
+      "cume": 108.03,
+      "showings": 22385,
+      "admissions": 205256,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "date": "12-02-2018",
+      "rank": 4,
+      "gross": 0.89,
+      "cume": 108.92,
+      "showings": 22046,
+      "admissions": 191806,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "date": "13-02-2018",
+      "rank": 4,
+      "gross": 0.86,
+      "cume": 109.78,
+      "showings": 20825,
+      "admissions": 187579,
+      "days": 33,
+      "day": "6th Tue"
+    },
+    {
+      "date": "14-02-2018",
+      "rank": 4,
+      "gross": 0.99,
+      "cume": 110.77,
+      "showings": 12519,
+      "admissions": 204420,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "date": "15-02-2018",
+      "rank": 6,
+      "gross": 0.3,
+      "cume": 111.07,
+      "showings": 9767,
+      "admissions": 63522,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "date": "18-02-2018",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 111.1,
+      "showings": 70,
+      "admissions": 2183,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "date": "19-02-2018",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 111.13,
+      "showings": 125,
+      "admissions": 3585,
+      "days": 39,
+      "day": "6th Mon"
+    },
+    {
+      "date": "20-02-2018",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 111.15,
+      "showings": 149,
+      "admissions": 4137,
+      "days": 40,
+      "day": "7th Tue"
+    },
+    {
+      "date": "21-02-2018",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 111.18,
+      "showings": 166,
+      "admissions": 3980,
+      "days": 41,
+      "day": "7th Wed"
+    },
+    {
+      "date": "22-02-2018",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 111.19,
+      "showings": 172,
+      "admissions": 2642,
+      "days": 42,
+      "day": "7th Thu"
+    },
+    {
+      "date": "23-02-2018",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 111.21,
+      "showings": 142,
+      "admissions": 2432,
+      "days": 43,
+      "day": "7th Fri"
+    },
+    {
+      "date": "24-02-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 111.22,
+      "showings": 146,
+      "admissions": 2335,
+      "days": 44,
+      "day": "7th Sat"
+    },
+    {
+      "date": "25-02-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 111.24,
+      "showings": 153,
+      "admissions": 2502,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "date": "26-02-2018",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 111.24,
+      "showings": 171,
+      "admissions": 1470,
+      "days": 46,
+      "day": "7th Mon"
+    },
+    {
+      "date": "27-02-2018",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 111.25,
+      "showings": 175,
+      "admissions": 1263,
+      "days": 47,
+      "day": "8th Tue"
+    },
+    {
+      "date": "28-02-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 111.26,
+      "showings": 173,
+      "admissions": 1193,
+      "days": 48,
+      "day": "8th Wed"
+    },
+    {
+      "date": "01-03-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 111.26,
+      "showings": 190,
+      "admissions": 1396,
+      "days": 49,
+      "day": "8th Thu"
+    }
+  ]
+}

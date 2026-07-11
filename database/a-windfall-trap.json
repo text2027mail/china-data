@@ -1,0 +1,57 @@
+{
+  "movie_id": 672764,
+  "title": "A Windfall Trap",
+  "releaseDate": "28-12-2019",
+  "entries": [
+    {
+      "date": "28-12-2019",
+      "rank": 14,
+      "gross": 0.12,
+      "cume": 0.12,
+      "showings": 6021,
+      "admissions": 17316,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-12-2019",
+      "rank": 15,
+      "gross": 0.08,
+      "cume": 0.2,
+      "showings": 3349,
+      "admissions": 11251,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-12-2019",
+      "rank": 9,
+      "gross": 0.15,
+      "cume": 0.35,
+      "showings": 1978,
+      "admissions": 22818,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-12-2019",
+      "rank": 13,
+      "gross": 0.15,
+      "cume": 0.5,
+      "showings": 368,
+      "admissions": 21420,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-01-2020",
+      "rank": 19,
+      "gross": 0.08,
+      "cume": 0.58,
+      "showings": 212,
+      "admissions": 11831,
+      "days": 5,
+      "day": "1st Wed"
+    }
+  ]
+}

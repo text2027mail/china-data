@@ -1,0 +1,97 @@
+{
+  "movie_id": 641056,
+  "title": "The Haunted Cinema 2",
+  "releaseDate": "19-10-2017",
+  "entries": [
+    {
+      "date": "19-10-2017",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 2392,
+      "admissions": 10984,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "20-10-2017",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.11,
+      "showings": 2884,
+      "admissions": 13924,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-10-2017",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.17,
+      "showings": 2708,
+      "admissions": 14032,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-10-2017",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.21,
+      "showings": 2580,
+      "admissions": 9276,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-10-2017",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.24,
+      "showings": 2546,
+      "admissions": 6885,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-10-2017",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 0.27,
+      "showings": 2441,
+      "admissions": 6201,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-10-2017",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.29,
+      "showings": 2532,
+      "admissions": 5922,
+      "days": 7,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-10-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.33,
+      "showings": 638,
+      "admissions": 1032,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "01-11-2017",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.35,
+      "showings": 730,
+      "admissions": 1271,
+      "days": 14,
+      "day": "2nd Wed"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "movie_id": 666460,
+  "title": "Mad Ebriety",
+  "releaseDate": "29-12-2018",
+  "entries": [
+    {
+      "date": "29-12-2018",
+      "rank": 3,
+      "gross": 3.53,
+      "cume": 3.53,
+      "showings": 74013,
+      "admissions": 690108,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "30-12-2018",
+      "rank": 5,
+      "gross": 1.88,
+      "cume": 5.41,
+      "showings": 44753,
+      "admissions": 358003,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "31-12-2018",
+      "rank": 7,
+      "gross": 1.13,
+      "cume": 6.54,
+      "showings": 19165,
+      "admissions": 217524,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-01-2019",
+      "rank": 9,
+      "gross": 0.53,
+      "cume": 7.06,
+      "showings": 15484,
+      "admissions": 103639,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "02-01-2019",
+      "rank": 8,
+      "gross": 0.12,
+      "cume": 7.18,
+      "showings": 14344,
+      "admissions": 25405,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-01-2019",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 7.29,
+      "showings": 13533,
+      "admissions": 21453,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "04-01-2019",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 7.31,
+      "showings": 2282,
+      "admissions": 4413,
+      "days": 7,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-01-2019",
+      "rank": 18,
+      "gross": 0.03,
+      "cume": 7.34,
+      "showings": 1933,
+      "admissions": 7607,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "07-01-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 7.38,
+      "showings": 2260,
+      "admissions": 3094,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "08-01-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 7.39,
+      "showings": 2015,
+      "admissions": 2868,
+      "days": 11,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "09-01-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 7.41,
+      "showings": 1931,
+      "admissions": 2466,
+      "days": 12,
+      "day": "2nd Wed"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "movie_id": 659563,
+  "title": "Inference Notes",
+  "releaseDate": "12-11-2017",
+  "entries": [
+    {
+      "date": "12-11-2017",
+      "rank": 20,
+      "gross": 0.05,
+      "cume": 0.1,
+      "showings": 77,
+      "admissions": 10329,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "24-11-2017",
+      "rank": 5,
+      "gross": 0.53,
+      "cume": 0.66,
+      "showings": 27555,
+      "admissions": 133335,
+      "days": 1,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "25-11-2017",
+      "rank": 8,
+      "gross": 0.41,
+      "cume": 1.07,
+      "showings": 20593,
+      "admissions": 100926,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "26-11-2017",
+      "rank": 9,
+      "gross": 0.23,
+      "cume": 1.3,
+      "showings": 17143,
+      "admissions": 55353,
+      "days": 3,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "27-11-2017",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 1.37,
+      "showings": 14300,
+      "admissions": 16328,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "28-11-2017",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 1.42,
+      "showings": 11352,
+      "admissions": 11724,
+      "days": 5,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "29-11-2017",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 1.46,
+      "showings": 10447,
+      "admissions": 9446,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "30-11-2017",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 1.49,
+      "showings": 9532,
+      "admissions": 8441,
+      "days": 7,
+      "day": "3rd Thu"
+    }
+  ]
+}

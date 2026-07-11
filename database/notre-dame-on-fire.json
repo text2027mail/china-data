@@ -1,0 +1,37 @@
+{
+  "movie_id": 736566,
+  "title": "Notre-Dame On Fire",
+  "releaseDate": "08-04-2023",
+  "entries": [
+    {
+      "date": "08-04-2023",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.05,
+      "showings": 5809,
+      "admissions": 5922,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-04-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 1036,
+      "admissions": 1331,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-04-2023",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 749,
+      "admissions": 1521,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

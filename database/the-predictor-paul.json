@@ -1,0 +1,47 @@
+{
+  "movie_id": 619657,
+  "title": "The Predictor Paul",
+  "releaseDate": "04-07-2014",
+  "entries": [
+    {
+      "date": "04-07-2014",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 377,
+      "admissions": 791,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-07-2014",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 515,
+      "admissions": 2594,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "06-07-2014",
+      "rank": 11,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 459,
+      "admissions": 2342,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "07-07-2014",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 293,
+      "admissions": 685,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

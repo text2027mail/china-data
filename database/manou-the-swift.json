@@ -1,0 +1,47 @@
+{
+  "movie_id": 643987,
+  "title": "Manou the Swift",
+  "releaseDate": "28-12-2019",
+  "entries": [
+    {
+      "date": "28-12-2019",
+      "rank": 11,
+      "gross": 0.23,
+      "cume": 0.23,
+      "showings": 10165,
+      "admissions": 55515,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-12-2019",
+      "rank": 12,
+      "gross": 0.19,
+      "cume": 0.42,
+      "showings": 8492,
+      "admissions": 44623,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "31-12-2019",
+      "rank": 19,
+      "gross": 0.05,
+      "cume": 0.48,
+      "showings": 1236,
+      "admissions": 11865,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-01-2020",
+      "rank": 16,
+      "gross": 0.13,
+      "cume": 0.62,
+      "showings": 3337,
+      "admissions": 31857,
+      "days": 5,
+      "day": "1st Wed"
+    }
+  ]
+}

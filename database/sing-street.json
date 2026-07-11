@@ -1,0 +1,37 @@
+{
+  "movie_id": 656900,
+  "title": "Sing Street",
+  "releaseDate": "07-08-2020",
+  "entries": [
+    {
+      "date": "07-08-2020",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 4141,
+      "admissions": 5173,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-08-2020",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 2538,
+      "admissions": 4944,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "25-02-2024",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 3,
+      "admissions": 339,
+      "days": 1298,
+      "day": "186th Sun"
+    }
+  ]
+}

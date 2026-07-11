@@ -1,0 +1,225 @@
+{
+  "date": "19-11-2014",
+  "data": [
+    {
+      "movie_id": 346481,
+      "title": "",
+      "gross": 4.1,
+      "cume": 53.23,
+      "showings": 32235,
+      "admissions": 785557,
+      "rank": 1,
+      "days": 8,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 617708,
+      "title": "Don't Go Breaking My Heart 2",
+      "gross": 1.13,
+      "cume": 24.77,
+      "showings": 22246,
+      "admissions": 230075,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 629859,
+      "title": "Penguins of Madagascar",
+      "gross": 0.91,
+      "cume": 13.44,
+      "showings": 17673,
+      "admissions": 178142,
+      "rank": 3,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 396577,
+      "title": "Teenage Mutant Ninja Turtles",
+      "gross": 0.29,
+      "cume": 56.15,
+      "showings": 9750,
+      "admissions": 58300,
+      "rank": 4,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 629659,
+      "title": "Haunted Road",
+      "gross": 0.18,
+      "cume": 1.73,
+      "showings": 6115,
+      "admissions": 43837,
+      "rank": 5,
+      "days": 7,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 611212,
+      "title": "The Nightingale",
+      "gross": 0.18,
+      "cume": 1.72,
+      "showings": 481,
+      "admissions": 38477,
+      "rank": 6,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 628178,
+      "title": "The Galaxy On The Earth",
+      "gross": 0.13,
+      "cume": 0.37,
+      "showings": 550,
+      "admissions": 27178,
+      "rank": 7,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 626573,
+      "title": "For Love Or Money",
+      "gross": 0.12,
+      "cume": 8.93,
+      "showings": 5635,
+      "admissions": 28162,
+      "rank": 8,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 621389,
+      "title": "The Maze Runner",
+      "gross": 0.06,
+      "cume": 22.05,
+      "showings": 1707,
+      "admissions": 11655,
+      "rank": 9,
+      "days": 23,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 629449,
+      "title": "Mystery",
+      "gross": 0.05,
+      "cume": 0.64,
+      "showings": 4429,
+      "admissions": 13078,
+      "rank": 10,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 616526,
+      "title": "Kung Fu Jungle",
+      "gross": 0.05,
+      "cume": 17.37,
+      "showings": 2522,
+      "admissions": 10385,
+      "rank": 11,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 627468,
+      "title": "Lucy",
+      "gross": 0.04,
+      "cume": 40.93,
+      "showings": 1062,
+      "admissions": 6926,
+      "rank": 12,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 626950,
+      "title": "The Boundary",
+      "gross": 0.02,
+      "cume": 5.13,
+      "showings": 1156,
+      "admissions": 3940,
+      "rank": 13,
+      "days": 14,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 589812,
+      "title": "All",
+      "gross": 0.01,
+      "cume": 24.54,
+      "showings": 16,
+      "admissions": 3060,
+      "rank": 14,
+      "days": 1389,
+      "day": "95th Wed"
+    },
+    {
+      "movie_id": 587766,
+      "title": "The Detective 2",
+      "gross": 0.01,
+      "cume": 3.59,
+      "showings": 18,
+      "admissions": 2805,
+      "rank": 15,
+      "days": 1301,
+      "day": "51st Wed"
+    },
+    {
+      "movie_id": 627466,
+      "title": "African Safari",
+      "gross": 0.01,
+      "cume": 1.19,
+      "showings": 284,
+      "admissions": 1432,
+      "rank": 16,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 617988,
+      "title": "Rise of the Legend",
+      "gross": 0.01,
+      "cume": 0.91,
+      "showings": 20,
+      "admissions": 1521,
+      "rank": 17,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 573396,
+      "title": "The Four",
+      "gross": 0.01,
+      "cume": 28.7,
+      "showings": 13,
+      "admissions": 2110,
+      "rank": 18,
+      "days": 861,
+      "day": "60th Wed"
+    },
+    {
+      "movie_id": 609111,
+      "title": "An Inaccurate Memoir",
+      "gross": 0.01,
+      "cume": 3.84,
+      "showings": 8,
+      "admissions": 1527,
+      "rank": 19,
+      "days": 941,
+      "day": "50th Wed"
+    },
+    {
+      "movie_id": 610009,
+      "title": "Lost In Thailand",
+      "gross": 0.01,
+      "cume": 187.06,
+      "showings": 20,
+      "admissions": 1645,
+      "rank": 20,
+      "days": 708,
+      "day": "99th Wed"
+    }
+  ]
+}

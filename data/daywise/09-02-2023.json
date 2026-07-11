@@ -1,0 +1,225 @@
+{
+  "date": "09-02-2023",
+  "data": [
+    {
+      "movie_id": 704382,
+      "title": "",
+      "gross": 3.78,
+      "cume": 515.72,
+      "showings": 77993,
+      "admissions": 562568,
+      "rank": 1,
+      "days": 19,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 713237,
+      "title": "Full River Red",
+      "gross": 3.66,
+      "cume": 607.33,
+      "showings": 78540,
+      "admissions": 569849,
+      "rank": 2,
+      "days": 19,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 1.41,
+      "cume": 104.71,
+      "showings": 33688,
+      "admissions": 221516,
+      "rank": 3,
+      "days": 19,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 707469,
+      "title": "Hidden Blade",
+      "gross": 1.24,
+      "cume": 121.22,
+      "showings": 22239,
+      "admissions": 167251,
+      "rank": 4,
+      "days": 19,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 734256,
+      "title": "Black Panther: Wakanda Forever",
+      "gross": 1.22,
+      "cume": 6.0,
+      "showings": 49382,
+      "admissions": 206800,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 733627,
+      "title": "Boonie Bears: Guardian Code",
+      "gross": 0.7,
+      "cume": 190.53,
+      "showings": 21653,
+      "admissions": 112151,
+      "rank": 6,
+      "days": 19,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 708388,
+      "title": "Five Hundred Miles",
+      "gross": 0.3,
+      "cume": 54.17,
+      "showings": 12679,
+      "admissions": 47644,
+      "rank": 7,
+      "days": 19,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 683508,
+      "title": "Where the Wind Blows",
+      "gross": 0.2,
+      "cume": 5.76,
+      "showings": 10432,
+      "admissions": 31410,
+      "rank": 8,
+      "days": 5,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 612244,
+      "title": "Avatar: The Way of Water",
+      "gross": 0.16,
+      "cume": 245.78,
+      "showings": 3609,
+      "admissions": 25018,
+      "rank": 9,
+      "days": 56,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.04,
+      "cume": 32.03,
+      "showings": 300,
+      "admissions": 8794,
+      "rank": 10,
+      "days": 133,
+      "day": "20th Thu"
+    },
+    {
+      "movie_id": 681235,
+      "title": "Above The Rainbow",
+      "gross": 0.02,
+      "cume": 0.45,
+      "showings": 219,
+      "admissions": 2869,
+      "rank": 11,
+      "days": 197,
+      "day": "28th Thu"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 0.01,
+      "cume": 59.21,
+      "showings": 212,
+      "admissions": 1144,
+      "rank": 12,
+      "days": 48,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 700622,
+      "title": "Beautiful Life",
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 32,
+      "admissions": 982,
+      "rank": 13,
+      "days": 84,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.0,
+      "cume": 6.79,
+      "showings": 235,
+      "admissions": 751,
+      "rank": 14,
+      "days": 49,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 1.3,
+      "showings": 4,
+      "admissions": 715,
+      "rank": 15,
+      "days": 1318,
+      "day": "80th Thu"
+    },
+    {
+      "movie_id": 696270,
+      "title": "Restaurant in a tree",
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 26,
+      "admissions": 703,
+      "rank": 16,
+      "days": 41,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 385143,
+      "title": "Space Station 3D",
+      "gross": 0.0,
+      "cume": 0.19,
+      "showings": 2,
+      "admissions": 566,
+      "rank": 17,
+      "days": null,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 703781,
+      "title": "Ready to go",
+      "gross": 0.0,
+      "cume": 0.3,
+      "showings": 162,
+      "admissions": 419,
+      "rank": 18,
+      "days": 196,
+      "day": "19th Thu"
+    },
+    {
+      "movie_id": 685389,
+      "title": "Shen Hai Tan Xian",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 2,
+      "admissions": 461,
+      "rank": 19,
+      "days": null,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 659773,
+      "title": "Journey to Space",
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 6,
+      "admissions": 252,
+      "rank": 20,
+      "days": null,
+      "day": "4th Thu"
+    }
+  ]
+}

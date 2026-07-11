@@ -1,0 +1,77 @@
+{
+  "movie_id": 573566,
+  "title": "The Summer of Our Graduation",
+  "releaseDate": "29-08-2014",
+  "entries": [
+    {
+      "date": "29-08-2014",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 3007,
+      "admissions": 11062,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-08-2014",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.09,
+      "showings": 2503,
+      "admissions": 10097,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "31-08-2014",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.13,
+      "showings": 2307,
+      "admissions": 8359,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "01-09-2014",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 933,
+      "admissions": 1248,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-09-2014",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.14,
+      "showings": 871,
+      "admissions": 1176,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-09-2014",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.14,
+      "showings": 808,
+      "admissions": 1006,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "04-09-2014",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.14,
+      "showings": 791,
+      "admissions": 914,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

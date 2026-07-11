@@ -1,0 +1,57 @@
+{
+  "movie_id": 663120,
+  "title": "Hello My Dog",
+  "releaseDate": "19-06-2018",
+  "entries": [
+    {
+      "date": "19-06-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 22,
+      "admissions": 1951,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "21-06-2018",
+      "rank": 7,
+      "gross": 0.1,
+      "cume": 0.12,
+      "showings": 10271,
+      "admissions": 23648,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "22-06-2018",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 3190,
+      "admissions": 3858,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-06-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 2562,
+      "admissions": 3399,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-06-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 2359,
+      "admissions": 2824,
+      "days": 4,
+      "day": "1st Sun"
+    }
+  ]
+}

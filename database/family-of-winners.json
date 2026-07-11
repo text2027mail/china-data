@@ -1,0 +1,37 @@
+{
+  "movie_id": 643330,
+  "title": "Family of Winners",
+  "releaseDate": "28-11-2017",
+  "entries": [
+    {
+      "date": "28-11-2017",
+      "rank": 5,
+      "gross": 0.33,
+      "cume": 0.34,
+      "showings": 9306,
+      "admissions": 57864,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "29-11-2017",
+      "rank": 6,
+      "gross": 0.17,
+      "cume": 0.51,
+      "showings": 6424,
+      "admissions": 26558,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-11-2017",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.58,
+      "showings": 4983,
+      "admissions": 13096,
+      "days": 3,
+      "day": "1st Thu"
+    }
+  ]
+}

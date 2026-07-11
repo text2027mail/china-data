@@ -1,0 +1,225 @@
+{
+  "date": "23-05-2014",
+  "data": [
+    {
+      "movie_id": 620389,
+      "title": "",
+      "gross": 9.75,
+      "cume": 10.24,
+      "showings": 37528,
+      "admissions": 1786753,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 616513,
+      "title": "Coming Home",
+      "gross": 2.01,
+      "cume": 24.72,
+      "showings": 20316,
+      "admissions": 395081,
+      "rank": 2,
+      "days": 8,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 619279,
+      "title": "The Amazing Spider-Man 2",
+      "gross": 0.63,
+      "cume": 81.81,
+      "showings": 9859,
+      "admissions": 104588,
+      "rank": 3,
+      "days": 20,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 616332,
+      "title": "The Great Hypnotist",
+      "gross": 0.19,
+      "cume": 39.23,
+      "showings": 3945,
+      "admissions": 38596,
+      "rank": 4,
+      "days": 25,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 609338,
+      "title": "My Old Classmate",
+      "gross": 0.12,
+      "cume": 66.51,
+      "showings": 3327,
+      "admissions": 24588,
+      "rank": 5,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 619651,
+      "title": "Broadcasting Girl",
+      "gross": 0.09,
+      "cume": 1.37,
+      "showings": 5577,
+      "admissions": 19842,
+      "rank": 6,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 618370,
+      "title": "Impetuous Love in Action",
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 5586,
+      "admissions": 15398,
+      "rank": 7,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 627009,
+      "title": "Love Suspects",
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 3215,
+      "admissions": 14493,
+      "rank": 8,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 626350,
+      "title": "Who is Undercover",
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 4132,
+      "admissions": 10054,
+      "rank": 9,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 626867,
+      "title": "The Outback",
+      "gross": 0.02,
+      "cume": 3.84,
+      "showings": 844,
+      "admissions": 4349,
+      "rank": 10,
+      "days": 23,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 709408,
+      "title": "Genuine Love",
+      "gross": 0.02,
+      "cume": 0.15,
+      "showings": 118,
+      "admissions": 5012,
+      "rank": 11,
+      "days": null,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 619430,
+      "title": "A Chinese Anthem from the Roof of the World",
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 18,
+      "admissions": 1732,
+      "rank": 12,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 718,
+      "title": "Jiao Yulu",
+      "gross": 0.01,
+      "cume": 0.51,
+      "showings": 48,
+      "admissions": 3331,
+      "rank": 13,
+      "days": 827,
+      "day": "8th Fri"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.01,
+      "cume": 0.73,
+      "showings": 50,
+      "admissions": 3342,
+      "rank": 14,
+      "days": 39,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 402729,
+      "title": "X2",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 54,
+      "admissions": 2449,
+      "rank": 15,
+      "days": 3900,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 4480,
+      "title": "Tactical Unit: The Code",
+      "gross": 0.01,
+      "cume": 1.21,
+      "showings": 12,
+      "admissions": 2545,
+      "rank": 16,
+      "days": 1863,
+      "day": "52nd Fri"
+    },
+    {
+      "movie_id": 3801,
+      "title": "Brothers",
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 16,
+      "admissions": 2520,
+      "rank": 17,
+      "days": 2410,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 618522,
+      "title": "Hummingbird",
+      "gross": 0.01,
+      "cume": 4.72,
+      "showings": 593,
+      "admissions": 1974,
+      "rank": 18,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 5044,
+      "title": "Sparrow",
+      "gross": 0.01,
+      "cume": 2.2,
+      "showings": 8,
+      "admissions": 2350,
+      "rank": 19,
+      "days": 2101,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.01,
+      "cume": 8.72,
+      "showings": 18,
+      "admissions": 2019,
+      "rank": 20,
+      "days": 312,
+      "day": "46th Fri"
+    }
+  ]
+}

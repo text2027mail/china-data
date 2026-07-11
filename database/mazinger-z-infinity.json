@@ -1,0 +1,37 @@
+{
+  "movie_id": 676653,
+  "title": "Mazinger Z: Infinity",
+  "releaseDate": "08-03-2019",
+  "entries": [
+    {
+      "date": "08-03-2019",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1614,
+      "admissions": 2964,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-03-2019",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 1128,
+      "admissions": 3272,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-03-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 889,
+      "admissions": 2551,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

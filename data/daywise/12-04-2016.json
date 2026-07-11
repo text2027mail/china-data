@@ -1,0 +1,225 @@
+{
+  "date": "12-04-2016",
+  "data": [
+    {
+      "movie_id": 637145,
+      "title": "",
+      "gross": 3.35,
+      "cume": 30.54,
+      "showings": 59897,
+      "admissions": 722121,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 617763,
+      "title": "Chongqing Hot Pot",
+      "gross": 1.4,
+      "cume": 49.13,
+      "showings": 38556,
+      "admissions": 301541,
+      "rank": 2,
+      "days": 12,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 628035,
+      "title": "The Bodyguard",
+      "gross": 0.88,
+      "cume": 45.46,
+      "showings": 31559,
+      "admissions": 191018,
+      "rank": 3,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 643235,
+      "title": "Zootopia",
+      "gross": 0.43,
+      "cume": 223.11,
+      "showings": 17493,
+      "admissions": 91972,
+      "rank": 4,
+      "days": 40,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 637810,
+      "title": "Who Sleeps My Bro",
+      "gross": 0.29,
+      "cume": 17.78,
+      "showings": 16052,
+      "admissions": 68530,
+      "rank": 5,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 643388,
+      "title": "Batman v Superman: Dawn of Justice",
+      "gross": 0.27,
+      "cume": 90.53,
+      "showings": 12104,
+      "admissions": 50111,
+      "rank": 6,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 643227,
+      "title": "The Boy",
+      "gross": 0.07,
+      "cume": 2.28,
+      "showings": 3459,
+      "admissions": 17577,
+      "rank": 7,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 642886,
+      "title": "The Revenant",
+      "gross": 0.07,
+      "cume": 55.5,
+      "showings": 2481,
+      "admissions": 13800,
+      "rank": 8,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 639351,
+      "title": "Kung Fu Panda 3",
+      "gross": 0.02,
+      "cume": 147.63,
+      "showings": 119,
+      "admissions": 5002,
+      "rank": 9,
+      "days": 75,
+      "day": "13th Tue"
+    },
+    {
+      "movie_id": 639474,
+      "title": "My Wife is a Superstar",
+      "gross": 0.02,
+      "cume": 0.17,
+      "showings": 2381,
+      "admissions": 4049,
+      "rank": 10,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 642967,
+      "title": "Ghost Neighbor",
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 1348,
+      "admissions": 4693,
+      "rank": 11,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 594070,
+      "title": "Midnight Record Search",
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 1516,
+      "admissions": 3559,
+      "rank": 12,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 626153,
+      "title": "The Mermaid",
+      "gross": 0.01,
+      "cume": 500.45,
+      "showings": 464,
+      "admissions": 2115,
+      "rank": 13,
+      "days": 65,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 642530,
+      "title": "The White-haired Girl",
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 189,
+      "admissions": 2059,
+      "rank": 14,
+      "days": 19,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 630583,
+      "title": "New York New York",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 9,
+      "admissions": 1142,
+      "rank": 15,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 572888,
+      "title": "Xuan Yuan The Great Emperor",
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 267,
+      "admissions": 1719,
+      "rank": 16,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 629520,
+      "title": "Lost In White",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 7,
+      "admissions": 626,
+      "rank": 17,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 7861,
+      "title": "Behind The Yellow Line",
+      "gross": 0.0,
+      "cume": 2.04,
+      "showings": 304,
+      "admissions": 648,
+      "rank": 18,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 637664,
+      "title": "The Rise of A Tomboy",
+      "gross": 0.0,
+      "cume": 9.34,
+      "showings": 278,
+      "admissions": 555,
+      "rank": 19,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 630366,
+      "title": "When We Were Young",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 1,
+      "admissions": 345,
+      "rank": 20,
+      "days": null,
+      "day": "1st Tue"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "19-05-2017",
+  "data": [
+    {
+      "movie_id": 659327,
+      "title": "",
+      "gross": 6.2,
+      "cume": 86.98,
+      "showings": 47105,
+      "admissions": 1380499,
+      "rank": 1,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 657817,
+      "title": "Life",
+      "gross": 3.71,
+      "cume": 3.85,
+      "showings": 64092,
+      "admissions": 815249,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 644133,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "gross": 1.24,
+      "cume": 89.99,
+      "showings": 14678,
+      "admissions": 208227,
+      "rank": 3,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 641280,
+      "title": "Wine War",
+      "gross": 0.86,
+      "cume": 0.87,
+      "showings": 37533,
+      "admissions": 204490,
+      "rank": 4,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 643989,
+      "title": "Guardians",
+      "gross": 0.78,
+      "cume": 0.81,
+      "showings": 34870,
+      "admissions": 169530,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 656607,
+      "title": "A Monster Calls",
+      "gross": 0.38,
+      "cume": 0.39,
+      "showings": 18843,
+      "admissions": 85537,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 642158,
+      "title": "Special Encounter",
+      "gross": 0.33,
+      "cume": 0.34,
+      "showings": 15449,
+      "admissions": 73450,
+      "rank": 7,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 627813,
+      "title": "Come Across Love",
+      "gross": 0.22,
+      "cume": 0.22,
+      "showings": 12658,
+      "admissions": 50297,
+      "rank": 8,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 659757,
+      "title": "The Fate of the Furious",
+      "gross": 0.12,
+      "cume": 392.17,
+      "showings": 2112,
+      "admissions": 21942,
+      "rank": 9,
+      "days": 36,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 657876,
+      "title": "King Arthur: Legend of the Sword",
+      "gross": 0.09,
+      "cume": 7.72,
+      "showings": 2745,
+      "admissions": 15578,
+      "rank": 10,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 659616,
+      "title": "Puppy Love",
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 3139,
+      "admissions": 14681,
+      "rank": 11,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 641028,
+      "title": "20:16",
+      "gross": 0.07,
+      "cume": 0.26,
+      "showings": 454,
+      "admissions": 17436,
+      "rank": 12,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 660393,
+      "title": "Shock Wave",
+      "gross": 0.05,
+      "cume": 57.61,
+      "showings": 970,
+      "admissions": 10207,
+      "rank": 13,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 662297,
+      "title": "I Am a Doctor",
+      "gross": 0.04,
+      "cume": 0.11,
+      "showings": 46,
+      "admissions": 5762,
+      "rank": 14,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 639686,
+      "title": "Dealer Healer",
+      "gross": 0.02,
+      "cume": 5.78,
+      "showings": 1037,
+      "admissions": 4355,
+      "rank": 15,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 596554,
+      "title": "Judge Archer",
+      "gross": 0.02,
+      "cume": 0.53,
+      "showings": 3,
+      "admissions": 282,
+      "rank": 16,
+      "days": 435,
+      "day": "63rd Fri"
+    },
+    {
+      "movie_id": 659760,
+      "title": "Smurfs: The Lost Village",
+      "gross": 0.02,
+      "cume": 24.93,
+      "showings": 950,
+      "admissions": 3843,
+      "rank": 17,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 661849,
+      "title": "Power Rangers",
+      "gross": 0.02,
+      "cume": 4.32,
+      "showings": 1235,
+      "admissions": 3267,
+      "rank": 18,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 644001,
+      "title": "Battle Of Memories",
+      "gross": 0.02,
+      "cume": 42.95,
+      "showings": 296,
+      "admissions": 2763,
+      "rank": 19,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 656473,
+      "title": "Special Female Force",
+      "gross": 0.02,
+      "cume": 0.32,
+      "showings": 3,
+      "admissions": 205,
+      "rank": 20,
+      "days": 183,
+      "day": "27th Fri"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "movie_id": 619227,
+  "title": "Ameera",
+  "releaseDate": "06-04-2014",
+  "entries": [
+    {
+      "date": "06-04-2014",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 8,
+      "admissions": 786,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-04-2014",
+      "rank": 6,
+      "gross": 0.23,
+      "cume": 0.23,
+      "showings": 8154,
+      "admissions": 49097,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-04-2014",
+      "rank": 6,
+      "gross": 0.29,
+      "cume": 0.52,
+      "showings": 7540,
+      "admissions": 63323,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-04-2014",
+      "rank": 7,
+      "gross": 0.22,
+      "cume": 0.74,
+      "showings": 6788,
+      "admissions": 47433,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "14-04-2014",
+      "rank": 7,
+      "gross": 0.11,
+      "cume": 0.85,
+      "showings": 6418,
+      "admissions": 23216,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "15-04-2014",
+      "rank": 8,
+      "gross": 0.08,
+      "cume": 0.93,
+      "showings": 4733,
+      "admissions": 18016,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "16-04-2014",
+      "rank": 8,
+      "gross": 0.07,
+      "cume": 1.0,
+      "showings": 4429,
+      "admissions": 15534,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "17-04-2014",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 1.06,
+      "showings": 4237,
+      "admissions": 14170,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

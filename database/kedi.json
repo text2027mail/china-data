@@ -1,0 +1,77 @@
+{
+  "movie_id": 667999,
+  "title": "Kedi",
+  "releaseDate": "22-09-2018",
+  "entries": [
+    {
+      "date": "22-09-2018",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.09,
+      "showings": 3470,
+      "admissions": 17292,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-09-2018",
+      "rank": 14,
+      "gross": 0.09,
+      "cume": 0.18,
+      "showings": 2749,
+      "admissions": 17852,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "24-09-2018",
+      "rank": 14,
+      "gross": 0.08,
+      "cume": 0.26,
+      "showings": 2411,
+      "admissions": 16317,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "25-09-2018",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 2126,
+      "admissions": 3556,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "26-09-2018",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 2043,
+      "admissions": 3327,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "27-09-2018",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.31,
+      "showings": 1972,
+      "admissions": 3079,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "29-09-2018",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.35,
+      "showings": 1778,
+      "admissions": 6473,
+      "days": 8,
+      "day": "2nd Sat"
+    }
+  ]
+}

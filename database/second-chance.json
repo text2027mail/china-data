@@ -1,0 +1,37 @@
+{
+  "movie_id": 630134,
+  "title": "Second Chance",
+  "releaseDate": "25-09-2015",
+  "entries": [
+    {
+      "date": "25-09-2015",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 920,
+      "admissions": 2165,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-09-2015",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 572,
+      "admissions": 4033,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-09-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 364,
+      "admissions": 2028,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

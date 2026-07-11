@@ -1,0 +1,225 @@
+{
+  "date": "18-06-2023",
+  "data": [
+    {
+      "movie_id": 708181,
+      "title": "",
+      "gross": 4.47,
+      "cume": 64.76,
+      "showings": 88547,
+      "admissions": 825314,
+      "rank": 1,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 332495,
+      "title": "The Flash",
+      "gross": 4.25,
+      "cume": 14.35,
+      "showings": 94173,
+      "admissions": 769571,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 737030,
+      "title": "Elemental",
+      "gross": 1.99,
+      "cume": 5.49,
+      "showings": 49290,
+      "admissions": 373307,
+      "rank": 3,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 734680,
+      "title": "Spider-Man: Across The Spider-Verse",
+      "gross": 1.34,
+      "cume": 43.34,
+      "showings": 33202,
+      "admissions": 257183,
+      "rank": 4,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 710253,
+      "title": "GODSPEED",
+      "gross": 1.09,
+      "cume": 171.03,
+      "showings": 24265,
+      "admissions": 177123,
+      "rank": 5,
+      "days": 52,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 707131,
+      "title": "Love Never Ends",
+      "gross": 0.96,
+      "cume": 1.87,
+      "showings": 13216,
+      "admissions": 157386,
+      "rank": 6,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 738314,
+      "title": "The 25th Shanghai International Film Festival",
+      "gross": 0.59,
+      "cume": 4.95,
+      "showings": 180,
+      "admissions": 48658,
+      "rank": 7,
+      "days": 19,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 682200,
+      "title": "Fast X",
+      "gross": 0.58,
+      "cume": 142.88,
+      "showings": 16710,
+      "admissions": 106786,
+      "rank": 8,
+      "days": 33,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 657116,
+      "title": "Laputa: Castle in the Sky",
+      "gross": 0.34,
+      "cume": 18.35,
+      "showings": 11986,
+      "admissions": 72950,
+      "rank": 9,
+      "days": 18,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 707476,
+      "title": "Born To Fly",
+      "gross": 0.17,
+      "cume": 123.65,
+      "showings": 2876,
+      "admissions": 29028,
+      "rank": 10,
+      "days": 52,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 737136,
+      "title": "Doraemon the Movie: Nobita's Sky Utopia",
+      "gross": 0.17,
+      "cume": 14.26,
+      "showings": 8437,
+      "admissions": 39325,
+      "rank": 11,
+      "days": 18,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 734942,
+      "title": "The First Slam Dunk",
+      "gross": 0.09,
+      "cume": 96.15,
+      "showings": 783,
+      "admissions": 14890,
+      "rank": 12,
+      "days": 60,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 736126,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "gross": 0.08,
+      "cume": 89.12,
+      "showings": 2618,
+      "admissions": 14514,
+      "rank": 13,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 672715,
+      "title": "The Legend Of Hei",
+      "gross": 0.08,
+      "cume": 46.6,
+      "showings": 847,
+      "admissions": 18950,
+      "rank": 14,
+      "days": 1381,
+      "day": "199th Sun"
+    },
+    {
+      "movie_id": 737061,
+      "title": "Beijing 2022",
+      "gross": 0.07,
+      "cume": 1.68,
+      "showings": 251,
+      "admissions": 13037,
+      "rank": 15,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 708001,
+      "title": "Oh My School ！",
+      "gross": 0.05,
+      "cume": 0.14,
+      "showings": 107,
+      "admissions": 8557,
+      "rank": 16,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 737973,
+      "title": "Second Chance with Dad",
+      "gross": 0.05,
+      "cume": 0.09,
+      "showings": 838,
+      "admissions": 5555,
+      "rank": 17,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 708802,
+      "title": "Crush Actually",
+      "gross": 0.04,
+      "cume": 0.45,
+      "showings": 9166,
+      "admissions": 8106,
+      "rank": 18,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 701872,
+      "title": "Lost in midnight",
+      "gross": 0.03,
+      "cume": 0.15,
+      "showings": 3025,
+      "admissions": 6420,
+      "rank": 19,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 698910,
+      "title": "conglinqishilu",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 36,
+      "admissions": 3015,
+      "rank": 20,
+      "days": 1063,
+      "day": "1st Sun"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "08-12-2019",
+  "data": [
+    {
+      "movie_id": 686284,
+      "title": "",
+      "gross": 6.89,
+      "cume": 25.63,
+      "showings": 108085,
+      "admissions": 1340530,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 682020,
+      "title": "Wild Goose Lake",
+      "gross": 5.7,
+      "cume": 20.26,
+      "showings": 88143,
+      "admissions": 1091701,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 676432,
+      "title": "Frozen 2",
+      "gross": 4.39,
+      "cume": 108.92,
+      "showings": 52689,
+      "admissions": 897486,
+      "rank": 3,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 695766,
+      "title": "Knives Out",
+      "gross": 1.79,
+      "cume": 24.82,
+      "showings": 19254,
+      "admissions": 340817,
+      "rank": 4,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 677003,
+      "title": "The Whistle blower",
+      "gross": 1.46,
+      "cume": 4.5,
+      "showings": 28670,
+      "admissions": 271547,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 678649,
+      "title": "Two Tigers",
+      "gross": 0.77,
+      "cume": 31.02,
+      "showings": 15900,
+      "admissions": 152591,
+      "rank": 6,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 696120,
+      "title": "Warriors of Hornor",
+      "gross": 0.58,
+      "cume": 4.66,
+      "showings": 1134,
+      "admissions": 80595,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 694046,
+      "title": "Ride Your Wave",
+      "gross": 0.47,
+      "cume": 1.61,
+      "showings": 26616,
+      "admissions": 106790,
+      "rank": 8,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 695387,
+      "title": "Ad Astra",
+      "gross": 0.38,
+      "cume": 2.88,
+      "showings": 18925,
+      "admissions": 74323,
+      "rank": 9,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 693266,
+      "title": "Sheep Without A Shepherd",
+      "gross": 0.3,
+      "cume": 0.93,
+      "showings": 1832,
+      "admissions": 55587,
+      "rank": 10,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 694774,
+      "title": "Song Of Love",
+      "gross": 0.07,
+      "cume": 2.22,
+      "showings": 192,
+      "admissions": 13457,
+      "rank": 11,
+      "days": 18,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 691481,
+      "title": "My People, My Country",
+      "gross": 0.07,
+      "cume": 459.61,
+      "showings": 175,
+      "admissions": 9170,
+      "rank": 12,
+      "days": 70,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 686011,
+      "title": "Only Cloud Knows",
+      "gross": 0.06,
+      "cume": 0.07,
+      "showings": 104,
+      "admissions": 9632,
+      "rank": 13,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 681457,
+      "title": "Midway",
+      "gross": 0.06,
+      "cume": 43.19,
+      "showings": 1033,
+      "admissions": 12597,
+      "rank": 14,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 454034,
+      "title": "The Legend of 1900",
+      "gross": 0.06,
+      "cume": 21.11,
+      "showings": 979,
+      "admissions": 10833,
+      "rank": 15,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 684441,
+      "title": "Somewhere Winter",
+      "gross": 0.04,
+      "cume": 33.45,
+      "showings": 1627,
+      "admissions": 8238,
+      "rank": 16,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 630295,
+      "title": "Miss Forever",
+      "gross": 0.04,
+      "cume": 6.11,
+      "showings": 1264,
+      "admissions": 9594,
+      "rank": 17,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 666570,
+      "title": "Wish You Were Here",
+      "gross": 0.04,
+      "cume": 1.29,
+      "showings": 61,
+      "admissions": 6298,
+      "rank": 18,
+      "days": 241,
+      "day": "35th Sun"
+    },
+    {
+      "movie_id": 691939,
+      "title": "Abominable",
+      "gross": 0.04,
+      "cume": 19.02,
+      "showings": 41,
+      "admissions": 7972,
+      "rank": 19,
+      "days": 69,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 679292,
+      "title": "Spycies",
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 50,
+      "admissions": 5585,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

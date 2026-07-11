@@ -1,0 +1,225 @@
+{
+  "date": "07-07-2016",
+  "data": [
+    {
+      "movie_id": 644009,
+      "title": "",
+      "gross": 3.68,
+      "cume": 42.58,
+      "showings": 59434,
+      "admissions": 745887,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 615259,
+      "title": "Bounty Hunters",
+      "gross": 2.51,
+      "cume": 28.67,
+      "showings": 41385,
+      "admissions": 534599,
+      "rank": 2,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 643771,
+      "title": "Now You See Me 2",
+      "gross": 2.08,
+      "cume": 89.22,
+      "showings": 30278,
+      "admissions": 430966,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 644099,
+      "title": "Independence Day: Resurgence",
+      "gross": 1.37,
+      "cume": 71.57,
+      "showings": 22166,
+      "admissions": 273599,
+      "rank": 4,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 639833,
+      "title": "No One's Life Is Easy: So I Married an Anti-Fan",
+      "gross": 0.68,
+      "cume": 11.56,
+      "showings": 19879,
+      "admissions": 157933,
+      "rank": 5,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 641077,
+      "title": "Cold War II",
+      "gross": 0.68,
+      "cume": 0.68,
+      "showings": 2900,
+      "admissions": 127625,
+      "rank": 6,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 643885,
+      "title": "Finding Dory",
+      "gross": 0.36,
+      "cume": 36.7,
+      "showings": 8881,
+      "admissions": 77174,
+      "rank": 7,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 619127,
+      "title": "Never Gone",
+      "gross": 0.28,
+      "cume": 0.38,
+      "showings": 1780,
+      "admissions": 56114,
+      "rank": 8,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 618087,
+      "title": "Big Fish & Begonia",
+      "gross": 0.24,
+      "cume": 0.28,
+      "showings": 1167,
+      "admissions": 49398,
+      "rank": 9,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 402117,
+      "title": "Warcraft",
+      "gross": 0.2,
+      "cume": 217.23,
+      "showings": 2884,
+      "admissions": 47289,
+      "rank": 10,
+      "days": 30,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 638693,
+      "title": "Da Huo Zhong",
+      "gross": 0.16,
+      "cume": 0.71,
+      "showings": 460,
+      "admissions": 32595,
+      "rank": 11,
+      "days": 11,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 631111,
+      "title": "Three",
+      "gross": 0.1,
+      "cume": 14.74,
+      "showings": 3344,
+      "admissions": 23671,
+      "rank": 12,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 644103,
+      "title": "The Precipice Game",
+      "gross": 0.07,
+      "cume": 1.13,
+      "showings": 5132,
+      "admissions": 19041,
+      "rank": 13,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 644443,
+      "title": "The Adventure Of The Ugly Duckling",
+      "gross": 0.04,
+      "cume": 0.59,
+      "showings": 3580,
+      "admissions": 9756,
+      "rank": 14,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 644267,
+      "title": "Chang Chen Ghost Stories",
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 176,
+      "admissions": 8527,
+      "rank": 15,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 626946,
+      "title": "Nankou In 1937",
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 40,
+      "admissions": 2570,
+      "rank": 16,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 638447,
+      "title": "The Last Race",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 296,
+      "admissions": 2162,
+      "rank": 17,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 637632,
+      "title": "Gu Tian Hui Yi",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 285,
+      "admissions": 2066,
+      "rank": 18,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 644059,
+      "title": "When Larry Met Mary",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 16,
+      "admissions": 1228,
+      "rank": 19,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 589485,
+      "title": "Rock Dog",
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 33,
+      "admissions": 1526,
+      "rank": 20,
+      "days": null,
+      "day": "1st Thu"
+    }
+  ]
+}

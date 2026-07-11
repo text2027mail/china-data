@@ -1,0 +1,57 @@
+{
+  "movie_id": 705684,
+  "title": "Circulation of Music",
+  "releaseDate": "03-08-2021",
+  "entries": [
+    {
+      "date": "03-08-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 14,
+      "admissions": 1370,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "05-08-2021",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 15,
+      "admissions": 1695,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "09-08-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 16,
+      "admissions": 1278,
+      "days": 7,
+      "day": "1st Mon"
+    },
+    {
+      "date": "10-08-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 17,
+      "admissions": 1243,
+      "days": 8,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "14-08-2021",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 30,
+      "admissions": 4928,
+      "days": 12,
+      "day": "2nd Sat"
+    }
+  ]
+}

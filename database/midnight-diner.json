@@ -1,0 +1,77 @@
+{
+  "movie_id": 667169,
+  "title": "Midnight Diner",
+  "releaseDate": "30-08-2019",
+  "entries": [
+    {
+      "date": "30-08-2019",
+      "rank": 4,
+      "gross": 1.39,
+      "cume": 1.39,
+      "showings": 68693,
+      "admissions": 287836,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "31-08-2019",
+      "rank": 5,
+      "gross": 0.86,
+      "cume": 2.25,
+      "showings": 33957,
+      "admissions": 173451,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-09-2019",
+      "rank": 7,
+      "gross": 0.55,
+      "cume": 2.8,
+      "showings": 27375,
+      "admissions": 109277,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-09-2019",
+      "rank": 5,
+      "gross": 0.22,
+      "cume": 3.02,
+      "showings": 22654,
+      "admissions": 44640,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-09-2019",
+      "rank": 6,
+      "gross": 0.19,
+      "cume": 3.21,
+      "showings": 20702,
+      "admissions": 37817,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-09-2019",
+      "rank": 6,
+      "gross": 0.16,
+      "cume": 3.37,
+      "showings": 19497,
+      "admissions": 32622,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "05-09-2019",
+      "rank": 6,
+      "gross": 0.13,
+      "cume": 3.5,
+      "showings": 18358,
+      "admissions": 27109,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

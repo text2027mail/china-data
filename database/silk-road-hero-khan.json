@@ -1,0 +1,27 @@
+{
+  "movie_id": 641905,
+  "title": "Silk Road Hero: Khan",
+  "releaseDate": "08-09-2016",
+  "entries": [
+    {
+      "date": "08-09-2016",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 2,
+      "admissions": 1156,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "13-09-2016",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 0.07,
+      "showings": 1502,
+      "admissions": 12193,
+      "days": 1,
+      "day": "1st Tue"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "movie_id": 612538,
+  "title": "The Hunger Games: Catching Fire",
+  "releaseDate": "20-11-2013",
+  "entries": [
+    {
+      "date": "20-11-2013",
+      "rank": 5,
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 827,
+      "admissions": 17736,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "21-11-2013",
+      "rank": 2,
+      "gross": 2.08,
+      "cume": 2.18,
+      "showings": 22617,
+      "admissions": 446296,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "22-11-2013",
+      "rank": 2,
+      "gross": 2.51,
+      "cume": 4.7,
+      "showings": 21664,
+      "admissions": 536271,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-11-2013",
+      "rank": 2,
+      "gross": 4.13,
+      "cume": 8.83,
+      "showings": 22666,
+      "admissions": 870210,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-11-2013",
+      "rank": 2,
+      "gross": 3.09,
+      "cume": 11.92,
+      "showings": 22509,
+      "admissions": 654034,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-11-2013",
+      "rank": 2,
+      "gross": 1.32,
+      "cume": 13.25,
+      "showings": 20983,
+      "admissions": 286388,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-11-2013",
+      "rank": 2,
+      "gross": 1.43,
+      "cume": 14.68,
+      "showings": 20916,
+      "admissions": 317790,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-11-2013",
+      "rank": 2,
+      "gross": 1.21,
+      "cume": 15.89,
+      "showings": 20600,
+      "admissions": 262498,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "28-11-2013",
+      "rank": 2,
+      "gross": 1.15,
+      "cume": 17.05,
+      "showings": 20504,
+      "admissions": 249050,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "29-11-2013",
+      "rank": 3,
+      "gross": 1.24,
+      "cume": 18.29,
+      "showings": 12948,
+      "admissions": 260694,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "30-11-2013",
+      "rank": 3,
+      "gross": 2.22,
+      "cume": 20.51,
+      "showings": 13165,
+      "admissions": 460718,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "01-12-2013",
+      "rank": 3,
+      "gross": 1.58,
+      "cume": 22.09,
+      "showings": 13024,
+      "admissions": 323624,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "02-12-2013",
+      "rank": 3,
+      "gross": 0.56,
+      "cume": 22.65,
+      "showings": 12543,
+      "admissions": 117033,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "03-12-2013",
+      "rank": 4,
+      "gross": 0.38,
+      "cume": 23.03,
+      "showings": 7474,
+      "admissions": 78461,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "04-12-2013",
+      "rank": 4,
+      "gross": 0.31,
+      "cume": 23.34,
+      "showings": 7122,
+      "admissions": 63311,
+      "days": 14,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "05-12-2013",
+      "rank": 4,
+      "gross": 0.3,
+      "cume": 23.65,
+      "showings": 7002,
+      "admissions": 60052,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "06-12-2013",
+      "rank": 5,
+      "gross": 0.19,
+      "cume": 23.84,
+      "showings": 2336,
+      "admissions": 33327,
+      "days": 16,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "07-12-2013",
+      "rank": 6,
+      "gross": 0.38,
+      "cume": 24.22,
+      "showings": 2224,
+      "admissions": 64537,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "08-12-2013",
+      "rank": 6,
+      "gross": 0.3,
+      "cume": 24.51,
+      "showings": 2228,
+      "admissions": 51481,
+      "days": 18,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "09-12-2013",
+      "rank": 5,
+      "gross": 0.1,
+      "cume": 24.61,
+      "showings": 2108,
+      "admissions": 17151,
+      "days": 19,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "10-12-2013",
+      "rank": 6,
+      "gross": 0.09,
+      "cume": 24.71,
+      "showings": 1916,
+      "admissions": 16869,
+      "days": 20,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "11-12-2013",
+      "rank": 5,
+      "gross": 0.11,
+      "cume": 24.81,
+      "showings": 2139,
+      "admissions": 18360,
+      "days": 21,
+      "day": "4th Wed"
+    },
+    {
+      "date": "12-12-2013",
+      "rank": 6,
+      "gross": 0.05,
+      "cume": 24.87,
+      "showings": 993,
+      "admissions": 8206,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "date": "13-12-2013",
+      "rank": 6,
+      "gross": 0.07,
+      "cume": 24.94,
+      "showings": 773,
+      "admissions": 10972,
+      "days": 23,
+      "day": "4th Fri"
+    },
+    {
+      "date": "14-12-2013",
+      "rank": 7,
+      "gross": 0.15,
+      "cume": 25.09,
+      "showings": 794,
+      "admissions": 23923,
+      "days": 24,
+      "day": "4th Sat"
+    },
+    {
+      "date": "15-12-2013",
+      "rank": 7,
+      "gross": 0.12,
+      "cume": 25.22,
+      "showings": 781,
+      "admissions": 19294,
+      "days": 25,
+      "day": "4th Sun"
+    },
+    {
+      "date": "16-12-2013",
+      "rank": 6,
+      "gross": 0.04,
+      "cume": 25.26,
+      "showings": 721,
+      "admissions": 6122,
+      "days": 26,
+      "day": "4th Mon"
+    },
+    {
+      "date": "17-12-2013",
+      "rank": 7,
+      "gross": 0.04,
+      "cume": 25.3,
+      "showings": 737,
+      "admissions": 7035,
+      "days": 27,
+      "day": "4th Tue"
+    },
+    {
+      "date": "18-12-2013",
+      "rank": 7,
+      "gross": 0.04,
+      "cume": 25.34,
+      "showings": 688,
+      "admissions": 6138,
+      "days": 28,
+      "day": "5th Wed"
+    },
+    {
+      "date": "19-12-2013",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 25.34,
+      "showings": 139,
+      "admissions": 1132,
+      "days": 29,
+      "day": "5th Thu"
+    },
+    {
+      "date": "20-12-2013",
+      "rank": 9,
+      "gross": 0.01,
+      "cume": 25.36,
+      "showings": 136,
+      "admissions": 2373,
+      "days": 30,
+      "day": "5th Fri"
+    },
+    {
+      "date": "21-12-2013",
+      "rank": 8,
+      "gross": 0.01,
+      "cume": 25.37,
+      "showings": 75,
+      "admissions": 1909,
+      "days": 31,
+      "day": "5th Sat"
+    }
+  ]
+}

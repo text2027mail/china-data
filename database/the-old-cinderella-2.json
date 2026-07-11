@@ -1,0 +1,77 @@
+{
+  "movie_id": 627946,
+  "title": "The Old Cinderella 2",
+  "releaseDate": "02-09-2015",
+  "entries": [
+    {
+      "date": "02-09-2015",
+      "rank": 7,
+      "gross": 0.33,
+      "cume": 0.34,
+      "showings": 8090,
+      "admissions": 72014,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-09-2015",
+      "rank": 9,
+      "gross": 0.42,
+      "cume": 0.76,
+      "showings": 6154,
+      "admissions": 87785,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "date": "04-09-2015",
+      "rank": 13,
+      "gross": 0.22,
+      "cume": 0.98,
+      "showings": 4641,
+      "admissions": 44385,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-09-2015",
+      "rank": 14,
+      "gross": 0.13,
+      "cume": 1.11,
+      "showings": 4402,
+      "admissions": 26683,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "date": "06-09-2015",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 1.15,
+      "showings": 4009,
+      "admissions": 9587,
+      "days": 5,
+      "day": "1st Sun"
+    },
+    {
+      "date": "07-09-2015",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 1.18,
+      "showings": 3753,
+      "admissions": 6649,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "date": "09-09-2015",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 1.2,
+      "showings": 934,
+      "admissions": 2307,
+      "days": 8,
+      "day": "2nd Wed"
+    }
+  ]
+}

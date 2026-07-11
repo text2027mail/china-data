@@ -1,0 +1,57 @@
+{
+  "movie_id": 630092,
+  "title": "Love，At First",
+  "releaseDate": "03-08-2015",
+  "entries": [
+    {
+      "date": "03-08-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 8,
+      "admissions": 861,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "07-08-2015",
+      "rank": 13,
+      "gross": 0.11,
+      "cume": 0.12,
+      "showings": 3332,
+      "admissions": 21492,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-08-2015",
+      "rank": 13,
+      "gross": 0.13,
+      "cume": 0.25,
+      "showings": 2419,
+      "admissions": 24160,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-08-2015",
+      "rank": 12,
+      "gross": 0.15,
+      "cume": 0.4,
+      "showings": 2427,
+      "admissions": 29499,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-08-2015",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.45,
+      "showings": 2211,
+      "admissions": 11019,
+      "days": 4,
+      "day": "2nd Mon"
+    }
+  ]
+}

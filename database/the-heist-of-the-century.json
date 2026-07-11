@@ -1,0 +1,77 @@
+{
+  "movie_id": 709335,
+  "title": "The Heist of the Century",
+  "releaseDate": "22-10-2021",
+  "entries": [
+    {
+      "date": "22-10-2021",
+      "rank": 8,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 4468,
+      "admissions": 7507,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-10-2021",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.09,
+      "showings": 2441,
+      "admissions": 8548,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-10-2021",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.13,
+      "showings": 2819,
+      "admissions": 8742,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-10-2021",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.15,
+      "showings": 2956,
+      "admissions": 4217,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-10-2021",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.17,
+      "showings": 2922,
+      "admissions": 4187,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-10-2021",
+      "rank": 9,
+      "gross": 0.02,
+      "cume": 0.19,
+      "showings": 2929,
+      "admissions": 4043,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-10-2021",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 2737,
+      "admissions": 3062,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

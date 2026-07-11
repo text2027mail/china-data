@@ -1,0 +1,97 @@
+{
+  "movie_id": 680579,
+  "title": "The Six",
+  "releaseDate": "16-04-2021",
+  "entries": [
+    {
+      "date": "16-04-2021",
+      "rank": 10,
+      "gross": 0.13,
+      "cume": 0.13,
+      "showings": 11006,
+      "admissions": 24702,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "17-04-2021",
+      "rank": 12,
+      "gross": 0.11,
+      "cume": 0.24,
+      "showings": 7732,
+      "admissions": 20431,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "18-04-2021",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.32,
+      "showings": 5365,
+      "admissions": 13809,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "19-04-2021",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.35,
+      "showings": 4101,
+      "admissions": 5912,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "20-04-2021",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.38,
+      "showings": 3942,
+      "admissions": 5529,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "21-04-2021",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 0.41,
+      "showings": 3795,
+      "admissions": 5382,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "22-04-2021",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.43,
+      "showings": 3779,
+      "admissions": 4232,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "24-04-2021",
+      "rank": 20,
+      "gross": 0.03,
+      "cume": 0.48,
+      "showings": 1534,
+      "admissions": 4906,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "25-04-2021",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.5,
+      "showings": 1576,
+      "admissions": 3323,
+      "days": 10,
+      "day": "2nd Sun"
+    }
+  ]
+}

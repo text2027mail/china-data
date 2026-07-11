@@ -1,0 +1,77 @@
+{
+  "movie_id": 644374,
+  "title": "The Whisper",
+  "releaseDate": "22-07-2016",
+  "entries": [
+    {
+      "date": "22-07-2016",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 2350,
+      "admissions": 21144,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-07-2016",
+      "rank": 13,
+      "gross": 0.11,
+      "cume": 0.2,
+      "showings": 2342,
+      "admissions": 29068,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-07-2016",
+      "rank": 13,
+      "gross": 0.11,
+      "cume": 0.31,
+      "showings": 2716,
+      "admissions": 29362,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-07-2016",
+      "rank": 11,
+      "gross": 0.08,
+      "cume": 0.39,
+      "showings": 2838,
+      "admissions": 20647,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-07-2016",
+      "rank": 11,
+      "gross": 0.08,
+      "cume": 0.47,
+      "showings": 2925,
+      "admissions": 20627,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-07-2016",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.52,
+      "showings": 2557,
+      "admissions": 15606,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-07-2016",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.56,
+      "showings": 2008,
+      "admissions": 10672,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 638604,
+  "title": "Go Home",
+  "releaseDate": "22-03-2016",
+  "entries": [
+    {
+      "date": "22-03-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 5,
+      "admissions": 608,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-03-2016",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 639,
+      "admissions": 4663,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-03-2016",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 479,
+      "admissions": 3975,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-03-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 390,
+      "admissions": 1239,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "29-03-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 339,
+      "admissions": 969,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "30-03-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 300,
+      "admissions": 714,
+      "days": 6,
+      "day": "2nd Wed"
+    }
+  ]
+}

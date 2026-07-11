@@ -1,0 +1,225 @@
+{
+  "date": "30-05-2026",
+  "data": [
+    {
+      "movie_id": 746664,
+      "title": "",
+      "gross": 13.07,
+      "cume": 199.54,
+      "showings": 192755,
+      "admissions": 2583965,
+      "rank": 1,
+      "days": 31,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 912469,
+      "title": "Vanishing Point",
+      "gross": 1.16,
+      "cume": 71.04,
+      "showings": 29684,
+      "admissions": 229317,
+      "rank": 2,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 1122365,
+      "title": "Star Wars: The Mandalorian & Grogu",
+      "gross": 1.08,
+      "cume": 8.39,
+      "showings": 24549,
+      "admissions": 170709,
+      "rank": 3,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 694935,
+      "title": "Master Zhong",
+      "gross": 0.8,
+      "cume": 0.81,
+      "showings": 42795,
+      "admissions": 167218,
+      "rank": 4,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 358500,
+      "title": "Memento",
+      "gross": 0.74,
+      "cume": 1.28,
+      "showings": 32593,
+      "admissions": 118963,
+      "rank": 5,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 709396,
+      "title": "My Little Pony: A New Generation",
+      "gross": 0.27,
+      "cume": 2.83,
+      "showings": 6955,
+      "admissions": 48569,
+      "rank": 6,
+      "days": 1401,
+      "day": "201st Sat"
+    },
+    {
+      "movie_id": 1151920,
+      "title": "The Housemaid",
+      "gross": 0.26,
+      "cume": 0.62,
+      "showings": 13758,
+      "admissions": 46476,
+      "rank": 7,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 1144069,
+      "title": "Ozi: Voice of the Forest",
+      "gross": 0.14,
+      "cume": 0.14,
+      "showings": 13757,
+      "admissions": 28555,
+      "rank": 8,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 751111,
+      "title": "Cold War 1994",
+      "gross": 0.14,
+      "cume": 43.11,
+      "showings": 6493,
+      "admissions": 25804,
+      "rank": 9,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 709374,
+      "title": "DUNK FOR FUTURE",
+      "gross": 0.14,
+      "cume": 23.89,
+      "showings": 4682,
+      "admissions": 29086,
+      "rank": 10,
+      "days": 1580,
+      "day": "229th Sat"
+    },
+    {
+      "movie_id": 1130737,
+      "title": "Three Bags Full: A Sheep Detective Movie",
+      "gross": 0.12,
+      "cume": 2.68,
+      "showings": 3979,
+      "admissions": 21280,
+      "rank": 11,
+      "days": 15,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 1062605,
+      "title": "The Super Mario Galaxy Movie",
+      "gross": 0.09,
+      "cume": 21.73,
+      "showings": 3486,
+      "admissions": 16805,
+      "rank": 12,
+      "days": 58,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 737451,
+      "title": "All The Good Eyes",
+      "gross": 0.09,
+      "cume": 1.96,
+      "showings": 7292,
+      "admissions": 18311,
+      "rank": 13,
+      "days": 8,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 1113986,
+      "title": "2026 China Film Archive \"Eternal Love: Chinese and Foreign Film Masterpieces Exhibition\"",
+      "gross": 0.07,
+      "cume": 0.1,
+      "showings": 49,
+      "admissions": 10390,
+      "rank": 14,
+      "days": 48,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 796959,
+      "title": "Crossing A Dawn",
+      "gross": 0.07,
+      "cume": 2.52,
+      "showings": 5368,
+      "admissions": 14303,
+      "rank": 15,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 783165,
+      "title": "GG Bond：Race Through Time",
+      "gross": 0.06,
+      "cume": 3.61,
+      "showings": 5122,
+      "admissions": 13100,
+      "rank": 16,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 973335,
+      "title": "Hoppers",
+      "gross": 0.05,
+      "cume": 26.67,
+      "showings": 2156,
+      "admissions": 9733,
+      "rank": 17,
+      "days": 72,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 716568,
+      "title": "Be Yourself",
+      "gross": 0.05,
+      "cume": 11.3,
+      "showings": 7425,
+      "admissions": 10923,
+      "rank": 18,
+      "days": 11,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 1086488,
+      "title": "THE CACED BUTTERFLY",
+      "gross": 0.04,
+      "cume": 16.65,
+      "showings": 3009,
+      "admissions": 9559,
+      "rank": 19,
+      "days": 58,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 1086487,
+      "title": "The Devil Wears Prada 2",
+      "gross": 0.04,
+      "cume": 15.11,
+      "showings": 972,
+      "admissions": 6038,
+      "rank": 20,
+      "days": 31,
+      "day": "5th Sat"
+    }
+  ]
+}

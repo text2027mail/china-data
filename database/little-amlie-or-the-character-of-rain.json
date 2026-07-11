@@ -1,0 +1,37 @@
+{
+  "movie_id": 1022586,
+  "title": "Little Amlie or the Character of Rain",
+  "releaseDate": "20-03-2026",
+  "entries": [
+    {
+      "date": "20-03-2026",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 6178,
+      "admissions": 4523,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-03-2026",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.12,
+      "showings": 14476,
+      "admissions": 9118,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-03-2026",
+      "rank": 19,
+      "gross": 0.03,
+      "cume": 0.15,
+      "showings": 7228,
+      "admissions": 5656,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

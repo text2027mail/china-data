@@ -1,0 +1,225 @@
+{
+  "date": "15-01-2022",
+  "data": [
+    {
+      "movie_id": 710368,
+      "title": "",
+      "gross": 2.78,
+      "cume": 5.31,
+      "showings": 78811,
+      "admissions": 485958,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 705150,
+      "title": "Embrace Again",
+      "gross": 2.49,
+      "cume": 117.21,
+      "showings": 44884,
+      "admissions": 410325,
+      "rank": 2,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 698510,
+      "title": "G Storm",
+      "gross": 1.52,
+      "cume": 78.79,
+      "showings": 33723,
+      "admissions": 260550,
+      "rank": 3,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 705642,
+      "title": "Another Me",
+      "gross": 1.51,
+      "cume": 54.6,
+      "showings": 31848,
+      "admissions": 266718,
+      "rank": 4,
+      "days": 15,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 708482,
+      "title": "Paw Patrol: The Movie",
+      "gross": 1.5,
+      "cume": 2.06,
+      "showings": 42434,
+      "admissions": 312305,
+      "rank": 5,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 709879,
+      "title": "Fireflies in the Sun",
+      "gross": 1.3,
+      "cume": 148.19,
+      "showings": 20068,
+      "admissions": 226737,
+      "rank": 6,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 705084,
+      "title": "B for Busy",
+      "gross": 0.77,
+      "cume": 34.15,
+      "showings": 8483,
+      "admissions": 117470,
+      "rank": 7,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 710426,
+      "title": "Encanto",
+      "gross": 0.69,
+      "cume": 5.45,
+      "showings": 9241,
+      "admissions": 121400,
+      "rank": 8,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 684744,
+      "title": "Manchuria Tiger",
+      "gross": 0.57,
+      "cume": 1.42,
+      "showings": 25289,
+      "admissions": 110393,
+      "rank": 9,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 707289,
+      "title": "Lost And Found",
+      "gross": 0.52,
+      "cume": 28.93,
+      "showings": 14394,
+      "admissions": 96772,
+      "rank": 10,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 696843,
+      "title": "Lion Dance Boy",
+      "gross": 0.37,
+      "cume": 33.23,
+      "showings": 5199,
+      "admissions": 63150,
+      "rank": 11,
+      "days": 30,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 0.22,
+      "cume": 0.22,
+      "showings": 456,
+      "admissions": 34235,
+      "rank": 12,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 702084,
+      "title": "BACK TO LOVE",
+      "gross": 0.16,
+      "cume": 1.76,
+      "showings": 2628,
+      "admissions": 31963,
+      "rank": 13,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 709374,
+      "title": "DUNK FOR FUTURE",
+      "gross": 0.15,
+      "cume": 0.15,
+      "showings": 508,
+      "admissions": 21114,
+      "rank": 14,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 709926,
+      "title": "Crossing the Yalu River",
+      "gross": 0.11,
+      "cume": 13.65,
+      "showings": 1859,
+      "admissions": 23330,
+      "rank": 15,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.11,
+      "cume": 1.08,
+      "showings": 231,
+      "admissions": 21410,
+      "rank": 16,
+      "days": null,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 695172,
+      "title": "Chhichhore",
+      "gross": 0.11,
+      "cume": 2.08,
+      "showings": 2753,
+      "admissions": 21582,
+      "rank": 17,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 706007,
+      "title": "To the Bright Side",
+      "gross": 0.09,
+      "cume": 0.13,
+      "showings": 8000,
+      "admissions": 17371,
+      "rank": 18,
+      "days": 1,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 609590,
+      "title": "Invisible Tatoo",
+      "gross": 0.09,
+      "cume": 0.23,
+      "showings": 3192,
+      "admissions": 13809,
+      "rank": 19,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 701984,
+      "title": "mengjixiaodui：mengchenxinshijie",
+      "gross": 0.09,
+      "cume": 4.52,
+      "showings": 3939,
+      "admissions": 18870,
+      "rank": 20,
+      "days": 8,
+      "day": "4th Sat"
+    }
+  ]
+}

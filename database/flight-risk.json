@@ -1,0 +1,67 @@
+{
+  "movie_id": 787080,
+  "title": "Flight Risk",
+  "releaseDate": "07-03-2025",
+  "entries": [
+    {
+      "date": "07-03-2025",
+      "rank": 13,
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 12102,
+      "admissions": 12903,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-03-2025",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.11,
+      "showings": 3069,
+      "admissions": 6060,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-03-2025",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 3150,
+      "admissions": 3914,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-03-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 2585,
+      "admissions": 1547,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "12-03-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 2501,
+      "admissions": 1456,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "13-03-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 2465,
+      "admissions": 1289,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

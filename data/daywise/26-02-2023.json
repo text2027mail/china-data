@@ -1,0 +1,225 @@
+{
+  "date": "26-02-2023",
+  "data": [
+    {
+      "movie_id": 735288,
+      "title": "",
+      "gross": 2.84,
+      "cume": 8.65,
+      "showings": 57550,
+      "admissions": 548482,
+      "rank": 1,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 704382,
+      "title": "The Wandering Earth 2",
+      "gross": 2.54,
+      "cume": 578.84,
+      "showings": 53455,
+      "admissions": 388647,
+      "rank": 2,
+      "days": 36,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 735284,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "gross": 2.3,
+      "cume": 32.12,
+      "showings": 57949,
+      "admissions": 377265,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 713237,
+      "title": "Full River Red",
+      "gross": 1.81,
+      "cume": 659.92,
+      "showings": 49244,
+      "admissions": 289466,
+      "rank": 4,
+      "days": 36,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 733627,
+      "title": "Boonie Bears: Guardian Code",
+      "gross": 1.61,
+      "cume": 211.09,
+      "showings": 36415,
+      "admissions": 270508,
+      "rank": 5,
+      "days": 36,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 1.3,
+      "cume": 127.85,
+      "showings": 31938,
+      "admissions": 208244,
+      "rank": 6,
+      "days": 36,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 707469,
+      "title": "Hidden Blade",
+      "gross": 0.34,
+      "cume": 134.97,
+      "showings": 10684,
+      "admissions": 57370,
+      "rank": 7,
+      "days": 36,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 692317,
+      "title": "Ping-pong of China",
+      "gross": 0.33,
+      "cume": 13.37,
+      "showings": 13080,
+      "admissions": 55660,
+      "rank": 8,
+      "days": 10,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 612244,
+      "title": "Avatar: The Way of Water",
+      "gross": 0.21,
+      "cume": 249.1,
+      "showings": 3685,
+      "admissions": 34300,
+      "rank": 9,
+      "days": 73,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 735278,
+      "title": "Behind the Blue Eyes",
+      "gross": 0.11,
+      "cume": 7.52,
+      "showings": 6246,
+      "admissions": 18372,
+      "rank": 10,
+      "days": 13,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 708388,
+      "title": "Five Hundred Miles",
+      "gross": 0.1,
+      "cume": 57.77,
+      "showings": 5391,
+      "admissions": 16445,
+      "rank": 11,
+      "days": 36,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 734256,
+      "title": "Black Panther: Wakanda Forever",
+      "gross": 0.06,
+      "cume": 15.5,
+      "showings": 2883,
+      "admissions": 11136,
+      "rank": 12,
+      "days": 20,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 694673,
+      "title": "Cyber Heist",
+      "gross": 0.04,
+      "cume": 0.1,
+      "showings": 452,
+      "admissions": 6665,
+      "rank": 13,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 709375,
+      "title": "Ming Jue Village",
+      "gross": 0.04,
+      "cume": 0.72,
+      "showings": 3801,
+      "admissions": 8317,
+      "rank": 14,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 735687,
+      "title": "The Son",
+      "gross": 0.04,
+      "cume": 0.1,
+      "showings": 3822,
+      "admissions": 6737,
+      "rank": 15,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 703298,
+      "title": "Like Father And Son",
+      "gross": 0.03,
+      "cume": 0.12,
+      "showings": 3043,
+      "admissions": 4866,
+      "rank": 16,
+      "days": 2,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 700622,
+      "title": "Beautiful Life",
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 50,
+      "admissions": 3567,
+      "rank": 17,
+      "days": 101,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 735289,
+      "title": "English Vinglish",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 2562,
+      "admissions": 4076,
+      "rank": 18,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 707140,
+      "title": "Post Truth",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 10,
+      "admissions": 1603,
+      "rank": 19,
+      "days": null,
+      "day": "10th Sun"
+    },
+    {
+      "movie_id": 683508,
+      "title": "Where the Wind Blows",
+      "gross": 0.01,
+      "cume": 7.2,
+      "showings": 764,
+      "admissions": 1743,
+      "rank": 20,
+      "days": 22,
+      "day": "4th Sun"
+    }
+  ]
+}

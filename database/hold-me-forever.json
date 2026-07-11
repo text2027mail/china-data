@@ -1,0 +1,27 @@
+{
+  "movie_id": 696271,
+  "title": "Hold Me Forever",
+  "releaseDate": "31-05-2021",
+  "entries": [
+    {
+      "date": "31-05-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 66,
+      "admissions": 2012,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-06-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 54,
+      "admissions": 1458,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

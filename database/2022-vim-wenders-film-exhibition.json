@@ -1,0 +1,27 @@
+{
+  "movie_id": 715123,
+  "title": "2022 VIM Wenders film exhibition",
+  "releaseDate": "06-08-2022",
+  "entries": [
+    {
+      "date": "06-08-2022",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 5,
+      "admissions": 1066,
+      "days": 45,
+      "day": "1st Sat"
+    },
+    {
+      "date": "30-10-2022",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 2,
+      "admissions": 249,
+      "days": 130,
+      "day": "13th Sun"
+    }
+  ]
+}

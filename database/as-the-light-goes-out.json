@@ -1,0 +1,347 @@
+{
+  "movie_id": 613414,
+  "title": "As The Light Goes Out",
+  "releaseDate": "30-12-2013",
+  "entries": [
+    {
+      "date": "30-12-2013",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 6,
+      "admissions": 616,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-12-2013",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.04,
+      "showings": 229,
+      "admissions": 6938,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-01-2014",
+      "rank": 6,
+      "gross": 0.87,
+      "cume": 0.91,
+      "showings": 10743,
+      "admissions": 182865,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-01-2014",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.92,
+      "showings": 301,
+      "admissions": 1631,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "03-01-2014",
+      "rank": 3,
+      "gross": 1.11,
+      "cume": 2.03,
+      "showings": 13262,
+      "admissions": 232353,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "04-01-2014",
+      "rank": 3,
+      "gross": 1.64,
+      "cume": 3.67,
+      "showings": 13917,
+      "admissions": 339143,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "05-01-2014",
+      "rank": 3,
+      "gross": 1.45,
+      "cume": 5.12,
+      "showings": 13828,
+      "admissions": 299784,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "06-01-2014",
+      "rank": 2,
+      "gross": 0.81,
+      "cume": 5.93,
+      "showings": 13966,
+      "admissions": 172039,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "07-01-2014",
+      "rank": 4,
+      "gross": 0.69,
+      "cume": 6.62,
+      "showings": 12035,
+      "admissions": 148907,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "08-01-2014",
+      "rank": 4,
+      "gross": 0.63,
+      "cume": 7.26,
+      "showings": 12024,
+      "admissions": 133979,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "09-01-2014",
+      "rank": 4,
+      "gross": 0.63,
+      "cume": 7.88,
+      "showings": 12090,
+      "admissions": 131104,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "10-01-2014",
+      "rank": 5,
+      "gross": 0.51,
+      "cume": 8.39,
+      "showings": 7345,
+      "admissions": 104496,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "11-01-2014",
+      "rank": 6,
+      "gross": 0.58,
+      "cume": 8.97,
+      "showings": 5894,
+      "admissions": 114533,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "12-01-2014",
+      "rank": 6,
+      "gross": 0.5,
+      "cume": 9.47,
+      "showings": 5806,
+      "admissions": 100066,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "13-01-2014",
+      "rank": 6,
+      "gross": 0.26,
+      "cume": 9.73,
+      "showings": 5516,
+      "admissions": 52219,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "14-01-2014",
+      "rank": 6,
+      "gross": 0.28,
+      "cume": 10.0,
+      "showings": 5585,
+      "admissions": 58106,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "15-01-2014",
+      "rank": 6,
+      "gross": 0.26,
+      "cume": 10.26,
+      "showings": 5439,
+      "admissions": 52629,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "16-01-2014",
+      "rank": 8,
+      "gross": 0.21,
+      "cume": 10.47,
+      "showings": 4370,
+      "admissions": 43282,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "17-01-2014",
+      "rank": 10,
+      "gross": 0.09,
+      "cume": 10.57,
+      "showings": 1667,
+      "admissions": 18098,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "18-01-2014",
+      "rank": 10,
+      "gross": 0.12,
+      "cume": 10.69,
+      "showings": 1513,
+      "admissions": 23767,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "19-01-2014",
+      "rank": 10,
+      "gross": 0.11,
+      "cume": 10.8,
+      "showings": 1526,
+      "admissions": 21740,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "20-01-2014",
+      "rank": 10,
+      "gross": 0.07,
+      "cume": 10.87,
+      "showings": 1488,
+      "admissions": 13101,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "date": "21-01-2014",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 10.93,
+      "showings": 1428,
+      "admissions": 13144,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "date": "22-01-2014",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 11.0,
+      "showings": 1459,
+      "admissions": 12801,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "date": "23-01-2014",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 11.06,
+      "showings": 1218,
+      "admissions": 12535,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "date": "24-01-2014",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 11.13,
+      "showings": 1191,
+      "admissions": 13492,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "date": "25-01-2014",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 11.17,
+      "showings": 779,
+      "admissions": 8431,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "date": "26-01-2014",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 11.23,
+      "showings": 1125,
+      "admissions": 11119,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "date": "27-01-2014",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 11.29,
+      "showings": 1148,
+      "admissions": 11302,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "date": "28-01-2014",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 11.34,
+      "showings": 1182,
+      "admissions": 11445,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "date": "29-01-2014",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 11.39,
+      "showings": 1189,
+      "admissions": 9579,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "date": "30-01-2014",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 11.41,
+      "showings": 532,
+      "admissions": 2795,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "date": "31-01-2014",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 11.42,
+      "showings": 267,
+      "admissions": 1442,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "date": "01-02-2014",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 11.42,
+      "showings": 285,
+      "admissions": 1282,
+      "days": 30,
+      "day": "5th Sat"
+    }
+  ]
+}

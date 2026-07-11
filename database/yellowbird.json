@@ -1,0 +1,37 @@
+{
+  "movie_id": 674813,
+  "title": "Yellowbird",
+  "releaseDate": "08-03-2018",
+  "entries": [
+    {
+      "date": "08-03-2018",
+      "rank": 18,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 5379,
+      "admissions": 12241,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "10-03-2018",
+      "rank": 18,
+      "gross": 0.05,
+      "cume": 0.12,
+      "showings": 2577,
+      "admissions": 13282,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-03-2018",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.16,
+      "showings": 2103,
+      "admissions": 9207,
+      "days": 4,
+      "day": "1st Sun"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "05-06-2016",
+  "data": [
+    {
+      "movie_id": 642020,
+      "title": "",
+      "gross": 17.19,
+      "cume": 56.95,
+      "showings": 91647,
+      "admissions": 3282774,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 643383,
+      "title": "Alice Through the Looking Glass",
+      "gross": 2.3,
+      "cume": 47.84,
+      "showings": 31225,
+      "admissions": 485450,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 643995,
+      "title": "The Angry Birds Movie",
+      "gross": 2.25,
+      "cume": 69.54,
+      "showings": 27784,
+      "admissions": 474481,
+      "rank": 3,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 643612,
+      "title": "Captain America: Civil War",
+      "gross": 0.2,
+      "cume": 183.89,
+      "showings": 4379,
+      "admissions": 37884,
+      "rank": 4,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 643848,
+      "title": "Criminal",
+      "gross": 0.15,
+      "cume": 15.12,
+      "showings": 682,
+      "admissions": 33677,
+      "rank": 5,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 639261,
+      "title": "Book Of Love",
+      "gross": 0.1,
+      "cume": 115.25,
+      "showings": 1590,
+      "admissions": 18587,
+      "rank": 6,
+      "days": 38,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 640092,
+      "title": "Compass",
+      "gross": 0.09,
+      "cume": 0.83,
+      "showings": 3763,
+      "admissions": 24085,
+      "rank": 7,
+      "days": 5,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 643852,
+      "title": "The Death Game",
+      "gross": 0.09,
+      "cume": 0.32,
+      "showings": 5137,
+      "admissions": 23606,
+      "rank": 8,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 643572,
+      "title": "Memento Mori",
+      "gross": 0.09,
+      "cume": 0.33,
+      "showings": 7346,
+      "admissions": 23855,
+      "rank": 9,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 611464,
+      "title": "Song of the Phoenix",
+      "gross": 0.09,
+      "cume": 12.36,
+      "showings": 1739,
+      "admissions": 21022,
+      "rank": 10,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 643740,
+      "title": "The Divergent Series: Allegiant",
+      "gross": 0.08,
+      "cume": 17.69,
+      "showings": 3819,
+      "admissions": 17009,
+      "rank": 11,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 626997,
+      "title": "Fruit Story",
+      "gross": 0.03,
+      "cume": 0.53,
+      "showings": 2786,
+      "admissions": 8688,
+      "rank": 12,
+      "days": 5,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 644395,
+      "title": "Floraand Fauna’s War",
+      "gross": 0.03,
+      "cume": 0.18,
+      "showings": 768,
+      "admissions": 7015,
+      "rank": 13,
+      "days": 5,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 626990,
+      "title": "Jungle Master : the Candy World",
+      "gross": 0.02,
+      "cume": 0.69,
+      "showings": 1259,
+      "admissions": 4815,
+      "rank": 14,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 627639,
+      "title": "Witch Doctor",
+      "gross": 0.02,
+      "cume": 1.2,
+      "showings": 1162,
+      "admissions": 3877,
+      "rank": 15,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 640318,
+      "title": "The Verse of Us",
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 42,
+      "admissions": 3286,
+      "rank": 16,
+      "days": 218,
+      "day": "25th Sun"
+    },
+    {
+      "movie_id": 628257,
+      "title": "Merder At Honeymoon Hotel",
+      "gross": 0.01,
+      "cume": 1.07,
+      "showings": 942,
+      "admissions": 2202,
+      "rank": 17,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 615789,
+      "title": "Peacook",
+      "gross": 0.0,
+      "cume": 4.87,
+      "showings": 624,
+      "admissions": 1172,
+      "rank": 18,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 644136,
+      "title": "Star Ant - Global Adventure",
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 462,
+      "admissions": 1111,
+      "rank": 19,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 644428,
+      "title": "ATM",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 194,
+      "admissions": 874,
+      "rank": 20,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

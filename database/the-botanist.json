@@ -1,0 +1,47 @@
+{
+  "movie_id": 741568,
+  "title": "The Botanist",
+  "releaseDate": "14-04-2026",
+  "entries": [
+    {
+      "date": "14-04-2026",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 4857,
+      "admissions": 2847,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "15-04-2026",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 4829,
+      "admissions": 2273,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "16-04-2026",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 5000,
+      "admissions": 1896,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "17-04-2026",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 4535,
+      "admissions": 2300,
+      "days": 4,
+      "day": "1st Fri"
+    }
+  ]
+}

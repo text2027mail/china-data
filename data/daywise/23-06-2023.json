@@ -1,0 +1,225 @@
+{
+  "date": "23-06-2023",
+  "data": [
+    {
+      "movie_id": 733914,
+      "title": "",
+      "gross": 27.17,
+      "cume": 56.12,
+      "showings": 141817,
+      "admissions": 4401430,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 707131,
+      "title": "Love Never Ends",
+      "gross": 5.22,
+      "cume": 17.7,
+      "showings": 66271,
+      "admissions": 863066,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 708181,
+      "title": "Transformers: Rise of the Beasts",
+      "gross": 4.72,
+      "cume": 78.94,
+      "showings": 44674,
+      "admissions": 862514,
+      "rank": 3,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 706149,
+      "title": "Never Say Never",
+      "gross": 3.61,
+      "cume": 6.89,
+      "showings": 29432,
+      "admissions": 596976,
+      "rank": 4,
+      "days": null,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 332495,
+      "title": "The Flash",
+      "gross": 1.94,
+      "cume": 23.13,
+      "showings": 21556,
+      "admissions": 334955,
+      "rank": 5,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 737030,
+      "title": "Elemental",
+      "gross": 1.72,
+      "cume": 10.24,
+      "showings": 22233,
+      "admissions": 323940,
+      "rank": 6,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 686203,
+      "title": "Don't Call Me God of Gamblers",
+      "gross": 1.38,
+      "cume": 4.78,
+      "showings": 31982,
+      "admissions": 263174,
+      "rank": 7,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 734680,
+      "title": "Spider-Man: Across The Spider-Verse",
+      "gross": 1.25,
+      "cume": 47.43,
+      "showings": 13598,
+      "admissions": 239167,
+      "rank": 8,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 710253,
+      "title": "GODSPEED",
+      "gross": 0.33,
+      "cume": 173.86,
+      "showings": 7784,
+      "admissions": 54824,
+      "rank": 9,
+      "days": 57,
+      "day": "9th Fri"
+    },
+    {
+      "movie_id": 682200,
+      "title": "Fast X",
+      "gross": 0.26,
+      "cume": 144.19,
+      "showings": 4275,
+      "admissions": 48003,
+      "rank": 10,
+      "days": 38,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 657116,
+      "title": "Laputa: Castle in the Sky",
+      "gross": 0.2,
+      "cume": 19.15,
+      "showings": 3592,
+      "admissions": 42314,
+      "rank": 11,
+      "days": 23,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 708001,
+      "title": "Oh My School ！",
+      "gross": 0.16,
+      "cume": 0.49,
+      "showings": 501,
+      "admissions": 25346,
+      "rank": 12,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 710303,
+      "title": "Super Wings",
+      "gross": 0.14,
+      "cume": 0.28,
+      "showings": 809,
+      "admissions": 23572,
+      "rank": 13,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 737136,
+      "title": "Doraemon the Movie: Nobita's Sky Utopia",
+      "gross": 0.12,
+      "cume": 14.54,
+      "showings": 3075,
+      "admissions": 26340,
+      "rank": 14,
+      "days": 23,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 738211,
+      "title": "THE FANTASTIC JOURNEY OF THREE FOOLS",
+      "gross": 0.1,
+      "cume": 0.31,
+      "showings": 6094,
+      "admissions": 22272,
+      "rank": 15,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 737815,
+      "title": "Chickenhare and the Hamster of Darkness",
+      "gross": 0.1,
+      "cume": 0.29,
+      "showings": 4447,
+      "admissions": 21941,
+      "rank": 16,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 705998,
+      "title": "Crazy World",
+      "gross": 0.06,
+      "cume": 0.32,
+      "showings": 4353,
+      "admissions": 12261,
+      "rank": 17,
+      "days": 2,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 738546,
+      "title": "Memoria",
+      "gross": 0.05,
+      "cume": 0.09,
+      "showings": 2041,
+      "admissions": 8574,
+      "rank": 18,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 736126,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "gross": 0.05,
+      "cume": 89.32,
+      "showings": 710,
+      "admissions": 8677,
+      "rank": 19,
+      "days": 50,
+      "day": "8th Fri"
+    },
+    {
+      "movie_id": 707476,
+      "title": "Born To Fly",
+      "gross": 0.04,
+      "cume": 123.93,
+      "showings": 585,
+      "admissions": 6840,
+      "rank": 20,
+      "days": 57,
+      "day": "9th Fri"
+    }
+  ]
+}

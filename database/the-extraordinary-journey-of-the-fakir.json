@@ -1,0 +1,37 @@
+{
+  "movie_id": 677813,
+  "title": "The Extraordinary Journey of The Fakir",
+  "releaseDate": "29-11-2019",
+  "entries": [
+    {
+      "date": "29-11-2019",
+      "rank": 8,
+      "gross": 0.27,
+      "cume": 0.29,
+      "showings": 20981,
+      "admissions": 57615,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-11-2019",
+      "rank": 12,
+      "gross": 0.12,
+      "cume": 0.41,
+      "showings": 9751,
+      "admissions": 27253,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-12-2019",
+      "rank": 14,
+      "gross": 0.07,
+      "cume": 0.48,
+      "showings": 7565,
+      "admissions": 15548,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

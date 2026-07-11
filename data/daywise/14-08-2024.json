@@ -1,0 +1,225 @@
+{
+  "date": "14-08-2024",
+  "data": [
+    {
+      "movie_id": 746667,
+      "title": "",
+      "gross": 3.01,
+      "cume": 450.81,
+      "showings": 89950,
+      "admissions": 499727,
+      "rank": 1,
+      "days": 30,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 741403,
+      "title": "White Snake",
+      "gross": 2.65,
+      "cume": 34.13,
+      "showings": 82342,
+      "admissions": 435285,
+      "rank": 2,
+      "days": 5,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 746701,
+      "title": "Upstream",
+      "gross": 2.64,
+      "cume": 35.53,
+      "showings": 81512,
+      "admissions": 433883,
+      "rank": 3,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 741373,
+      "title": "DECODED",
+      "gross": 0.85,
+      "cume": 45.53,
+      "showings": 29445,
+      "admissions": 136678,
+      "rank": 4,
+      "days": 12,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 755071,
+      "title": "Deadpool & Wolverine",
+      "gross": 0.54,
+      "cume": 60.36,
+      "showings": 20824,
+      "admissions": 84803,
+      "rank": 5,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 741372,
+      "title": "Land of Broken Hearts",
+      "gross": 0.53,
+      "cume": 9.12,
+      "showings": 28276,
+      "admissions": 57995,
+      "rank": 6,
+      "days": 5,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 750950,
+      "title": "Despicable Me 4",
+      "gross": 0.4,
+      "cume": 55.21,
+      "showings": 15998,
+      "admissions": 70469,
+      "rank": 7,
+      "days": 34,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 750265,
+      "title": "A Place Called Silence",
+      "gross": 0.39,
+      "cume": 198.07,
+      "showings": 16187,
+      "admissions": 66154,
+      "rank": 8,
+      "days": 43,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 653677,
+      "title": "Evacuate from the 21st Century",
+      "gross": 0.16,
+      "cume": 15.73,
+      "showings": 8522,
+      "admissions": 26049,
+      "rank": 9,
+      "days": 13,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 755069,
+      "title": "Pleasant Goat and Grey Wolf 9",
+      "gross": 0.09,
+      "cume": 12.28,
+      "showings": 7238,
+      "admissions": 17474,
+      "rank": 10,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 655647,
+      "title": "Your Name",
+      "gross": 0.04,
+      "cume": 105.09,
+      "showings": 2798,
+      "admissions": 7640,
+      "rank": 11,
+      "days": 2813,
+      "day": "402nd Wed"
+    },
+    {
+      "movie_id": 750946,
+      "title": "Inside Out 2",
+      "gross": 0.04,
+      "cume": 50.3,
+      "showings": 1900,
+      "admissions": 6348,
+      "rank": 12,
+      "days": 55,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 733557,
+      "title": "Overtime Scare",
+      "gross": 0.03,
+      "cume": 0.47,
+      "showings": 3351,
+      "admissions": 5968,
+      "rank": 13,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 751505,
+      "title": "Be Brave",
+      "gross": 0.02,
+      "cume": 1.5,
+      "showings": 51,
+      "admissions": 4116,
+      "rank": 14,
+      "days": 79,
+      "day": "12th Wed"
+    },
+    {
+      "movie_id": 749723,
+      "title": "Chong Sheng",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 15,
+      "admissions": 1890,
+      "rank": 15,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 710260,
+      "title": "Under One Person",
+      "gross": 0.01,
+      "cume": 17.49,
+      "showings": 1512,
+      "admissions": 2264,
+      "rank": 16,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 706885,
+      "title": "THE LOOK OF HAPPINESS",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 12,
+      "admissions": 1360,
+      "rank": 17,
+      "days": 10,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 715455,
+      "title": "Madam Xian",
+      "gross": 0.01,
+      "cume": 1.54,
+      "showings": 47,
+      "admissions": 1200,
+      "rank": 18,
+      "days": 41,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 709193,
+      "title": "Reversed Destiny",
+      "gross": 0.01,
+      "cume": 4.41,
+      "showings": 29,
+      "admissions": 1572,
+      "rank": 19,
+      "days": 55,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 739613,
+      "title": "The Umbrella Fairy",
+      "gross": 0.01,
+      "cume": 2.81,
+      "showings": 96,
+      "admissions": 4527,
+      "rank": 20,
+      "days": 40,
+      "day": "6th Wed"
+    }
+  ]
+}

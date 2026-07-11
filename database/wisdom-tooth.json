@@ -1,0 +1,37 @@
+{
+  "movie_id": 695825,
+  "title": "Wisdom Tooth",
+  "releaseDate": "27-11-2020",
+  "entries": [
+    {
+      "date": "27-11-2020",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 1307,
+      "admissions": 2657,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-11-2020",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 1153,
+      "admissions": 3355,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-12-2020",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 282,
+      "admissions": 2075,
+      "days": 27,
+      "day": "4th Wed"
+    }
+  ]
+}

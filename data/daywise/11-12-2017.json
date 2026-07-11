@@ -1,0 +1,225 @@
+{
+  "date": "11-12-2017",
+  "data": [
+    {
+      "movie_id": 670102,
+      "title": "",
+      "gross": 2.73,
+      "cume": 127.72,
+      "showings": 77763,
+      "admissions": 547705,
+      "rank": 1,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 644856,
+      "title": "Paddington 2",
+      "gross": 1.48,
+      "cume": 16.91,
+      "showings": 63249,
+      "admissions": 334816,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 663013,
+      "title": "The Big Call",
+      "gross": 0.69,
+      "cume": 6.26,
+      "showings": 32193,
+      "admissions": 156758,
+      "rank": 3,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 670000,
+      "title": "Loving Vincent",
+      "gross": 0.68,
+      "cume": 4.93,
+      "showings": 21329,
+      "admissions": 150103,
+      "rank": 4,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 666290,
+      "title": "47 Meters Down",
+      "gross": 0.44,
+      "cume": 4.54,
+      "showings": 28657,
+      "admissions": 104250,
+      "rank": 5,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 349187,
+      "title": "Justice League",
+      "gross": 0.15,
+      "cume": 101.27,
+      "showings": 7418,
+      "admissions": 28073,
+      "rank": 6,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 670105,
+      "title": "Only the Brave",
+      "gross": 0.11,
+      "cume": 0.96,
+      "showings": 8230,
+      "admissions": 24468,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 670585,
+      "title": "Darkest Hour",
+      "gross": 0.1,
+      "cume": 4.66,
+      "showings": 2610,
+      "admissions": 18184,
+      "rank": 8,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 668715,
+      "title": "Old Beast",
+      "gross": 0.07,
+      "cume": 0.09,
+      "showings": 5881,
+      "admissions": 16338,
+      "rank": 9,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 618581,
+      "title": "Seventy-seven Days",
+      "gross": 0.07,
+      "cume": 13.67,
+      "showings": 462,
+      "admissions": 11642,
+      "rank": 10,
+      "days": 39,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 669931,
+      "title": "The Frontier Wairriors",
+      "gross": 0.06,
+      "cume": 1.37,
+      "showings": 69,
+      "admissions": 9949,
+      "rank": 11,
+      "days": 56,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 657478,
+      "title": "The Dreaming Man",
+      "gross": 0.05,
+      "cume": 0.67,
+      "showings": 8609,
+      "admissions": 12403,
+      "rank": 12,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 669804,
+      "title": "Kill Me Please",
+      "gross": 0.05,
+      "cume": 7.74,
+      "showings": 2868,
+      "admissions": 13127,
+      "rank": 13,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 628276,
+      "title": "The Youth",
+      "gross": 0.05,
+      "cume": 0.39,
+      "showings": 94,
+      "admissions": 9593,
+      "rank": 14,
+      "days": 1155,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 660330,
+      "title": "Raid dingue",
+      "gross": 0.05,
+      "cume": 0.49,
+      "showings": 4892,
+      "admissions": 12140,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 618517,
+      "title": "The Thousand Faces of Dunjia",
+      "gross": 0.04,
+      "cume": 2.0,
+      "showings": 30,
+      "admissions": 4833,
+      "rank": 16,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 633481,
+      "title": "BUS657",
+      "gross": 0.03,
+      "cume": 0.39,
+      "showings": 2917,
+      "admissions": 7132,
+      "rank": 17,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 667708,
+      "title": "The Grudge",
+      "gross": 0.02,
+      "cume": 0.71,
+      "showings": 1209,
+      "admissions": 3905,
+      "rank": 18,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 661004,
+      "title": "Never Say Die",
+      "gross": 0.01,
+      "cume": 324.82,
+      "showings": 476,
+      "admissions": 2534,
+      "rank": 19,
+      "days": 73,
+      "day": "11th Mon"
+    },
+    {
+      "movie_id": 668943,
+      "title": "Fireworks, Should We See It from the Side or the Bottom?",
+      "gross": 0.01,
+      "cume": 11.53,
+      "showings": 2151,
+      "admissions": 2447,
+      "rank": 20,
+      "days": 11,
+      "day": "2nd Mon"
+    }
+  ]
+}

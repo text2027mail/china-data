@@ -1,0 +1,27 @@
+{
+  "movie_id": 638332,
+  "title": "Dauntless Love",
+  "releaseDate": "12-06-2017",
+  "entries": [
+    {
+      "date": "12-06-2017",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1581,
+      "admissions": 2783,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "14-06-2017",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1105,
+      "admissions": 1800,
+      "days": 3,
+      "day": "1st Wed"
+    }
+  ]
+}

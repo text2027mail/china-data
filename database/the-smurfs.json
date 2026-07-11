@@ -1,0 +1,47 @@
+{
+  "movie_id": 591934,
+  "title": "The Smurfs",
+  "releaseDate": "12-09-2013",
+  "entries": [
+    {
+      "date": "12-09-2013",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 37.22,
+      "showings": 88,
+      "admissions": 679,
+      "days": 765,
+      "day": "1st Thu"
+    },
+    {
+      "date": "13-09-2013",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 37.22,
+      "showings": 72,
+      "admissions": 756,
+      "days": 766,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-09-2013",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 37.23,
+      "showings": 96,
+      "admissions": 2115,
+      "days": 767,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-09-2013",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 37.24,
+      "showings": 88,
+      "admissions": 1772,
+      "days": 768,
+      "day": "1st Sun"
+    }
+  ]
+}

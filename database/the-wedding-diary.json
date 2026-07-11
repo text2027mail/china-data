@@ -1,0 +1,107 @@
+{
+  "movie_id": 616330,
+  "title": "The Wedding Diary",
+  "releaseDate": "29-05-2013",
+  "entries": [
+    {
+      "date": "29-05-2013",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 11,
+      "admissions": 605,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "31-05-2013",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.07,
+      "showings": 3017,
+      "admissions": 14520,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-06-2013",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 0.14,
+      "showings": 2184,
+      "admissions": 15455,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-06-2013",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.19,
+      "showings": 2133,
+      "admissions": 11527,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-06-2013",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 0.25,
+      "showings": 3313,
+      "admissions": 12489,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "04-06-2013",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.28,
+      "showings": 2361,
+      "admissions": 7506,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "05-06-2013",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.31,
+      "showings": 2410,
+      "admissions": 7183,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "06-06-2013",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.34,
+      "showings": 2385,
+      "admissions": 7649,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "07-06-2013",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.36,
+      "showings": 1681,
+      "admissions": 4199,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "08-06-2013",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.37,
+      "showings": 1225,
+      "admissions": 3478,
+      "days": 9,
+      "day": "2nd Sat"
+    }
+  ]
+}

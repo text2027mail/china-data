@@ -1,0 +1,27 @@
+{
+  "movie_id": 641795,
+  "title": "Lost Minds",
+  "releaseDate": "23-12-2016",
+  "entries": [
+    {
+      "date": "23-12-2016",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1599,
+      "admissions": 3983,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "24-12-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 827,
+      "admissions": 3100,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

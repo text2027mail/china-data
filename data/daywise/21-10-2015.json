@@ -1,0 +1,225 @@
+{
+  "date": "21-10-2015",
+  "data": [
+    {
+      "movie_id": 302023,
+      "title": "",
+      "gross": 3.69,
+      "cume": 52.9,
+      "showings": 54423,
+      "admissions": 703347,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 628183,
+      "title": "Goodbye Mr. Loser",
+      "gross": 2.43,
+      "cume": 185.67,
+      "showings": 38643,
+      "admissions": 507350,
+      "rank": 2,
+      "days": 22,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 625045,
+      "title": "The Little Prince",
+      "gross": 0.87,
+      "cume": 14.32,
+      "showings": 20380,
+      "admissions": 178308,
+      "rank": 3,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 618038,
+      "title": "Lost In Hong Kong",
+      "gross": 0.26,
+      "cume": 237.33,
+      "showings": 8216,
+      "admissions": 53334,
+      "rank": 4,
+      "days": 27,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 639260,
+      "title": "Survivor",
+      "gross": 0.2,
+      "cume": 1.05,
+      "showings": 10313,
+      "admissions": 46230,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 615300,
+      "title": "Chronicles of the Ghostly Tribe",
+      "gross": 0.15,
+      "cume": 100.3,
+      "showings": 5628,
+      "admissions": 30154,
+      "rank": 6,
+      "days": 22,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 630504,
+      "title": "The Coffin in the Mountain",
+      "gross": 0.12,
+      "cume": 0.96,
+      "showings": 3871,
+      "admissions": 29768,
+      "rank": 7,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 639889,
+      "title": "Campus Mystery",
+      "gross": 0.12,
+      "cume": 1.17,
+      "showings": 5853,
+      "admissions": 31428,
+      "rank": 8,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 631264,
+      "title": "Saving Mr. Wu",
+      "gross": 0.08,
+      "cume": 28.69,
+      "showings": 2330,
+      "admissions": 15889,
+      "rank": 9,
+      "days": 22,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 640871,
+      "title": "Himalaya:Ladder to Pradise",
+      "gross": 0.07,
+      "cume": 0.6,
+      "showings": 1087,
+      "admissions": 15302,
+      "rank": 10,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 641096,
+      "title": "Wo de Tong Nian Shui Zuo Zhu",
+      "gross": 0.06,
+      "cume": 0.5,
+      "showings": 77,
+      "admissions": 10926,
+      "rank": 11,
+      "days": null,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 641097,
+      "title": "Ai Zai Lan Man Shi",
+      "gross": 0.06,
+      "cume": 0.49,
+      "showings": 77,
+      "admissions": 10842,
+      "rank": 12,
+      "days": 2477,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 639356,
+      "title": "Inside Out",
+      "gross": 0.05,
+      "cume": 13.96,
+      "showings": 1341,
+      "admissions": 8188,
+      "rank": 13,
+      "days": 16,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 631325,
+      "title": "The Witness",
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 11,
+      "admissions": 2145,
+      "rank": 14,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 639056,
+      "title": "The Hundred Regiments Offensive",
+      "gross": 0.02,
+      "cume": 60.8,
+      "showings": 104,
+      "admissions": 4463,
+      "rank": 15,
+      "days": 55,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 640889,
+      "title": "Pan",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 432,
+      "admissions": 2636,
+      "rank": 16,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 631292,
+      "title": "Magic Card",
+      "gross": 0.01,
+      "cume": 0.39,
+      "showings": 2435,
+      "admissions": 2451,
+      "rank": 17,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 639518,
+      "title": "Wei Le Zhe Pian Tu Di",
+      "gross": 0.01,
+      "cume": 0.37,
+      "showings": 11,
+      "admissions": 1532,
+      "rank": 18,
+      "days": 113,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 627016,
+      "title": "The Third Way of Love",
+      "gross": 0.01,
+      "cume": 10.8,
+      "showings": 245,
+      "admissions": 1212,
+      "rank": 19,
+      "days": 27,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 638879,
+      "title": "Balala The Fairies-Princess Camellia",
+      "gross": 0.01,
+      "cume": 5.64,
+      "showings": 75,
+      "admissions": 1051,
+      "rank": 20,
+      "days": 21,
+      "day": "5th Wed"
+    }
+  ]
+}

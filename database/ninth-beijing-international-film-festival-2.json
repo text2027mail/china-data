@@ -1,0 +1,67 @@
+{
+  "movie_id": 685995,
+  "title": "Ninth Beijing international film festival 2",
+  "releaseDate": "15-07-2019",
+  "entries": [
+    {
+      "date": "15-07-2019",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 2,
+      "admissions": 3098,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "16-07-2019",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 2,
+      "admissions": 1841,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "18-07-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 2,
+      "admissions": 1576,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "30-07-2019",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 4,
+      "admissions": 1552,
+      "days": null,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "20-09-2019",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.2,
+      "showings": 3,
+      "admissions": 1736,
+      "days": null,
+      "day": "10th Fri"
+    },
+    {
+      "date": "21-09-2019",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.23,
+      "showings": 4,
+      "admissions": 2430,
+      "days": null,
+      "day": "10th Sat"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "movie_id": 682120,
+  "title": "The Titan",
+  "releaseDate": "11-10-2018",
+  "entries": [
+    {
+      "date": "11-10-2018",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 317,
+      "admissions": 3714,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "12-10-2018",
+      "rank": 5,
+      "gross": 0.92,
+      "cume": 0.93,
+      "showings": 51376,
+      "admissions": 208000,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-10-2018",
+      "rank": 8,
+      "gross": 0.56,
+      "cume": 1.49,
+      "showings": 36486,
+      "admissions": 125312,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-10-2018",
+      "rank": 10,
+      "gross": 0.29,
+      "cume": 1.78,
+      "showings": 26449,
+      "admissions": 63629,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "15-10-2018",
+      "rank": 8,
+      "gross": 0.09,
+      "cume": 1.87,
+      "showings": 19895,
+      "admissions": 19942,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "16-10-2018",
+      "rank": 8,
+      "gross": 0.07,
+      "cume": 1.94,
+      "showings": 16511,
+      "admissions": 15457,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "17-10-2018",
+      "rank": 8,
+      "gross": 0.06,
+      "cume": 2.0,
+      "showings": 14644,
+      "admissions": 12927,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "18-10-2018",
+      "rank": 8,
+      "gross": 0.05,
+      "cume": 2.05,
+      "showings": 13568,
+      "admissions": 11686,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

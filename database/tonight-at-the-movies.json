@@ -1,0 +1,127 @@
+{
+  "movie_id": 677272,
+  "title": "Tonight, at the Movies",
+  "releaseDate": "14-02-2019",
+  "entries": [
+    {
+      "date": "14-02-2019",
+      "rank": 7,
+      "gross": 0.97,
+      "cume": 0.97,
+      "showings": 19917,
+      "admissions": 184607,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "15-02-2019",
+      "rank": 9,
+      "gross": 0.16,
+      "cume": 1.13,
+      "showings": 5987,
+      "admissions": 32257,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "16-02-2019",
+      "rank": 9,
+      "gross": 0.19,
+      "cume": 1.32,
+      "showings": 3960,
+      "admissions": 35019,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-02-2019",
+      "rank": 10,
+      "gross": 0.16,
+      "cume": 1.48,
+      "showings": 3341,
+      "admissions": 30491,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "18-02-2019",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 1.56,
+      "showings": 2946,
+      "admissions": 15678,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "19-02-2019",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 1.64,
+      "showings": 2839,
+      "admissions": 16330,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "date": "20-02-2019",
+      "rank": 9,
+      "gross": 0.06,
+      "cume": 1.7,
+      "showings": 2669,
+      "admissions": 13009,
+      "days": 7,
+      "day": "1st Wed"
+    },
+    {
+      "date": "21-02-2019",
+      "rank": 10,
+      "gross": 0.05,
+      "cume": 1.75,
+      "showings": 2587,
+      "admissions": 11457,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "22-02-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 1.76,
+      "showings": 358,
+      "admissions": 1952,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "23-02-2019",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 1.78,
+      "showings": 387,
+      "admissions": 3089,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "24-02-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 1.79,
+      "showings": 384,
+      "admissions": 2550,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "25-02-2019",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 1.79,
+      "showings": 414,
+      "admissions": 1046,
+      "days": 12,
+      "day": "2nd Mon"
+    }
+  ]
+}

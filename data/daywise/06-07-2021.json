@@ -1,0 +1,225 @@
+{
+  "date": "06-07-2021",
+  "data": [
+    {
+      "movie_id": 701782,
+      "title": "",
+      "gross": 2.75,
+      "cume": 49.28,
+      "showings": 104543,
+      "admissions": 547149,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 704679,
+      "title": "The Pioneer",
+      "gross": 1.07,
+      "cume": 12.6,
+      "showings": 67605,
+      "admissions": 199058,
+      "rank": 2,
+      "days": 6,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 706713,
+      "title": "Man In Love",
+      "gross": 0.66,
+      "cume": 35.41,
+      "showings": 38435,
+      "admissions": 139226,
+      "rank": 3,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 695809,
+      "title": "Peter Rabbit 2: The Runaway",
+      "gross": 0.55,
+      "cume": 27.39,
+      "showings": 27054,
+      "admissions": 117612,
+      "rank": 4,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 706449,
+      "title": "On Your Mark",
+      "gross": 0.33,
+      "cume": 20.82,
+      "showings": 20549,
+      "admissions": 60856,
+      "rank": 5,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 707737,
+      "title": "Island Keeper",
+      "gross": 0.32,
+      "cume": 12.28,
+      "showings": 13084,
+      "admissions": 54949,
+      "rank": 6,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 695549,
+      "title": "Hello World",
+      "gross": 0.25,
+      "cume": 18.15,
+      "showings": 15440,
+      "admissions": 53841,
+      "rank": 7,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 704380,
+      "title": "Wolfwalkers",
+      "gross": 0.13,
+      "cume": 1.16,
+      "showings": 13058,
+      "admissions": 26121,
+      "rank": 8,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 679491,
+      "title": "Bye！Mr.Wang",
+      "gross": 0.09,
+      "cume": 0.14,
+      "showings": 161,
+      "admissions": 18963,
+      "rank": 9,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 707206,
+      "title": "Between Us",
+      "gross": 0.07,
+      "cume": 6.64,
+      "showings": 8953,
+      "admissions": 13890,
+      "rank": 10,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 706639,
+      "title": "The Father",
+      "gross": 0.06,
+      "cume": 3.6,
+      "showings": 2595,
+      "admissions": 10813,
+      "rank": 11,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 704464,
+      "title": "Stand by Me Doraemon 2",
+      "gross": 0.05,
+      "cume": 40.37,
+      "showings": 3821,
+      "admissions": 11669,
+      "rank": 12,
+      "days": 40,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 692841,
+      "title": "The perfect Victim",
+      "gross": 0.05,
+      "cume": 1.69,
+      "showings": 4727,
+      "admissions": 10960,
+      "rank": 13,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 707185,
+      "title": "Sunny Sisters",
+      "gross": 0.05,
+      "cume": 13.9,
+      "showings": 3869,
+      "admissions": 8921,
+      "rank": 14,
+      "days": 26,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 695422,
+      "title": "Never Stop",
+      "gross": 0.04,
+      "cume": 20.97,
+      "showings": 4628,
+      "admissions": 8414,
+      "rank": 15,
+      "days": 25,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 684463,
+      "title": "Zhou En Lai In His Childhood",
+      "gross": 0.04,
+      "cume": 0.52,
+      "showings": 433,
+      "admissions": 11181,
+      "rank": 16,
+      "days": 36,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 672770,
+      "title": "Hell of Volcano",
+      "gross": 0.03,
+      "cume": 1.11,
+      "showings": 198,
+      "admissions": 3953,
+      "rank": 17,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 693270,
+      "title": "Promare",
+      "gross": 0.02,
+      "cume": 2.58,
+      "showings": 1052,
+      "admissions": 3910,
+      "rank": 18,
+      "days": 32,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 695516,
+      "title": "Cliff Walkers",
+      "gross": 0.02,
+      "cume": 175.51,
+      "showings": 1316,
+      "admissions": 3281,
+      "rank": 19,
+      "days": 68,
+      "day": "12th Tue"
+    },
+    {
+      "movie_id": 566287,
+      "title": "Nuovo Cinema Paradiso",
+      "gross": 0.02,
+      "cume": 2.71,
+      "showings": 986,
+      "admissions": 2576,
+      "rank": 20,
+      "days": 26,
+      "day": "4th Tue"
+    }
+  ]
+}

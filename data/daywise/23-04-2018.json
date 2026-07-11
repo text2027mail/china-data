@@ -1,0 +1,225 @@
+{
+  "date": "23-04-2018",
+  "data": [
+    {
+      "movie_id": 676242,
+      "title": "",
+      "gross": 3.23,
+      "cume": 102.75,
+      "showings": 98815,
+      "admissions": 629496,
+      "rank": 1,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 642174,
+      "title": "21 Karat",
+      "gross": 1.41,
+      "cume": 10.76,
+      "showings": 57728,
+      "admissions": 312961,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 657862,
+      "title": "Ready Player One",
+      "gross": 0.96,
+      "cume": 193.58,
+      "showings": 38375,
+      "admissions": 186662,
+      "rank": 3,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 643903,
+      "title": "Dude's Manual",
+      "gross": 0.37,
+      "cume": 3.79,
+      "showings": 31366,
+      "admissions": 80222,
+      "rank": 4,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 665003,
+      "title": "Isle of Dogs",
+      "gross": 0.29,
+      "cume": 4.15,
+      "showings": 24063,
+      "admissions": 60969,
+      "rank": 5,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 675328,
+      "title": "Annihilation",
+      "gross": 0.15,
+      "cume": 8.94,
+      "showings": 8562,
+      "admissions": 30280,
+      "rank": 6,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 665847,
+      "title": "Hindi Medium",
+      "gross": 0.12,
+      "cume": 30.16,
+      "showings": 9568,
+      "admissions": 26701,
+      "rank": 7,
+      "days": 20,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 655823,
+      "title": "Operation Red Sea",
+      "gross": 0.08,
+      "cume": 537.88,
+      "showings": 3824,
+      "admissions": 16804,
+      "rank": 8,
+      "days": 67,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 675239,
+      "title": "Amazing China",
+      "gross": 0.06,
+      "cume": 69.73,
+      "showings": 1154,
+      "admissions": 13447,
+      "rank": 9,
+      "days": 53,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 663327,
+      "title": "Us And Them",
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 18,
+      "admissions": 2865,
+      "rank": 10,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 668536,
+      "title": "Wrath Of Silence",
+      "gross": 0.02,
+      "cume": 7.86,
+      "showings": 1343,
+      "admissions": 3852,
+      "rank": 11,
+      "days": 20,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 639863,
+      "title": "The Snow Queen 3: Fire and Ice",
+      "gross": 0.01,
+      "cume": 8.94,
+      "showings": 2000,
+      "admissions": 2853,
+      "rank": 12,
+      "days": 19,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 639900,
+      "title": "Path to the Dream",
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 164,
+      "admissions": 3756,
+      "rank": 13,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 659490,
+      "title": "The Taste of Rice Flower",
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 917,
+      "admissions": 2000,
+      "rank": 14,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 639128,
+      "title": "Where‘s The Dragon？",
+      "gross": 0.01,
+      "cume": 3.35,
+      "showings": 2297,
+      "admissions": 1508,
+      "rank": 15,
+      "days": 914,
+      "day": "132nd Mon"
+    },
+    {
+      "movie_id": 654238,
+      "title": "The Frozen Maze",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 1153,
+      "admissions": 1384,
+      "rank": 16,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 673059,
+      "title": "Beyond the mountains",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 181,
+      "admissions": 1670,
+      "rank": 17,
+      "days": 32,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 674543,
+      "title": "The Commuter",
+      "gross": 0.01,
+      "cume": 6.67,
+      "showings": 494,
+      "admissions": 1017,
+      "rank": 18,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 644531,
+      "title": "Really ？",
+      "gross": 0.01,
+      "cume": 2.62,
+      "showings": 246,
+      "admissions": 1322,
+      "rank": 19,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 667137,
+      "title": "Mary and The Witch's Flower",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 2,
+      "admissions": 490,
+      "rank": 20,
+      "days": null,
+      "day": "1st Mon"
+    }
+  ]
+}

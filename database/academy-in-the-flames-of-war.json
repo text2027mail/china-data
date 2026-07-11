@@ -1,0 +1,77 @@
+{
+  "movie_id": 733552,
+  "title": "Academy in The Flames of War",
+  "releaseDate": "01-11-2023",
+  "entries": [
+    {
+      "date": "01-11-2023",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 13,
+      "admissions": 1156,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-11-2023",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 13,
+      "admissions": 1125,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "04-11-2023",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 40,
+      "admissions": 3059,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "05-11-2023",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 38,
+      "admissions": 3315,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "09-10-2025",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.39,
+      "showings": 14,
+      "admissions": 1883,
+      "days": 700,
+      "day": "102nd Thu"
+    },
+    {
+      "date": "10-10-2025",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.41,
+      "showings": 17,
+      "admissions": 2069,
+      "days": 701,
+      "day": "102nd Fri"
+    },
+    {
+      "date": "14-10-2025",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.46,
+      "showings": 16,
+      "admissions": 2087,
+      "days": 705,
+      "day": "102nd Tue"
+    }
+  ]
+}

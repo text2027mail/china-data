@@ -1,0 +1,67 @@
+{
+  "movie_id": 669267,
+  "title": "Fake Guardians",
+  "releaseDate": "01-12-2017",
+  "entries": [
+    {
+      "date": "01-12-2017",
+      "rank": 14,
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 4313,
+      "admissions": 15781,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "02-12-2017",
+      "rank": 18,
+      "gross": 0.07,
+      "cume": 0.14,
+      "showings": 2892,
+      "admissions": 15769,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-12-2017",
+      "rank": 18,
+      "gross": 0.05,
+      "cume": 0.19,
+      "showings": 2686,
+      "admissions": 11558,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-12-2017",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.21,
+      "showings": 2452,
+      "admissions": 4612,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "05-12-2017",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.23,
+      "showings": 2250,
+      "admissions": 4320,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "06-12-2017",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 2162,
+      "admissions": 3678,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

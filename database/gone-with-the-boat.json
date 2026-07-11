@@ -1,0 +1,57 @@
+{
+  "movie_id": 706350,
+  "title": "Gone With the Boat",
+  "releaseDate": "14-04-2024",
+  "entries": [
+    {
+      "date": "14-04-2024",
+      "rank": 20,
+      "gross": 0.03,
+      "cume": 0.08,
+      "showings": 3614,
+      "admissions": 4930,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "15-04-2024",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 2721,
+      "admissions": 2792,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "16-04-2024",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 2705,
+      "admissions": 2848,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "17-04-2024",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 2717,
+      "admissions": 2636,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "18-04-2024",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 2682,
+      "admissions": 2570,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "02-01-2017",
+  "data": [
+    {
+      "movie_id": 653984,
+      "title": "",
+      "gross": 7.01,
+      "cume": 33.1,
+      "showings": 54334,
+      "admissions": 1474766,
+      "rank": 1,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 637972,
+      "title": "Railroad Tigers",
+      "gross": 5.43,
+      "cume": 78.63,
+      "showings": 46916,
+      "admissions": 950102,
+      "rank": 2,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 595849,
+      "title": "The Great Wall",
+      "gross": 3.9,
+      "cume": 156.17,
+      "showings": 40300,
+      "admissions": 720917,
+      "rank": 3,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 628225,
+      "title": "See You Tomorrow",
+      "gross": 2.06,
+      "cume": 66.09,
+      "showings": 27684,
+      "admissions": 419841,
+      "rank": 4,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 657651,
+      "title": "Hacksaw Ridge",
+      "gross": 1.32,
+      "cume": 55.24,
+      "showings": 9288,
+      "admissions": 267018,
+      "rank": 5,
+      "days": 26,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 631058,
+      "title": "The Snow Queen 2: The Snow King",
+      "gross": 1.03,
+      "cume": 4.17,
+      "showings": 17693,
+      "admissions": 216755,
+      "rank": 6,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 659022,
+      "title": "Zhu Zhu Xia Zhi Ying Xiong Zhu Shao Nian",
+      "gross": 0.63,
+      "cume": 1.96,
+      "showings": 9467,
+      "admissions": 150230,
+      "rank": 7,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 656433,
+      "title": "Cherry Returns",
+      "gross": 0.41,
+      "cume": 4.53,
+      "showings": 17022,
+      "admissions": 91508,
+      "rank": 8,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 644926,
+      "title": "Moana",
+      "gross": 0.39,
+      "cume": 32.51,
+      "showings": 2447,
+      "admissions": 77470,
+      "rank": 9,
+      "days": 39,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 642338,
+      "title": "Provoking Laughter",
+      "gross": 0.26,
+      "cume": 2.35,
+      "showings": 1283,
+      "admissions": 52949,
+      "rank": 10,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 642541,
+      "title": "The Insanity",
+      "gross": 0.22,
+      "cume": 1.8,
+      "showings": 6109,
+      "admissions": 47907,
+      "rank": 11,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 617156,
+      "title": "The Wasted Times",
+      "gross": 0.19,
+      "cume": 17.46,
+      "showings": 1227,
+      "admissions": 30757,
+      "rank": 12,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 573845,
+      "title": "Bridget Jones's Baby",
+      "gross": 0.18,
+      "cume": 0.43,
+      "showings": 4497,
+      "admissions": 34976,
+      "rank": 13,
+      "days": 2,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 655647,
+      "title": "Your Name",
+      "gross": 0.16,
+      "cume": 83.97,
+      "showings": 1751,
+      "admissions": 33358,
+      "rank": 14,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 643984,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "gross": 0.06,
+      "cume": 87.09,
+      "showings": 348,
+      "admissions": 9195,
+      "rank": 15,
+      "days": 39,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 643368,
+      "title": "Midnight Sun",
+      "gross": 0.05,
+      "cume": 0.26,
+      "showings": 982,
+      "admissions": 11526,
+      "rank": 16,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 657093,
+      "title": "Super Kindergarten",
+      "gross": 0.04,
+      "cume": 0.18,
+      "showings": 2314,
+      "admissions": 8503,
+      "rank": 17,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 656002,
+      "title": "Sully",
+      "gross": 0.04,
+      "cume": 9.13,
+      "showings": 211,
+      "admissions": 5798,
+      "rank": 18,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 655171,
+      "title": "Sinbad and Mermaid Princess",
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 1301,
+      "admissions": 5678,
+      "rank": 19,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 658667,
+      "title": "G.E.M.: G-Force",
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 6,
+      "admissions": 1602,
+      "rank": 20,
+      "days": null,
+      "day": "2nd Mon"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "30-11-2024",
+  "data": [
+    {
+      "movie_id": 736260,
+      "title": "",
+      "gross": 9.03,
+      "cume": 50.44,
+      "showings": 98797,
+      "admissions": 1449545,
+      "rank": 1,
+      "days": 9,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 766108,
+      "title": "Moana 2",
+      "gross": 3.26,
+      "cume": 4.63,
+      "showings": 63231,
+      "admissions": 544394,
+      "rank": 2,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 692114,
+      "title": "GOODLUCK",
+      "gross": 2.11,
+      "cume": 2.12,
+      "showings": 53493,
+      "admissions": 389719,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 755469,
+      "title": "CrayonShinchantheMovie:OurDinosaurDiary",
+      "gross": 2.05,
+      "cume": 13.67,
+      "showings": 41747,
+      "admissions": 380890,
+      "rank": 4,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 638703,
+      "title": "A Poem In Love",
+      "gross": 1.3,
+      "cume": 1.3,
+      "showings": 45404,
+      "admissions": 233891,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 771234,
+      "title": "Maharaja",
+      "gross": 1.17,
+      "cume": 2.42,
+      "showings": 45471,
+      "admissions": 207879,
+      "rank": 6,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 339971,
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "gross": 1.02,
+      "cume": 61.14,
+      "showings": 10725,
+      "admissions": 164201,
+      "rank": 7,
+      "days": 4868,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 755093,
+      "title": "Brave New World",
+      "gross": 0.91,
+      "cume": 27.06,
+      "showings": 22114,
+      "admissions": 165348,
+      "rank": 8,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 746635,
+      "title": "The Young Couple Apartment",
+      "gross": 0.53,
+      "cume": 16.21,
+      "showings": 11746,
+      "admissions": 113473,
+      "rank": 9,
+      "days": 31,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 762414,
+      "title": "Venom: The Last Dance",
+      "gross": 0.25,
+      "cume": 99.47,
+      "showings": 5841,
+      "admissions": 42530,
+      "rank": 10,
+      "days": 39,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 767579,
+      "title": "Gladiator II",
+      "gross": 0.22,
+      "cume": 4.97,
+      "showings": 4682,
+      "admissions": 34221,
+      "rank": 11,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 339970,
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "gross": 0.14,
+      "cume": 20.88,
+      "showings": 1113,
+      "admissions": 22680,
+      "rank": 12,
+      "days": 5126,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 739517,
+      "title": "Cesium Fallout",
+      "gross": 0.1,
+      "cume": 37.88,
+      "showings": 2484,
+      "admissions": 15377,
+      "rank": 13,
+      "days": 30,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 712658,
+      "title": "Rexue Ranshao",
+      "gross": 0.08,
+      "cume": 0.11,
+      "showings": 15971,
+      "admissions": 13180,
+      "rank": 14,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 755392,
+      "title": "Dawn Break",
+      "gross": 0.06,
+      "cume": 0.1,
+      "showings": 6488,
+      "admissions": 12907,
+      "rank": 15,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 339974,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "gross": 0.06,
+      "cume": 4.25,
+      "showings": 516,
+      "admissions": 8525,
+      "rank": 16,
+      "days": 6323,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 736246,
+      "title": "Caught by the Tides",
+      "gross": 0.06,
+      "cume": 0.8,
+      "showings": 2531,
+      "admissions": 9313,
+      "rank": 17,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 707812,
+      "title": "Never Meet Again",
+      "gross": 0.05,
+      "cume": 0.11,
+      "showings": 2191,
+      "admissions": 9063,
+      "rank": 18,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 339972,
+      "title": "Harry Potter and the Goblet of Fire",
+      "gross": 0.05,
+      "cume": 5.17,
+      "showings": 502,
+      "admissions": 8085,
+      "rank": 19,
+      "days": 6953,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 703767,
+      "title": "Break Through",
+      "gross": 0.05,
+      "cume": 0.34,
+      "showings": 4400,
+      "admissions": 9128,
+      "rank": 20,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

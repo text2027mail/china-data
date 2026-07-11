@@ -1,0 +1,57 @@
+{
+  "movie_id": 613126,
+  "title": "Free Ride",
+  "releaseDate": "05-06-2015",
+  "entries": [
+    {
+      "date": "05-06-2015",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2175,
+      "admissions": 3604,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "06-06-2015",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 1442,
+      "admissions": 4167,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "07-06-2015",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 1290,
+      "admissions": 3363,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "08-06-2015",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 1349,
+      "admissions": 1379,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "09-06-2015",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 1261,
+      "admissions": 1857,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

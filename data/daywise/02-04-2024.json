@@ -1,0 +1,225 @@
+{
+  "date": "02-04-2024",
+  "data": [
+    {
+      "movie_id": 745142,
+      "title": "",
+      "gross": 3.71,
+      "cume": 55.02,
+      "showings": 142748,
+      "admissions": 582344,
+      "rank": 1,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 735506,
+      "title": "Viva La Vida",
+      "gross": 0.78,
+      "cume": 24.78,
+      "showings": 43922,
+      "admissions": 127155,
+      "rank": 2,
+      "days": 4,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 596852,
+      "title": "The Pig, the Snake and the Pigeon",
+      "gross": 0.37,
+      "cume": 95.78,
+      "showings": 33866,
+      "admissions": 64488,
+      "rank": 3,
+      "days": 33,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 747074,
+      "title": "Kung Fu Panda 4",
+      "gross": 0.33,
+      "cume": 36.99,
+      "showings": 41053,
+      "admissions": 54455,
+      "rank": 4,
+      "days": 12,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 746259,
+      "title": "Anatomie d’une chute",
+      "gross": 0.2,
+      "cume": 2.39,
+      "showings": 15126,
+      "admissions": 34576,
+      "rank": 5,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 739312,
+      "title": "Dune: Part Two",
+      "gross": 0.15,
+      "cume": 49.7,
+      "showings": 10054,
+      "admissions": 22207,
+      "rank": 6,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 710288,
+      "title": "I Miss You",
+      "gross": 0.1,
+      "cume": 30.91,
+      "showings": 12442,
+      "admissions": 16412,
+      "rank": 7,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 735035,
+      "title": "Article 20",
+      "gross": 0.09,
+      "cume": 358.78,
+      "showings": 8635,
+      "admissions": 14741,
+      "rank": 8,
+      "days": 53,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 737452,
+      "title": "Pegasus 2",
+      "gross": 0.07,
+      "cume": 496.41,
+      "showings": 7422,
+      "admissions": 11069,
+      "rank": 9,
+      "days": 53,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 745229,
+      "title": "Remember Me",
+      "gross": 0.06,
+      "cume": 14.41,
+      "showings": 11890,
+      "admissions": 10941,
+      "rank": 10,
+      "days": 19,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 736252,
+      "title": "Galaxy Writer",
+      "gross": 0.04,
+      "cume": 0.56,
+      "showings": 9423,
+      "admissions": 6472,
+      "rank": 11,
+      "days": 4,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 716137,
+      "title": "OUR DREAMS,OUR HOMELAND",
+      "gross": 0.02,
+      "cume": 0.31,
+      "showings": 54,
+      "admissions": 4150,
+      "rank": 12,
+      "days": 131,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 713398,
+      "title": "Turning Point",
+      "gross": 0.02,
+      "cume": 0.56,
+      "showings": 211,
+      "admissions": 2902,
+      "rank": 13,
+      "days": 20,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 716595,
+      "title": "Yolo",
+      "gross": 0.02,
+      "cume": 505.32,
+      "showings": 2782,
+      "admissions": 2554,
+      "rank": 14,
+      "days": 53,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 739598,
+      "title": "Boonie Bears:Time Twist",
+      "gross": 0.01,
+      "cume": 289.12,
+      "showings": 3424,
+      "admissions": 2057,
+      "rank": 15,
+      "days": 53,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.01,
+      "cume": 3.13,
+      "showings": 5,
+      "admissions": 872,
+      "rank": 16,
+      "days": 1736,
+      "day": "139th Tue"
+    },
+    {
+      "movie_id": 736205,
+      "title": "Super Villain",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 6,
+      "admissions": 848,
+      "rank": 17,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 709541,
+      "title": "Fortress",
+      "gross": 0.0,
+      "cume": 0.21,
+      "showings": 318,
+      "admissions": 965,
+      "rank": 18,
+      "days": 12,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 703744,
+      "title": "Manifesto",
+      "gross": 0.0,
+      "cume": 12.0,
+      "showings": 4,
+      "admissions": 469,
+      "rank": 19,
+      "days": 376,
+      "day": "56th Tue"
+    },
+    {
+      "movie_id": 704936,
+      "title": "EIGHT HUNDRED MINERS",
+      "gross": 0.0,
+      "cume": 1.11,
+      "showings": 12,
+      "admissions": 911,
+      "rank": 20,
+      "days": 277,
+      "day": "36th Tue"
+    }
+  ]
+}

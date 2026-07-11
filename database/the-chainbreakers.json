@@ -1,0 +1,47 @@
+{
+  "movie_id": 618897,
+  "title": "The Chainbreakers",
+  "releaseDate": "12-12-2017",
+  "entries": [
+    {
+      "date": "12-12-2017",
+      "rank": 7,
+      "gross": 0.13,
+      "cume": 0.15,
+      "showings": 12699,
+      "admissions": 32764,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-12-2017",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.18,
+      "showings": 4819,
+      "admissions": 7328,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-12-2017",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.21,
+      "showings": 3242,
+      "admissions": 5844,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "16-12-2017",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.23,
+      "showings": 246,
+      "admissions": 4970,
+      "days": 5,
+      "day": "1st Sat"
+    }
+  ]
+}

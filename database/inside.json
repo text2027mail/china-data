@@ -1,0 +1,77 @@
+{
+  "movie_id": 629079,
+  "title": "Inside",
+  "releaseDate": "07-04-2017",
+  "entries": [
+    {
+      "date": "07-04-2017",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1906,
+      "admissions": 4407,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-04-2017",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 1809,
+      "admissions": 4866,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-04-2017",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 1707,
+      "admissions": 3520,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-04-2017",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 1698,
+      "admissions": 2603,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "11-04-2017",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 1617,
+      "admissions": 2170,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "12-04-2017",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 1592,
+      "admissions": 1978,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "13-04-2017",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 1107,
+      "admissions": 862,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

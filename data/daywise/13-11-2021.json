@@ -1,0 +1,225 @@
+{
+  "date": "13-11-2021",
+  "data": [
+    {
+      "movie_id": 706189,
+      "title": "",
+      "gross": 7.6,
+      "cume": 12.52,
+      "showings": 76676,
+      "admissions": 1359986,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 693966,
+      "title": "Anita",
+      "gross": 2.29,
+      "cume": 4.09,
+      "showings": 56948,
+      "admissions": 457711,
+      "rank": 2,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 2.13,
+      "cume": 831.56,
+      "showings": 35402,
+      "admissions": 431669,
+      "rank": 3,
+      "days": 45,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 696608,
+      "title": "No Time to Die",
+      "gross": 1.95,
+      "cume": 53.47,
+      "showings": 32407,
+      "admissions": 321047,
+      "rank": 4,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 472294,
+      "title": "Jungle Cruise",
+      "gross": 1.31,
+      "cume": 1.94,
+      "showings": 30256,
+      "admissions": 239306,
+      "rank": 5,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.35,
+      "cume": 35.91,
+      "showings": 4014,
+      "admissions": 49949,
+      "rank": 6,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 707531,
+      "title": "The Legend of Sealed Book",
+      "gross": 0.33,
+      "cume": 2.87,
+      "showings": 10843,
+      "admissions": 62850,
+      "rank": 7,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 461695,
+      "title": "Departures",
+      "gross": 0.31,
+      "cume": 8.77,
+      "showings": 8736,
+      "admissions": 62753,
+      "rank": 8,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 706356,
+      "title": "My country,My parents",
+      "gross": 0.18,
+      "cume": 217.13,
+      "showings": 4344,
+      "admissions": 30627,
+      "rank": 9,
+      "days": 45,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 693750,
+      "title": "The Curious Tale of Mr.Guo",
+      "gross": 0.18,
+      "cume": 5.0,
+      "showings": 7702,
+      "admissions": 36296,
+      "rank": 10,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 709366,
+      "title": "Vivo",
+      "gross": 0.11,
+      "cume": 0.67,
+      "showings": 6193,
+      "admissions": 23163,
+      "rank": 11,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 683814,
+      "title": "DEZICO: Legend Of Blue Ocean",
+      "gross": 0.07,
+      "cume": 0.54,
+      "showings": 3904,
+      "admissions": 15731,
+      "rank": 12,
+      "days": 8,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 674033,
+      "title": "SYNESTHETE",
+      "gross": 0.05,
+      "cume": 1.72,
+      "showings": 2980,
+      "admissions": 11666,
+      "rank": 13,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 702566,
+      "title": "Door Lock",
+      "gross": 0.05,
+      "cume": 0.06,
+      "showings": 100,
+      "admissions": 8421,
+      "rank": 14,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 679923,
+      "title": "See You Again",
+      "gross": 0.04,
+      "cume": 0.25,
+      "showings": 86,
+      "admissions": 6834,
+      "rank": 15,
+      "days": 62,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 654440,
+      "title": "Love After Love",
+      "gross": 0.03,
+      "cume": 9.4,
+      "showings": 1555,
+      "admissions": 5562,
+      "rank": 16,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 694504,
+      "title": "Wu Hai",
+      "gross": 0.03,
+      "cume": 2.1,
+      "showings": 1854,
+      "admissions": 5378,
+      "rank": 17,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 709406,
+      "title": "Finland AKI korismaki film retrospective exhibition",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 3,
+      "admissions": 2273,
+      "rank": 18,
+      "days": 45,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 709656,
+      "title": "Return To Our Promised Land",
+      "gross": 0.02,
+      "cume": 1.38,
+      "showings": 87,
+      "admissions": 3823,
+      "rank": 19,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 695476,
+      "title": "Knock Knock",
+      "gross": 0.02,
+      "cume": 9.89,
+      "showings": 1185,
+      "admissions": 3203,
+      "rank": 20,
+      "days": 23,
+      "day": "5th Sat"
+    }
+  ]
+}

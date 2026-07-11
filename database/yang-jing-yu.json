@@ -1,0 +1,37 @@
+{
+  "movie_id": 631469,
+  "title": "Yang Jing Yu",
+  "releaseDate": "18-09-2019",
+  "entries": [
+    {
+      "date": "18-09-2019",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 13125,
+      "admissions": 13821,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "19-09-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 2752,
+      "admissions": 2466,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "date": "01-10-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 32,
+      "admissions": 1542,
+      "days": 14,
+      "day": "2nd Tue"
+    }
+  ]
+}

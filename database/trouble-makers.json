@@ -1,0 +1,97 @@
+{
+  "movie_id": 642456,
+  "title": "Trouble Makers",
+  "releaseDate": "05-11-2017",
+  "entries": [
+    {
+      "date": "05-11-2017",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 285,
+      "admissions": 5579,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "07-11-2017",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 8,
+      "admissions": 1125,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "10-11-2017",
+      "rank": 6,
+      "gross": 0.61,
+      "cume": 0.65,
+      "showings": 16681,
+      "admissions": 141940,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "11-11-2017",
+      "rank": 10,
+      "gross": 0.43,
+      "cume": 1.08,
+      "showings": 12072,
+      "admissions": 99099,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-11-2017",
+      "rank": 10,
+      "gross": 0.28,
+      "cume": 1.37,
+      "showings": 10728,
+      "admissions": 63706,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "13-11-2017",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 1.47,
+      "showings": 9400,
+      "admissions": 22381,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "14-11-2017",
+      "rank": 9,
+      "gross": 0.11,
+      "cume": 1.58,
+      "showings": 8616,
+      "admissions": 21223,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "15-11-2017",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 1.66,
+      "showings": 8308,
+      "admissions": 17946,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "16-11-2017",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 1.73,
+      "showings": 7906,
+      "admissions": 16383,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

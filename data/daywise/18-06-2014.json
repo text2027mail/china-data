@@ -1,0 +1,225 @@
+{
+  "date": "18-06-2014",
+  "data": [
+    {
+      "movie_id": 626889,
+      "title": "",
+      "gross": 3.75,
+      "cume": 47.08,
+      "showings": 38836,
+      "admissions": 676674,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 624654,
+      "title": "Edge of Tomorrow",
+      "gross": 1.44,
+      "cume": 50.84,
+      "showings": 19600,
+      "admissions": 274661,
+      "rank": 2,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 620389,
+      "title": "X-Men: Days of Future Past",
+      "gross": 0.37,
+      "cume": 105.8,
+      "showings": 6653,
+      "admissions": 66118,
+      "rank": 3,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 612127,
+      "title": "Overheard 3",
+      "gross": 0.31,
+      "cume": 44.42,
+      "showings": 8087,
+      "admissions": 63653,
+      "rank": 4,
+      "days": 21,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 626911,
+      "title": "Midnight Hair",
+      "gross": 0.19,
+      "cume": 1.37,
+      "showings": 6179,
+      "admissions": 47010,
+      "rank": 5,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 617600,
+      "title": "Night of Adventure",
+      "gross": 0.11,
+      "cume": 3.63,
+      "showings": 3987,
+      "admissions": 26363,
+      "rank": 6,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 627869,
+      "title": "Guardians",
+      "gross": 0.09,
+      "cume": 0.72,
+      "showings": 5475,
+      "admissions": 20260,
+      "rank": 7,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 658914,
+      "title": "Shanghai international film festival",
+      "gross": 0.08,
+      "cume": 1.71,
+      "showings": 45,
+      "admissions": 9528,
+      "rank": 8,
+      "days": null,
+      "day": "53rd Wed"
+    },
+    {
+      "movie_id": 616513,
+      "title": "Coming Home",
+      "gross": 0.06,
+      "cume": 42.69,
+      "showings": 1269,
+      "admissions": 11709,
+      "rank": 9,
+      "days": 34,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 590474,
+      "title": "Magic Wonderland",
+      "gross": 0.02,
+      "cume": 3.07,
+      "showings": 312,
+      "admissions": 3244,
+      "rank": 10,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 627649,
+      "title": "The Eternity Of Jiao Yulu",
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 99,
+      "admissions": 5594,
+      "rank": 11,
+      "days": 34,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 589159,
+      "title": "Breaking The Waves",
+      "gross": 0.01,
+      "cume": 0.68,
+      "showings": 1370,
+      "admissions": 3369,
+      "rank": 12,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 627609,
+      "title": "A Noble Spirit",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 122,
+      "admissions": 3336,
+      "rank": 13,
+      "days": 32,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 589109,
+      "title": "The Break-Up Artist",
+      "gross": 0.01,
+      "cume": 0.6,
+      "showings": 1159,
+      "admissions": 2439,
+      "rank": 14,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 614662,
+      "title": "GG Bond 2",
+      "gross": 0.01,
+      "cume": 6.13,
+      "showings": 853,
+      "admissions": 1408,
+      "rank": 15,
+      "days": 19,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 626350,
+      "title": "Who is Undercover",
+      "gross": 0.0,
+      "cume": 0.24,
+      "showings": 29,
+      "admissions": 1138,
+      "rank": 16,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 627456,
+      "title": "Happy Little Submarines 4 – Adventure of Octopus",
+      "gross": 0.0,
+      "cume": 6.79,
+      "showings": 575,
+      "admissions": 856,
+      "rank": 17,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 614086,
+      "title": "Zhen Hai Bao Wei Zhan",
+      "gross": 0.0,
+      "cume": 0.14,
+      "showings": 10,
+      "admissions": 546,
+      "rank": 18,
+      "days": 20,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 718,
+      "title": "Jiao Yulu",
+      "gross": 0.0,
+      "cume": 0.57,
+      "showings": 9,
+      "admissions": 884,
+      "rank": 19,
+      "days": 853,
+      "day": "12th Wed"
+    },
+    {
+      "movie_id": 621407,
+      "title": "Grace of Monaco",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 7,
+      "admissions": 541,
+      "rank": 20,
+      "days": null,
+      "day": "1st Wed"
+    }
+  ]
+}

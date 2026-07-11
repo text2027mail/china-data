@@ -1,0 +1,77 @@
+{
+  "movie_id": 668715,
+  "title": "Old Beast",
+  "releaseDate": "11-12-2017",
+  "entries": [
+    {
+      "date": "11-12-2017",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 0.09,
+      "showings": 5881,
+      "admissions": 16338,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-12-2017",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.14,
+      "showings": 3977,
+      "admissions": 11079,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-12-2017",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.19,
+      "showings": 3737,
+      "admissions": 10630,
+      "days": 3,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-12-2017",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.23,
+      "showings": 2717,
+      "admissions": 8487,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "date": "15-12-2017",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.25,
+      "showings": 269,
+      "admissions": 3214,
+      "days": 5,
+      "day": "1st Fri"
+    },
+    {
+      "date": "16-12-2017",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.26,
+      "showings": 264,
+      "admissions": 3287,
+      "days": 6,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-12-2017",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.28,
+      "showings": 247,
+      "admissions": 2808,
+      "days": 7,
+      "day": "1st Sun"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "movie_id": 631359,
+  "title": "This is me",
+  "releaseDate": "13-11-2015",
+  "entries": [
+    {
+      "date": "13-11-2015",
+      "rank": 4,
+      "gross": 0.5,
+      "cume": 0.5,
+      "showings": 15767,
+      "admissions": 119196,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-11-2015",
+      "rank": 6,
+      "gross": 0.53,
+      "cume": 1.03,
+      "showings": 12829,
+      "admissions": 126473,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-11-2015",
+      "rank": 7,
+      "gross": 0.4,
+      "cume": 1.43,
+      "showings": 11359,
+      "admissions": 93576,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-11-2015",
+      "rank": 5,
+      "gross": 0.16,
+      "cume": 1.59,
+      "showings": 11142,
+      "admissions": 37497,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "17-11-2015",
+      "rank": 5,
+      "gross": 0.14,
+      "cume": 1.72,
+      "showings": 10359,
+      "admissions": 32497,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "18-11-2015",
+      "rank": 5,
+      "gross": 0.12,
+      "cume": 1.85,
+      "showings": 9920,
+      "admissions": 28783,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "19-11-2015",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 1.89,
+      "showings": 5029,
+      "admissions": 10226,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "02-12-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 1.92,
+      "showings": 103,
+      "admissions": 2625,
+      "days": 20,
+      "day": "3rd Wed"
+    }
+  ]
+}

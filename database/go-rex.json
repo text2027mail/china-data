@@ -1,0 +1,57 @@
+{
+  "movie_id": 673485,
+  "title": "Go！Rex",
+  "releaseDate": "05-10-2019",
+  "entries": [
+    {
+      "date": "05-10-2019",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.05,
+      "showings": 520,
+      "admissions": 8945,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "06-10-2019",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 315,
+      "admissions": 4844,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "07-10-2019",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 244,
+      "admissions": 4032,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "19-10-2019",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.16,
+      "showings": 1359,
+      "admissions": 16085,
+      "days": 1,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "20-10-2019",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.23,
+      "showings": 1349,
+      "admissions": 16202,
+      "days": 2,
+      "day": "3rd Sun"
+    }
+  ]
+}

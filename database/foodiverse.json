@@ -1,0 +1,57 @@
+{
+  "movie_id": 674950,
+  "title": "Foodiverse",
+  "releaseDate": "16-06-2018",
+  "entries": [
+    {
+      "date": "16-06-2018",
+      "rank": 8,
+      "gross": 0.25,
+      "cume": 0.25,
+      "showings": 14819,
+      "admissions": 55934,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-06-2018",
+      "rank": 10,
+      "gross": 0.2,
+      "cume": 0.46,
+      "showings": 10645,
+      "admissions": 45677,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "18-06-2018",
+      "rank": 9,
+      "gross": 0.2,
+      "cume": 0.66,
+      "showings": 8263,
+      "admissions": 45592,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "19-06-2018",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.67,
+      "showings": 4008,
+      "admissions": 2882,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "20-06-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.68,
+      "showings": 3362,
+      "admissions": 1812,
+      "days": 5,
+      "day": "1st Wed"
+    }
+  ]
+}

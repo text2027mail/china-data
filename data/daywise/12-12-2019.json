@@ -1,0 +1,225 @@
+{
+  "date": "12-12-2019",
+  "data": [
+    {
+      "movie_id": 681365,
+      "title": "",
+      "gross": 4.42,
+      "cume": 4.44,
+      "showings": 93535,
+      "admissions": 820863,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 686284,
+      "title": "Jumanji: The Next Level",
+      "gross": 1.55,
+      "cume": 33.8,
+      "showings": 78129,
+      "admissions": 303404,
+      "rank": 2,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 696120,
+      "title": "Warriors of Hornor",
+      "gross": 1.25,
+      "cume": 7.9,
+      "showings": 1545,
+      "admissions": 140915,
+      "rank": 3,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 682020,
+      "title": "Wild Goose Lake",
+      "gross": 1.16,
+      "cume": 26.67,
+      "showings": 67168,
+      "admissions": 227886,
+      "rank": 4,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 677003,
+      "title": "The Whistle blower",
+      "gross": 0.47,
+      "cume": 6.92,
+      "showings": 22864,
+      "admissions": 89772,
+      "rank": 5,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 695766,
+      "title": "Knives Out",
+      "gross": 0.46,
+      "cume": 26.98,
+      "showings": 18022,
+      "admissions": 92200,
+      "rank": 6,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 676432,
+      "title": "Frozen 2",
+      "gross": 0.29,
+      "cume": 110.44,
+      "showings": 20809,
+      "admissions": 58667,
+      "rank": 7,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 678649,
+      "title": "Two Tigers",
+      "gross": 0.26,
+      "cume": 32.28,
+      "showings": 14158,
+      "admissions": 51815,
+      "rank": 8,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 694745,
+      "title": "Back to Youth",
+      "gross": 0.21,
+      "cume": 0.7,
+      "showings": 7557,
+      "admissions": 37611,
+      "rank": 9,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 691481,
+      "title": "My People, My Country",
+      "gross": 0.16,
+      "cume": 460.11,
+      "showings": 499,
+      "admissions": 24293,
+      "rank": 10,
+      "days": 74,
+      "day": "11th Thu"
+    },
+    {
+      "movie_id": 694774,
+      "title": "Song Of Love",
+      "gross": 0.09,
+      "cume": 2.58,
+      "showings": 210,
+      "admissions": 14277,
+      "rank": 11,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 695387,
+      "title": "Ad Astra",
+      "gross": 0.05,
+      "cume": 3.22,
+      "showings": 7242,
+      "admissions": 10203,
+      "rank": 12,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 694046,
+      "title": "Ride Your Wave",
+      "gross": 0.04,
+      "cume": 1.94,
+      "showings": 6643,
+      "admissions": 9765,
+      "rank": 13,
+      "days": 6,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 693266,
+      "title": "Sheep Without A Shepherd",
+      "gross": 0.02,
+      "cume": 3.2,
+      "showings": 332,
+      "admissions": 4297,
+      "rank": 14,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 681457,
+      "title": "Midway",
+      "gross": 0.02,
+      "cume": 43.28,
+      "showings": 914,
+      "admissions": 3853,
+      "rank": 15,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 684441,
+      "title": "Somewhere Winter",
+      "gross": 0.02,
+      "cume": 33.55,
+      "showings": 1634,
+      "admissions": 3581,
+      "rank": 16,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 681675,
+      "title": "I Will Wait For You",
+      "gross": 0.02,
+      "cume": 1.13,
+      "showings": 16,
+      "admissions": 1562,
+      "rank": 17,
+      "days": 56,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 454034,
+      "title": "The Legend of 1900",
+      "gross": 0.02,
+      "cume": 21.2,
+      "showings": 949,
+      "admissions": 3352,
+      "rank": 18,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 685994,
+      "title": "Ninth Beijing international film festival",
+      "gross": 0.01,
+      "cume": 0.7,
+      "showings": 7,
+      "admissions": 1423,
+      "rank": 19,
+      "days": null,
+      "day": "23rd Thu"
+    },
+    {
+      "movie_id": 695796,
+      "title": "Mr.COP",
+      "gross": 0.01,
+      "cume": 0.51,
+      "showings": 60,
+      "admissions": 3414,
+      "rank": 20,
+      "days": 53,
+      "day": "5th Thu"
+    }
+  ]
+}

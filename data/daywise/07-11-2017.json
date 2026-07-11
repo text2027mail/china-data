@@ -1,0 +1,225 @@
+{
+  "date": "07-11-2017",
+  "data": [
+    {
+      "movie_id": 644134,
+      "title": "",
+      "gross": 4.88,
+      "cume": 64.16,
+      "showings": 106604,
+      "admissions": 939206,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 657860,
+      "title": "Geostorm",
+      "gross": 1.11,
+      "cume": 58.65,
+      "showings": 34339,
+      "admissions": 224364,
+      "rank": 2,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 669515,
+      "title": "Eternal Wave",
+      "gross": 0.94,
+      "cume": 9.3,
+      "showings": 38108,
+      "admissions": 205239,
+      "rank": 3,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 618581,
+      "title": "Seventy-seven Days",
+      "gross": 0.57,
+      "cume": 2.71,
+      "showings": 12098,
+      "admissions": 120430,
+      "rank": 4,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 661004,
+      "title": "Never Say Die",
+      "gross": 0.41,
+      "cume": 321.01,
+      "showings": 15790,
+      "admissions": 86227,
+      "rank": 5,
+      "days": 39,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 669716,
+      "title": "Hold Your Hands",
+      "gross": 0.35,
+      "cume": 14.23,
+      "showings": 1163,
+      "admissions": 63971,
+      "rank": 6,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 612013,
+      "title": "Under A Confessor",
+      "gross": 0.26,
+      "cume": 2.05,
+      "showings": 373,
+      "admissions": 47413,
+      "rank": 7,
+      "days": 1888,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 643849,
+      "title": "Kingsman: The Golden Circle",
+      "gross": 0.26,
+      "cume": 68.92,
+      "showings": 10750,
+      "admissions": 49080,
+      "rank": 8,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 644033,
+      "title": "Love Education",
+      "gross": 0.16,
+      "cume": 1.39,
+      "showings": 8039,
+      "admissions": 30308,
+      "rank": 9,
+      "days": 5,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 660009,
+      "title": "City of Rock",
+      "gross": 0.11,
+      "cume": 66.66,
+      "showings": 3972,
+      "admissions": 23410,
+      "rank": 10,
+      "days": 40,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 669198,
+      "title": "Six Years, 6 Days",
+      "gross": 0.09,
+      "cume": 1.26,
+      "showings": 172,
+      "admissions": 14373,
+      "rank": 11,
+      "days": 22,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 657793,
+      "title": "Blade Runner 2049/Blade Runner 2",
+      "gross": 0.09,
+      "cume": 10.93,
+      "showings": 2654,
+      "admissions": 15772,
+      "rank": 12,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 668674,
+      "title": "Doctor's Mind",
+      "gross": 0.08,
+      "cume": 1.21,
+      "showings": 158,
+      "admissions": 12164,
+      "rank": 13,
+      "days": 22,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 667490,
+      "title": "Bad Genius",
+      "gross": 0.07,
+      "cume": 39.61,
+      "showings": 3081,
+      "admissions": 13950,
+      "rank": 14,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 662474,
+      "title": "Always Be with You",
+      "gross": 0.06,
+      "cume": 6.71,
+      "showings": 3820,
+      "admissions": 13822,
+      "rank": 15,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 658278,
+      "title": "Chasing The Dragon",
+      "gross": 0.03,
+      "cume": 84.64,
+      "showings": 1668,
+      "admissions": 9051,
+      "rank": 16,
+      "days": 39,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 667847,
+      "title": "The Son of Bigfoot",
+      "gross": 0.02,
+      "cume": 7.7,
+      "showings": 2563,
+      "admissions": 4492,
+      "rank": 17,
+      "days": 25,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 642456,
+      "title": "Trouble Makers",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 8,
+      "admissions": 1125,
+      "rank": 18,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 661432,
+      "title": "The Foreigner",
+      "gross": 0.01,
+      "cume": 79.05,
+      "showings": 264,
+      "admissions": 2148,
+      "rank": 19,
+      "days": 39,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 642177,
+      "title": "Haunted Road 2",
+      "gross": 0.01,
+      "cume": 1.61,
+      "showings": 464,
+      "admissions": 1942,
+      "rank": 20,
+      "days": 27,
+      "day": "4th Tue"
+    }
+  ]
+}

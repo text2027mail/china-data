@@ -1,0 +1,87 @@
+{
+  "movie_id": 666513,
+  "title": "Miss Puff",
+  "releaseDate": "09-02-2018",
+  "entries": [
+    {
+      "date": "09-02-2018",
+      "rank": 4,
+      "gross": 0.93,
+      "cume": 0.95,
+      "showings": 50254,
+      "admissions": 218341,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "10-02-2018",
+      "rank": 9,
+      "gross": 0.61,
+      "cume": 1.57,
+      "showings": 38663,
+      "admissions": 140267,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-02-2018",
+      "rank": 9,
+      "gross": 0.4,
+      "cume": 1.97,
+      "showings": 31996,
+      "admissions": 92902,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "12-02-2018",
+      "rank": 10,
+      "gross": 0.29,
+      "cume": 2.26,
+      "showings": 25576,
+      "admissions": 65943,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-02-2018",
+      "rank": 10,
+      "gross": 0.25,
+      "cume": 2.51,
+      "showings": 23930,
+      "admissions": 58328,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-02-2018",
+      "rank": 12,
+      "gross": 0.24,
+      "cume": 2.75,
+      "showings": 12050,
+      "admissions": 53348,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-02-2018",
+      "rank": 14,
+      "gross": 0.07,
+      "cume": 2.82,
+      "showings": 7313,
+      "admissions": 15097,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "27-02-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 2.83,
+      "showings": 35,
+      "admissions": 783,
+      "days": 19,
+      "day": "3rd Tue"
+    }
+  ]
+}

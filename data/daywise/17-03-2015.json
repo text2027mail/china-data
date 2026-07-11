@@ -1,0 +1,225 @@
+{
+  "date": "17-03-2015",
+  "data": [
+    {
+      "movie_id": 631303,
+      "title": "",
+      "gross": 3.46,
+      "cume": 30.28,
+      "showings": 37515,
+      "admissions": 755254,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 621612,
+      "title": "Big Hero 6",
+      "gross": 1.21,
+      "cume": 63.99,
+      "showings": 19539,
+      "admissions": 230714,
+      "rank": 2,
+      "days": 18,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 623468,
+      "title": "Jupiter Ascending",
+      "gross": 0.89,
+      "cume": 39.03,
+      "showings": 20667,
+      "admissions": 168929,
+      "rank": 3,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 627594,
+      "title": "The Man From Macau Ⅱ",
+      "gross": 0.7,
+      "cume": 141.55,
+      "showings": 13269,
+      "admissions": 133158,
+      "rank": 4,
+      "days": 27,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 612432,
+      "title": "Wolf Totem",
+      "gross": 0.46,
+      "cume": 100.83,
+      "showings": 9315,
+      "admissions": 84932,
+      "rank": 5,
+      "days": 27,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 615868,
+      "title": "Nowhere To Run",
+      "gross": 0.28,
+      "cume": 2.3,
+      "showings": 9066,
+      "admissions": 65717,
+      "rank": 6,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 621772,
+      "title": "Paddington",
+      "gross": 0.24,
+      "cume": 12.59,
+      "showings": 8632,
+      "admissions": 53193,
+      "rank": 7,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 626314,
+      "title": "Dragon Blade",
+      "gross": 0.18,
+      "cume": 109.19,
+      "showings": 3750,
+      "admissions": 32955,
+      "rank": 8,
+      "days": 27,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 630911,
+      "title": "The Right Mistake",
+      "gross": 0.1,
+      "cume": 5.45,
+      "showings": 4249,
+      "admissions": 23412,
+      "rank": 9,
+      "days": 13,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 629206,
+      "title": "My Brilliant Life",
+      "gross": 0.07,
+      "cume": 0.65,
+      "showings": 4893,
+      "admissions": 15813,
+      "rank": 10,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 630484,
+      "title": "Legend of Rabbit：The Martial of Fire",
+      "gross": 0.04,
+      "cume": 1.06,
+      "showings": 157,
+      "admissions": 6766,
+      "rank": 11,
+      "days": 25,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 614827,
+      "title": "Zhong Kui: Snow Girl and the Dark Crystal",
+      "gross": 0.04,
+      "cume": 60.31,
+      "showings": 1277,
+      "admissions": 6560,
+      "rank": 12,
+      "days": 27,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 627482,
+      "title": "Lost and Love",
+      "gross": 0.03,
+      "cume": 0.04,
+      "showings": 12,
+      "admissions": 3265,
+      "rank": 13,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 616380,
+      "title": "Beijing，New York",
+      "gross": 0.02,
+      "cume": 2.74,
+      "showings": 1655,
+      "admissions": 4987,
+      "rank": 14,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 628143,
+      "title": "Emperor",
+      "gross": 0.02,
+      "cume": 16.77,
+      "showings": 127,
+      "admissions": 3198,
+      "rank": 15,
+      "days": 27,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 630772,
+      "title": "The Wonderful Wedding",
+      "gross": 0.02,
+      "cume": 1.1,
+      "showings": 706,
+      "admissions": 3704,
+      "rank": 16,
+      "days": 13,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 617165,
+      "title": "Wolf Warriors",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 9,
+      "admissions": 1661,
+      "rank": 17,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 627643,
+      "title": "Triumph In The Skies",
+      "gross": 0.01,
+      "cume": 23.05,
+      "showings": 343,
+      "admissions": 1349,
+      "rank": 18,
+      "days": 27,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 627447,
+      "title": "Little Big Master",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 15,
+      "admissions": 1158,
+      "rank": 19,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 631084,
+      "title": "Grey Met Shrek",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 226,
+      "admissions": 1324,
+      "rank": 20,
+      "days": 54,
+      "day": "8th Tue"
+    }
+  ]
+}

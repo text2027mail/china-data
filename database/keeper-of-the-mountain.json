@@ -1,0 +1,47 @@
+{
+  "movie_id": 703909,
+  "title": "KEEPER OF THE MOUNTAIN",
+  "releaseDate": "28-12-2021",
+  "entries": [
+    {
+      "date": "28-12-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 69,
+      "admissions": 1476,
+      "days": 7,
+      "day": "1st Tue"
+    },
+    {
+      "date": "29-12-2021",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 74,
+      "admissions": 2100,
+      "days": 8,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-12-2021",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 72,
+      "admissions": 2684,
+      "days": 9,
+      "day": "1st Thu"
+    },
+    {
+      "date": "31-12-2021",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 65,
+      "admissions": 3802,
+      "days": 10,
+      "day": "1st Fri"
+    }
+  ]
+}

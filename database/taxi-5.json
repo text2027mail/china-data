@@ -1,0 +1,87 @@
+{
+  "movie_id": 676843,
+  "title": "Taxi 5",
+  "releaseDate": "02-08-2018",
+  "entries": [
+    {
+      "date": "02-08-2018",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 243,
+      "admissions": 3682,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "03-08-2018",
+      "rank": 6,
+      "gross": 1.56,
+      "cume": 1.57,
+      "showings": 33287,
+      "admissions": 348876,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "04-08-2018",
+      "rank": 7,
+      "gross": 1.06,
+      "cume": 2.64,
+      "showings": 24753,
+      "admissions": 233339,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "05-08-2018",
+      "rank": 8,
+      "gross": 0.77,
+      "cume": 3.41,
+      "showings": 20246,
+      "admissions": 170982,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "06-08-2018",
+      "rank": 8,
+      "gross": 0.35,
+      "cume": 3.76,
+      "showings": 17512,
+      "admissions": 78224,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "07-08-2018",
+      "rank": 9,
+      "gross": 0.29,
+      "cume": 4.05,
+      "showings": 15703,
+      "admissions": 64788,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "08-08-2018",
+      "rank": 9,
+      "gross": 0.25,
+      "cume": 4.29,
+      "showings": 14670,
+      "admissions": 55308,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "09-08-2018",
+      "rank": 10,
+      "gross": 0.21,
+      "cume": 4.5,
+      "showings": 14027,
+      "admissions": 46491,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

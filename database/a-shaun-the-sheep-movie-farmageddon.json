@@ -1,0 +1,67 @@
+{
+  "movie_id": 684936,
+  "title": "A Shaun the Sheep Movie: Farmageddon",
+  "releaseDate": "22-12-2019",
+  "entries": [
+    {
+      "date": "22-12-2019",
+      "rank": 19,
+      "gross": 0.03,
+      "cume": 0.06,
+      "showings": 471,
+      "admissions": 7263,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-12-2019",
+      "rank": 7,
+      "gross": 0.81,
+      "cume": 0.88,
+      "showings": 27672,
+      "admissions": 183250,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-12-2019",
+      "rank": 8,
+      "gross": 0.58,
+      "cume": 1.46,
+      "showings": 20619,
+      "admissions": 132357,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "30-12-2019",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 1.53,
+      "showings": 8825,
+      "admissions": 15272,
+      "days": 3,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "31-12-2019",
+      "rank": 16,
+      "gross": 0.1,
+      "cume": 1.63,
+      "showings": 3523,
+      "admissions": 22786,
+      "days": 4,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "01-01-2020",
+      "rank": 10,
+      "gross": 0.56,
+      "cume": 2.19,
+      "showings": 9870,
+      "admissions": 124419,
+      "days": 5,
+      "day": "2nd Wed"
+    }
+  ]
+}

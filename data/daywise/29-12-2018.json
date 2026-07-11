@@ -1,0 +1,225 @@
+{
+  "date": "29-12-2018",
+  "data": [
+    {
+      "movie_id": 672799,
+      "title": "",
+      "gross": 9.55,
+      "cume": 9.57,
+      "showings": 103448,
+      "admissions": 1687852,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 684192,
+      "title": "Kill Mobile",
+      "gross": 9.48,
+      "cume": 12.18,
+      "showings": 83072,
+      "admissions": 1832527,
+      "rank": 2,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 666460,
+      "title": "Mad Ebriety",
+      "gross": 3.53,
+      "cume": 3.53,
+      "showings": 74013,
+      "admissions": 690108,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 665526,
+      "title": "Aquaman",
+      "gross": 2.78,
+      "cume": 259.03,
+      "showings": 22966,
+      "admissions": 501039,
+      "rank": 4,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 680396,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "gross": 2.07,
+      "cume": 41.44,
+      "showings": 18986,
+      "admissions": 370978,
+      "rank": 5,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 684208,
+      "title": "Thugs of Hindostan",
+      "gross": 1.6,
+      "cume": 3.16,
+      "showings": 36295,
+      "admissions": 355641,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 660756,
+      "title": "Master Z : The IP Man Legacy",
+      "gross": 0.35,
+      "cume": 15.94,
+      "showings": 6763,
+      "admissions": 67800,
+      "rank": 7,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 654922,
+      "title": "My Neighbor Totoro",
+      "gross": 0.18,
+      "cume": 22.25,
+      "showings": 2460,
+      "admissions": 40225,
+      "rank": 8,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 638435,
+      "title": "Fighting Men of China",
+      "gross": 0.1,
+      "cume": 1.8,
+      "showings": 362,
+      "admissions": 15028,
+      "rank": 9,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 681662,
+      "title": "Running To The Spring",
+      "gross": 0.07,
+      "cume": 0.99,
+      "showings": 219,
+      "admissions": 14695,
+      "rank": 10,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 683564,
+      "title": "Benji",
+      "gross": 0.06,
+      "cume": 0.18,
+      "showings": 2950,
+      "admissions": 14239,
+      "rank": 11,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 668229,
+      "title": "Wait Here",
+      "gross": 0.05,
+      "cume": 0.62,
+      "showings": 208,
+      "admissions": 11457,
+      "rank": 12,
+      "days": 23,
+      "day": "49th Sat"
+    },
+    {
+      "movie_id": 674436,
+      "title": "Sky Stream",
+      "gross": 0.05,
+      "cume": 1.33,
+      "showings": 213,
+      "admissions": 8853,
+      "rank": 13,
+      "days": 30,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 682647,
+      "title": "Airpocalypse",
+      "gross": 0.04,
+      "cume": 18.05,
+      "showings": 2651,
+      "admissions": 8101,
+      "rank": 14,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 682648,
+      "title": "The Grinch",
+      "gross": 0.04,
+      "cume": 3.74,
+      "showings": 480,
+      "admissions": 8148,
+      "rank": 15,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 675139,
+      "title": "The Photographer",
+      "gross": 0.04,
+      "cume": 0.34,
+      "showings": 377,
+      "admissions": 7107,
+      "rank": 16,
+      "days": 18,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 656597,
+      "title": "Kung Fu Monster",
+      "gross": 0.03,
+      "cume": 11.51,
+      "showings": 1711,
+      "admissions": 6774,
+      "rank": 17,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 677239,
+      "title": "Padman",
+      "gross": 0.03,
+      "cume": 9.83,
+      "showings": 381,
+      "admissions": 6731,
+      "rank": 18,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 639445,
+      "title": "Operation Mekong",
+      "gross": 0.03,
+      "cume": 175.25,
+      "showings": 33,
+      "admissions": 3625,
+      "rank": 19,
+      "days": 821,
+      "day": "118th Sat"
+    },
+    {
+      "movie_id": 675992,
+      "title": "From the Mountain a Smile",
+      "gross": 0.03,
+      "cume": 1.17,
+      "showings": 102,
+      "admissions": 7048,
+      "rank": 20,
+      "days": 44,
+      "day": "7th Sat"
+    }
+  ]
+}

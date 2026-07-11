@@ -1,0 +1,77 @@
+{
+  "movie_id": 654818,
+  "title": "Soul Contract",
+  "releaseDate": "26-10-2018",
+  "entries": [
+    {
+      "date": "26-10-2018",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 2760,
+      "admissions": 18042,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-10-2018",
+      "rank": 15,
+      "gross": 0.08,
+      "cume": 0.16,
+      "showings": 2755,
+      "admissions": 20279,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-10-2018",
+      "rank": 17,
+      "gross": 0.06,
+      "cume": 0.21,
+      "showings": 2720,
+      "admissions": 13487,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-10-2018",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.25,
+      "showings": 2753,
+      "admissions": 9629,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-10-2018",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.29,
+      "showings": 2754,
+      "admissions": 9169,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "31-10-2018",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.33,
+      "showings": 2492,
+      "admissions": 10499,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "01-11-2018",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.36,
+      "showings": 1739,
+      "admissions": 5096,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

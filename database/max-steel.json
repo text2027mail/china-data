@@ -1,0 +1,37 @@
+{
+  "movie_id": 621907,
+  "title": "Max Steel",
+  "releaseDate": "01-11-2016",
+  "entries": [
+    {
+      "date": "01-11-2016",
+      "rank": 6,
+      "gross": 0.15,
+      "cume": 0.15,
+      "showings": 15305,
+      "admissions": 37848,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "02-11-2016",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 0.21,
+      "showings": 12008,
+      "admissions": 15770,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-11-2016",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.25,
+      "showings": 10522,
+      "admissions": 11183,
+      "days": 3,
+      "day": "1st Thu"
+    }
+  ]
+}

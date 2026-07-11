@@ -1,0 +1,225 @@
+{
+  "date": "07-05-2017",
+  "data": [
+    {
+      "movie_id": 644133,
+      "title": "",
+      "gross": 14.95,
+      "cume": 50.58,
+      "showings": 99559,
+      "admissions": 2730517,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 659327,
+      "title": "Dangal",
+      "gross": 5.68,
+      "cume": 12.86,
+      "showings": 35900,
+      "admissions": 1275572,
+      "rank": 2,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 660393,
+      "title": "Shock Wave",
+      "gross": 2.31,
+      "cume": 52.69,
+      "showings": 26332,
+      "admissions": 475734,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 659757,
+      "title": "The Fate of the Furious",
+      "gross": 1.69,
+      "cume": 387.58,
+      "showings": 19129,
+      "admissions": 328614,
+      "rank": 4,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 644001,
+      "title": "Battle Of Memories",
+      "gross": 1.41,
+      "cume": 40.4,
+      "showings": 15003,
+      "admissions": 259813,
+      "rank": 5,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 659760,
+      "title": "Smurfs: The Lost Village",
+      "gross": 0.97,
+      "cume": 23.64,
+      "showings": 13080,
+      "admissions": 201412,
+      "rank": 6,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 628157,
+      "title": "This Is Not What I Excepted",
+      "gross": 0.95,
+      "cume": 28.98,
+      "showings": 11152,
+      "admissions": 177953,
+      "rank": 7,
+      "days": 11,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 644667,
+      "title": "Love Off the Cuff",
+      "gross": 0.76,
+      "cume": 24.17,
+      "showings": 8122,
+      "admissions": 137115,
+      "rank": 8,
+      "days": 10,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 637401,
+      "title": "Savva: Heart of the Warrior",
+      "gross": 0.11,
+      "cume": 1.53,
+      "showings": 3433,
+      "admissions": 24129,
+      "rank": 9,
+      "days": 9,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 638811,
+      "title": "Mr. Pride vs Miss Prejudice",
+      "gross": 0.08,
+      "cume": 18.15,
+      "showings": 2050,
+      "admissions": 22585,
+      "rank": 10,
+      "days": 18,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 641928,
+      "title": "The Blood Hound",
+      "gross": 0.02,
+      "cume": 3.63,
+      "showings": 314,
+      "admissions": 5930,
+      "rank": 11,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 679639,
+      "title": "dianyingdashizhanyinghuodong-yinleyudianying",
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 2,
+      "admissions": 1464,
+      "rank": 12,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 657278,
+      "title": "Taboo Terror Of Going Back",
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 929,
+      "admissions": 3620,
+      "rank": 13,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 629871,
+      "title": "A Chinese Odyssey Part Two: Cinderella",
+      "gross": 0.01,
+      "cume": 27.9,
+      "showings": 360,
+      "admissions": 2147,
+      "rank": 14,
+      "days": 927,
+      "day": "133rd Sun"
+    },
+    {
+      "movie_id": 659022,
+      "title": "Zhu Zhu Xia Zhi Ying Xiong Zhu Shao Nian",
+      "gross": 0.0,
+      "cume": 6.62,
+      "showings": 25,
+      "admissions": 1243,
+      "rank": 15,
+      "days": 121,
+      "day": "19th Sun"
+    },
+    {
+      "movie_id": 655935,
+      "title": "Snow In Midsummer",
+      "gross": 0.0,
+      "cume": 0.63,
+      "showings": 101,
+      "admissions": 1373,
+      "rank": 16,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 658306,
+      "title": "Myth Kill Joke",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 764,
+      "admissions": 1105,
+      "rank": 17,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 625440,
+      "title": "Guardians of the Galaxy",
+      "gross": 0.0,
+      "cume": 87.96,
+      "showings": 110,
+      "admissions": 834,
+      "rank": 18,
+      "days": 941,
+      "day": "135th Sun"
+    },
+    {
+      "movie_id": 638918,
+      "title": "Visit the Widow Village in the Night",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 371,
+      "admissions": 822,
+      "rank": 19,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 658262,
+      "title": "June and Arrow",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 38,
+      "admissions": 1971,
+      "rank": 20,
+      "days": 31,
+      "day": "5th Sun"
+    }
+  ]
+}

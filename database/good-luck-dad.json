@@ -1,0 +1,57 @@
+{
+  "movie_id": 661440,
+  "title": "Good Luck, Dad.",
+  "releaseDate": "17-06-2018",
+  "entries": [
+    {
+      "date": "17-06-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 215,
+      "admissions": 3100,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "18-06-2018",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 176,
+      "admissions": 3651,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "14-09-2018",
+      "rank": 9,
+      "gross": 0.11,
+      "cume": 0.14,
+      "showings": 4289,
+      "admissions": 19867,
+      "days": 1,
+      "day": "13th Fri"
+    },
+    {
+      "date": "15-09-2018",
+      "rank": 18,
+      "gross": 0.06,
+      "cume": 0.2,
+      "showings": 1907,
+      "admissions": 8684,
+      "days": 2,
+      "day": "13th Sat"
+    },
+    {
+      "date": "16-09-2018",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.25,
+      "showings": 1527,
+      "admissions": 7482,
+      "days": 3,
+      "day": "14th Sun"
+    }
+  ]
+}

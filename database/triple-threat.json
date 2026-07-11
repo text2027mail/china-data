@@ -1,0 +1,67 @@
+{
+  "movie_id": 686590,
+  "title": "Triple Threat",
+  "releaseDate": "29-03-2019",
+  "entries": [
+    {
+      "date": "29-03-2019",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 6378,
+      "admissions": 14888,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-03-2019",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.13,
+      "showings": 3666,
+      "admissions": 12574,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "31-03-2019",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.17,
+      "showings": 3141,
+      "admissions": 8498,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "01-04-2019",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.19,
+      "showings": 2896,
+      "admissions": 4916,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-04-2019",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.21,
+      "showings": 2878,
+      "admissions": 4281,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-04-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.22,
+      "showings": 2097,
+      "admissions": 2187,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

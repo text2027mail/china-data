@@ -1,0 +1,225 @@
+{
+  "date": "03-04-2022",
+  "data": [
+    {
+      "movie_id": 707673,
+      "title": "",
+      "gross": 1.68,
+      "cume": 1.71,
+      "showings": 48516,
+      "admissions": 345249,
+      "rank": 1,
+      "days": 1,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 712140,
+      "title": "Moonfall",
+      "gross": 1.47,
+      "cume": 14.89,
+      "showings": 39706,
+      "admissions": 277581,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 708491,
+      "title": "Escape Room: Tournament of Champions",
+      "gross": 1.13,
+      "cume": 1.76,
+      "showings": 42900,
+      "admissions": 226570,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 710612,
+      "title": "MAN ON THE EDGE",
+      "gross": 0.93,
+      "cume": 1.44,
+      "showings": 32712,
+      "admissions": 169360,
+      "rank": 4,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 702458,
+      "title": "The Batman",
+      "gross": 0.58,
+      "cume": 18.86,
+      "showings": 13780,
+      "admissions": 101153,
+      "rank": 5,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 711120,
+      "title": "Uncharted",
+      "gross": 0.39,
+      "cume": 14.72,
+      "showings": 12100,
+      "admissions": 76492,
+      "rank": 6,
+      "days": 21,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 709649,
+      "title": "The Battle At Lake Changjin II",
+      "gross": 0.23,
+      "cume": 597.28,
+      "showings": 4072,
+      "admissions": 36879,
+      "rank": 7,
+      "days": 62,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 708179,
+      "title": "Too Cool To Kill",
+      "gross": 0.12,
+      "cume": 386.21,
+      "showings": 4332,
+      "admissions": 20794,
+      "rank": 8,
+      "days": 62,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 0.07,
+      "cume": 141.87,
+      "showings": 2364,
+      "admissions": 13173,
+      "rank": 9,
+      "days": 62,
+      "day": "12th Sun"
+    },
+    {
+      "movie_id": 706422,
+      "title": "I Fell in Love Like A Flower Bouquet",
+      "gross": 0.06,
+      "cume": 12.96,
+      "showings": 1368,
+      "admissions": 13623,
+      "rank": 10,
+      "days": 41,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 706338,
+      "title": "Nice View",
+      "gross": 0.05,
+      "cume": 202.71,
+      "showings": 2201,
+      "admissions": 10339,
+      "rank": 11,
+      "days": 62,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 712206,
+      "title": "Sheep and Wolves",
+      "gross": 0.04,
+      "cume": 0.16,
+      "showings": 6576,
+      "admissions": 9112,
+      "rank": 12,
+      "days": 1,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 712222,
+      "title": "Kanaa",
+      "gross": 0.02,
+      "cume": 0.35,
+      "showings": 421,
+      "admissions": 2939,
+      "rank": 13,
+      "days": 17,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.01,
+      "cume": 88.69,
+      "showings": 926,
+      "admissions": 2218,
+      "rank": 14,
+      "days": 62,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 708426,
+      "title": "Me and my winter games",
+      "gross": 0.01,
+      "cume": 9.45,
+      "showings": 475,
+      "admissions": 1971,
+      "rank": 15,
+      "days": 44,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 684635,
+      "title": "Brothers",
+      "gross": 0.01,
+      "cume": 0.68,
+      "showings": 1779,
+      "admissions": 1682,
+      "rank": 16,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 710039,
+      "title": "Why Are The Flower So Red",
+      "gross": 0.01,
+      "cume": 0.55,
+      "showings": 137,
+      "admissions": 1257,
+      "rank": 17,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 703424,
+      "title": "Do You Love Me as I Love You",
+      "gross": 0.01,
+      "cume": 2.33,
+      "showings": 777,
+      "admissions": 1757,
+      "rank": 18,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 641904,
+      "title": "Unordered Space",
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 689,
+      "admissions": 1513,
+      "rank": 19,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 704373,
+      "title": "Ooops! The Adventure Continues",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 182,
+      "admissions": 1155,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

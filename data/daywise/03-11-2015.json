@@ -1,0 +1,225 @@
+{
+  "date": "03-11-2015",
+  "data": [
+    {
+      "movie_id": 640867,
+      "title": "",
+      "gross": 2.44,
+      "cume": 2.5,
+      "showings": 39273,
+      "admissions": 460954,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 631325,
+      "title": "The Witness",
+      "gross": 1.87,
+      "cume": 22.18,
+      "showings": 37746,
+      "admissions": 405791,
+      "rank": 2,
+      "days": 5,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 302023,
+      "title": "Ant-Man",
+      "gross": 0.73,
+      "cume": 96.98,
+      "showings": 20083,
+      "admissions": 145361,
+      "rank": 3,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 628183,
+      "title": "Goodbye Mr. Loser",
+      "gross": 0.53,
+      "cume": 210.41,
+      "showings": 14023,
+      "admissions": 113587,
+      "rank": 4,
+      "days": 35,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 640998,
+      "title": "Hotel Transylvania 2",
+      "gross": 0.48,
+      "cume": 12.56,
+      "showings": 13901,
+      "admissions": 95013,
+      "rank": 5,
+      "days": 8,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 627766,
+      "title": "Mountains May Depart",
+      "gross": 0.2,
+      "cume": 3.06,
+      "showings": 7006,
+      "admissions": 43583,
+      "rank": 6,
+      "days": 5,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 634293,
+      "title": "Maze Runner: The Scorch Trials",
+      "gross": 0.11,
+      "cume": 0.11,
+      "showings": 1042,
+      "admissions": 22517,
+      "rank": 7,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 625045,
+      "title": "The Little Prince",
+      "gross": 0.07,
+      "cume": 22.91,
+      "showings": 2235,
+      "admissions": 14151,
+      "rank": 8,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 631109,
+      "title": "Midnight Whisper",
+      "gross": 0.07,
+      "cume": 0.95,
+      "showings": 3780,
+      "admissions": 18543,
+      "rank": 9,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 641112,
+      "title": "Luck With The Blue And Wihte Poncelain",
+      "gross": 0.07,
+      "cume": 0.55,
+      "showings": 79,
+      "admissions": 11250,
+      "rank": 10,
+      "days": 2178,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 641111,
+      "title": "Er Gou Fan Xiang Ji",
+      "gross": 0.06,
+      "cume": 0.56,
+      "showings": 72,
+      "admissions": 10016,
+      "rank": 11,
+      "days": null,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 635793,
+      "title": "Meitantei Conan: Goka No Himawari",
+      "gross": 0.06,
+      "cume": 11.84,
+      "showings": 3569,
+      "admissions": 13240,
+      "rank": 12,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 628823,
+      "title": "Youth Never Returns",
+      "gross": 0.05,
+      "cume": 7.29,
+      "showings": 3368,
+      "admissions": 11075,
+      "rank": 13,
+      "days": 12,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 637665,
+      "title": "Qian Ren2：Bei Tai Fan Ji Zhan",
+      "gross": 0.02,
+      "cume": 0.22,
+      "showings": 11,
+      "admissions": 2420,
+      "rank": 14,
+      "days": null,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 640215,
+      "title": "17 Years Old",
+      "gross": 0.01,
+      "cume": 0.55,
+      "showings": 2465,
+      "admissions": 3453,
+      "rank": 15,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 632370,
+      "title": "Undercover Duet",
+      "gross": 0.01,
+      "cume": 0.91,
+      "showings": 495,
+      "admissions": 2575,
+      "rank": 16,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 639128,
+      "title": "Where‘s The Dragon？",
+      "gross": 0.01,
+      "cume": 2.73,
+      "showings": 424,
+      "admissions": 2072,
+      "rank": 17,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 640889,
+      "title": "Pan",
+      "gross": 0.01,
+      "cume": 4.18,
+      "showings": 926,
+      "admissions": 1934,
+      "rank": 18,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 618038,
+      "title": "Lost In Hong Kong",
+      "gross": 0.01,
+      "cume": 238.06,
+      "showings": 381,
+      "admissions": 1922,
+      "rank": 19,
+      "days": 40,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 615300,
+      "title": "Chronicles of the Ghostly Tribe",
+      "gross": 0.01,
+      "cume": 100.75,
+      "showings": 321,
+      "admissions": 1555,
+      "rank": 20,
+      "days": 35,
+      "day": "6th Tue"
+    }
+  ]
+}

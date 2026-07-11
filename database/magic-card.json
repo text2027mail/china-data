@@ -1,0 +1,87 @@
+{
+  "movie_id": 631292,
+  "title": "Magic Card",
+  "releaseDate": "15-10-2015",
+  "entries": [
+    {
+      "date": "15-10-2015",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 9,
+      "admissions": 1267,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "16-10-2015",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 6455,
+      "admissions": 20599,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "17-10-2015",
+      "rank": 12,
+      "gross": 0.12,
+      "cume": 0.22,
+      "showings": 4629,
+      "admissions": 24757,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "18-10-2015",
+      "rank": 11,
+      "gross": 0.13,
+      "cume": 0.36,
+      "showings": 3425,
+      "admissions": 28835,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "19-10-2015",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.37,
+      "showings": 3014,
+      "admissions": 3285,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "20-10-2015",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.38,
+      "showings": 2670,
+      "admissions": 2964,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "21-10-2015",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.39,
+      "showings": 2435,
+      "admissions": 2451,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "22-10-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.4,
+      "showings": 1435,
+      "admissions": 1240,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

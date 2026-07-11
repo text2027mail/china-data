@@ -1,0 +1,57 @@
+{
+  "movie_id": 702278,
+  "title": "Burning Ice",
+  "releaseDate": "07-01-2022",
+  "entries": [
+    {
+      "date": "07-01-2022",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.06,
+      "showings": 3831,
+      "admissions": 10847,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-01-2022",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.11,
+      "showings": 1340,
+      "admissions": 9190,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-01-2022",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.15,
+      "showings": 822,
+      "admissions": 9280,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-01-2022",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.17,
+      "showings": 217,
+      "admissions": 3345,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "11-01-2022",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.18,
+      "showings": 176,
+      "admissions": 3435,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

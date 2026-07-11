@@ -1,0 +1,107 @@
+{
+  "movie_id": 658346,
+  "title": "What A Wonderful Family",
+  "releaseDate": "08-05-2017",
+  "entries": [
+    {
+      "date": "08-05-2017",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 2,
+      "admissions": 1157,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "10-05-2017",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 86,
+      "admissions": 826,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "11-05-2017",
+      "rank": 3,
+      "gross": 1.25,
+      "cume": 1.26,
+      "showings": 47731,
+      "admissions": 266473,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "12-05-2017",
+      "rank": 6,
+      "gross": 1.05,
+      "cume": 2.31,
+      "showings": 27245,
+      "admissions": 231897,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-05-2017",
+      "rank": 6,
+      "gross": 0.93,
+      "cume": 3.24,
+      "showings": 20230,
+      "admissions": 197295,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-05-2017",
+      "rank": 6,
+      "gross": 0.77,
+      "cume": 4.01,
+      "showings": 18238,
+      "admissions": 159734,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "15-05-2017",
+      "rank": 7,
+      "gross": 0.21,
+      "cume": 4.22,
+      "showings": 15955,
+      "admissions": 43841,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "16-05-2017",
+      "rank": 6,
+      "gross": 0.18,
+      "cume": 4.4,
+      "showings": 14505,
+      "admissions": 37822,
+      "days": 6,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "17-05-2017",
+      "rank": 7,
+      "gross": 0.16,
+      "cume": 4.56,
+      "showings": 13652,
+      "admissions": 32530,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "18-05-2017",
+      "rank": 9,
+      "gross": 0.13,
+      "cume": 4.69,
+      "showings": 12544,
+      "admissions": 27303,
+      "days": 8,
+      "day": "2nd Thu"
+    }
+  ]
+}

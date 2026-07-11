@@ -1,0 +1,67 @@
+{
+  "movie_id": 1044826,
+  "title": "Where the River Flows",
+  "releaseDate": "28-03-2026",
+  "entries": [
+    {
+      "date": "28-03-2026",
+      "rank": 9,
+      "gross": 0.26,
+      "cume": 0.26,
+      "showings": 29601,
+      "admissions": 48367,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-03-2026",
+      "rank": 11,
+      "gross": 0.13,
+      "cume": 0.39,
+      "showings": 19661,
+      "admissions": 23253,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-03-2026",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.44,
+      "showings": 15348,
+      "admissions": 7792,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-03-2026",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.47,
+      "showings": 14216,
+      "admissions": 5792,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-04-2026",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.5,
+      "showings": 12925,
+      "admissions": 5274,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-04-2026",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 0.52,
+      "showings": 12296,
+      "admissions": 4768,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

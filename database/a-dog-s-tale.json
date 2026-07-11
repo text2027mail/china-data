@@ -1,0 +1,87 @@
+{
+  "movie_id": 673543,
+  "title": "A Dog's Tale",
+  "releaseDate": "20-08-2021",
+  "entries": [
+    {
+      "date": "20-08-2021",
+      "rank": 6,
+      "gross": 0.19,
+      "cume": 0.19,
+      "showings": 18138,
+      "admissions": 41215,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-08-2021",
+      "rank": 7,
+      "gross": 0.21,
+      "cume": 0.4,
+      "showings": 13743,
+      "admissions": 43861,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-08-2021",
+      "rank": 6,
+      "gross": 0.19,
+      "cume": 0.59,
+      "showings": 12871,
+      "admissions": 40320,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-08-2021",
+      "rank": 6,
+      "gross": 0.1,
+      "cume": 0.7,
+      "showings": 11334,
+      "admissions": 22327,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-08-2021",
+      "rank": 6,
+      "gross": 0.09,
+      "cume": 0.79,
+      "showings": 11132,
+      "admissions": 19604,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-08-2021",
+      "rank": 6,
+      "gross": 0.08,
+      "cume": 0.87,
+      "showings": 10951,
+      "admissions": 17409,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "26-08-2021",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 0.94,
+      "showings": 10350,
+      "admissions": 14994,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "27-08-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.95,
+      "showings": 817,
+      "admissions": 2292,
+      "days": 8,
+      "day": "2nd Fri"
+    }
+  ]
+}

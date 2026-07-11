@@ -1,0 +1,67 @@
+{
+  "movie_id": 677405,
+  "title": "Beyond the Clouds",
+  "releaseDate": "24-05-2019",
+  "entries": [
+    {
+      "date": "24-05-2019",
+      "rank": 9,
+      "gross": 0.14,
+      "cume": 0.16,
+      "showings": 15121,
+      "admissions": 35324,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "25-05-2019",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.22,
+      "showings": 6256,
+      "admissions": 14179,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-05-2019",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.26,
+      "showings": 4986,
+      "admissions": 9224,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "27-05-2019",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 4487,
+      "admissions": 4745,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "28-05-2019",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.3,
+      "showings": 3991,
+      "admissions": 3988,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "29-05-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.31,
+      "showings": 3837,
+      "admissions": 3751,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

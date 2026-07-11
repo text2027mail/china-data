@@ -1,0 +1,37 @@
+{
+  "movie_id": 760846,
+  "title": "Last Song For You",
+  "releaseDate": "15-03-2025",
+  "entries": [
+    {
+      "date": "15-03-2025",
+      "rank": 20,
+      "gross": 0.06,
+      "cume": 0.07,
+      "showings": 16002,
+      "admissions": 10426,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-03-2025",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 3421,
+      "admissions": 2425,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-03-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 3042,
+      "admissions": 3365,
+      "days": 4,
+      "day": "1st Tue"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "movie_id": 629778,
+  "title": "Never Said Goodbye",
+  "releaseDate": "07-08-2016",
+  "entries": [
+    {
+      "date": "07-08-2016",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 14,
+      "admissions": 1851,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "08-08-2016",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 196,
+      "admissions": 1984,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "09-08-2016",
+      "rank": 5,
+      "gross": 2.16,
+      "cume": 2.21,
+      "showings": 32036,
+      "admissions": 560126,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "10-08-2016",
+      "rank": 5,
+      "gross": 0.31,
+      "cume": 2.52,
+      "showings": 27000,
+      "admissions": 77796,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "11-08-2016",
+      "rank": 7,
+      "gross": 0.1,
+      "cume": 2.62,
+      "showings": 12132,
+      "admissions": 24363,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "12-08-2016",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 2.63,
+      "showings": 954,
+      "admissions": 1990,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-08-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 2.65,
+      "showings": 581,
+      "admissions": 2090,
+      "days": 6,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "15-08-2016",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 2.65,
+      "showings": 571,
+      "admissions": 1065,
+      "days": 7,
+      "day": "2nd Mon"
+    }
+  ]
+}

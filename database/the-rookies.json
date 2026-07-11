@@ -1,0 +1,77 @@
+{
+  "movie_id": 663018,
+  "title": "The Rookies",
+  "releaseDate": "09-07-2019",
+  "entries": [
+    {
+      "date": "09-07-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 2,
+      "admissions": 1181,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "12-07-2019",
+      "rank": 4,
+      "gross": 1.93,
+      "cume": 1.94,
+      "showings": 67946,
+      "admissions": 405671,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-07-2019",
+      "rank": 7,
+      "gross": 0.65,
+      "cume": 2.58,
+      "showings": 32729,
+      "admissions": 140723,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-07-2019",
+      "rank": 8,
+      "gross": 0.41,
+      "cume": 2.99,
+      "showings": 23736,
+      "admissions": 88998,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "15-07-2019",
+      "rank": 8,
+      "gross": 0.12,
+      "cume": 3.11,
+      "showings": 13376,
+      "admissions": 27338,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "16-07-2019",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 3.19,
+      "showings": 11074,
+      "admissions": 20028,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "17-07-2019",
+      "rank": 10,
+      "gross": 0.07,
+      "cume": 3.26,
+      "showings": 10039,
+      "admissions": 17203,
+      "days": 6,
+      "day": "2nd Wed"
+    }
+  ]
+}

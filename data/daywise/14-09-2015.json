@@ -1,0 +1,225 @@
+{
+  "date": "14-09-2015",
+  "data": [
+    {
+      "movie_id": 636000,
+      "title": "",
+      "gross": 4.4,
+      "cume": 86.02,
+      "showings": 58457,
+      "admissions": 930364,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 631837,
+      "title": "Minions",
+      "gross": 3.83,
+      "cume": 21.7,
+      "showings": 60096,
+      "admissions": 763948,
+      "rank": 2,
+      "days": 2,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 617356,
+      "title": "The Dead End",
+      "gross": 0.22,
+      "cume": 44.22,
+      "showings": 7858,
+      "admissions": 47494,
+      "rank": 3,
+      "days": 19,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 627896,
+      "title": "Monster Hunt",
+      "gross": 0.18,
+      "cume": 359.62,
+      "showings": 1360,
+      "admissions": 16091,
+      "rank": 4,
+      "days": 61,
+      "day": "11th Mon"
+    },
+    {
+      "movie_id": 631839,
+      "title": "Terminator: Genisys",
+      "gross": 0.13,
+      "cume": 106.67,
+      "showings": 6545,
+      "admissions": 25213,
+      "rank": 5,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 596436,
+      "title": "Fang Fei Li Xiang",
+      "gross": 0.12,
+      "cume": 0.79,
+      "showings": 168,
+      "admissions": 22273,
+      "rank": 6,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 593416,
+      "title": "Chi Lang Yi",
+      "gross": 0.11,
+      "cume": 0.62,
+      "showings": 162,
+      "admissions": 22265,
+      "rank": 7,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 639056,
+      "title": "The Hundred Regiments Offensive",
+      "gross": 0.1,
+      "cume": 58.81,
+      "showings": 1614,
+      "admissions": 23440,
+      "rank": 8,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 631838,
+      "title": "Pixels",
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 1277,
+      "admissions": 14268,
+      "rank": 9,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 612022,
+      "title": "Fly To The Venus",
+      "gross": 0.04,
+      "cume": 0.61,
+      "showings": 4051,
+      "admissions": 8846,
+      "rank": 10,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 630112,
+      "title": "Bedside Cry",
+      "gross": 0.02,
+      "cume": 0.54,
+      "showings": 1267,
+      "admissions": 4357,
+      "rank": 11,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 7954,
+      "title": "The Assassin",
+      "gross": 0.01,
+      "cume": 8.99,
+      "showings": 385,
+      "admissions": 2699,
+      "rank": 12,
+      "days": 19,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 638757,
+      "title": "All You Need Is Love",
+      "gross": 0.01,
+      "cume": 1.89,
+      "showings": 1297,
+      "admissions": 3276,
+      "rank": 13,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 628362,
+      "title": "Love in the 1980s",
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 712,
+      "admissions": 3180,
+      "rank": 14,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 637578,
+      "title": "Go Away Mr. Tumour",
+      "gross": 0.01,
+      "cume": 75.34,
+      "showings": 399,
+      "admissions": 1517,
+      "rank": 15,
+      "days": 33,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 618331,
+      "title": "Fight Against Landlords",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 1933,
+      "admissions": 1726,
+      "rank": 16,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 615796,
+      "title": "Office",
+      "gross": 0.01,
+      "cume": 6.99,
+      "showings": 791,
+      "admissions": 1437,
+      "rank": 17,
+      "days": 13,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 639256,
+      "title": "Mr. Black: Green Star",
+      "gross": 0.01,
+      "cume": 9.92,
+      "showings": 104,
+      "admissions": 1593,
+      "rank": 18,
+      "days": 39,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 639518,
+      "title": "Wei Le Zhe Pian Tu Di",
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 10,
+      "admissions": 1513,
+      "rank": 19,
+      "days": 76,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 628144,
+      "title": "Detective Gui",
+      "gross": 0.01,
+      "cume": 6.1,
+      "showings": 8,
+      "admissions": 754,
+      "rank": 20,
+      "days": 33,
+      "day": "5th Mon"
+    }
+  ]
+}

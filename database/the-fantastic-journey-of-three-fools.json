@@ -1,0 +1,57 @@
+{
+  "movie_id": 738211,
+  "title": "THE FANTASTIC JOURNEY OF THREE FOOLS",
+  "releaseDate": "22-06-2023",
+  "entries": [
+    {
+      "date": "22-06-2023",
+      "rank": 10,
+      "gross": 0.21,
+      "cume": 0.21,
+      "showings": 11433,
+      "admissions": 42667,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "23-06-2023",
+      "rank": 15,
+      "gross": 0.1,
+      "cume": 0.31,
+      "showings": 6094,
+      "admissions": 22272,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "24-06-2023",
+      "rank": 15,
+      "gross": 0.06,
+      "cume": 0.37,
+      "showings": 5261,
+      "admissions": 12933,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-06-2023",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.39,
+      "showings": 1831,
+      "admissions": 1899,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "date": "28-06-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.4,
+      "showings": 1831,
+      "admissions": 2290,
+      "days": 7,
+      "day": "1st Wed"
+    }
+  ]
+}

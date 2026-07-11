@@ -1,0 +1,225 @@
+{
+  "date": "09-09-2013",
+  "data": [
+    {
+      "movie_id": 617719,
+      "title": "",
+      "gross": 1.15,
+      "cume": 12.17,
+      "showings": 22591,
+      "admissions": 239330,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 616427,
+      "title": "The Stolen Years",
+      "gross": 0.56,
+      "cume": 18.53,
+      "showings": 12077,
+      "admissions": 118503,
+      "rank": 2,
+      "days": 12,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 613462,
+      "title": "The Midas Touch",
+      "gross": 0.32,
+      "cume": 2.28,
+      "showings": 9123,
+      "admissions": 72630,
+      "rank": 3,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 602828,
+      "title": "The Great Gatsby",
+      "gross": 0.31,
+      "cume": 9.2,
+      "showings": 4777,
+      "admissions": 52454,
+      "rank": 4,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 348955,
+      "title": "Jurassic Park 3D",
+      "gross": 0.23,
+      "cume": 50.1,
+      "showings": 6120,
+      "admissions": 40975,
+      "rank": 5,
+      "days": 21,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 614979,
+      "title": "The Impossible",
+      "gross": 0.15,
+      "cume": 7.4,
+      "showings": 4584,
+      "admissions": 32751,
+      "rank": 6,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 593849,
+      "title": "Monsters University",
+      "gross": 0.15,
+      "cume": 30.07,
+      "showings": 5131,
+      "admissions": 27500,
+      "rank": 7,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.11,
+      "cume": 3.12,
+      "showings": 268,
+      "admissions": 23580,
+      "rank": 8,
+      "days": 56,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 615855,
+      "title": "Dead Sign",
+      "gross": 0.11,
+      "cume": 0.66,
+      "showings": 4148,
+      "admissions": 25813,
+      "rank": 9,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 617277,
+      "title": "Time-travel Love",
+      "gross": 0.05,
+      "cume": 0.49,
+      "showings": 3879,
+      "admissions": 10570,
+      "rank": 10,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 596429,
+      "title": "Ripples of Desire",
+      "gross": 0.03,
+      "cume": 0.26,
+      "showings": 3312,
+      "admissions": 7073,
+      "rank": 11,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 614568,
+      "title": "Unbeatable",
+      "gross": 0.01,
+      "cume": 17.35,
+      "showings": 353,
+      "admissions": 2410,
+      "rank": 12,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 596800,
+      "title": "Finding Mr.Right",
+      "gross": 0.01,
+      "cume": 76.67,
+      "showings": 7,
+      "admissions": 1734,
+      "rank": 13,
+      "days": 173,
+      "day": "26th Mon"
+    },
+    {
+      "movie_id": 616113,
+      "title": "Fake Fiction",
+      "gross": 0.01,
+      "cume": 10.07,
+      "showings": 734,
+      "admissions": 1992,
+      "rank": 14,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 608234,
+      "title": "Xi Bai Po 2:Wang Er Xiao",
+      "gross": 0.0,
+      "cume": 0.23,
+      "showings": 6,
+      "admissions": 1575,
+      "rank": 15,
+      "days": 135,
+      "day": "20th Mon"
+    },
+    {
+      "movie_id": 612672,
+      "title": "Silent Witness",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 1,
+      "admissions": 440,
+      "rank": 16,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 617185,
+      "title": "A Young Girl's Destiny",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 438,
+      "admissions": 549,
+      "rank": 17,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 617706,
+      "title": "4B Qing Nian zhi 4 Lou B Zuo",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 16,
+      "admissions": 373,
+      "rank": 18,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 617712,
+      "title": "I am Director",
+      "gross": 0.0,
+      "cume": 0.74,
+      "showings": 252,
+      "admissions": 372,
+      "rank": 19,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 573137,
+      "title": "Fallen City",
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 2,
+      "admissions": 292,
+      "rank": 20,
+      "days": 123,
+      "day": "18th Mon"
+    }
+  ]
+}

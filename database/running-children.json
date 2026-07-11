@@ -1,0 +1,57 @@
+{
+  "movie_id": 642985,
+  "title": "Running Children",
+  "releaseDate": "19-04-2017",
+  "entries": [
+    {
+      "date": "19-04-2017",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 7,
+      "admissions": 1860,
+      "days": 840,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-04-2017",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 8,
+      "admissions": 1795,
+      "days": 849,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "15-05-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 2,
+      "admissions": 600,
+      "days": 866,
+      "day": "4th Mon"
+    },
+    {
+      "date": "16-05-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 3,
+      "admissions": 900,
+      "days": 867,
+      "day": "4th Tue"
+    },
+    {
+      "date": "27-05-2017",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 11,
+      "admissions": 2140,
+      "days": 878,
+      "day": "6th Sat"
+    }
+  ]
+}

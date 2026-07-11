@@ -1,0 +1,47 @@
+{
+  "movie_id": 658635,
+  "title": "A Fantastic Encounter",
+  "releaseDate": "01-11-2019",
+  "entries": [
+    {
+      "date": "01-11-2019",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 5207,
+      "admissions": 8050,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-11-2019",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.14,
+      "showings": 1066,
+      "admissions": 9251,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "06-11-2019",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.19,
+      "showings": 1102,
+      "admissions": 10054,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "07-11-2019",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.24,
+      "showings": 1127,
+      "admissions": 7667,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

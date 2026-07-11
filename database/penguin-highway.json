@@ -1,0 +1,67 @@
+{
+  "movie_id": 681770,
+  "title": "Penguin Highway",
+  "releaseDate": "17-05-2019",
+  "entries": [
+    {
+      "date": "17-05-2019",
+      "rank": 7,
+      "gross": 0.14,
+      "cume": 0.17,
+      "showings": 23856,
+      "admissions": 38455,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "18-05-2019",
+      "rank": 9,
+      "gross": 0.12,
+      "cume": 0.29,
+      "showings": 9570,
+      "admissions": 26946,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "19-05-2019",
+      "rank": 8,
+      "gross": 0.1,
+      "cume": 0.38,
+      "showings": 7579,
+      "admissions": 22243,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-05-2019",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.41,
+      "showings": 4678,
+      "admissions": 7153,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "21-05-2019",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.43,
+      "showings": 4157,
+      "admissions": 4602,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "22-05-2019",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.45,
+      "showings": 3802,
+      "admissions": 3857,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

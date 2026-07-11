@@ -1,0 +1,225 @@
+{
+  "date": "10-11-2013",
+  "data": [
+    {
+      "movie_id": 618535,
+      "title": "",
+      "gross": 6.18,
+      "cume": 19.53,
+      "showings": 30715,
+      "admissions": 1056890,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 618407,
+      "title": "Escape Plan",
+      "gross": 2.99,
+      "cume": 19.32,
+      "showings": 19012,
+      "admissions": 642347,
+      "rank": 2,
+      "days": 7,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 602795,
+      "title": "Hotel Transylvania",
+      "gross": 0.86,
+      "cume": 8.57,
+      "showings": 8515,
+      "admissions": 160772,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 614334,
+      "title": "Love You for Loving Me",
+      "gross": 0.57,
+      "cume": 1.59,
+      "showings": 9593,
+      "admissions": 123948,
+      "rank": 4,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 615451,
+      "title": "Love Speaks",
+      "gross": 0.49,
+      "cume": 1.47,
+      "showings": 10016,
+      "admissions": 105044,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 618536,
+      "title": "Stalingrad",
+      "gross": 0.17,
+      "cume": 10.13,
+      "showings": 2051,
+      "admissions": 27129,
+      "rank": 6,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 597096,
+      "title": "Sweetheart Chocolate",
+      "gross": 0.1,
+      "cume": 0.36,
+      "showings": 5035,
+      "admissions": 21480,
+      "rank": 7,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 617189,
+      "title": "Carpooling Shock",
+      "gross": 0.05,
+      "cume": 0.17,
+      "showings": 2096,
+      "admissions": 11453,
+      "rank": 8,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.03,
+      "cume": 7.39,
+      "showings": 68,
+      "admissions": 4894,
+      "rank": 9,
+      "days": 118,
+      "day": "18th Sun"
+    },
+    {
+      "movie_id": 611805,
+      "title": "The Twins' Code",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 1510,
+      "admissions": 4260,
+      "rank": 10,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 642975,
+      "title": "Pleasant Goat And Big Big Wolf",
+      "gross": 0.02,
+      "cume": 12.18,
+      "showings": 27,
+      "admissions": 5270,
+      "rank": 11,
+      "days": 1438,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 592078,
+      "title": "The Wolverine",
+      "gross": 0.01,
+      "cume": 36.81,
+      "showings": 387,
+      "admissions": 2378,
+      "rank": 12,
+      "days": 25,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 589829,
+      "title": "Kuiba",
+      "gross": 0.01,
+      "cume": 0.69,
+      "showings": 30,
+      "admissions": 4588,
+      "rank": 13,
+      "days": 857,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 617150,
+      "title": "Bachelors' love",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 1105,
+      "admissions": 2981,
+      "rank": 14,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 618380,
+      "title": "Baby Blues",
+      "gross": 0.01,
+      "cume": 2.61,
+      "showings": 366,
+      "admissions": 2063,
+      "rank": 15,
+      "days": 11,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 391900,
+      "title": "Thor",
+      "gross": 0.01,
+      "cume": 14.4,
+      "showings": 101,
+      "admissions": 2232,
+      "rank": 16,
+      "days": 918,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 573472,
+      "title": "Animen",
+      "gross": 0.01,
+      "cume": 1.32,
+      "showings": 26,
+      "admissions": 3476,
+      "rank": 17,
+      "days": 1259,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 597102,
+      "title": "I Love Wolffy",
+      "gross": 0.01,
+      "cume": 10.63,
+      "showings": 28,
+      "admissions": 3436,
+      "rank": 18,
+      "days": 458,
+      "day": "15th Sun"
+    },
+    {
+      "movie_id": 589970,
+      "title": "Beijing Flickers",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 845,
+      "admissions": 1792,
+      "rank": 19,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 610086,
+      "title": "Roco Kingdom: the Desire of Dragon",
+      "gross": 0.01,
+      "cume": 10.21,
+      "showings": 20,
+      "admissions": 2692,
+      "rank": 20,
+      "days": 284,
+      "day": "41st Sun"
+    }
+  ]
+}

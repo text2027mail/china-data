@@ -1,0 +1,225 @@
+{
+  "date": "04-10-2017",
+  "data": [
+    {
+      "movie_id": 661004,
+      "title": "",
+      "gross": 27.04,
+      "cume": 127.46,
+      "showings": 109538,
+      "admissions": 5479464,
+      "rank": 1,
+      "days": 5,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 661432,
+      "title": "The Foreigner",
+      "gross": 7.17,
+      "cume": 43.96,
+      "showings": 49306,
+      "admissions": 1306680,
+      "rank": 2,
+      "days": 5,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 658278,
+      "title": "Chasing The Dragon",
+      "gross": 7.11,
+      "cume": 35.44,
+      "showings": 45157,
+      "admissions": 1461302,
+      "rank": 3,
+      "days": 5,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 652615,
+      "title": "Sky Hunter",
+      "gross": 3.95,
+      "cume": 23.82,
+      "showings": 30204,
+      "admissions": 736350,
+      "rank": 4,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 660009,
+      "title": "City of Rock",
+      "gross": 3.77,
+      "cume": 22.33,
+      "showings": 27893,
+      "admissions": 775629,
+      "rank": 5,
+      "days": 6,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 618949,
+      "title": "Alex:the floating planet",
+      "gross": 0.64,
+      "cume": 4.62,
+      "showings": 10200,
+      "admissions": 136462,
+      "rank": 6,
+      "days": 4,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 617390,
+      "title": "Dragon Force Movie",
+      "gross": 0.63,
+      "cume": 3.73,
+      "showings": 11165,
+      "admissions": 136228,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 659452,
+      "title": "War for the Planet of the Apes",
+      "gross": 0.52,
+      "cume": 107.4,
+      "showings": 3914,
+      "admissions": 95898,
+      "rank": 8,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 665947,
+      "title": "Contratiempo",
+      "gross": 0.47,
+      "cume": 22.21,
+      "showings": 3712,
+      "admissions": 90800,
+      "rank": 9,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 641515,
+      "title": "Wolf Warriors 2",
+      "gross": 0.29,
+      "cume": 836.49,
+      "showings": 2044,
+      "admissions": 54638,
+      "rank": 10,
+      "days": 70,
+      "day": "11th Wed"
+    },
+    {
+      "movie_id": 644444,
+      "title": "Thomas & Friends: The Great Race",
+      "gross": 0.13,
+      "cume": 2.5,
+      "showings": 1780,
+      "admissions": 30125,
+      "rank": 11,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 661854,
+      "title": "S.M.A.R.T. CHASE",
+      "gross": 0.12,
+      "cume": 2.15,
+      "showings": 5365,
+      "admissions": 23833,
+      "rank": 12,
+      "days": 5,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 657831,
+      "title": "Spider-Man: Homecoming",
+      "gross": 0.12,
+      "cume": 113.93,
+      "showings": 1302,
+      "admissions": 21715,
+      "rank": 13,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 668639,
+      "title": "The Hitman's Bodyguard",
+      "gross": 0.05,
+      "cume": 20.36,
+      "showings": 945,
+      "admissions": 10474,
+      "rank": 14,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 661362,
+      "title": "Sword Art Online: Ordinal Scale",
+      "gross": 0.02,
+      "cume": 7.88,
+      "showings": 281,
+      "admissions": 4267,
+      "rank": 15,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 642415,
+      "title": "The Founding of an Army",
+      "gross": 0.02,
+      "cume": 58.96,
+      "showings": 56,
+      "admissions": 3067,
+      "rank": 16,
+      "days": 70,
+      "day": "11th Wed"
+    },
+    {
+      "movie_id": 662620,
+      "title": "Only The Wind Knows",
+      "gross": 0.01,
+      "cume": 0.22,
+      "showings": 369,
+      "admissions": 2953,
+      "rank": 17,
+      "days": null,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 596405,
+      "title": "The Monkey King 3D",
+      "gross": 0.01,
+      "cume": 7.37,
+      "showings": 371,
+      "admissions": 2133,
+      "rank": 18,
+      "days": 2094,
+      "day": "192nd Wed"
+    },
+    {
+      "movie_id": 665635,
+      "title": "Richard the Stork",
+      "gross": 0.01,
+      "cume": 0.29,
+      "showings": 222,
+      "admissions": 2031,
+      "rank": 19,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 666713,
+      "title": "Defenders",
+      "gross": 0.01,
+      "cume": 1.4,
+      "showings": 153,
+      "admissions": 3032,
+      "rank": 20,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

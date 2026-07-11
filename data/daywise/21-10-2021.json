@@ -1,0 +1,225 @@
+{
+  "date": "21-10-2021",
+  "data": [
+    {
+      "movie_id": 703496,
+      "title": "",
+      "gross": 5.74,
+      "cume": 751.7,
+      "showings": 131951,
+      "admissions": 854111,
+      "rank": 1,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 706356,
+      "title": "My country,My parents",
+      "gross": 1.36,
+      "cume": 204.24,
+      "showings": 57679,
+      "admissions": 220009,
+      "rank": 2,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 695476,
+      "title": "Knock Knock",
+      "gross": 0.23,
+      "cume": 1.78,
+      "showings": 6691,
+      "admissions": 41835,
+      "rank": 3,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 673641,
+      "title": "Saturday Fiction",
+      "gross": 0.14,
+      "cume": 2.81,
+      "showings": 17935,
+      "admissions": 24151,
+      "rank": 4,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 703028,
+      "title": "Water Boys",
+      "gross": 0.1,
+      "cume": 9.03,
+      "showings": 9906,
+      "admissions": 17790,
+      "rank": 5,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 639931,
+      "title": "The Curse of Turandot",
+      "gross": 0.07,
+      "cume": 2.6,
+      "showings": 17992,
+      "admissions": 13113,
+      "rank": 6,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.05,
+      "cume": 3.82,
+      "showings": 91,
+      "admissions": 7375,
+      "rank": 7,
+      "days": 77,
+      "day": "13th Thu"
+    },
+    {
+      "movie_id": 699450,
+      "title": "Cloudy Mountain",
+      "gross": 0.05,
+      "cume": 64.44,
+      "showings": 3180,
+      "admissions": 9339,
+      "rank": 8,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 702037,
+      "title": "Mystery Case Of Deep House",
+      "gross": 0.05,
+      "cume": 0.65,
+      "showings": 5711,
+      "admissions": 10210,
+      "rank": 9,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 709324,
+      "title": "The Guardian of Youth",
+      "gross": 0.02,
+      "cume": 1.8,
+      "showings": 106,
+      "admissions": 3171,
+      "rank": 10,
+      "days": 35,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.01,
+      "cume": 4.04,
+      "showings": 79,
+      "admissions": 3122,
+      "rank": 11,
+      "days": 95,
+      "day": "15th Thu"
+    },
+    {
+      "movie_id": 1824,
+      "title": "The Eternal Wave",
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 1863,
+      "admissions": 3461,
+      "rank": 12,
+      "days": null,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 691465,
+      "title": "Raging Fire",
+      "gross": 0.01,
+      "cume": 196.1,
+      "showings": 702,
+      "admissions": 1758,
+      "rank": 13,
+      "days": 84,
+      "day": "13th Thu"
+    },
+    {
+      "movie_id": 705651,
+      "title": "Commander Wang Liang",
+      "gross": 0.01,
+      "cume": 0.38,
+      "showings": 165,
+      "admissions": 2322,
+      "rank": 14,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 701532,
+      "title": "All About My Mother",
+      "gross": 0.01,
+      "cume": 22.12,
+      "showings": 1331,
+      "admissions": 2000,
+      "rank": 15,
+      "days": 33,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 703155,
+      "title": "Ox King",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 215,
+      "admissions": 1597,
+      "rank": 16,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 695333,
+      "title": "Little Canned Man",
+      "gross": 0.01,
+      "cume": 7.97,
+      "showings": 2562,
+      "admissions": 1213,
+      "rank": 17,
+      "days": 22,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 707736,
+      "title": "Extinct",
+      "gross": 0.01,
+      "cume": 4.89,
+      "showings": 1759,
+      "admissions": 1183,
+      "rank": 18,
+      "days": 19,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 708925,
+      "title": "Patio of Illusion",
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 131,
+      "admissions": 738,
+      "rank": 19,
+      "days": 42,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 709678,
+      "title": "Run！Shunzi",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 29,
+      "admissions": 1031,
+      "rank": 20,
+      "days": 1,
+      "day": "1st Thu"
+    }
+  ]
+}

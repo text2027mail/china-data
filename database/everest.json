@@ -1,0 +1,237 @@
+{
+  "movie_id": 640867,
+  "title": "Everest",
+  "releaseDate": "02-11-2015",
+  "entries": [
+    {
+      "date": "02-11-2015",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 650,
+      "admissions": 10454,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-11-2015",
+      "rank": 1,
+      "gross": 2.44,
+      "cume": 2.5,
+      "showings": 39273,
+      "admissions": 460954,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-11-2015",
+      "rank": 2,
+      "gross": 1.47,
+      "cume": 3.97,
+      "showings": 29232,
+      "admissions": 275708,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "05-11-2015",
+      "rank": 3,
+      "gross": 1.33,
+      "cume": 5.3,
+      "showings": 28509,
+      "admissions": 246257,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "06-11-2015",
+      "rank": 4,
+      "gross": 1.34,
+      "cume": 6.64,
+      "showings": 14743,
+      "admissions": 229504,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "date": "07-11-2015",
+      "rank": 3,
+      "gross": 2.35,
+      "cume": 8.99,
+      "showings": 13592,
+      "admissions": 397962,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-11-2015",
+      "rank": 3,
+      "gross": 1.94,
+      "cume": 10.93,
+      "showings": 13556,
+      "admissions": 328983,
+      "days": 6,
+      "day": "1st Sun"
+    },
+    {
+      "date": "09-11-2015",
+      "rank": 3,
+      "gross": 0.75,
+      "cume": 11.68,
+      "showings": 14284,
+      "admissions": 132225,
+      "days": 7,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "10-11-2015",
+      "rank": 3,
+      "gross": 0.73,
+      "cume": 12.41,
+      "showings": 14641,
+      "admissions": 129886,
+      "days": 8,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "11-11-2015",
+      "rank": 5,
+      "gross": 0.88,
+      "cume": 13.29,
+      "showings": 12829,
+      "admissions": 158898,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "12-11-2015",
+      "rank": 4,
+      "gross": 0.66,
+      "cume": 13.95,
+      "showings": 13107,
+      "admissions": 116767,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "13-11-2015",
+      "rank": 7,
+      "gross": 0.13,
+      "cume": 14.08,
+      "showings": 2454,
+      "admissions": 23854,
+      "days": 11,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "14-11-2015",
+      "rank": 8,
+      "gross": 0.25,
+      "cume": 14.33,
+      "showings": 2123,
+      "admissions": 44010,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "15-11-2015",
+      "rank": 8,
+      "gross": 0.22,
+      "cume": 14.55,
+      "showings": 2117,
+      "admissions": 39954,
+      "days": 13,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "16-11-2015",
+      "rank": 6,
+      "gross": 0.1,
+      "cume": 14.65,
+      "showings": 2575,
+      "admissions": 18718,
+      "days": 14,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "17-11-2015",
+      "rank": 6,
+      "gross": 0.12,
+      "cume": 14.77,
+      "showings": 2752,
+      "admissions": 22344,
+      "days": 15,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "18-11-2015",
+      "rank": 6,
+      "gross": 0.12,
+      "cume": 14.89,
+      "showings": 2838,
+      "admissions": 22397,
+      "days": 16,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "19-11-2015",
+      "rank": 8,
+      "gross": 0.08,
+      "cume": 14.97,
+      "showings": 1972,
+      "admissions": 14791,
+      "days": 17,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "20-11-2015",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 14.98,
+      "showings": 269,
+      "admissions": 3128,
+      "days": 18,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "21-11-2015",
+      "rank": 17,
+      "gross": 0.03,
+      "cume": 15.01,
+      "showings": 245,
+      "admissions": 4588,
+      "days": 19,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "22-11-2015",
+      "rank": 17,
+      "gross": 0.03,
+      "cume": 15.04,
+      "showings": 222,
+      "admissions": 4475,
+      "days": 20,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "23-11-2015",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 15.05,
+      "showings": 251,
+      "admissions": 1843,
+      "days": 21,
+      "day": "4th Mon"
+    },
+    {
+      "date": "24-11-2015",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 15.06,
+      "showings": 238,
+      "admissions": 2188,
+      "days": 22,
+      "day": "4th Tue"
+    }
+  ]
+}

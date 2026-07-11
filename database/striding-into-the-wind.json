@@ -1,0 +1,77 @@
+{
+  "movie_id": 685185,
+  "title": "Striding into the Wind",
+  "releaseDate": "26-11-2021",
+  "entries": [
+    {
+      "date": "26-11-2021",
+      "rank": 5,
+      "gross": 0.45,
+      "cume": 0.46,
+      "showings": 36567,
+      "admissions": 99594,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-11-2021",
+      "rank": 9,
+      "gross": 0.45,
+      "cume": 0.91,
+      "showings": 23248,
+      "admissions": 99640,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-11-2021",
+      "rank": 8,
+      "gross": 0.37,
+      "cume": 1.29,
+      "showings": 19620,
+      "admissions": 81637,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-11-2021",
+      "rank": 7,
+      "gross": 0.14,
+      "cume": 1.42,
+      "showings": 17130,
+      "admissions": 30246,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-11-2021",
+      "rank": 8,
+      "gross": 0.1,
+      "cume": 1.52,
+      "showings": 16378,
+      "admissions": 22443,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-12-2021",
+      "rank": 8,
+      "gross": 0.08,
+      "cume": 1.61,
+      "showings": 15644,
+      "admissions": 18458,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-12-2021",
+      "rank": 9,
+      "gross": 0.06,
+      "cume": 1.67,
+      "showings": 14770,
+      "admissions": 13897,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

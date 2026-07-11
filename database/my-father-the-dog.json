@@ -1,0 +1,77 @@
+{
+  "movie_id": 694929,
+  "title": "My Father the Dog",
+  "releaseDate": "12-04-2024",
+  "entries": [
+    {
+      "date": "12-04-2024",
+      "rank": 7,
+      "gross": 0.22,
+      "cume": 0.24,
+      "showings": 20493,
+      "admissions": 40390,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-04-2024",
+      "rank": 8,
+      "gross": 0.33,
+      "cume": 0.57,
+      "showings": 40429,
+      "admissions": 59178,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-04-2024",
+      "rank": 10,
+      "gross": 0.17,
+      "cume": 0.74,
+      "showings": 20197,
+      "admissions": 31531,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "15-04-2024",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.77,
+      "showings": 14397,
+      "admissions": 5406,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "16-04-2024",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.8,
+      "showings": 12771,
+      "admissions": 5231,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "17-04-2024",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.82,
+      "showings": 11848,
+      "admissions": 4159,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "18-04-2024",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.84,
+      "showings": 11064,
+      "admissions": 3573,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

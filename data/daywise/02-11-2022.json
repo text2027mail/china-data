@@ -1,0 +1,225 @@
+{
+  "date": "02-11-2022",
+  "data": [
+    {
+      "movie_id": 702020,
+      "title": "",
+      "gross": 0.62,
+      "cume": 219.03,
+      "showings": 75839,
+      "admissions": 102712,
+      "rank": 1,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 701893,
+      "title": "Give Me Five",
+      "gross": 0.3,
+      "cume": 74.5,
+      "showings": 31266,
+      "admissions": 49907,
+      "rank": 2,
+      "days": 55,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.1,
+      "cume": 30.85,
+      "showings": 26788,
+      "admissions": 19996,
+      "rank": 3,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 705775,
+      "title": "Steel Will",
+      "gross": 0.08,
+      "cume": 13.01,
+      "showings": 4215,
+      "admissions": 13150,
+      "rank": 4,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 715732,
+      "title": "Table for Six",
+      "gross": 0.03,
+      "cume": 15.48,
+      "showings": 6482,
+      "admissions": 6685,
+      "rank": 5,
+      "days": 55,
+      "day": "10th Wed"
+    },
+    {
+      "movie_id": 683536,
+      "title": "Warriors of Future",
+      "gross": 0.03,
+      "cume": 100.05,
+      "showings": 5373,
+      "admissions": 4329,
+      "rank": 6,
+      "days": 90,
+      "day": "13th Wed"
+    },
+    {
+      "movie_id": 730455,
+      "title": "Come Back Home",
+      "gross": 0.01,
+      "cume": 2.95,
+      "showings": 6707,
+      "admissions": 2788,
+      "rank": 7,
+      "days": 31,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 708410,
+      "title": "Song of Spring",
+      "gross": 0.01,
+      "cume": 11.34,
+      "showings": 2274,
+      "admissions": 1401,
+      "rank": 8,
+      "days": 54,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 715985,
+      "title": "New Happy Dad and Son 5: My Alien Friend",
+      "gross": 0.01,
+      "cume": 11.66,
+      "showings": 5691,
+      "admissions": 1208,
+      "rank": 9,
+      "days": 33,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 702457,
+      "title": "Hero",
+      "gross": 0.0,
+      "cume": 8.28,
+      "showings": 1054,
+      "admissions": 638,
+      "rank": 10,
+      "days": 55,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 702055,
+      "title": "In Search of Lost Time",
+      "gross": 0.0,
+      "cume": 5.29,
+      "showings": 1308,
+      "admissions": 650,
+      "rank": 11,
+      "days": 55,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 699006,
+      "title": "The Tyrannosaurus Rex",
+      "gross": 0.0,
+      "cume": 4.59,
+      "showings": 2744,
+      "admissions": 755,
+      "rank": 12,
+      "days": 33,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.0,
+      "cume": 89.67,
+      "showings": 1708,
+      "admissions": 673,
+      "rank": 13,
+      "days": 275,
+      "day": "40th Wed"
+    },
+    {
+      "movie_id": 712413,
+      "title": "Cinderella and the Spellbinder",
+      "gross": 0.0,
+      "cume": 4.47,
+      "showings": 2192,
+      "admissions": 541,
+      "rank": 14,
+      "days": 33,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 1.13,
+      "showings": 4,
+      "admissions": 366,
+      "rank": 15,
+      "days": 1219,
+      "day": "66th Wed"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.0,
+      "cume": 5.18,
+      "showings": 2,
+      "admissions": 272,
+      "rank": 16,
+      "days": 454,
+      "day": "67th Wed"
+    },
+    {
+      "movie_id": 695516,
+      "title": "Cliff Walkers",
+      "gross": 0.0,
+      "cume": 175.78,
+      "showings": 221,
+      "admissions": 224,
+      "rank": 17,
+      "days": 552,
+      "day": "81st Wed"
+    },
+    {
+      "movie_id": 715731,
+      "title": "Welcome the screening of excellent films of the 20th CPC National Congress",
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 3,
+      "admissions": 160,
+      "rank": 18,
+      "days": 111,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 655823,
+      "title": "Operation Red Sea",
+      "gross": 0.0,
+      "cume": 538.95,
+      "showings": 219,
+      "admissions": 179,
+      "rank": 19,
+      "days": 1721,
+      "day": "246th Wed"
+    },
+    {
+      "movie_id": 703781,
+      "title": "Ready to go",
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 34,
+      "admissions": 134,
+      "rank": 20,
+      "days": 97,
+      "day": "5th Wed"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 1206125,
+  "title": "2026 FIFA World Cup Cinema Live Broadcast Event",
+  "releaseDate": "22-06-2026",
+  "entries": [
+    {
+      "date": "22-06-2026",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 250,
+      "admissions": 661,
+      "days": 11,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-07-2026",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 433,
+      "admissions": 1645,
+      "days": 22,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "07-07-2026",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 410,
+      "admissions": 1678,
+      "days": 26,
+      "day": "3rd Tue"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 823725,
+  "title": "2025 Belgian Classic Film Exhibition In Shanghai",
+  "releaseDate": "31-05-2025",
+  "entries": [
+    {
+      "date": "31-05-2025",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2,
+      "admissions": 1745,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-06-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 2,
+      "admissions": 1317,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "06-06-2025",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 1,
+      "admissions": 1008,
+      "days": 9,
+      "day": "1st Fri"
+    }
+  ]
+}

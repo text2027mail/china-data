@@ -1,0 +1,37 @@
+{
+  "movie_id": 661220,
+  "title": "Life Is A Belief",
+  "releaseDate": "01-12-2018",
+  "entries": [
+    {
+      "date": "01-12-2018",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 0.09,
+      "showings": 5750,
+      "admissions": 16773,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-12-2018",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.13,
+      "showings": 2291,
+      "admissions": 8116,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-12-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 1809,
+      "admissions": 1808,
+      "days": 3,
+      "day": "1st Mon"
+    }
+  ]
+}

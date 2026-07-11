@@ -1,0 +1,57 @@
+{
+  "movie_id": 665219,
+  "title": "Charming",
+  "releaseDate": "27-08-2021",
+  "entries": [
+    {
+      "date": "27-08-2021",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 8331,
+      "admissions": 11877,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-08-2021",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.16,
+      "showings": 10999,
+      "admissions": 21088,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-08-2021",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.22,
+      "showings": 6601,
+      "admissions": 13648,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-08-2021",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 3423,
+      "admissions": 4269,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-08-2021",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 2944,
+      "admissions": 3259,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

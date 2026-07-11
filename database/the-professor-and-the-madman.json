@@ -1,0 +1,67 @@
+{
+  "movie_id": 692341,
+  "title": "The Professor and the Madman",
+  "releaseDate": "24-12-2019",
+  "entries": [
+    {
+      "date": "24-12-2019",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 4963,
+      "admissions": 5158,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-12-2019",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.1,
+      "showings": 137,
+      "admissions": 4538,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-12-2019",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.14,
+      "showings": 166,
+      "admissions": 4896,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-12-2019",
+      "rank": 16,
+      "gross": 0.07,
+      "cume": 0.21,
+      "showings": 211,
+      "admissions": 6844,
+      "days": 6,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-12-2019",
+      "rank": 11,
+      "gross": 0.08,
+      "cume": 0.29,
+      "showings": 210,
+      "admissions": 5887,
+      "days": 7,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-12-2019",
+      "rank": 17,
+      "gross": 0.09,
+      "cume": 0.38,
+      "showings": 82,
+      "admissions": 5910,
+      "days": 8,
+      "day": "2nd Tue"
+    }
+  ]
+}

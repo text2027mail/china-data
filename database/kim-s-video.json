@@ -1,0 +1,27 @@
+{
+  "movie_id": 749523,
+  "title": "Kim's Video",
+  "releaseDate": "19-04-2024",
+  "entries": [
+    {
+      "date": "19-04-2024",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.05,
+      "showings": 4901,
+      "admissions": 7282,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-04-2024",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 3031,
+      "admissions": 2339,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

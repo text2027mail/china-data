@@ -1,0 +1,27 @@
+{
+  "movie_id": 674353,
+  "title": "Class Two Grade Four",
+  "releaseDate": "15-10-2020",
+  "entries": [
+    {
+      "date": "15-10-2020",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 74,
+      "admissions": 1729,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "16-10-2020",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 60,
+      "admissions": 3356,
+      "days": 2,
+      "day": "1st Fri"
+    }
+  ]
+}

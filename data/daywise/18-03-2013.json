@@ -1,0 +1,225 @@
+{
+  "date": "18-03-2013",
+  "data": [
+    {
+      "movie_id": 605823,
+      "title": "",
+      "gross": 1.48,
+      "cume": 4.96,
+      "showings": 22064,
+      "admissions": 251563,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 615250,
+      "title": "A Good Day to Die Hard",
+      "gross": 1.48,
+      "cume": 16.6,
+      "showings": 23913,
+      "admissions": 313215,
+      "rank": 2,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 608215,
+      "title": "Princess and Seven Kung Fu Masters",
+      "gross": 0.23,
+      "cume": 8.98,
+      "showings": 7178,
+      "admissions": 51483,
+      "rank": 3,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 589797,
+      "title": "Journey to the West: Conquering the Demons",
+      "gross": 0.15,
+      "cume": 183.19,
+      "showings": 3703,
+      "admissions": 25684,
+      "rank": 4,
+      "days": 37,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 566700,
+      "title": "Upside Down",
+      "gross": 0.1,
+      "cume": 10.39,
+      "showings": 3256,
+      "admissions": 18861,
+      "rank": 5,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 341723,
+      "title": "The Hobbit: An Unexpected Journey",
+      "gross": 0.09,
+      "cume": 45.78,
+      "showings": 1774,
+      "admissions": 13096,
+      "rank": 6,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 555111,
+      "title": "Les Miserables",
+      "gross": 0.07,
+      "cume": 8.77,
+      "showings": 1220,
+      "admissions": 12440,
+      "rank": 7,
+      "days": 19,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 590327,
+      "title": "Love Bank",
+      "gross": 0.04,
+      "cume": 0.62,
+      "showings": 3112,
+      "admissions": 9726,
+      "rank": 8,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 610888,
+      "title": "Silent Code",
+      "gross": 0.02,
+      "cume": 0.31,
+      "showings": 1744,
+      "admissions": 3822,
+      "rank": 9,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 604129,
+      "title": "Stolen",
+      "gross": 0.02,
+      "cume": 6.45,
+      "showings": 1020,
+      "admissions": 3395,
+      "rank": 10,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 595235,
+      "title": "Midnight Train",
+      "gross": 0.02,
+      "cume": 0.9,
+      "showings": 793,
+      "admissions": 3482,
+      "rank": 11,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 615231,
+      "title": "Fall In Love",
+      "gross": 0.02,
+      "cume": 1.73,
+      "showings": 1001,
+      "admissions": 3241,
+      "rank": 12,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 592544,
+      "title": "Say Yes",
+      "gross": 0.01,
+      "cume": 29.48,
+      "showings": 255,
+      "admissions": 1342,
+      "rank": 13,
+      "days": 35,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 615497,
+      "title": "Scandals",
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 776,
+      "admissions": 1419,
+      "rank": 14,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 595213,
+      "title": "Falling Flowers",
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 120,
+      "admissions": 1348,
+      "rank": 15,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 611576,
+      "title": "Lift to Hell",
+      "gross": 0.0,
+      "cume": 3.21,
+      "showings": 177,
+      "admissions": 1007,
+      "rank": 16,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 592550,
+      "title": "The Iron Lady",
+      "gross": 0.0,
+      "cume": 0.79,
+      "showings": 218,
+      "admissions": 717,
+      "rank": 17,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 566117,
+      "title": "Dredd",
+      "gross": 0.0,
+      "cume": 4.42,
+      "showings": 328,
+      "admissions": 493,
+      "rank": 18,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 473370,
+      "title": "Le Petit Nicolas",
+      "gross": 0.0,
+      "cume": 0.28,
+      "showings": 9,
+      "admissions": 811,
+      "rank": 19,
+      "days": 37,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 0.44,
+      "showings": 6,
+      "admissions": 338,
+      "rank": 20,
+      "days": 567,
+      "day": "10th Mon"
+    }
+  ]
+}

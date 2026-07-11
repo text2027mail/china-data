@@ -1,0 +1,77 @@
+{
+  "movie_id": 671507,
+  "title": "Ittefaq",
+  "releaseDate": "25-10-2019",
+  "entries": [
+    {
+      "date": "25-10-2019",
+      "rank": 8,
+      "gross": 0.58,
+      "cume": 0.6,
+      "showings": 32977,
+      "admissions": 128077,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-10-2019",
+      "rank": 10,
+      "gross": 0.3,
+      "cume": 0.9,
+      "showings": 13356,
+      "admissions": 65458,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-10-2019",
+      "rank": 11,
+      "gross": 0.18,
+      "cume": 1.08,
+      "showings": 10014,
+      "admissions": 39515,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-10-2019",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 1.15,
+      "showings": 8693,
+      "admissions": 15703,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "29-10-2019",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 1.22,
+      "showings": 7642,
+      "admissions": 14474,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "30-10-2019",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 1.27,
+      "showings": 7013,
+      "admissions": 12746,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "31-10-2019",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 1.32,
+      "showings": 6245,
+      "admissions": 11213,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

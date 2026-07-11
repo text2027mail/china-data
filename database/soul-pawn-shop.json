@@ -1,0 +1,47 @@
+{
+  "movie_id": 642209,
+  "title": "Soul Pawn Shop",
+  "releaseDate": "09-03-2018",
+  "entries": [
+    {
+      "date": "09-03-2018",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 2669,
+      "admissions": 12441,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-03-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 1714,
+      "admissions": 3439,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-03-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 1627,
+      "admissions": 3164,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-03-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 1568,
+      "admissions": 2993,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

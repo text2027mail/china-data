@@ -1,0 +1,57 @@
+{
+  "movie_id": 616073,
+  "title": "Three Weddings",
+  "releaseDate": "28-12-2016",
+  "entries": [
+    {
+      "date": "28-12-2016",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 7,
+      "admissions": 891,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-12-2016",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.05,
+      "showings": 3902,
+      "admissions": 9729,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-01-2017",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 1184,
+      "admissions": 6117,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-01-2017",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 1183,
+      "admissions": 1968,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-01-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 1158,
+      "admissions": 877,
+      "days": 6,
+      "day": "2nd Wed"
+    }
+  ]
+}

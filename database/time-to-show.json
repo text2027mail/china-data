@@ -1,0 +1,77 @@
+{
+  "movie_id": 595696,
+  "title": "Time to Show",
+  "releaseDate": "14-06-2013",
+  "entries": [
+    {
+      "date": "14-06-2013",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 229,
+      "admissions": 835,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "17-06-2013",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 177,
+      "admissions": 629,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-06-2013",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 196,
+      "admissions": 1799,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-06-2013",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 185,
+      "admissions": 1866,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "20-06-2013",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 118,
+      "admissions": 1691,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "24-06-2013",
+      "rank": 10,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 62,
+      "admissions": 3905,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "25-06-2013",
+      "rank": 10,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 52,
+      "admissions": 2434,
+      "days": 12,
+      "day": "2nd Tue"
+    }
+  ]
+}

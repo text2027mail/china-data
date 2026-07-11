@@ -1,0 +1,225 @@
+{
+  "date": "26-04-2018",
+  "data": [
+    {
+      "movie_id": 676242,
+      "title": "",
+      "gross": 2.63,
+      "cume": 111.24,
+      "showings": 98875,
+      "admissions": 511935,
+      "rank": 1,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 642174,
+      "title": "21 Karat",
+      "gross": 1.13,
+      "cume": 14.49,
+      "showings": 58236,
+      "admissions": 248868,
+      "rank": 2,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 657862,
+      "title": "Ready Player One",
+      "gross": 0.87,
+      "cume": 196.31,
+      "showings": 39485,
+      "admissions": 170125,
+      "rank": 3,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 643903,
+      "title": "Dude's Manual",
+      "gross": 0.32,
+      "cume": 4.8,
+      "showings": 28645,
+      "admissions": 70163,
+      "rank": 4,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 665003,
+      "title": "Isle of Dogs",
+      "gross": 0.24,
+      "cume": 4.94,
+      "showings": 20226,
+      "admissions": 49087,
+      "rank": 5,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 675328,
+      "title": "Annihilation",
+      "gross": 0.14,
+      "cume": 9.37,
+      "showings": 9149,
+      "admissions": 28795,
+      "rank": 6,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 665847,
+      "title": "Hindi Medium",
+      "gross": 0.13,
+      "cume": 30.55,
+      "showings": 9731,
+      "admissions": 28820,
+      "rank": 7,
+      "days": 23,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 675239,
+      "title": "Amazing China",
+      "gross": 0.13,
+      "cume": 70.07,
+      "showings": 1467,
+      "admissions": 28173,
+      "rank": 8,
+      "days": 56,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 655823,
+      "title": "Operation Red Sea",
+      "gross": 0.09,
+      "cume": 538.14,
+      "showings": 4567,
+      "admissions": 19630,
+      "rank": 9,
+      "days": 70,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 659490,
+      "title": "The Taste of Rice Flower",
+      "gross": 0.05,
+      "cume": 0.23,
+      "showings": 878,
+      "admissions": 8687,
+      "rank": 10,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 668536,
+      "title": "Wrath Of Silence",
+      "gross": 0.02,
+      "cume": 7.93,
+      "showings": 1524,
+      "admissions": 4262,
+      "rank": 11,
+      "days": 23,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 663327,
+      "title": "Us And Them",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 13,
+      "admissions": 1058,
+      "rank": 12,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639863,
+      "title": "The Snow Queen 3: Fire and Ice",
+      "gross": 0.01,
+      "cume": 8.97,
+      "showings": 1874,
+      "admissions": 1955,
+      "rank": 13,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 657725,
+      "title": "Justice in Northwest",
+      "gross": 0.01,
+      "cume": 0.58,
+      "showings": 882,
+      "admissions": 1731,
+      "rank": 14,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 673059,
+      "title": "Beyond the mountains",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 195,
+      "admissions": 2156,
+      "rank": 15,
+      "days": 35,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 674543,
+      "title": "The Commuter",
+      "gross": 0.01,
+      "cume": 6.69,
+      "showings": 516,
+      "admissions": 1374,
+      "rank": 16,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 618240,
+      "title": "Seek Mc Cartny",
+      "gross": 0.01,
+      "cume": 0.57,
+      "showings": 496,
+      "admissions": 970,
+      "rank": 17,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 654238,
+      "title": "The Frozen Maze",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 1060,
+      "admissions": 1115,
+      "rank": 18,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639128,
+      "title": "Where‘s The Dragon？",
+      "gross": 0.0,
+      "cume": 3.36,
+      "showings": 1822,
+      "admissions": 1085,
+      "rank": 19,
+      "days": 917,
+      "day": "132nd Thu"
+    },
+    {
+      "movie_id": 639900,
+      "title": "Path to the Dream",
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 145,
+      "admissions": 1550,
+      "rank": 20,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

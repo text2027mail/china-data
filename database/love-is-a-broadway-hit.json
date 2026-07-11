@@ -1,0 +1,117 @@
+{
+  "movie_id": 656012,
+  "title": "Love Is A Broadway Hit",
+  "releaseDate": "10-10-2017",
+  "entries": [
+    {
+      "date": "10-10-2017",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 6,
+      "admissions": 1368,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "11-10-2017",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 14,
+      "admissions": 797,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "12-10-2017",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 127,
+      "admissions": 1384,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "13-10-2017",
+      "rank": 7,
+      "gross": 0.73,
+      "cume": 0.76,
+      "showings": 26814,
+      "admissions": 166897,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-10-2017",
+      "rank": 9,
+      "gross": 0.45,
+      "cume": 1.21,
+      "showings": 20230,
+      "admissions": 100013,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-10-2017",
+      "rank": 9,
+      "gross": 0.31,
+      "cume": 1.52,
+      "showings": 16203,
+      "admissions": 68497,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-10-2017",
+      "rank": 10,
+      "gross": 0.11,
+      "cume": 1.64,
+      "showings": 13428,
+      "admissions": 24208,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "17-10-2017",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 1.72,
+      "showings": 11088,
+      "admissions": 18351,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "18-10-2017",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 1.8,
+      "showings": 9972,
+      "admissions": 16390,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "19-10-2017",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 1.86,
+      "showings": 8545,
+      "admissions": 12303,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "25-10-2017",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 1.96,
+      "showings": 1655,
+      "admissions": 3757,
+      "days": 13,
+      "day": "3rd Wed"
+    }
+  ]
+}

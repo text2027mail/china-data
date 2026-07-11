@@ -1,0 +1,47 @@
+{
+  "movie_id": 612790,
+  "title": "The Prince and the 108 Demons",
+  "releaseDate": "21-08-2015",
+  "entries": [
+    {
+      "date": "21-08-2015",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 4686,
+      "admissions": 15218,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-08-2015",
+      "rank": 16,
+      "gross": 0.07,
+      "cume": 0.14,
+      "showings": 4364,
+      "admissions": 17119,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-08-2015",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.18,
+      "showings": 2367,
+      "admissions": 10229,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "24-08-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 1663,
+      "admissions": 3024,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

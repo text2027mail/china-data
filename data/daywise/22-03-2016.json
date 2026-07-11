@@ -1,0 +1,225 @@
+{
+  "date": "22-03-2016",
+  "data": [
+    {
+      "movie_id": 642886,
+      "title": "",
+      "gross": 3.28,
+      "cume": 37.75,
+      "showings": 51376,
+      "admissions": 737188,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 643235,
+      "title": "Zootopia",
+      "gross": 2.52,
+      "cume": 170.83,
+      "showings": 48955,
+      "admissions": 515751,
+      "rank": 2,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 637664,
+      "title": "The Rise of A Tomboy",
+      "gross": 0.76,
+      "cume": 6.41,
+      "showings": 21747,
+      "admissions": 186119,
+      "rank": 3,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 643426,
+      "title": "Gods of Egypt",
+      "gross": 0.61,
+      "cume": 32.63,
+      "showings": 14826,
+      "admissions": 123198,
+      "rank": 4,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 610219,
+      "title": "Ip Man 3",
+      "gross": 0.36,
+      "cume": 112.48,
+      "showings": 10333,
+      "admissions": 64974,
+      "rank": 5,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 626153,
+      "title": "The Mermaid",
+      "gross": 0.13,
+      "cume": 499.52,
+      "showings": 4401,
+      "admissions": 25467,
+      "rank": 6,
+      "days": 44,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 639351,
+      "title": "Kung Fu Panda 3",
+      "gross": 0.1,
+      "cume": 146.83,
+      "showings": 560,
+      "admissions": 23218,
+      "rank": 7,
+      "days": 54,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 643570,
+      "title": "PAPA",
+      "gross": 0.09,
+      "cume": 1.09,
+      "showings": 7010,
+      "admissions": 22908,
+      "rank": 8,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 327746,
+      "title": "Eddie the Eagle",
+      "gross": 0.06,
+      "cume": 0.53,
+      "showings": 4881,
+      "admissions": 14157,
+      "rank": 9,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 616345,
+      "title": "Wo He Wo Men",
+      "gross": 0.05,
+      "cume": 0.36,
+      "showings": 61,
+      "admissions": 8930,
+      "rank": 10,
+      "days": 673,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 637884,
+      "title": "Shui Mo Da Bie Shan",
+      "gross": 0.05,
+      "cume": 0.36,
+      "showings": 58,
+      "admissions": 8625,
+      "rank": 11,
+      "days": 216,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 639810,
+      "title": "Red Cheongsam",
+      "gross": 0.05,
+      "cume": 0.43,
+      "showings": 3047,
+      "admissions": 14332,
+      "rank": 12,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 639743,
+      "title": "Under the Bed",
+      "gross": 0.02,
+      "cume": 1.3,
+      "showings": 1078,
+      "admissions": 4392,
+      "rank": 13,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 626346,
+      "title": "The Monkey King 2",
+      "gross": 0.02,
+      "cume": 177.0,
+      "showings": 282,
+      "admissions": 4150,
+      "rank": 14,
+      "days": 44,
+      "day": "9th Tue"
+    },
+    {
+      "movie_id": 628796,
+      "title": "Wong Ka Yan",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 902,
+      "admissions": 1285,
+      "rank": 15,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 617763,
+      "title": "Chongqing Hot Pot",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 4,
+      "admissions": 876,
+      "rank": 16,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 620685,
+      "title": "The November Man",
+      "gross": 0.0,
+      "cume": 4.34,
+      "showings": 334,
+      "admissions": 1098,
+      "rank": 17,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 596554,
+      "title": "Judge Archer",
+      "gross": 0.0,
+      "cume": 0.48,
+      "showings": 192,
+      "admissions": 587,
+      "rank": 18,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 638604,
+      "title": "Go Home",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 5,
+      "admissions": 608,
+      "rank": 19,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 628132,
+      "title": "Spicy hot in love",
+      "gross": 0.0,
+      "cume": 2.55,
+      "showings": 309,
+      "admissions": 450,
+      "rank": 20,
+      "days": 15,
+      "day": "3rd Tue"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "movie_id": 642702,
+  "title": "Happy Planet : Tale of Boy 36",
+  "releaseDate": "16-06-2018",
+  "entries": [
+    {
+      "date": "16-06-2018",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1878,
+      "admissions": 4156,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-06-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1417,
+      "admissions": 2424,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "18-06-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 1132,
+      "admissions": 2062,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-06-2018",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 1551,
+      "admissions": 4999,
+      "days": 1,
+      "day": "3rd Sat"
+    }
+  ]
+}

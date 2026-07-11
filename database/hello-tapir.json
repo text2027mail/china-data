@@ -1,0 +1,47 @@
+{
+  "movie_id": 740891,
+  "title": "Hello! Tapir",
+  "releaseDate": "16-09-2023",
+  "entries": [
+    {
+      "date": "16-09-2023",
+      "rank": 16,
+      "gross": 0.08,
+      "cume": 0.09,
+      "showings": 8094,
+      "admissions": 16546,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-09-2023",
+      "rank": 18,
+      "gross": 0.05,
+      "cume": 0.13,
+      "showings": 4640,
+      "admissions": 10165,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-09-2023",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 3068,
+      "admissions": 5075,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "24-09-2023",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.18,
+      "showings": 2952,
+      "admissions": 5311,
+      "days": 9,
+      "day": "2nd Sun"
+    }
+  ]
+}

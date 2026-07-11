@@ -1,0 +1,67 @@
+{
+  "movie_id": 602842,
+  "title": "The Hunger Games",
+  "releaseDate": "21-11-2013",
+  "entries": [
+    {
+      "date": "21-11-2013",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 25.73,
+      "showings": 144,
+      "admissions": 1755,
+      "days": 526,
+      "day": "1st Thu"
+    },
+    {
+      "date": "22-11-2013",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 25.74,
+      "showings": 103,
+      "admissions": 1788,
+      "days": 527,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-11-2013",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 25.75,
+      "showings": 106,
+      "admissions": 2268,
+      "days": 528,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-11-2013",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 25.76,
+      "showings": 98,
+      "admissions": 1584,
+      "days": 529,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-11-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 25.76,
+      "showings": 86,
+      "admissions": 542,
+      "days": 530,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-11-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 25.76,
+      "showings": 82,
+      "admissions": 736,
+      "days": 531,
+      "day": "1st Tue"
+    }
+  ]
+}

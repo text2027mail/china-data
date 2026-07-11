@@ -1,0 +1,77 @@
+{
+  "movie_id": 573595,
+  "title": "Hear Me",
+  "releaseDate": "26-06-2015",
+  "entries": [
+    {
+      "date": "26-06-2015",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 4427,
+      "admissions": 14561,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-06-2015",
+      "rank": 13,
+      "gross": 0.07,
+      "cume": 0.13,
+      "showings": 2741,
+      "admissions": 14743,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-06-2015",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.2,
+      "showings": 2512,
+      "admissions": 15184,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-06-2015",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.24,
+      "showings": 2540,
+      "admissions": 9840,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-06-2015",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.29,
+      "showings": 2393,
+      "admissions": 9871,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-07-2015",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.32,
+      "showings": 2198,
+      "admissions": 8315,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-07-2015",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.34,
+      "showings": 1227,
+      "admissions": 3778,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

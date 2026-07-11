@@ -1,0 +1,87 @@
+{
+  "movie_id": 628188,
+  "title": "A Horse with Hope",
+  "releaseDate": "27-05-2016",
+  "entries": [
+    {
+      "date": "27-05-2016",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 325,
+      "admissions": 2287,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-05-2016",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 229,
+      "admissions": 1028,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-05-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 204,
+      "admissions": 791,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-06-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 49,
+      "admissions": 372,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "13-06-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 12,
+      "admissions": 216,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "15-06-2016",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 14,
+      "admissions": 290,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "22-06-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 25,
+      "admissions": 1267,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "date": "26-06-2016",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 17,
+      "admissions": 1112,
+      "days": 31,
+      "day": "5th Sun"
+    }
+  ]
+}

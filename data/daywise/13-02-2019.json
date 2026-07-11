@@ -1,0 +1,225 @@
+{
+  "date": "13-02-2019",
+  "data": [
+    {
+      "movie_id": 642412,
+      "title": "",
+      "gross": 32.02,
+      "cume": 420.83,
+      "showings": 148694,
+      "admissions": 4914356,
+      "rank": 1,
+      "days": 9,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 638300,
+      "title": "Crazy Alien",
+      "gross": 9.76,
+      "cume": 253.5,
+      "showings": 83084,
+      "admissions": 1675652,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 676018,
+      "title": "Pegasus",
+      "gross": 7.95,
+      "cume": 185.24,
+      "showings": 69775,
+      "admissions": 1351916,
+      "rank": 3,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 683172,
+      "title": "Boonie Bears:Blast Into The Past",
+      "gross": 3.61,
+      "cume": 82.81,
+      "showings": 37927,
+      "admissions": 660343,
+      "rank": 4,
+      "days": 9,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 683395,
+      "title": "King of Comedy 2",
+      "gross": 1.44,
+      "cume": 84.58,
+      "showings": 24533,
+      "admissions": 247004,
+      "rank": 5,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 671904,
+      "title": "The Knight of Shadows: Between Yin and Yang",
+      "gross": 0.38,
+      "cume": 20.44,
+      "showings": 8732,
+      "admissions": 65527,
+      "rank": 6,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 672831,
+      "title": "Integrity",
+      "gross": 0.31,
+      "cume": 15.47,
+      "showings": 6930,
+      "admissions": 49318,
+      "rank": 7,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 681380,
+      "title": "Peppa Celebrates Chinese New Year",
+      "gross": 0.22,
+      "cume": 17.6,
+      "showings": 6497,
+      "admissions": 38424,
+      "rank": 8,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 589526,
+      "title": "Xin Ling De Yang Guang",
+      "gross": 0.09,
+      "cume": 4.66,
+      "showings": 164,
+      "admissions": 16453,
+      "rank": 9,
+      "days": 3331,
+      "day": "52nd Wed"
+    },
+    {
+      "movie_id": 676520,
+      "title": "Dragon Force-Rise of Ultraman",
+      "gross": 0.08,
+      "cume": 5.19,
+      "showings": 148,
+      "admissions": 8329,
+      "rank": 10,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 629661,
+      "title": "The Break-up Season",
+      "gross": 0.07,
+      "cume": 1.77,
+      "showings": 182,
+      "admissions": 13816,
+      "rank": 11,
+      "days": 1581,
+      "day": "226th Wed"
+    },
+    {
+      "movie_id": 682701,
+      "title": "White Snake",
+      "gross": 0.06,
+      "cume": 66.15,
+      "showings": 1466,
+      "admissions": 11445,
+      "rank": 12,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 684093,
+      "title": "Fall In Love At First Kiss",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 17,
+      "admissions": 1903,
+      "rank": 13,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 559810,
+      "title": "Sparkling Red Star",
+      "gross": 0.01,
+      "cume": 1.57,
+      "showings": 10,
+      "admissions": 1592,
+      "rank": 14,
+      "days": 4154,
+      "day": "58th Wed"
+    },
+    {
+      "movie_id": 678494,
+      "title": "Bumblebee",
+      "gross": 0.01,
+      "cume": 169.56,
+      "showings": 268,
+      "admissions": 1542,
+      "rank": 15,
+      "days": 41,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 685233,
+      "title": "Escape Room",
+      "gross": 0.01,
+      "cume": 34.31,
+      "showings": 240,
+      "admissions": 1550,
+      "rank": 16,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 657841,
+      "title": "Once upon a Deadpool",
+      "gross": 0.01,
+      "cume": 42.28,
+      "showings": 250,
+      "admissions": 1193,
+      "rank": 17,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 674436,
+      "title": "Sky Stream",
+      "gross": 0.01,
+      "cume": 2.49,
+      "showings": 25,
+      "admissions": 643,
+      "rank": 18,
+      "days": 76,
+      "day": "11th Wed"
+    },
+    {
+      "movie_id": 642545,
+      "title": "The Nightmare Call",
+      "gross": 0.01,
+      "cume": 1.56,
+      "showings": 5,
+      "admissions": 496,
+      "rank": 19,
+      "days": 874,
+      "day": "125th Wed"
+    },
+    {
+      "movie_id": 594512,
+      "title": "Believe In Love",
+      "gross": 0.0,
+      "cume": 0.27,
+      "showings": 4,
+      "admissions": 637,
+      "rank": 20,
+      "days": 2470,
+      "day": "1st Wed"
+    }
+  ]
+}

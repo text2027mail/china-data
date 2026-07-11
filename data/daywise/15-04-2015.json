@@ -1,0 +1,225 @@
+{
+  "date": "15-04-2015",
+  "data": [
+    {
+      "movie_id": 629625,
+      "title": "",
+      "gross": 20.42,
+      "cume": 131.61,
+      "showings": 82482,
+      "admissions": 3596202,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 617165,
+      "title": "Wolf Warriors",
+      "gross": 1.11,
+      "cume": 68.31,
+      "showings": 16670,
+      "admissions": 227535,
+      "rank": 2,
+      "days": 14,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 626126,
+      "title": "The Queens",
+      "gross": 0.39,
+      "cume": 0.4,
+      "showings": 9234,
+      "admissions": 84033,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 627393,
+      "title": "Let's Get Married",
+      "gross": 0.27,
+      "cume": 41.28,
+      "showings": 7780,
+      "admissions": 55559,
+      "rank": 4,
+      "days": 14,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 629090,
+      "title": "Ever Since We Love",
+      "gross": 0.26,
+      "cume": 0.26,
+      "showings": 357,
+      "admissions": 41815,
+      "rank": 5,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 631381,
+      "title": "Kingsman: The Secret Service",
+      "gross": 0.26,
+      "cume": 70.18,
+      "showings": 5033,
+      "admissions": 55490,
+      "rank": 6,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 630484,
+      "title": "Legend of Rabbit：The Martial of Fire",
+      "gross": 0.04,
+      "cume": 3.84,
+      "showings": 71,
+      "admissions": 5655,
+      "rank": 7,
+      "days": 54,
+      "day": "10th Wed"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.01,
+      "cume": 1.69,
+      "showings": 5,
+      "admissions": 2394,
+      "rank": 8,
+      "days": 366,
+      "day": "53rd Wed"
+    },
+    {
+      "movie_id": 637763,
+      "title": "The House of Magic",
+      "gross": 0.01,
+      "cume": 5.91,
+      "showings": 1052,
+      "admissions": 2435,
+      "rank": 9,
+      "days": 12,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 616185,
+      "title": "Midnight Garage",
+      "gross": 0.01,
+      "cume": 1.14,
+      "showings": 686,
+      "admissions": 2523,
+      "rank": 10,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 613404,
+      "title": "Insanity",
+      "gross": 0.01,
+      "cume": 6.6,
+      "showings": 967,
+      "admissions": 2276,
+      "rank": 11,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 612432,
+      "title": "Wolf Totem",
+      "gross": 0.01,
+      "cume": 102.93,
+      "showings": 61,
+      "admissions": 1648,
+      "rank": 12,
+      "days": 56,
+      "day": "11th Wed"
+    },
+    {
+      "movie_id": 617807,
+      "title": "Two Thumbs Up",
+      "gross": 0.01,
+      "cume": 3.06,
+      "showings": 684,
+      "admissions": 1665,
+      "rank": 13,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 626279,
+      "title": "Kungfu Style",
+      "gross": 0.01,
+      "cume": 0.35,
+      "showings": 930,
+      "admissions": 1669,
+      "rank": 14,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 614395,
+      "title": "Outcast",
+      "gross": 0.0,
+      "cume": 3.57,
+      "showings": 340,
+      "admissions": 668,
+      "rank": 15,
+      "days": 13,
+      "day": "30th Wed"
+    },
+    {
+      "movie_id": 627447,
+      "title": "Little Big Master",
+      "gross": 0.0,
+      "cume": 3.21,
+      "showings": 72,
+      "admissions": 2267,
+      "rank": 16,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 627482,
+      "title": "Lost and Love",
+      "gross": 0.0,
+      "cume": 31.89,
+      "showings": 131,
+      "admissions": 724,
+      "rank": 17,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 617397,
+      "title": "Roco Kingdom 3",
+      "gross": 0.0,
+      "cume": 7.06,
+      "showings": 5,
+      "admissions": 1882,
+      "rank": 18,
+      "days": 280,
+      "day": "41st Wed"
+    },
+    {
+      "movie_id": 615868,
+      "title": "Nowhere To Run",
+      "gross": 0.0,
+      "cume": 3.8,
+      "showings": 311,
+      "admissions": 651,
+      "rank": 19,
+      "days": 34,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 617756,
+      "title": "The Invincible Piglet",
+      "gross": 0.0,
+      "cume": 0.41,
+      "showings": 511,
+      "admissions": 657,
+      "rank": 20,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

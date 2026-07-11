@@ -1,0 +1,37 @@
+{
+  "movie_id": 969073,
+  "title": "KUNG FU LADY BOSS",
+  "releaseDate": "05-12-2025",
+  "entries": [
+    {
+      "date": "05-12-2025",
+      "rank": 8,
+      "gross": 0.19,
+      "cume": 0.19,
+      "showings": 10537,
+      "admissions": 27476,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "06-12-2025",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.29,
+      "showings": 3815,
+      "admissions": 14016,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "07-12-2025",
+      "rank": 9,
+      "gross": 0.1,
+      "cume": 0.38,
+      "showings": 2976,
+      "admissions": 13356,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

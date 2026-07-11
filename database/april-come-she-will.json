@@ -1,0 +1,47 @@
+{
+  "movie_id": 750612,
+  "title": "April Come She Will",
+  "releaseDate": "08-05-2024",
+  "entries": [
+    {
+      "date": "08-05-2024",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 1107,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "18-05-2024",
+      "rank": 13,
+      "gross": 0.23,
+      "cume": 0.23,
+      "showings": 22849,
+      "admissions": 39130,
+      "days": 1,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "19-05-2024",
+      "rank": 17,
+      "gross": 0.06,
+      "cume": 0.3,
+      "showings": 7287,
+      "admissions": 10305,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "20-05-2024",
+      "rank": 19,
+      "gross": 0.06,
+      "cume": 0.35,
+      "showings": 8157,
+      "admissions": 9916,
+      "days": 3,
+      "day": "2nd Mon"
+    }
+  ]
+}

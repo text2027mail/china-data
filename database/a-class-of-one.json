@@ -1,0 +1,37 @@
+{
+  "movie_id": 589422,
+  "title": "A Class of One",
+  "releaseDate": "24-01-2018",
+  "entries": [
+    {
+      "date": "24-01-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 95,
+      "admissions": 2147,
+      "days": 9,
+      "day": "1st Wed"
+    },
+    {
+      "date": "25-01-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 110,
+      "admissions": 2667,
+      "days": 10,
+      "day": "1st Thu"
+    },
+    {
+      "date": "26-01-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 68,
+      "admissions": 3434,
+      "days": 11,
+      "day": "1st Fri"
+    }
+  ]
+}

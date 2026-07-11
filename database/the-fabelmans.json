@@ -1,0 +1,67 @@
+{
+  "movie_id": 737506,
+  "title": "The Fabelmans",
+  "releaseDate": "25-05-2023",
+  "entries": [
+    {
+      "date": "25-05-2023",
+      "rank": 8,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 6667,
+      "admissions": 11093,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "26-05-2023",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.11,
+      "showings": 9265,
+      "admissions": 9861,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-05-2023",
+      "rank": 12,
+      "gross": 0.09,
+      "cume": 0.2,
+      "showings": 10392,
+      "admissions": 16689,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-05-2023",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.25,
+      "showings": 3724,
+      "admissions": 9629,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-05-2023",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 2901,
+      "admissions": 2817,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-05-2023",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.28,
+      "showings": 2658,
+      "admissions": 2470,
+      "days": 6,
+      "day": "1st Tue"
+    }
+  ]
+}

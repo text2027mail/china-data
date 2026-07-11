@@ -1,0 +1,225 @@
+{
+  "date": "26-12-2013",
+  "data": [
+    {
+      "movie_id": 613384,
+      "title": "",
+      "gross": 4.62,
+      "cume": 22.6,
+      "showings": 36391,
+      "admissions": 815685,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 610928,
+      "title": "Personal Tailor",
+      "gross": 3.08,
+      "cume": 67.07,
+      "showings": 32935,
+      "admissions": 589340,
+      "rank": 2,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 614346,
+      "title": "Firestorm",
+      "gross": 0.52,
+      "cume": 42.77,
+      "showings": 7645,
+      "admissions": 86797,
+      "rank": 3,
+      "days": 15,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 566774,
+      "title": "No Man's Land",
+      "gross": 0.11,
+      "cume": 37.7,
+      "showings": 2683,
+      "admissions": 24298,
+      "rank": 4,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 612120,
+      "title": "The White Storm",
+      "gross": 0.06,
+      "cume": 34.78,
+      "showings": 1309,
+      "admissions": 12207,
+      "rank": 5,
+      "days": 28,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 614308,
+      "title": "A Werewolf Boy",
+      "gross": 0.02,
+      "cume": 0.5,
+      "showings": 1078,
+      "admissions": 4495,
+      "rank": 6,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 609600,
+      "title": "Return The Money",
+      "gross": 0.02,
+      "cume": 0.35,
+      "showings": 968,
+      "admissions": 1660,
+      "rank": 7,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 610952,
+      "title": "The Four 2",
+      "gross": 0.02,
+      "cume": 25.64,
+      "showings": 902,
+      "admissions": 2898,
+      "rank": 8,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 616731,
+      "title": "Epic",
+      "gross": 0.01,
+      "cume": 7.34,
+      "showings": 191,
+      "admissions": 3327,
+      "rank": 9,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.01,
+      "cume": 8.17,
+      "showings": 16,
+      "admissions": 2259,
+      "rank": 10,
+      "days": 164,
+      "day": "25th Thu"
+    },
+    {
+      "movie_id": 615471,
+      "title": "Up in the Wind",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 12,
+      "admissions": 1879,
+      "rank": 11,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 589156,
+      "title": "Game of Assassins",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 888,
+      "admissions": 1193,
+      "rank": 12,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 615212,
+      "title": "The Frog Kingdom",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 2,
+      "admissions": 311,
+      "rank": 13,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 573102,
+      "title": "Da Nao Wu Zi Cheng",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 6,
+      "admissions": 1247,
+      "rank": 14,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 604366,
+      "title": "Welcome to the Punch",
+      "gross": 0.0,
+      "cume": 0.83,
+      "showings": 777,
+      "admissions": 756,
+      "rank": 15,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 618532,
+      "title": "I Want You",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 33,
+      "admissions": 644,
+      "rank": 16,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 616712,
+      "title": "Rhythm of the rain",
+      "gross": 0.0,
+      "cume": 0.25,
+      "showings": 893,
+      "admissions": 728,
+      "rank": 17,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 615766,
+      "title": "Olympus Has Fallen",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 8,
+      "admissions": 360,
+      "rank": 18,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 596290,
+      "title": "On My Way",
+      "gross": 0.0,
+      "cume": 0.19,
+      "showings": 3,
+      "admissions": 1497,
+      "rank": 19,
+      "days": 574,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 1.02,
+      "showings": 5,
+      "admissions": 381,
+      "rank": 20,
+      "days": 850,
+      "day": "51st Thu"
+    }
+  ]
+}

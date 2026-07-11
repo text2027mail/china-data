@@ -1,0 +1,225 @@
+{
+  "date": "22-01-2017",
+  "data": [
+    {
+      "movie_id": 657814,
+      "title": "",
+      "gross": 2.17,
+      "cume": 37.59,
+      "showings": 44287,
+      "admissions": 414925,
+      "rank": 1,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 621560,
+      "title": "Arrival",
+      "gross": 2.1,
+      "cume": 8.06,
+      "showings": 52481,
+      "admissions": 452749,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 653984,
+      "title": "Some Like It Hot",
+      "gross": 2.0,
+      "cume": 89.45,
+      "showings": 35647,
+      "admissions": 425006,
+      "rank": 3,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 658620,
+      "title": "Backkom Bear：Agent 008",
+      "gross": 1.19,
+      "cume": 13.95,
+      "showings": 27842,
+      "admissions": 245747,
+      "rank": 4,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 642658,
+      "title": "Rogue One: A Star Wars Story",
+      "gross": 1.1,
+      "cume": 66.4,
+      "showings": 26122,
+      "admissions": 201440,
+      "rank": 5,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 637972,
+      "title": "Railroad Tigers",
+      "gross": 0.52,
+      "cume": 101.17,
+      "showings": 10157,
+      "admissions": 106456,
+      "rank": 6,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 595849,
+      "title": "The Great Wall",
+      "gross": 0.38,
+      "cume": 170.64,
+      "showings": 7550,
+      "admissions": 74294,
+      "rank": 7,
+      "days": 38,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 655281,
+      "title": "Kubo and the Two Strings",
+      "gross": 0.22,
+      "cume": 5.7,
+      "showings": 8974,
+      "admissions": 45280,
+      "rank": 8,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 657651,
+      "title": "Hacksaw Ridge",
+      "gross": 0.19,
+      "cume": 61.76,
+      "showings": 3290,
+      "admissions": 40247,
+      "rank": 9,
+      "days": 46,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 659022,
+      "title": "Zhu Zhu Xia Zhi Ying Xiong Zhu Shao Nian",
+      "gross": 0.08,
+      "cume": 6.21,
+      "showings": 3536,
+      "admissions": 18131,
+      "rank": 10,
+      "days": 16,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 643385,
+      "title": "Eye in the Sky",
+      "gross": 0.06,
+      "cume": 2.31,
+      "showings": 3230,
+      "admissions": 11195,
+      "rank": 11,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 655647,
+      "title": "Your Name",
+      "gross": 0.04,
+      "cume": 84.87,
+      "showings": 871,
+      "admissions": 9354,
+      "rank": 12,
+      "days": 52,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 644926,
+      "title": "Moana",
+      "gross": 0.04,
+      "cume": 33.43,
+      "showings": 675,
+      "admissions": 8511,
+      "rank": 13,
+      "days": 59,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 628225,
+      "title": "See You Tomorrow",
+      "gross": 0.04,
+      "cume": 71.12,
+      "showings": 1568,
+      "admissions": 8486,
+      "rank": 14,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 637780,
+      "title": "Daughter",
+      "gross": 0.04,
+      "cume": 0.13,
+      "showings": 3138,
+      "admissions": 8785,
+      "rank": 15,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 640207,
+      "title": "Plan Egg",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 1826,
+      "admissions": 3530,
+      "rank": 16,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 644849,
+      "title": "Bicycle Boy 2",
+      "gross": 0.01,
+      "cume": 0.42,
+      "showings": 934,
+      "admissions": 2172,
+      "rank": 17,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 640184,
+      "title": "Ghost In Barber’s",
+      "gross": 0.01,
+      "cume": 0.61,
+      "showings": 782,
+      "admissions": 2471,
+      "rank": 18,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 643984,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "gross": 0.01,
+      "cume": 87.29,
+      "showings": 138,
+      "admissions": 1583,
+      "rank": 19,
+      "days": 59,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 657093,
+      "title": "Super Kindergarten",
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 47,
+      "admissions": 1428,
+      "rank": 20,
+      "days": 23,
+      "day": "4th Sun"
+    }
+  ]
+}

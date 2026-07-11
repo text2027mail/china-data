@@ -1,0 +1,37 @@
+{
+  "movie_id": 613097,
+  "title": "Fairy Tales",
+  "releaseDate": "25-01-2013",
+  "entries": [
+    {
+      "date": "25-01-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 24,
+      "admissions": 581,
+      "days": 155,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-01-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 23,
+      "admissions": 641,
+      "days": 156,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-01-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 25,
+      "admissions": 716,
+      "days": 157,
+      "day": "1st Sun"
+    }
+  ]
+}

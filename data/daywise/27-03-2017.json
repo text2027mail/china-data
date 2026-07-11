@@ -1,0 +1,225 @@
+{
+  "date": "27-03-2017",
+  "data": [
+    {
+      "movie_id": 657877,
+      "title": "",
+      "gross": 8.65,
+      "cume": 82.86,
+      "showings": 109869,
+      "admissions": 1670103,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 658099,
+      "title": "Beauty and the Beast (2017)",
+      "gross": 1.27,
+      "cume": 76.03,
+      "showings": 39859,
+      "admissions": 251069,
+      "rank": 2,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 654668,
+      "title": "Top Funny Comedian: The Movie",
+      "gross": 0.65,
+      "cume": 7.9,
+      "showings": 34955,
+      "admissions": 146901,
+      "rank": 3,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 660278,
+      "title": "A Dog's Purpose",
+      "gross": 0.45,
+      "cume": 86.46,
+      "showings": 21373,
+      "admissions": 102322,
+      "rank": 4,
+      "days": 25,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 656944,
+      "title": "Logan",
+      "gross": 0.15,
+      "cume": 107.16,
+      "showings": 9999,
+      "admissions": 32166,
+      "rank": 5,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 655812,
+      "title": "The Summer Is Gone",
+      "gross": 0.05,
+      "cume": 0.4,
+      "showings": 4686,
+      "admissions": 10078,
+      "rank": 6,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 643220,
+      "title": "Haunted Sisters",
+      "gross": 0.02,
+      "cume": 0.61,
+      "showings": 1514,
+      "admissions": 4755,
+      "rank": 7,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 641155,
+      "title": "The Devotion of Suspect X",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 11,
+      "admissions": 1542,
+      "rank": 8,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 579746,
+      "title": "McDull, Kung Fu Kindergarten",
+      "gross": 0.01,
+      "cume": 12.16,
+      "showings": 3299,
+      "admissions": 2502,
+      "rank": 9,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 573814,
+      "title": "xXx: The Return of Xander Cage",
+      "gross": 0.01,
+      "cume": 166.29,
+      "showings": 610,
+      "admissions": 2034,
+      "rank": 10,
+      "days": 46,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 631766,
+      "title": "Death Ouija 2",
+      "gross": 0.01,
+      "cume": 1.82,
+      "showings": 867,
+      "admissions": 2121,
+      "rank": 11,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 658818,
+      "title": "Sing",
+      "gross": 0.01,
+      "cume": 31.64,
+      "showings": 852,
+      "admissions": 1685,
+      "rank": 12,
+      "days": 39,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 657339,
+      "title": "The Missing",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1,
+      "admissions": 1078,
+      "rank": 13,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 658378,
+      "title": "La La Land",
+      "gross": 0.01,
+      "cume": 36.51,
+      "showings": 302,
+      "admissions": 957,
+      "rank": 14,
+      "days": 42,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 643725,
+      "title": "The Game Changer",
+      "gross": 0.01,
+      "cume": 15.02,
+      "showings": 14,
+      "admissions": 760,
+      "rank": 15,
+      "days": 46,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 628208,
+      "title": "Poor Rich Dad",
+      "gross": 0.0,
+      "cume": 0.82,
+      "showings": 10,
+      "admissions": 2146,
+      "rank": 16,
+      "days": 138,
+      "day": "20th Mon"
+    },
+    {
+      "movie_id": 659754,
+      "title": "The Lego Batman Movie",
+      "gross": 0.0,
+      "cume": 6.19,
+      "showings": 572,
+      "admissions": 613,
+      "rank": 17,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 626297,
+      "title": "Li San Niang（Hua Gu Xi）",
+      "gross": 0.0,
+      "cume": 0.96,
+      "showings": 12,
+      "admissions": 564,
+      "rank": 18,
+      "days": 837,
+      "day": "77th Mon"
+    },
+    {
+      "movie_id": 637377,
+      "title": "Genius",
+      "gross": 0.0,
+      "cume": 2.15,
+      "showings": 224,
+      "admissions": 422,
+      "rank": 19,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 641576,
+      "title": "Frightening Embriodery Shoes",
+      "gross": 0.0,
+      "cume": 0.87,
+      "showings": 279,
+      "admissions": 543,
+      "rank": 20,
+      "days": 25,
+      "day": "4th Mon"
+    }
+  ]
+}

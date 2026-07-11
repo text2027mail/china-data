@@ -1,0 +1,225 @@
+{
+  "date": "01-03-2024",
+  "data": [
+    {
+      "movie_id": 735035,
+      "title": "",
+      "gross": 4.31,
+      "cume": 320.27,
+      "showings": 92319,
+      "admissions": 696743,
+      "rank": 1,
+      "days": 21,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 737452,
+      "title": "Pegasus 2",
+      "gross": 3.6,
+      "cume": 463.38,
+      "showings": 88054,
+      "admissions": 573160,
+      "rank": 2,
+      "days": 21,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 596852,
+      "title": "The Pig, the Snake and the Pigeon",
+      "gross": 2.67,
+      "cume": 5.25,
+      "showings": 33540,
+      "admissions": 447195,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 716595,
+      "title": "Yolo",
+      "gross": 2.11,
+      "cume": 489.6,
+      "showings": 71101,
+      "admissions": 341833,
+      "rank": 4,
+      "days": 21,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 739598,
+      "title": "Boonie Bears:Time Twist",
+      "gross": 0.94,
+      "cume": 269.91,
+      "showings": 31010,
+      "admissions": 158050,
+      "rank": 5,
+      "days": 21,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 747315,
+      "title": "Madame Web",
+      "gross": 0.29,
+      "cume": 0.29,
+      "showings": 27131,
+      "admissions": 49160,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 714218,
+      "title": "The Killing Performance",
+      "gross": 0.21,
+      "cume": 0.21,
+      "showings": 9858,
+      "admissions": 37888,
+      "rank": 7,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.2,
+      "cume": 37.66,
+      "showings": 1403,
+      "admissions": 23182,
+      "rank": 8,
+      "days": 862,
+      "day": "124th Fri"
+    },
+    {
+      "movie_id": 745267,
+      "title": "Room 6 At Midnight",
+      "gross": 0.11,
+      "cume": 0.13,
+      "showings": 7911,
+      "admissions": 23410,
+      "rank": 9,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 745532,
+      "title": "Taylor Swift: The Eras Tour",
+      "gross": 0.1,
+      "cume": 14.55,
+      "showings": 246,
+      "admissions": 15075,
+      "rank": 10,
+      "days": 62,
+      "day": "9th Fri"
+    },
+    {
+      "movie_id": 745628,
+      "title": "Table For Six 2",
+      "gross": 0.09,
+      "cume": 2.15,
+      "showings": 4443,
+      "admissions": 15350,
+      "rank": 11,
+      "days": 7,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 745627,
+      "title": "Argylle",
+      "gross": 0.04,
+      "cume": 2.09,
+      "showings": 3819,
+      "admissions": 6795,
+      "rank": 12,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 737593,
+      "title": "Oppenheimer",
+      "gross": 0.04,
+      "cume": 66.49,
+      "showings": 594,
+      "admissions": 4347,
+      "rank": 13,
+      "days": 185,
+      "day": "27th Fri"
+    },
+    {
+      "movie_id": 713398,
+      "title": "Turning Point",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 141,
+      "admissions": 3137,
+      "rank": 14,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 708416,
+      "title": "PATHFINDERS",
+      "gross": 0.01,
+      "cume": 3.93,
+      "showings": 45,
+      "admissions": 1503,
+      "rank": 15,
+      "days": 187,
+      "day": "26th Fri"
+    },
+    {
+      "movie_id": 741899,
+      "title": "Great Love Dunhuang",
+      "gross": 0.01,
+      "cume": 1.26,
+      "showings": 19,
+      "admissions": 1130,
+      "rank": 16,
+      "days": 106,
+      "day": "16th Fri"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 3.0,
+      "showings": 5,
+      "admissions": 827,
+      "rank": 17,
+      "days": 1704,
+      "day": "135th Fri"
+    },
+    {
+      "movie_id": 691309,
+      "title": "Nation General",
+      "gross": 0.0,
+      "cume": 0.85,
+      "showings": 12,
+      "admissions": 902,
+      "rank": 18,
+      "days": 99,
+      "day": "15th Fri"
+    },
+    {
+      "movie_id": 693136,
+      "title": "Fumei Campaign",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 12,
+      "admissions": 763,
+      "rank": 19,
+      "days": 74,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 707990,
+      "title": "Heroine Zheng Yiying",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 14,
+      "admissions": 522,
+      "rank": 20,
+      "days": 37,
+      "day": "2nd Fri"
+    }
+  ]
+}

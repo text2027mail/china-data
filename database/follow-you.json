@@ -1,0 +1,47 @@
+{
+  "movie_id": 631337,
+  "title": "Follow You",
+  "releaseDate": "13-02-2026",
+  "entries": [
+    {
+      "date": "13-02-2026",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2463,
+      "admissions": 4631,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-02-2026",
+      "rank": 7,
+      "gross": 0.65,
+      "cume": 0.68,
+      "showings": 42464,
+      "admissions": 136142,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-02-2026",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.73,
+      "showings": 21975,
+      "admissions": 11956,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-02-2026",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.74,
+      "showings": 4507,
+      "admissions": 1912,
+      "days": 3,
+      "day": "1st Mon"
+    }
+  ]
+}

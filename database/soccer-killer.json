@@ -1,0 +1,77 @@
+{
+  "movie_id": 658903,
+  "title": "Soccer Killer",
+  "releaseDate": "30-06-2017",
+  "entries": [
+    {
+      "date": "30-06-2017",
+      "rank": 7,
+      "gross": 0.56,
+      "cume": 0.56,
+      "showings": 19489,
+      "admissions": 137733,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-07-2017",
+      "rank": 12,
+      "gross": 0.23,
+      "cume": 0.8,
+      "showings": 12284,
+      "admissions": 55818,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-07-2017",
+      "rank": 10,
+      "gross": 0.24,
+      "cume": 1.04,
+      "showings": 11121,
+      "admissions": 56925,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-07-2017",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 1.14,
+      "showings": 8276,
+      "admissions": 23366,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "04-07-2017",
+      "rank": 11,
+      "gross": 0.1,
+      "cume": 1.23,
+      "showings": 7291,
+      "admissions": 22919,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "05-07-2017",
+      "rank": 9,
+      "gross": 0.12,
+      "cume": 1.36,
+      "showings": 7417,
+      "admissions": 29089,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "06-07-2017",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 1.41,
+      "showings": 4184,
+      "admissions": 13249,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

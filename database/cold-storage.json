@@ -1,0 +1,77 @@
+{
+  "movie_id": 1006270,
+  "title": "Cold Storage",
+  "releaseDate": "28-03-2026",
+  "entries": [
+    {
+      "date": "28-03-2026",
+      "rank": 12,
+      "gross": 0.14,
+      "cume": 0.14,
+      "showings": 15785,
+      "admissions": 25181,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-03-2026",
+      "rank": 14,
+      "gross": 0.08,
+      "cume": 0.21,
+      "showings": 12611,
+      "admissions": 14416,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-03-2026",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.26,
+      "showings": 10734,
+      "admissions": 7888,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-03-2026",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.29,
+      "showings": 10411,
+      "admissions": 6998,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-04-2026",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.33,
+      "showings": 9884,
+      "admissions": 6843,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-04-2026",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.36,
+      "showings": 9554,
+      "admissions": 6064,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "03-04-2026",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.38,
+      "showings": 3445,
+      "admissions": 2790,
+      "days": 7,
+      "day": "1st Fri"
+    }
+  ]
+}

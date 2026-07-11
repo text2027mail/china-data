@@ -1,0 +1,225 @@
+{
+  "date": "10-06-2016",
+  "data": [
+    {
+      "movie_id": 402117,
+      "title": "",
+      "gross": 32.06,
+      "cume": 120.87,
+      "showings": 125560,
+      "admissions": 5833497,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 642020,
+      "title": "X-Men: Apocalypse",
+      "gross": 6.65,
+      "cume": 87.71,
+      "showings": 32119,
+      "admissions": 1348840,
+      "rank": 2,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 643995,
+      "title": "The Angry Birds Movie",
+      "gross": 1.47,
+      "cume": 73.44,
+      "showings": 11573,
+      "admissions": 319117,
+      "rank": 3,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 643383,
+      "title": "Alice Through the Looking Glass",
+      "gross": 1.35,
+      "cume": 52.81,
+      "showings": 11732,
+      "admissions": 297165,
+      "rank": 4,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 644260,
+      "title": "Toys War",
+      "gross": 0.33,
+      "cume": 0.73,
+      "showings": 8539,
+      "admissions": 79310,
+      "rank": 5,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 639860,
+      "title": "Our Graduation",
+      "gross": 0.12,
+      "cume": 0.12,
+      "showings": 3385,
+      "admissions": 30772,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 639261,
+      "title": "Book Of Love",
+      "gross": 0.07,
+      "cume": 115.59,
+      "showings": 678,
+      "admissions": 11639,
+      "rank": 7,
+      "days": 43,
+      "day": "8th Fri"
+    },
+    {
+      "movie_id": 643852,
+      "title": "The Death Game",
+      "gross": 0.04,
+      "cume": 0.58,
+      "showings": 1672,
+      "admissions": 10860,
+      "rank": 8,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 611464,
+      "title": "Song of the Phoenix",
+      "gross": 0.04,
+      "cume": 12.54,
+      "showings": 531,
+      "admissions": 9052,
+      "rank": 9,
+      "days": 36,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 643740,
+      "title": "The Divergent Series: Allegiant",
+      "gross": 0.02,
+      "cume": 17.89,
+      "showings": 840,
+      "admissions": 5664,
+      "rank": 10,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 640092,
+      "title": "Compass",
+      "gross": 0.02,
+      "cume": 0.89,
+      "showings": 718,
+      "admissions": 6378,
+      "rank": 11,
+      "days": 10,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 644395,
+      "title": "Floraand Fauna’s War",
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 134,
+      "admissions": 3573,
+      "rank": 12,
+      "days": 10,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 643572,
+      "title": "Memento Mori",
+      "gross": 0.01,
+      "cume": 0.48,
+      "showings": 663,
+      "admissions": 2110,
+      "rank": 13,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 626997,
+      "title": "Fruit Story",
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 573,
+      "admissions": 2053,
+      "rank": 14,
+      "days": 10,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 627639,
+      "title": "Witch Doctor",
+      "gross": 0.01,
+      "cume": 1.25,
+      "showings": 329,
+      "admissions": 1499,
+      "rank": 15,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 626990,
+      "title": "Jungle Master : the Candy World",
+      "gross": 0.01,
+      "cume": 0.7,
+      "showings": 273,
+      "admissions": 1362,
+      "rank": 16,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 619412,
+      "title": "Yesterday Once More",
+      "gross": 0.0,
+      "cume": 26.54,
+      "showings": 48,
+      "admissions": 917,
+      "rank": 17,
+      "days": 50,
+      "day": "9th Fri"
+    },
+    {
+      "movie_id": 628257,
+      "title": "Merder At Honeymoon Hotel",
+      "gross": 0.0,
+      "cume": 1.1,
+      "showings": 235,
+      "admissions": 643,
+      "rank": 18,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 644136,
+      "title": "Star Ant - Global Adventure",
+      "gross": 0.0,
+      "cume": 0.16,
+      "showings": 177,
+      "admissions": 608,
+      "rank": 19,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 640869,
+      "title": "Bloody House",
+      "gross": 0.0,
+      "cume": 1.08,
+      "showings": 114,
+      "admissions": 564,
+      "rank": 20,
+      "days": 29,
+      "day": "5th Fri"
+    }
+  ]
+}

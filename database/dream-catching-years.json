@@ -1,0 +1,27 @@
+{
+  "movie_id": 695913,
+  "title": "Dream Catching Years",
+  "releaseDate": "28-05-2021",
+  "entries": [
+    {
+      "date": "28-05-2021",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 5518,
+      "admissions": 3691,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "04-06-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 3983,
+      "admissions": 2824,
+      "days": 8,
+      "day": "2nd Fri"
+    }
+  ]
+}

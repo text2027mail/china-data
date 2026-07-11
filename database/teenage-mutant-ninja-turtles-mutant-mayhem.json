@@ -1,0 +1,77 @@
+{
+  "movie_id": 739118,
+  "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+  "releaseDate": "11-08-2023",
+  "entries": [
+    {
+      "date": "11-08-2023",
+      "rank": 8,
+      "gross": 0.26,
+      "cume": 0.26,
+      "showings": 12837,
+      "admissions": 53600,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-08-2023",
+      "rank": 8,
+      "gross": 0.38,
+      "cume": 0.64,
+      "showings": 13528,
+      "admissions": 77234,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-08-2023",
+      "rank": 9,
+      "gross": 0.29,
+      "cume": 0.93,
+      "showings": 9570,
+      "admissions": 60244,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-08-2023",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 1.03,
+      "showings": 7225,
+      "admissions": 19971,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-08-2023",
+      "rank": 10,
+      "gross": 0.08,
+      "cume": 1.11,
+      "showings": 6379,
+      "admissions": 17182,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-08-2023",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 1.18,
+      "showings": 5872,
+      "admissions": 14845,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-08-2023",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 1.23,
+      "showings": 4736,
+      "admissions": 11249,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

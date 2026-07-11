@@ -1,0 +1,87 @@
+{
+  "movie_id": 640012,
+  "title": "The Family Running Forward",
+  "releaseDate": "22-01-2016",
+  "entries": [
+    {
+      "date": "22-01-2016",
+      "rank": 13,
+      "gross": 0.1,
+      "cume": 0.11,
+      "showings": 5067,
+      "admissions": 24768,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-01-2016",
+      "rank": 16,
+      "gross": 0.08,
+      "cume": 0.18,
+      "showings": 2893,
+      "admissions": 16330,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-01-2016",
+      "rank": 14,
+      "gross": 0.07,
+      "cume": 0.25,
+      "showings": 2584,
+      "admissions": 14195,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-01-2016",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.27,
+      "showings": 2022,
+      "admissions": 5524,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-01-2016",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 1308,
+      "admissions": 4023,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-01-2016",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 1214,
+      "admissions": 3377,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-02-2016",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.34,
+      "showings": 48,
+      "admissions": 542,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "date": "17-02-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.34,
+      "showings": 43,
+      "admissions": 539,
+      "days": 27,
+      "day": "4th Wed"
+    }
+  ]
+}

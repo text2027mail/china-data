@@ -1,0 +1,225 @@
+{
+  "date": "04-02-2022",
+  "data": [
+    {
+      "movie_id": 709649,
+      "title": "",
+      "gross": 52.93,
+      "cume": 282.14,
+      "showings": 153021,
+      "admissions": 6903889,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 708179,
+      "title": "Too Cool To Kill",
+      "gross": 36.48,
+      "cume": 136.63,
+      "showings": 114994,
+      "admissions": 4783438,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 706338,
+      "title": "Nice View",
+      "gross": 13.68,
+      "cume": 69.33,
+      "showings": 63463,
+      "admissions": 1822824,
+      "rank": 3,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 13.3,
+      "cume": 60.66,
+      "showings": 53001,
+      "admissions": 1827108,
+      "rank": 4,
+      "days": 4,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 5.83,
+      "cume": 23.19,
+      "showings": 36814,
+      "admissions": 771495,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 706238,
+      "title": "Only Fools Rush In",
+      "gross": 5.04,
+      "cume": 63.48,
+      "showings": 38184,
+      "admissions": 663304,
+      "rank": 6,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 709374,
+      "title": "DUNK FOR FUTURE",
+      "gross": 1.66,
+      "cume": 10.96,
+      "showings": 13950,
+      "admissions": 245721,
+      "rank": 7,
+      "days": 4,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 709183,
+      "title": "0.1% World",
+      "gross": 0.28,
+      "cume": 0.45,
+      "showings": 1833,
+      "admissions": 38527,
+      "rank": 8,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 697513,
+      "title": "Run,Tiger Run!",
+      "gross": 0.18,
+      "cume": 2.27,
+      "showings": 4951,
+      "admissions": 25570,
+      "rank": 9,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 708482,
+      "title": "Paw Patrol: The Movie",
+      "gross": 0.16,
+      "cume": 10.95,
+      "showings": 1022,
+      "admissions": 22544,
+      "rank": 10,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 708119,
+      "title": "The Truth 2",
+      "gross": 0.1,
+      "cume": 0.75,
+      "showings": 127,
+      "admissions": 8214,
+      "rank": 11,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 702894,
+      "title": "A Girl And Her Beea",
+      "gross": 0.07,
+      "cume": 0.39,
+      "showings": 94,
+      "admissions": 9140,
+      "rank": 12,
+      "days": 39,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 710426,
+      "title": "Encanto",
+      "gross": 0.04,
+      "cume": 11.24,
+      "showings": 193,
+      "admissions": 4161,
+      "rank": 13,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 702084,
+      "title": "BACK TO LOVE",
+      "gross": 0.04,
+      "cume": 3.3,
+      "showings": 159,
+      "admissions": 5294,
+      "rank": 14,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 711139,
+      "title": "Twin Sister",
+      "gross": 0.02,
+      "cume": 0.47,
+      "showings": 47,
+      "admissions": 3781,
+      "rank": 15,
+      "days": 27,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 708426,
+      "title": "Me and my winter games",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 218,
+      "admissions": 2473,
+      "rank": 16,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 697410,
+      "title": "Magic Elf",
+      "gross": 0.01,
+      "cume": 0.79,
+      "showings": 113,
+      "admissions": 2460,
+      "rank": 17,
+      "days": 35,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 696843,
+      "title": "Lion Dance Boy",
+      "gross": 0.01,
+      "cume": 36.77,
+      "showings": 172,
+      "admissions": 1540,
+      "rank": 18,
+      "days": 50,
+      "day": "9th Fri"
+    },
+    {
+      "movie_id": 702945,
+      "title": "The Past Time",
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 13,
+      "admissions": 1572,
+      "rank": 19,
+      "days": 43,
+      "day": "7th Fri"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.01,
+      "cume": 7.83,
+      "showings": 53,
+      "admissions": 2355,
+      "rank": 20,
+      "days": 201,
+      "day": "30th Fri"
+    }
+  ]
+}

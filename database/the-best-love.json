@@ -1,0 +1,47 @@
+{
+  "movie_id": 630044,
+  "title": "The Best Love",
+  "releaseDate": "07-08-2015",
+  "entries": [
+    {
+      "date": "07-08-2015",
+      "rank": 14,
+      "gross": 0.09,
+      "cume": 0.09,
+      "showings": 2219,
+      "admissions": 17662,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-08-2015",
+      "rank": 14,
+      "gross": 0.12,
+      "cume": 0.21,
+      "showings": 1955,
+      "admissions": 23664,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-08-2015",
+      "rank": 13,
+      "gross": 0.11,
+      "cume": 0.32,
+      "showings": 1835,
+      "admissions": 22005,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-08-2015",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.34,
+      "showings": 902,
+      "admissions": 3443,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

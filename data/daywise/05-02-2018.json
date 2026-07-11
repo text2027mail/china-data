@@ -1,0 +1,225 @@
+{
+  "date": "05-02-2018",
+  "data": [
+    {
+      "movie_id": 670328,
+      "title": "",
+      "gross": 2.17,
+      "cume": 87.14,
+      "showings": 45550,
+      "admissions": 485100,
+      "rank": 1,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 626831,
+      "title": "Till the End of the World",
+      "gross": 2.11,
+      "cume": 14.13,
+      "showings": 48913,
+      "admissions": 445424,
+      "rank": 2,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 657846,
+      "title": "Maze Runner: The Death Cure",
+      "gross": 0.98,
+      "cume": 36.9,
+      "showings": 24613,
+      "admissions": 191084,
+      "rank": 3,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 589946,
+      "title": "Forever Young",
+      "gross": 0.9,
+      "cume": 102.27,
+      "showings": 22119,
+      "admissions": 191720,
+      "rank": 4,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 672203,
+      "title": "The Greatest Showman",
+      "gross": 0.76,
+      "cume": 7.91,
+      "showings": 28815,
+      "admissions": 158845,
+      "rank": 5,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 669996,
+      "title": "Happy Death Day",
+      "gross": 0.61,
+      "cume": 3.07,
+      "showings": 15230,
+      "admissions": 137494,
+      "rank": 6,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 671223,
+      "title": "Wonder",
+      "gross": 0.43,
+      "cume": 23.46,
+      "showings": 10028,
+      "admissions": 95647,
+      "rank": 7,
+      "days": 18,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 669811,
+      "title": "My Little Pony: The Movie",
+      "gross": 0.42,
+      "cume": 2.94,
+      "showings": 14781,
+      "admissions": 96671,
+      "rank": 8,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 667840,
+      "title": "Bad Daddy",
+      "gross": 0.34,
+      "cume": 2.49,
+      "showings": 2744,
+      "admissions": 79485,
+      "rank": 9,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 669741,
+      "title": "Miracles of the Namiya General Store",
+      "gross": 0.31,
+      "cume": 2.79,
+      "showings": 16592,
+      "admissions": 69056,
+      "rank": 10,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 671441,
+      "title": "Ferdinand",
+      "gross": 0.28,
+      "cume": 22.15,
+      "showings": 8404,
+      "admissions": 59739,
+      "rank": 11,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 655654,
+      "title": "The Ladybug",
+      "gross": 0.27,
+      "cume": 1.93,
+      "showings": 9541,
+      "admissions": 58044,
+      "rank": 12,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 663359,
+      "title": "The Ex-File: The Return of the Exes",
+      "gross": 0.16,
+      "cume": 284.59,
+      "showings": 5051,
+      "admissions": 30786,
+      "rank": 13,
+      "days": 39,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 671456,
+      "title": "Jumanji: Welcome to the Jungle",
+      "gross": 0.16,
+      "cume": 71.37,
+      "showings": 4088,
+      "admissions": 30648,
+      "rank": 14,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 657822,
+      "title": "Ozzy",
+      "gross": 0.1,
+      "cume": 0.64,
+      "showings": 4150,
+      "admissions": 21191,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 643594,
+      "title": "Alibaba Solomons Seal",
+      "gross": 0.07,
+      "cume": 2.02,
+      "showings": 92,
+      "admissions": 11077,
+      "rank": 16,
+      "days": 647,
+      "day": "93rd Mon"
+    },
+    {
+      "movie_id": 628276,
+      "title": "The Youth",
+      "gross": 0.06,
+      "cume": 1.9,
+      "showings": 94,
+      "admissions": 10416,
+      "rank": 17,
+      "days": 1211,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 638973,
+      "title": "The Ugly Duckling",
+      "gross": 0.06,
+      "cume": 1.49,
+      "showings": 93,
+      "admissions": 9877,
+      "rank": 18,
+      "days": 491,
+      "day": "73rd Mon"
+    },
+    {
+      "movie_id": 660281,
+      "title": "Attraction",
+      "gross": 0.03,
+      "cume": 0.19,
+      "showings": 2539,
+      "admissions": 5559,
+      "rank": 19,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 659453,
+      "title": "Youth",
+      "gross": 0.02,
+      "cume": 209.58,
+      "showings": 714,
+      "admissions": 4133,
+      "rank": 20,
+      "days": 53,
+      "day": "20th Mon"
+    }
+  ]
+}

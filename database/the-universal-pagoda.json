@@ -1,0 +1,27 @@
+{
+  "movie_id": 563591,
+  "title": "The Universal Pagoda",
+  "releaseDate": "22-01-2023",
+  "entries": [
+    {
+      "date": "22-01-2023",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 4,
+      "admissions": 152,
+      "days": 25193,
+      "day": "1st Sun"
+    },
+    {
+      "date": "01-02-2023",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 4,
+      "admissions": 138,
+      "days": 25203,
+      "day": "2nd Wed"
+    }
+  ]
+}

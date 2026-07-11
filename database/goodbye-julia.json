@@ -1,0 +1,47 @@
+{
+  "movie_id": 1142023,
+  "title": "Goodbye Julia",
+  "releaseDate": "13-05-2026",
+  "entries": [
+    {
+      "date": "13-05-2026",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 5124,
+      "admissions": 2963,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-05-2026",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 4572,
+      "admissions": 2184,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "date": "15-05-2026",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 4727,
+      "admissions": 2022,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "date": "19-05-2026",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 1950,
+      "admissions": 1042,
+      "days": 7,
+      "day": "1st Tue"
+    }
+  ]
+}

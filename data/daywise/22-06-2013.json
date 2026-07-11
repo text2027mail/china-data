@@ -1,0 +1,225 @@
+{
+  "date": "22-06-2013",
+  "data": [
+    {
+      "movie_id": 388774,
+      "title": "",
+      "gross": 7.45,
+      "cume": 17.83,
+      "showings": 28284,
+      "admissions": 1234189,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 610950,
+      "title": "Badges of Fury",
+      "gross": 5.28,
+      "cume": 9.07,
+      "showings": 30526,
+      "admissions": 1144570,
+      "rank": 2,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 593283,
+      "title": "Switch",
+      "gross": 0.23,
+      "cume": 42.47,
+      "showings": 4403,
+      "admissions": 41046,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 589309,
+      "title": "Star Trek Into Darkness",
+      "gross": 0.21,
+      "cume": 51.45,
+      "showings": 1711,
+      "admissions": 34261,
+      "rank": 4,
+      "days": 26,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 595767,
+      "title": "A Style of Men in Beijing",
+      "gross": 0.13,
+      "cume": 0.24,
+      "showings": 2896,
+      "admissions": 23129,
+      "rank": 5,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 612278,
+      "title": "Mysterious Face",
+      "gross": 0.13,
+      "cume": 2.74,
+      "showings": 3302,
+      "admissions": 29036,
+      "rank": 6,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 658914,
+      "title": "Shanghai international film festival",
+      "gross": 0.13,
+      "cume": 0.65,
+      "showings": 63,
+      "admissions": 15154,
+      "rank": 7,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 610867,
+      "title": "American Dreams in China",
+      "gross": 0.12,
+      "cume": 79.0,
+      "showings": 1484,
+      "admissions": 21490,
+      "rank": 8,
+      "days": 37,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 592927,
+      "title": "Colombiana",
+      "gross": 0.06,
+      "cume": 7.19,
+      "showings": 1383,
+      "admissions": 10789,
+      "rank": 9,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 614660,
+      "title": "Happy Little Submarine 3：Rainbow Treasure",
+      "gross": 0.05,
+      "cume": 8.23,
+      "showings": 1174,
+      "admissions": 10345,
+      "rank": 10,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 596088,
+      "title": "The Adventures of Sinbad 2013",
+      "gross": 0.03,
+      "cume": 5.66,
+      "showings": 1173,
+      "admissions": 8528,
+      "rank": 11,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 612772,
+      "title": "Touch of the Light",
+      "gross": 0.03,
+      "cume": 1.12,
+      "showings": 623,
+      "admissions": 5074,
+      "rank": 12,
+      "days": 15,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 616714,
+      "title": "The Soccer Way",
+      "gross": 0.02,
+      "cume": 0.8,
+      "showings": 794,
+      "admissions": 5422,
+      "rank": 13,
+      "days": 13,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 596069,
+      "title": "Kuiba 2",
+      "gross": 0.01,
+      "cume": 3.69,
+      "showings": 466,
+      "admissions": 2813,
+      "rank": 14,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 594393,
+      "title": "7 Assassins",
+      "gross": 0.0,
+      "cume": 0.51,
+      "showings": 351,
+      "admissions": 688,
+      "rank": 15,
+      "days": 14,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 592909,
+      "title": "Thrilling Eve",
+      "gross": 0.0,
+      "cume": 0.46,
+      "showings": 308,
+      "admissions": 771,
+      "rank": 16,
+      "days": 14,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 610839,
+      "title": "Redemption",
+      "gross": 0.0,
+      "cume": 1.39,
+      "showings": 198,
+      "admissions": 671,
+      "rank": 17,
+      "days": 14,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 596973,
+      "title": "So Young",
+      "gross": 0.0,
+      "cume": 106.09,
+      "showings": 76,
+      "admissions": 631,
+      "rank": 18,
+      "days": 58,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 615831,
+      "title": "Block Buster",
+      "gross": 0.0,
+      "cume": 0.5,
+      "showings": 354,
+      "admissions": 610,
+      "rank": 19,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 614547,
+      "title": "I Love Hong Kong 2013",
+      "gross": 0.0,
+      "cume": 1.7,
+      "showings": 235,
+      "admissions": 616,
+      "rank": 20,
+      "days": 19,
+      "day": "3rd Sat"
+    }
+  ]
+}

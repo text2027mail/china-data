@@ -1,0 +1,67 @@
+{
+  "movie_id": 639642,
+  "title": "Twin Spirit",
+  "releaseDate": "21-08-2015",
+  "entries": [
+    {
+      "date": "21-08-2015",
+      "rank": 11,
+      "gross": 0.11,
+      "cume": 0.12,
+      "showings": 2665,
+      "admissions": 26193,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-08-2015",
+      "rank": 14,
+      "gross": 0.11,
+      "cume": 0.23,
+      "showings": 2887,
+      "admissions": 26154,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-08-2015",
+      "rank": 17,
+      "gross": 0.05,
+      "cume": 0.27,
+      "showings": 1748,
+      "admissions": 10856,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "24-08-2015",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.32,
+      "showings": 1880,
+      "admissions": 11062,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "25-08-2015",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.36,
+      "showings": 1665,
+      "admissions": 9871,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "26-08-2015",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.4,
+      "showings": 1669,
+      "admissions": 9264,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

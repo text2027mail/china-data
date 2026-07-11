@@ -1,0 +1,77 @@
+{
+  "movie_id": 629664,
+  "title": "Escape Route",
+  "releaseDate": "10-11-2016",
+  "entries": [
+    {
+      "date": "10-11-2016",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 4774,
+      "admissions": 15177,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "11-11-2016",
+      "rank": 10,
+      "gross": 0.09,
+      "cume": 0.16,
+      "showings": 4299,
+      "admissions": 23032,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-11-2016",
+      "rank": 14,
+      "gross": 0.07,
+      "cume": 0.23,
+      "showings": 3810,
+      "admissions": 17566,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-11-2016",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.28,
+      "showings": 3693,
+      "admissions": 11537,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-11-2016",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.3,
+      "showings": 3582,
+      "admissions": 5017,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-11-2016",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.31,
+      "showings": 2460,
+      "admissions": 2917,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-11-2016",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.32,
+      "showings": 2300,
+      "admissions": 2402,
+      "days": 7,
+      "day": "1st Wed"
+    }
+  ]
+}

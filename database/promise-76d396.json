@@ -1,0 +1,47 @@
+{
+  "movie_id": 654188,
+  "title": "Promise",
+  "releaseDate": "26-11-2020",
+  "entries": [
+    {
+      "date": "26-11-2020",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 1405,
+      "admissions": 10199,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "27-11-2020",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 235,
+      "admissions": 3479,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-12-2020",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 28,
+      "admissions": 2033,
+      "days": 14,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "10-12-2020",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 24,
+      "admissions": 1614,
+      "days": 15,
+      "day": "3rd Thu"
+    }
+  ]
+}

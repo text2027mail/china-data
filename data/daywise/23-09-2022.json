@@ -1,0 +1,225 @@
+{
+  "date": "23-09-2022",
+  "data": [
+    {
+      "movie_id": 701893,
+      "title": "",
+      "gross": 1.29,
+      "cume": 42.31,
+      "showings": 80251,
+      "admissions": 210318,
+      "rank": 1,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 715732,
+      "title": "Table for Six",
+      "gross": 0.46,
+      "cume": 9.97,
+      "showings": 30181,
+      "admissions": 91881,
+      "rank": 2,
+      "days": 15,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 702906,
+      "title": "Moonman",
+      "gross": 0.45,
+      "cume": 447.85,
+      "showings": 36757,
+      "admissions": 73960,
+      "rank": 3,
+      "days": 57,
+      "day": "9th Fri"
+    },
+    {
+      "movie_id": 706969,
+      "title": "New Gods: Yang Jian",
+      "gross": 0.39,
+      "cume": 68.92,
+      "showings": 32449,
+      "admissions": 61852,
+      "rank": 4,
+      "days": 36,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 708410,
+      "title": "Song of Spring",
+      "gross": 0.3,
+      "cume": 8.9,
+      "showings": 29030,
+      "admissions": 49204,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 702055,
+      "title": "In Search of Lost Time",
+      "gross": 0.12,
+      "cume": 4.55,
+      "showings": 12261,
+      "admissions": 24603,
+      "rank": 6,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 702457,
+      "title": "Hero",
+      "gross": 0.12,
+      "cume": 7.49,
+      "showings": 16425,
+      "admissions": 19841,
+      "rank": 7,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 678652,
+      "title": "Wolf Pack",
+      "gross": 0.11,
+      "cume": 3.56,
+      "showings": 13930,
+      "admissions": 22325,
+      "rank": 8,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 696825,
+      "title": "Septet: The Story of Hong Kong",
+      "gross": 0.1,
+      "cume": 1.64,
+      "showings": 285,
+      "admissions": 15327,
+      "rank": 9,
+      "days": 57,
+      "day": "9th Fri"
+    },
+    {
+      "movie_id": 683536,
+      "title": "Warriors of Future",
+      "gross": 0.09,
+      "cume": 98.64,
+      "showings": 10100,
+      "admissions": 14493,
+      "rank": 10,
+      "days": 50,
+      "day": "8th Fri"
+    },
+    {
+      "movie_id": 683729,
+      "title": "A SINGER AT HEART",
+      "gross": 0.08,
+      "cume": 0.58,
+      "showings": 144,
+      "admissions": 10959,
+      "rank": 11,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 693873,
+      "title": "I Love You",
+      "gross": 0.02,
+      "cume": 0.64,
+      "showings": 8575,
+      "admissions": 4592,
+      "rank": 12,
+      "days": 8,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 691422,
+      "title": "The Frog Kindoom",
+      "gross": 0.02,
+      "cume": 1.84,
+      "showings": 4726,
+      "admissions": 3975,
+      "rank": 13,
+      "days": 14,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 694660,
+      "title": "IN PURSUIT OF LIGHT",
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 210,
+      "admissions": 4869,
+      "rank": 14,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.01,
+      "cume": 89.57,
+      "showings": 1413,
+      "admissions": 2509,
+      "rank": 15,
+      "days": 235,
+      "day": "34th Fri"
+    },
+    {
+      "movie_id": 716641,
+      "title": "Persuit Of Light",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 197,
+      "admissions": 1620,
+      "rank": 16,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.01,
+      "cume": 5.15,
+      "showings": 34,
+      "admissions": 1865,
+      "rank": 17,
+      "days": 414,
+      "day": "62nd Fri"
+    },
+    {
+      "movie_id": 696911,
+      "title": "Nine orcids",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 39,
+      "admissions": 1041,
+      "rank": 18,
+      "days": 8,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.01,
+      "cume": 3.9,
+      "showings": 31,
+      "admissions": 989,
+      "rank": 19,
+      "days": 155,
+      "day": "45th Fri"
+    },
+    {
+      "movie_id": 715147,
+      "title": "The Light Of Belief",
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 138,
+      "admissions": 1074,
+      "rank": 20,
+      "days": 81,
+      "day": "3rd Fri"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "16-05-2015",
+  "data": [
+    {
+      "movie_id": 631792,
+      "title": "",
+      "gross": 35.17,
+      "cume": 117.56,
+      "showings": 83782,
+      "admissions": 5921277,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 631798,
+      "title": "Chappie",
+      "gross": 0.55,
+      "cume": 12.13,
+      "showings": 6766,
+      "admissions": 112215,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 629338,
+      "title": "The Beloved",
+      "gross": 0.53,
+      "cume": 0.85,
+      "showings": 11347,
+      "admissions": 119502,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 637662,
+      "title": "Home",
+      "gross": 0.46,
+      "cume": 24.05,
+      "showings": 5457,
+      "admissions": 89270,
+      "rank": 4,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 630765,
+      "title": "You Are My Sunshine",
+      "gross": 0.38,
+      "cume": 50.43,
+      "showings": 6282,
+      "admissions": 83282,
+      "rank": 5,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 631788,
+      "title": "Alibaba and The Thief",
+      "gross": 0.26,
+      "cume": 0.86,
+      "showings": 6098,
+      "admissions": 62241,
+      "rank": 6,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 618528,
+      "title": "The Left Ear",
+      "gross": 0.26,
+      "cume": 70.24,
+      "showings": 3724,
+      "admissions": 50855,
+      "rank": 7,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 611503,
+      "title": "Death Trip",
+      "gross": 0.18,
+      "cume": 0.31,
+      "showings": 5189,
+      "admissions": 40198,
+      "rank": 8,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 627008,
+      "title": "12 Citizens",
+      "gross": 0.16,
+      "cume": 0.31,
+      "showings": 4177,
+      "admissions": 33341,
+      "rank": 9,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 627626,
+      "title": "Mr. Deng Goes to Washington",
+      "gross": 0.13,
+      "cume": 0.27,
+      "showings": 3566,
+      "admissions": 24778,
+      "rank": 10,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 618734,
+      "title": "Helios",
+      "gross": 0.09,
+      "cume": 30.34,
+      "showings": 1708,
+      "admissions": 17512,
+      "rank": 11,
+      "days": 17,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 609952,
+      "title": "Marvel's The Avengers",
+      "gross": 0.06,
+      "cume": 83.83,
+      "showings": 124,
+      "admissions": 6998,
+      "rank": 12,
+      "days": 1107,
+      "day": "107th Sat"
+    },
+    {
+      "movie_id": 617165,
+      "title": "Wolf Warriors",
+      "gross": 0.04,
+      "cume": 79.75,
+      "showings": 605,
+      "admissions": 8302,
+      "rank": 13,
+      "days": 45,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 617612,
+      "title": "Red Amnesia",
+      "gross": 0.01,
+      "cume": 1.4,
+      "showings": 300,
+      "admissions": 2564,
+      "rank": 14,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 631695,
+      "title": "Murmur of the Hearts",
+      "gross": 0.01,
+      "cume": 2.01,
+      "showings": 101,
+      "admissions": 1161,
+      "rank": 15,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 2.23,
+      "showings": 6,
+      "admissions": 527,
+      "rank": 16,
+      "days": 1356,
+      "day": "123rd Sat"
+    },
+    {
+      "movie_id": 616527,
+      "title": "War On A String",
+      "gross": 0.0,
+      "cume": 0.22,
+      "showings": 396,
+      "admissions": 788,
+      "rank": 17,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 628715,
+      "title": "Lovers&Movies",
+      "gross": 0.0,
+      "cume": 1.32,
+      "showings": 277,
+      "admissions": 560,
+      "rank": 18,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 631697,
+      "title": "Teenage Mao ZeDong",
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 293,
+      "admissions": 489,
+      "rank": 19,
+      "days": 17,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 629090,
+      "title": "Ever Since We Love",
+      "gross": 0.0,
+      "cume": 21.88,
+      "showings": 81,
+      "admissions": 335,
+      "rank": 20,
+      "days": 30,
+      "day": "5th Sat"
+    }
+  ]
+}

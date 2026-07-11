@@ -1,0 +1,225 @@
+{
+  "date": "15-06-2013",
+  "data": [
+    {
+      "movie_id": 593283,
+      "title": "",
+      "gross": 3.12,
+      "cume": 35.44,
+      "showings": 25371,
+      "admissions": 543461,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 589309,
+      "title": "Star Trek Into Darkness",
+      "gross": 2.02,
+      "cume": 46.77,
+      "showings": 10803,
+      "admissions": 328004,
+      "rank": 2,
+      "days": 19,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 610867,
+      "title": "American Dreams in China",
+      "gross": 0.86,
+      "cume": 76.68,
+      "showings": 8491,
+      "admissions": 173001,
+      "rank": 3,
+      "days": 30,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 592927,
+      "title": "Colombiana",
+      "gross": 0.66,
+      "cume": 5.35,
+      "showings": 6993,
+      "admissions": 139083,
+      "rank": 4,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 612278,
+      "title": "Mysterious Face",
+      "gross": 0.51,
+      "cume": 0.92,
+      "showings": 7184,
+      "admissions": 117816,
+      "rank": 5,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 614660,
+      "title": "Happy Little Submarine 3：Rainbow Treasure",
+      "gross": 0.17,
+      "cume": 7.98,
+      "showings": 2862,
+      "admissions": 33888,
+      "rank": 6,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 612772,
+      "title": "Touch of the Light",
+      "gross": 0.14,
+      "cume": 0.68,
+      "showings": 1988,
+      "admissions": 29291,
+      "rank": 7,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 596088,
+      "title": "The Adventures of Sinbad 2013",
+      "gross": 0.12,
+      "cume": 5.47,
+      "showings": 2570,
+      "admissions": 29697,
+      "rank": 8,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 610839,
+      "title": "Redemption",
+      "gross": 0.11,
+      "cume": 1.07,
+      "showings": 2738,
+      "admissions": 23733,
+      "rank": 9,
+      "days": 7,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 658914,
+      "title": "Shanghai international film festival",
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 57,
+      "admissions": 11796,
+      "rank": 10,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 616714,
+      "title": "The Soccer Way",
+      "gross": 0.07,
+      "cume": 0.68,
+      "showings": 2188,
+      "admissions": 18175,
+      "rank": 11,
+      "days": 6,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 596069,
+      "title": "Kuiba 2",
+      "gross": 0.07,
+      "cume": 3.57,
+      "showings": 1546,
+      "admissions": 12942,
+      "rank": 12,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 615831,
+      "title": "Block Buster",
+      "gross": 0.06,
+      "cume": 0.35,
+      "showings": 2139,
+      "admissions": 12830,
+      "rank": 13,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 594393,
+      "title": "7 Assassins",
+      "gross": 0.04,
+      "cume": 0.39,
+      "showings": 1657,
+      "admissions": 8936,
+      "rank": 14,
+      "days": 7,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 592909,
+      "title": "Thrilling Eve",
+      "gross": 0.02,
+      "cume": 0.39,
+      "showings": 965,
+      "admissions": 5146,
+      "rank": 15,
+      "days": 7,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 614547,
+      "title": "I Love Hong Kong 2013",
+      "gross": 0.02,
+      "cume": 1.63,
+      "showings": 612,
+      "admissions": 4656,
+      "rank": 16,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 596973,
+      "title": "So Young",
+      "gross": 0.01,
+      "cume": 106.04,
+      "showings": 291,
+      "admissions": 2326,
+      "rank": 17,
+      "days": 51,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 605809,
+      "title": "Django Unchained",
+      "gross": 0.01,
+      "cume": 2.63,
+      "showings": 54,
+      "admissions": 931,
+      "rank": 18,
+      "days": 35,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 596971,
+      "title": "The Cosplayers",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 516,
+      "admissions": 1483,
+      "rank": 19,
+      "days": 7,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 610627,
+      "title": "Christmas Rose",
+      "gross": 0.01,
+      "cume": 3.43,
+      "showings": 123,
+      "admissions": 1331,
+      "rank": 20,
+      "days": 23,
+      "day": "4th Sat"
+    }
+  ]
+}

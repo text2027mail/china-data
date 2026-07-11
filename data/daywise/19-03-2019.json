@@ -1,0 +1,225 @@
+{
+  "date": "19-03-2019",
+  "data": [
+    {
+      "movie_id": 684702,
+      "title": "",
+      "gross": 11.74,
+      "cume": 76.22,
+      "showings": 138631,
+      "admissions": 2587123,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 679862,
+      "title": "Captain Marvel",
+      "gross": 1.85,
+      "cume": 134.99,
+      "showings": 71562,
+      "admissions": 339725,
+      "rank": 2,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 684562,
+      "title": "Green Book",
+      "gross": 1.05,
+      "cume": 62.57,
+      "showings": 33586,
+      "admissions": 219799,
+      "rank": 3,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 642412,
+      "title": "The Wandering Earth",
+      "gross": 0.23,
+      "cume": 687.75,
+      "showings": 11529,
+      "admissions": 45775,
+      "rank": 4,
+      "days": 43,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 306285,
+      "title": "Alita: Battle Angel",
+      "gross": 0.2,
+      "cume": 131.14,
+      "showings": 10251,
+      "admissions": 38245,
+      "rank": 5,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 681415,
+      "title": "My Hero Academia: Two Heroes",
+      "gross": 0.17,
+      "cume": 5.11,
+      "showings": 17660,
+      "admissions": 36664,
+      "rank": 6,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 678712,
+      "title": "Song of Youth",
+      "gross": 0.14,
+      "cume": 0.44,
+      "showings": 2970,
+      "admissions": 26409,
+      "rank": 7,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 678868,
+      "title": "How To Train Your Dragon: The Hidden World",
+      "gross": 0.13,
+      "cume": 52.3,
+      "showings": 8703,
+      "admissions": 25046,
+      "rank": 8,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 683082,
+      "title": "Natsume's Book Of Friends",
+      "gross": 0.11,
+      "cume": 16.4,
+      "showings": 8324,
+      "admissions": 25157,
+      "rank": 9,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 673920,
+      "title": "The Crossing",
+      "gross": 0.09,
+      "cume": 1.18,
+      "showings": 6194,
+      "admissions": 16985,
+      "rank": 10,
+      "days": 5,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 673016,
+      "title": "So Long, My Son",
+      "gross": 0.05,
+      "cume": 0.5,
+      "showings": 530,
+      "admissions": 7247,
+      "rank": 11,
+      "days": null,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 677999,
+      "title": "shuizuxiu",
+      "gross": 0.04,
+      "cume": 0.31,
+      "showings": 57,
+      "admissions": 6101,
+      "rank": 12,
+      "days": null,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 683908,
+      "title": "Girl Dorm",
+      "gross": 0.02,
+      "cume": 0.2,
+      "showings": 2002,
+      "admissions": 6143,
+      "rank": 13,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 616162,
+      "title": "My Avatar Horse",
+      "gross": 0.02,
+      "cume": 2.02,
+      "showings": 139,
+      "admissions": 6121,
+      "rank": 14,
+      "days": 2404,
+      "day": "309th Tue"
+    },
+    {
+      "movie_id": 681662,
+      "title": "Running To The Spring",
+      "gross": 0.02,
+      "cume": 1.18,
+      "showings": 18,
+      "admissions": 3371,
+      "rank": 15,
+      "days": 96,
+      "day": "14th Tue"
+    },
+    {
+      "movie_id": 674300,
+      "title": "On the Balcony",
+      "gross": 0.02,
+      "cume": 0.55,
+      "showings": 5229,
+      "admissions": 3365,
+      "rank": 16,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 676018,
+      "title": "Pegasus",
+      "gross": 0.01,
+      "cume": 254.64,
+      "showings": 1322,
+      "admissions": 2587,
+      "rank": 17,
+      "days": 43,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 673860,
+      "title": "Love as the Wind",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 260,
+      "admissions": 2829,
+      "rank": 18,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 642629,
+      "title": "Highway 318",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 440,
+      "admissions": 2025,
+      "rank": 19,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 679647,
+      "title": "Brother of the Year",
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 2355,
+      "admissions": 2128,
+      "rank": 20,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "10-05-2015",
+  "data": [
+    {
+      "movie_id": 631798,
+      "title": "",
+      "gross": 3.05,
+      "cume": 9.45,
+      "showings": 34620,
+      "admissions": 649396,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 629625,
+      "title": "Fast & Furious 7",
+      "gross": 2.96,
+      "cume": 356.69,
+      "showings": 22599,
+      "admissions": 518228,
+      "rank": 2,
+      "days": 29,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 630765,
+      "title": "You Are My Sunshine",
+      "gross": 1.85,
+      "cume": 48.14,
+      "showings": 26244,
+      "admissions": 370614,
+      "rank": 3,
+      "days": 11,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 618734,
+      "title": "Helios",
+      "gross": 1.35,
+      "cume": 29.29,
+      "showings": 15191,
+      "admissions": 243580,
+      "rank": 4,
+      "days": 11,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 618528,
+      "title": "The Left Ear",
+      "gross": 1.34,
+      "cume": 68.59,
+      "showings": 17048,
+      "admissions": 260549,
+      "rank": 5,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 637662,
+      "title": "Home",
+      "gross": 1.16,
+      "cume": 23.36,
+      "showings": 10218,
+      "admissions": 221796,
+      "rank": 6,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 631788,
+      "title": "Alibaba and The Thief",
+      "gross": 0.29,
+      "cume": 0.6,
+      "showings": 7368,
+      "admissions": 68520,
+      "rank": 7,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 617165,
+      "title": "Wolf Warriors",
+      "gross": 0.13,
+      "cume": 79.55,
+      "showings": 1495,
+      "admissions": 25141,
+      "rank": 8,
+      "days": 39,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 617612,
+      "title": "Red Amnesia",
+      "gross": 0.09,
+      "cume": 1.31,
+      "showings": 1669,
+      "admissions": 17089,
+      "rank": 9,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 631695,
+      "title": "Murmur of the Hearts",
+      "gross": 0.09,
+      "cume": 1.97,
+      "showings": 841,
+      "admissions": 14142,
+      "rank": 10,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 616527,
+      "title": "War On A String",
+      "gross": 0.05,
+      "cume": 0.17,
+      "showings": 4509,
+      "admissions": 12026,
+      "rank": 11,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 629090,
+      "title": "Ever Since We Love",
+      "gross": 0.02,
+      "cume": 21.86,
+      "showings": 435,
+      "admissions": 3133,
+      "rank": 12,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 628715,
+      "title": "Lovers&Movies",
+      "gross": 0.02,
+      "cume": 1.3,
+      "showings": 1069,
+      "admissions": 3971,
+      "rank": 13,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 659060,
+      "title": "ribendianyingzhou",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 9,
+      "admissions": 1415,
+      "rank": 14,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 626874,
+      "title": "Sabotage",
+      "gross": 0.01,
+      "cume": 3.59,
+      "showings": 391,
+      "admissions": 1795,
+      "rank": 15,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 616420,
+      "title": "Farewell My Concubine The Beijing Opera",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 28,
+      "admissions": 1092,
+      "rank": 16,
+      "days": 557,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 630484,
+      "title": "Legend of Rabbit：The Martial of Fire",
+      "gross": 0.01,
+      "cume": 4.37,
+      "showings": 9,
+      "admissions": 566,
+      "rank": 17,
+      "days": 79,
+      "day": "14th Sun"
+    },
+    {
+      "movie_id": 629902,
+      "title": "Follow Me My Queen",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 154,
+      "admissions": 1776,
+      "rank": 18,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 631697,
+      "title": "Teenage Mao ZeDong",
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 370,
+      "admissions": 1536,
+      "rank": 19,
+      "days": 11,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 626126,
+      "title": "The Queens",
+      "gross": 0.0,
+      "cume": 2.29,
+      "showings": 69,
+      "admissions": 2296,
+      "rank": 20,
+      "days": 26,
+      "day": "4th Sun"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "03-10-2020",
+  "data": [
+    {
+      "movie_id": 701620,
+      "title": "",
+      "gross": 40.59,
+      "cume": 121.61,
+      "showings": 133724,
+      "admissions": 7041222,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 682630,
+      "title": "JIANG ZIYA：Legend Of Deification",
+      "gross": 32.44,
+      "cume": 130.77,
+      "showings": 148592,
+      "admissions": 5508207,
+      "rank": 2,
+      "days": 3,
+      "day": "37th Sat"
+    },
+    {
+      "movie_id": 676043,
+      "title": "Leap",
+      "gross": 7.88,
+      "cume": 64.68,
+      "showings": 49882,
+      "admissions": 1337342,
+      "rank": 3,
+      "days": 9,
+      "day": "37th Sat"
+    },
+    {
+      "movie_id": 683149,
+      "title": "Vanguard",
+      "gross": 2.98,
+      "cume": 24.36,
+      "showings": 34821,
+      "admissions": 538446,
+      "rank": 4,
+      "days": 4,
+      "day": "37th Sat"
+    },
+    {
+      "movie_id": 640323,
+      "title": "Kung Fu Mulan",
+      "gross": 1.01,
+      "cume": 1.01,
+      "showings": 24313,
+      "admissions": 177145,
+      "rank": 5,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 669412,
+      "title": "The Eight Hundred",
+      "gross": 0.75,
+      "cume": 451.31,
+      "showings": 5826,
+      "admissions": 136718,
+      "rank": 6,
+      "days": 44,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 702792,
+      "title": "The Big Parade",
+      "gross": 0.38,
+      "cume": 1.09,
+      "showings": 4350,
+      "admissions": 65273,
+      "rank": 7,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 697311,
+      "title": "Tenet",
+      "gross": 0.15,
+      "cume": 65.89,
+      "showings": 686,
+      "admissions": 21690,
+      "rank": 8,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 701597,
+      "title": "Coffee or Tea？",
+      "gross": 0.14,
+      "cume": 0.35,
+      "showings": 827,
+      "admissions": 19776,
+      "rank": 9,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 659727,
+      "title": "Rising From Ashes",
+      "gross": 0.09,
+      "cume": 0.3,
+      "showings": 224,
+      "admissions": 17978,
+      "rank": 10,
+      "days": 9,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 676986,
+      "title": "A Proud Juvenile",
+      "gross": 0.05,
+      "cume": 0.18,
+      "showings": 120,
+      "admissions": 9097,
+      "rank": 11,
+      "days": 24,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 654640,
+      "title": "The Lotus Ferry",
+      "gross": 0.04,
+      "cume": 0.21,
+      "showings": 64,
+      "admissions": 7214,
+      "rank": 12,
+      "days": 23,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 695051,
+      "title": "Alibaba and the Magic Lamp",
+      "gross": 0.04,
+      "cume": 2.77,
+      "showings": 85,
+      "admissions": 5539,
+      "rank": 13,
+      "days": 29,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 701781,
+      "title": "Let Life Be Beautiful",
+      "gross": 0.03,
+      "cume": 0.11,
+      "showings": 261,
+      "admissions": 4513,
+      "rank": 14,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 691941,
+      "title": "Trouble",
+      "gross": 0.03,
+      "cume": 1.4,
+      "showings": 463,
+      "admissions": 6183,
+      "rank": 15,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 683275,
+      "title": "Return Upon Shef",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 59,
+      "admissions": 2384,
+      "rank": 16,
+      "days": 528,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 641043,
+      "title": "Goodbye To Secular",
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 92,
+      "admissions": 3622,
+      "rank": 17,
+      "days": 9,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 694757,
+      "title": "The Past of Huanghuatang",
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 25,
+      "admissions": 1938,
+      "rank": 18,
+      "days": 331,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 695739,
+      "title": "Onward",
+      "gross": 0.02,
+      "cume": 10.05,
+      "showings": 206,
+      "admissions": 3261,
+      "rank": 19,
+      "days": 46,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 677332,
+      "title": "Blood Guard",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 23,
+      "admissions": 1788,
+      "rank": 20,
+      "days": 325,
+      "day": "1st Sat"
+    }
+  ]
+}

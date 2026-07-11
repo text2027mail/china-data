@@ -1,0 +1,77 @@
+{
+  "movie_id": 594070,
+  "title": "Midnight Record Search",
+  "releaseDate": "08-04-2016",
+  "entries": [
+    {
+      "date": "08-04-2016",
+      "rank": 10,
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 2099,
+      "admissions": 8340,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-04-2016",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.07,
+      "showings": 1930,
+      "admissions": 9461,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-04-2016",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 1751,
+      "admissions": 6204,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-04-2016",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 1605,
+      "admissions": 3686,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-04-2016",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 1516,
+      "admissions": 3559,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-04-2016",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 1511,
+      "admissions": 3326,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-04-2016",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 1064,
+      "admissions": 2131,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

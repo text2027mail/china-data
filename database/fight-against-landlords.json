@@ -1,0 +1,57 @@
+{
+  "movie_id": 618331,
+  "title": "Fight Against Landlords",
+  "releaseDate": "11-09-2015",
+  "entries": [
+    {
+      "date": "11-09-2015",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 4703,
+      "admissions": 7398,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-09-2015",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.07,
+      "showings": 3676,
+      "admissions": 8293,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-09-2015",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 2042,
+      "admissions": 3074,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-09-2015",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 1933,
+      "admissions": 1726,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-09-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 1389,
+      "admissions": 1284,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

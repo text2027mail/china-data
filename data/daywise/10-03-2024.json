@@ -1,0 +1,225 @@
+{
+  "date": "10-03-2024",
+  "data": [
+    {
+      "movie_id": 596852,
+      "title": "",
+      "gross": 6.47,
+      "cume": 56.74,
+      "showings": 81194,
+      "admissions": 1105989,
+      "rank": 1,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 739312,
+      "title": "Dune: Part Two",
+      "gross": 6.25,
+      "cume": 20.87,
+      "showings": 68753,
+      "admissions": 882169,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 710288,
+      "title": "I Miss You",
+      "gross": 3.61,
+      "cume": 14.27,
+      "showings": 66295,
+      "admissions": 594323,
+      "rank": 3,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 747074,
+      "title": "Kung Fu Panda 4",
+      "gross": 2.07,
+      "cume": 5.65,
+      "showings": 21028,
+      "admissions": 344474,
+      "rank": 4,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 735035,
+      "title": "Article 20",
+      "gross": 2.0,
+      "cume": 348.01,
+      "showings": 45014,
+      "admissions": 324702,
+      "rank": 5,
+      "days": 30,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 739598,
+      "title": "Boonie Bears:Time Twist",
+      "gross": 1.88,
+      "cume": 283.5,
+      "showings": 32046,
+      "admissions": 318636,
+      "rank": 6,
+      "days": 30,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 737452,
+      "title": "Pegasus 2",
+      "gross": 1.83,
+      "cume": 487.51,
+      "showings": 42924,
+      "admissions": 292622,
+      "rank": 7,
+      "days": 30,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 716595,
+      "title": "Yolo",
+      "gross": 0.76,
+      "cume": 502.42,
+      "showings": 24584,
+      "admissions": 123656,
+      "rank": 8,
+      "days": 30,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.1,
+      "cume": 38.71,
+      "showings": 183,
+      "admissions": 12228,
+      "rank": 9,
+      "days": 871,
+      "day": "125th Sun"
+    },
+    {
+      "movie_id": 745532,
+      "title": "Taylor Swift: The Eras Tour",
+      "gross": 0.1,
+      "cume": 14.82,
+      "showings": 234,
+      "admissions": 17303,
+      "rank": 10,
+      "days": 71,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 708416,
+      "title": "PATHFINDERS",
+      "gross": 0.04,
+      "cume": 4.13,
+      "showings": 55,
+      "admissions": 5932,
+      "rank": 11,
+      "days": 196,
+      "day": "27th Sun"
+    },
+    {
+      "movie_id": 710176,
+      "title": "A woman",
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 107,
+      "admissions": 4080,
+      "rank": 12,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 713368,
+      "title": "The Lone Warriors",
+      "gross": 0.02,
+      "cume": 4.3,
+      "showings": 36,
+      "admissions": 3844,
+      "rank": 13,
+      "days": 74,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 745267,
+      "title": "Room 6 At Midnight",
+      "gross": 0.02,
+      "cume": 0.48,
+      "showings": 2222,
+      "admissions": 4683,
+      "rank": 14,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 745628,
+      "title": "Table For Six 2",
+      "gross": 0.02,
+      "cume": 2.58,
+      "showings": 623,
+      "admissions": 3081,
+      "rank": 15,
+      "days": 16,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 748663,
+      "title": "Challenge",
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 45,
+      "admissions": 2353,
+      "rank": 16,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 711952,
+      "title": "Off the Stage",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 595,
+      "admissions": 2216,
+      "rank": 17,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 714218,
+      "title": "The Killing Performance",
+      "gross": 0.01,
+      "cume": 1.24,
+      "showings": 982,
+      "admissions": 1599,
+      "rank": 18,
+      "days": 9,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 747315,
+      "title": "Madame Web",
+      "gross": 0.01,
+      "cume": 0.83,
+      "showings": 594,
+      "admissions": 1349,
+      "rank": 19,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 705869,
+      "title": "MOTHER OF TEARS",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 42,
+      "admissions": 1156,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "movie_id": 613600,
+  "title": "The True Love",
+  "releaseDate": "10-01-2014",
+  "entries": [
+    {
+      "date": "10-01-2014",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1776,
+      "admissions": 4948,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "11-01-2014",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 1236,
+      "admissions": 3199,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-01-2014",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 1089,
+      "admissions": 2997,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "13-01-2014",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 932,
+      "admissions": 1445,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "14-01-2014",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 832,
+      "admissions": 1608,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "15-01-2014",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 787,
+      "admissions": 1450,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "16-01-2014",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 447,
+      "admissions": 860,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "18-01-2014",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 245,
+      "admissions": 2268,
+      "days": 9,
+      "day": "2nd Sat"
+    }
+  ]
+}

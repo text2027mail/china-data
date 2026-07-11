@@ -1,0 +1,225 @@
+{
+  "date": "06-12-2015",
+  "data": [
+    {
+      "movie_id": 633490,
+      "title": "",
+      "gross": 4.48,
+      "cume": 71.1,
+      "showings": 18009,
+      "admissions": 787587,
+      "rank": 1,
+      "days": 12,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 639004,
+      "title": "Point Break",
+      "gross": 4.04,
+      "cume": 11.28,
+      "showings": 26001,
+      "admissions": 822198,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 638821,
+      "title": "Fall In Love Like A Star",
+      "gross": 3.27,
+      "cume": 14.62,
+      "showings": 30582,
+      "admissions": 712197,
+      "rank": 3,
+      "days": 4,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 618119,
+      "title": "Impossible",
+      "gross": 2.45,
+      "cume": 8.03,
+      "showings": 25587,
+      "admissions": 510318,
+      "rank": 4,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 631350,
+      "title": "The SpongeBob Movie: Sponge Out of Water",
+      "gross": 1.87,
+      "cume": 4.89,
+      "showings": 14386,
+      "admissions": 404839,
+      "rank": 5,
+      "days": 6,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 630582,
+      "title": "Oh My God",
+      "gross": 1.65,
+      "cume": 5.91,
+      "showings": 24679,
+      "admissions": 399195,
+      "rank": 6,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 639871,
+      "title": "Our Times",
+      "gross": 1.23,
+      "cume": 48.13,
+      "showings": 9041,
+      "admissions": 280193,
+      "rank": 7,
+      "days": 18,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 638989,
+      "title": "Go Lala Go 2",
+      "gross": 1.21,
+      "cume": 3.94,
+      "showings": 16007,
+      "admissions": 251167,
+      "rank": 8,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 619619,
+      "title": "The Vanished Murderer",
+      "gross": 0.18,
+      "cume": 10.18,
+      "showings": 869,
+      "admissions": 16995,
+      "rank": 9,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 628326,
+      "title": "The Master",
+      "gross": 0.16,
+      "cume": 0.17,
+      "showings": 2986,
+      "admissions": 33569,
+      "rank": 10,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 630094,
+      "title": "An Accidental Shot of Love",
+      "gross": 0.14,
+      "cume": 0.15,
+      "showings": 1351,
+      "admissions": 30648,
+      "rank": 11,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 640997,
+      "title": "Spectre",
+      "gross": 0.08,
+      "cume": 79.81,
+      "showings": 783,
+      "admissions": 14118,
+      "rank": 12,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 573561,
+      "title": "Ni Zai Na Li",
+      "gross": 0.08,
+      "cume": 0.62,
+      "showings": 74,
+      "admissions": 12947,
+      "rank": 13,
+      "days": 2607,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 612577,
+      "title": "Ba Ba Ma Ma Fu Hun Ji",
+      "gross": 0.07,
+      "cume": 0.6,
+      "showings": 72,
+      "admissions": 12030,
+      "rank": 14,
+      "days": 810,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 612540,
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "gross": 0.04,
+      "cume": 21.02,
+      "showings": 325,
+      "admissions": 6626,
+      "rank": 15,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 631012,
+      "title": "The Transporter Refueled",
+      "gross": 0.04,
+      "cume": 18.74,
+      "showings": 923,
+      "admissions": 8401,
+      "rank": 16,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 630935,
+      "title": "Bad Guys Always Die",
+      "gross": 0.04,
+      "cume": 6.87,
+      "showings": 1221,
+      "admissions": 8399,
+      "rank": 17,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 640871,
+      "title": "Himalaya:Ladder to Pradise",
+      "gross": 0.02,
+      "cume": 1.68,
+      "showings": 28,
+      "admissions": 2058,
+      "rank": 18,
+      "days": 52,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 627766,
+      "title": "Mountains May Depart",
+      "gross": 0.02,
+      "cume": 4.5,
+      "showings": 14,
+      "admissions": 1142,
+      "rank": 19,
+      "days": 38,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.01,
+      "cume": 2.45,
+      "showings": 4,
+      "admissions": 1000,
+      "rank": 20,
+      "days": 601,
+      "day": "86th Sun"
+    }
+  ]
+}

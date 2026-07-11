@@ -1,0 +1,77 @@
+{
+  "movie_id": 587790,
+  "title": "More Than Close",
+  "releaseDate": "24-06-2016",
+  "entries": [
+    {
+      "date": "24-06-2016",
+      "rank": 7,
+      "gross": 0.04,
+      "cume": 0.13,
+      "showings": 5692,
+      "admissions": 10777,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "25-06-2016",
+      "rank": 7,
+      "gross": 0.04,
+      "cume": 0.17,
+      "showings": 4149,
+      "admissions": 9343,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-06-2016",
+      "rank": 7,
+      "gross": 0.04,
+      "cume": 0.2,
+      "showings": 3662,
+      "admissions": 8414,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "27-06-2016",
+      "rank": 9,
+      "gross": 0.02,
+      "cume": 0.22,
+      "showings": 3588,
+      "admissions": 5619,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "28-06-2016",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 3346,
+      "admissions": 5069,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "29-06-2016",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.26,
+      "showings": 3124,
+      "admissions": 4810,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-06-2016",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 1311,
+      "admissions": 1415,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

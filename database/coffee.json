@@ -1,0 +1,87 @@
+{
+  "movie_id": 661435,
+  "title": "Coffee",
+  "releaseDate": "01-01-2018",
+  "entries": [
+    {
+      "date": "01-01-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 14,
+      "admissions": 1079,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-01-2018",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 20,
+      "admissions": 1382,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-01-2018",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 25,
+      "admissions": 1972,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "04-01-2018",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 23,
+      "admissions": 2005,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "05-01-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 18,
+      "admissions": 1587,
+      "days": 7,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-01-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 21,
+      "admissions": 1836,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "09-01-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 20,
+      "admissions": 1647,
+      "days": 11,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "10-01-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 16,
+      "admissions": 1500,
+      "days": 12,
+      "day": "2nd Wed"
+    }
+  ]
+}

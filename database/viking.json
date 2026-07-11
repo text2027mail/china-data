@@ -1,0 +1,77 @@
+{
+  "movie_id": 659798,
+  "title": "Viking",
+  "releaseDate": "01-12-2017",
+  "entries": [
+    {
+      "date": "01-12-2017",
+      "rank": 6,
+      "gross": 0.76,
+      "cume": 0.76,
+      "showings": 26106,
+      "admissions": 177682,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "02-12-2017",
+      "rank": 7,
+      "gross": 0.65,
+      "cume": 1.41,
+      "showings": 20455,
+      "admissions": 148591,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-12-2017",
+      "rank": 7,
+      "gross": 0.31,
+      "cume": 1.71,
+      "showings": 17258,
+      "admissions": 71290,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-12-2017",
+      "rank": 8,
+      "gross": 0.11,
+      "cume": 1.83,
+      "showings": 15121,
+      "admissions": 26397,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "05-12-2017",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 1.92,
+      "showings": 13466,
+      "admissions": 20975,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "06-12-2017",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 1.99,
+      "showings": 12306,
+      "admissions": 17062,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "07-12-2017",
+      "rank": 9,
+      "gross": 0.06,
+      "cume": 2.06,
+      "showings": 11576,
+      "admissions": 15034,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "movie_id": 695340,
+  "title": "SUMMER",
+  "releaseDate": "25-03-2022",
+  "entries": [
+    {
+      "date": "25-03-2022",
+      "rank": 8,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 4625,
+      "admissions": 10019,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-03-2022",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 2348,
+      "admissions": 3208,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-03-2022",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 997,
+      "admissions": 286,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-03-2022",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 681,
+      "admissions": 295,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "13-04-2022",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 73,
+      "admissions": 660,
+      "days": 20,
+      "day": "3rd Wed"
+    }
+  ]
+}

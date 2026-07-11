@@ -1,0 +1,225 @@
+{
+  "date": "13-09-2020",
+  "data": [
+    {
+      "movie_id": 669412,
+      "title": "",
+      "gross": 7.23,
+      "cume": 392.08,
+      "showings": 80284,
+      "admissions": 1281787,
+      "rank": 1,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 679587,
+      "title": "Mulan",
+      "gross": 6.11,
+      "cume": 23.45,
+      "showings": 104602,
+      "admissions": 1140078,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 697311,
+      "title": "Tenet",
+      "gross": 3.71,
+      "cume": 51.52,
+      "showings": 40187,
+      "admissions": 637008,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 694980,
+      "title": "Yes , I Do !",
+      "gross": 1.08,
+      "cume": 4.27,
+      "showings": 33501,
+      "admissions": 206274,
+      "rank": 4,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 695739,
+      "title": "Onward",
+      "gross": 0.53,
+      "cume": 9.07,
+      "showings": 8224,
+      "admissions": 110145,
+      "rank": 5,
+      "days": 26,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 684830,
+      "title": "Love You Forever",
+      "gross": 0.26,
+      "cume": 72.71,
+      "showings": 7261,
+      "admissions": 51907,
+      "rank": 6,
+      "days": 20,
+      "day": "37th Sun"
+    },
+    {
+      "movie_id": 695051,
+      "title": "Alibaba and the Magic Lamp",
+      "gross": 0.14,
+      "cume": 2.38,
+      "showings": 6413,
+      "admissions": 30021,
+      "rank": 7,
+      "days": 9,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 695494,
+      "title": "Kaguya-Sama: Love Is War",
+      "gross": 0.13,
+      "cume": 0.4,
+      "showings": 4940,
+      "admissions": 27335,
+      "rank": 8,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 686232,
+      "title": "Masquerade Hotel",
+      "gross": 0.07,
+      "cume": 2.24,
+      "showings": 1279,
+      "admissions": 13188,
+      "rank": 9,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 681780,
+      "title": "Little Women",
+      "gross": 0.07,
+      "cume": 6.7,
+      "showings": 1118,
+      "admissions": 13022,
+      "rank": 10,
+      "days": 20,
+      "day": "31st Sun"
+    },
+    {
+      "movie_id": 677283,
+      "title": "The Old Man and Two Moutains",
+      "gross": 0.06,
+      "cume": 0.23,
+      "showings": 2019,
+      "admissions": 12345,
+      "rank": 11,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 412178,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "gross": 0.04,
+      "cume": 28.16,
+      "showings": 746,
+      "admissions": 7281,
+      "rank": 12,
+      "days": 6801,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 699989,
+      "title": "Huang Wenxiu",
+      "gross": 0.02,
+      "cume": 0.9,
+      "showings": 183,
+      "admissions": 4445,
+      "rank": 13,
+      "days": 32,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 701779,
+      "title": "The Blue Defensive Line",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 184,
+      "admissions": 3640,
+      "rank": 14,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 702500,
+      "title": "Persecuted",
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 1599,
+      "admissions": 4660,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 693078,
+      "title": "Cold Blood Legacy",
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 3500,
+      "admissions": 4242,
+      "rank": 16,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 566417,
+      "title": "Inception",
+      "gross": 0.02,
+      "cume": 73.04,
+      "showings": 635,
+      "admissions": 4230,
+      "rank": 17,
+      "days": 3666,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 695239,
+      "title": "Avera and the mystical Kingdom2",
+      "gross": 0.02,
+      "cume": 0.59,
+      "showings": 46,
+      "admissions": 1290,
+      "rank": 18,
+      "days": 23,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 693266,
+      "title": "Sheep Without A Shepherd",
+      "gross": 0.02,
+      "cume": 196.7,
+      "showings": 231,
+      "admissions": 4056,
+      "rank": 19,
+      "days": 276,
+      "day": "41st Sun"
+    },
+    {
+      "movie_id": 696655,
+      "title": "Review exhibition of Japanese animation masters in 2019",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 6,
+      "admissions": 1146,
+      "rank": 20,
+      "days": 284,
+      "day": "2nd Sun"
+    }
+  ]
+}

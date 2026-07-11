@@ -1,0 +1,47 @@
+{
+  "movie_id": 662190,
+  "title": "The King of Football",
+  "releaseDate": "31-08-2018",
+  "entries": [
+    {
+      "date": "31-08-2018",
+      "rank": 13,
+      "gross": 0.12,
+      "cume": 0.12,
+      "showings": 5472,
+      "admissions": 26953,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-09-2018",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.18,
+      "showings": 3478,
+      "admissions": 14083,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-09-2018",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.23,
+      "showings": 2782,
+      "admissions": 12352,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-09-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 1171,
+      "admissions": 1668,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

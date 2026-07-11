@@ -1,0 +1,37 @@
+{
+  "movie_id": 683815,
+  "title": "Space Detective",
+  "releaseDate": "20-03-2021",
+  "entries": [
+    {
+      "date": "20-03-2021",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 3960,
+      "admissions": 4741,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-03-2021",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 2620,
+      "admissions": 2783,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "07-04-2021",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 24,
+      "admissions": 1416,
+      "days": 19,
+      "day": "3rd Wed"
+    }
+  ]
+}

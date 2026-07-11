@@ -1,0 +1,117 @@
+{
+  "movie_id": 789799,
+  "title": "Here",
+  "releaseDate": "11-04-2025",
+  "entries": [
+    {
+      "date": "11-04-2025",
+      "rank": 8,
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 15148,
+      "admissions": 17342,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-04-2025",
+      "rank": 8,
+      "gross": 0.17,
+      "cume": 0.27,
+      "showings": 23855,
+      "admissions": 29959,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-04-2025",
+      "rank": 8,
+      "gross": 0.14,
+      "cume": 0.41,
+      "showings": 16837,
+      "admissions": 23581,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-04-2025",
+      "rank": 8,
+      "gross": 0.04,
+      "cume": 0.45,
+      "showings": 13052,
+      "admissions": 7372,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-04-2025",
+      "rank": 9,
+      "gross": 0.04,
+      "cume": 0.49,
+      "showings": 12574,
+      "admissions": 7264,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-04-2025",
+      "rank": 9,
+      "gross": 0.04,
+      "cume": 0.53,
+      "showings": 11848,
+      "admissions": 6773,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-04-2025",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.56,
+      "showings": 11556,
+      "admissions": 6308,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "18-04-2025",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.6,
+      "showings": 6232,
+      "admissions": 5642,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "19-04-2025",
+      "rank": 20,
+      "gross": 0.04,
+      "cume": 0.64,
+      "showings": 2278,
+      "admissions": 6321,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "21-04-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.68,
+      "showings": 2977,
+      "admissions": 2257,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "24-04-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.71,
+      "showings": 2984,
+      "admissions": 1535,
+      "days": 14,
+      "day": "2nd Thu"
+    }
+  ]
+}

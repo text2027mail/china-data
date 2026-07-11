@@ -1,0 +1,27 @@
+{
+  "movie_id": 705226,
+  "title": "Happiness Is Like Juice",
+  "releaseDate": "19-09-2021",
+  "entries": [
+    {
+      "date": "19-09-2021",
+      "rank": 15,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 7035,
+      "admissions": 13815,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-09-2021",
+      "rank": 17,
+      "gross": 0.03,
+      "cume": 0.09,
+      "showings": 3542,
+      "admissions": 6879,
+      "days": 2,
+      "day": "1st Mon"
+    }
+  ]
+}

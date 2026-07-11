@@ -1,0 +1,67 @@
+{
+  "movie_id": 686531,
+  "title": "City Hunter",
+  "releaseDate": "11-12-2020",
+  "entries": [
+    {
+      "date": "11-12-2020",
+      "rank": 9,
+      "gross": 0.16,
+      "cume": 0.16,
+      "showings": 32893,
+      "admissions": 36583,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-12-2020",
+      "rank": 14,
+      "gross": 0.08,
+      "cume": 0.24,
+      "showings": 11605,
+      "admissions": 16935,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-12-2020",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.29,
+      "showings": 8267,
+      "admissions": 10836,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-12-2020",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.31,
+      "showings": 6635,
+      "admissions": 3864,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-12-2020",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.33,
+      "showings": 5766,
+      "admissions": 3229,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-12-2020",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 5281,
+      "admissions": 2754,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

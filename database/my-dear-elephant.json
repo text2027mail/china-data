@@ -1,0 +1,47 @@
+{
+  "movie_id": 640434,
+  "title": "My Dear Elephant",
+  "releaseDate": "12-04-2019",
+  "entries": [
+    {
+      "date": "12-04-2019",
+      "rank": 9,
+      "gross": 0.17,
+      "cume": 0.18,
+      "showings": 21894,
+      "admissions": 35104,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-04-2019",
+      "rank": 15,
+      "gross": 0.09,
+      "cume": 0.27,
+      "showings": 11348,
+      "admissions": 19635,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-04-2019",
+      "rank": 16,
+      "gross": 0.06,
+      "cume": 0.33,
+      "showings": 8779,
+      "admissions": 12464,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "15-04-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 6338,
+      "admissions": 2196,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 623766,
+  "title": "I.T.",
+  "releaseDate": "24-12-2016",
+  "entries": [
+    {
+      "date": "24-12-2016",
+      "rank": 8,
+      "gross": 0.37,
+      "cume": 0.38,
+      "showings": 6127,
+      "admissions": 84010,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "25-12-2016",
+      "rank": 9,
+      "gross": 0.2,
+      "cume": 0.57,
+      "showings": 5069,
+      "admissions": 46417,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "26-12-2016",
+      "rank": 7,
+      "gross": 0.09,
+      "cume": 0.66,
+      "showings": 5246,
+      "admissions": 21285,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "27-12-2016",
+      "rank": 8,
+      "gross": 0.08,
+      "cume": 0.74,
+      "showings": 5123,
+      "admissions": 19240,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "28-12-2016",
+      "rank": 8,
+      "gross": 0.07,
+      "cume": 0.81,
+      "showings": 4889,
+      "admissions": 16272,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "29-12-2016",
+      "rank": 9,
+      "gross": 0.04,
+      "cume": 0.85,
+      "showings": 2507,
+      "admissions": 9187,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "30-12-2016",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.86,
+      "showings": 411,
+      "admissions": 3679,
+      "days": 7,
+      "day": "1st Fri"
+    }
+  ]
+}

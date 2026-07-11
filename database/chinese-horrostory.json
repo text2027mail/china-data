@@ -1,0 +1,107 @@
+{
+  "movie_id": 628733,
+  "title": "Chinese Horrostory",
+  "releaseDate": "20-11-2015",
+  "entries": [
+    {
+      "date": "20-11-2015",
+      "rank": 8,
+      "gross": 0.13,
+      "cume": 0.13,
+      "showings": 3118,
+      "admissions": 32015,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-11-2015",
+      "rank": 12,
+      "gross": 0.13,
+      "cume": 0.27,
+      "showings": 3037,
+      "admissions": 32207,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-11-2015",
+      "rank": 12,
+      "gross": 0.09,
+      "cume": 0.35,
+      "showings": 2979,
+      "admissions": 20764,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-11-2015",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 0.41,
+      "showings": 2901,
+      "admissions": 14429,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-11-2015",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.46,
+      "showings": 2720,
+      "admissions": 12325,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-11-2015",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.49,
+      "showings": 1787,
+      "admissions": 7171,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "26-11-2015",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.52,
+      "showings": 1804,
+      "admissions": 7101,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "30-11-2015",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.55,
+      "showings": 437,
+      "admissions": 1620,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "01-12-2015",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 402,
+      "admissions": 1641,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "02-12-2015",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 403,
+      "admissions": 1282,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

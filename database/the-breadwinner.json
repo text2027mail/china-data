@@ -1,0 +1,77 @@
+{
+  "movie_id": 676329,
+  "title": "The Breadwinner",
+  "releaseDate": "11-01-2019",
+  "entries": [
+    {
+      "date": "11-01-2019",
+      "rank": 9,
+      "gross": 0.2,
+      "cume": 0.22,
+      "showings": 14968,
+      "admissions": 43974,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-01-2019",
+      "rank": 9,
+      "gross": 0.2,
+      "cume": 0.42,
+      "showings": 7985,
+      "admissions": 41352,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-01-2019",
+      "rank": 10,
+      "gross": 0.17,
+      "cume": 0.6,
+      "showings": 6704,
+      "admissions": 36395,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-01-2019",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.65,
+      "showings": 5382,
+      "admissions": 10839,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-01-2019",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.69,
+      "showings": 4840,
+      "admissions": 9204,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-01-2019",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.73,
+      "showings": 4506,
+      "admissions": 8429,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-01-2019",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.77,
+      "showings": 4194,
+      "admissions": 8591,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

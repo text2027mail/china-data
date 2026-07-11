@@ -1,0 +1,37 @@
+{
+  "movie_id": 589821,
+  "title": "The Space Dream",
+  "releaseDate": "03-05-2013",
+  "entries": [
+    {
+      "date": "03-05-2013",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 9.69,
+      "showings": 2,
+      "admissions": 1008,
+      "days": 673,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-05-2013",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 9.7,
+      "showings": 1,
+      "admissions": 631,
+      "days": 683,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "03-06-2013",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 9.7,
+      "showings": 2,
+      "admissions": 1302,
+      "days": 704,
+      "day": "5th Mon"
+    }
+  ]
+}

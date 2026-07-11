@@ -1,0 +1,77 @@
+{
+  "movie_id": 678481,
+  "title": "Adrift",
+  "releaseDate": "07-12-2018",
+  "entries": [
+    {
+      "date": "07-12-2018",
+      "rank": 4,
+      "gross": 0.56,
+      "cume": 0.57,
+      "showings": 46247,
+      "admissions": 128166,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-12-2018",
+      "rank": 6,
+      "gross": 0.38,
+      "cume": 0.95,
+      "showings": 26131,
+      "admissions": 84672,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-12-2018",
+      "rank": 7,
+      "gross": 0.24,
+      "cume": 1.19,
+      "showings": 20501,
+      "admissions": 54502,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-12-2018",
+      "rank": 6,
+      "gross": 0.11,
+      "cume": 1.3,
+      "showings": 18660,
+      "admissions": 26056,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "11-12-2018",
+      "rank": 5,
+      "gross": 0.1,
+      "cume": 1.4,
+      "showings": 16994,
+      "admissions": 23443,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "12-12-2018",
+      "rank": 5,
+      "gross": 0.09,
+      "cume": 1.49,
+      "showings": 15543,
+      "admissions": 20975,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "13-12-2018",
+      "rank": 5,
+      "gross": 0.08,
+      "cume": 1.57,
+      "showings": 15008,
+      "admissions": 19650,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

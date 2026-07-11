@@ -1,0 +1,47 @@
+{
+  "movie_id": 681909,
+  "title": "FIERCE FIGHTING BIE SHAN",
+  "releaseDate": "10-01-2022",
+  "entries": [
+    {
+      "date": "10-01-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 472,
+      "admissions": 1888,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "11-01-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 517,
+      "admissions": 2942,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "12-01-2022",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 512,
+      "admissions": 3944,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "13-01-2022",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 518,
+      "admissions": 2570,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "29-12-2019",
+  "data": [
+    {
+      "movie_id": 624015,
+      "title": "",
+      "gross": 8.21,
+      "cume": 101.29,
+      "showings": 109827,
+      "admissions": 1563852,
+      "rank": 1,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 693266,
+      "title": "Sheep Without A Shepherd",
+      "gross": 5.72,
+      "cume": 114.66,
+      "showings": 85076,
+      "admissions": 1138122,
+      "rank": 2,
+      "days": 17,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 679955,
+      "title": "Almost a Comedy",
+      "gross": 2.14,
+      "cume": 19.32,
+      "showings": 29604,
+      "admissions": 406180,
+      "rank": 3,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 681876,
+      "title": "S.W.A.T.",
+      "gross": 1.49,
+      "cume": 6.54,
+      "showings": 49101,
+      "admissions": 284691,
+      "rank": 4,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 686011,
+      "title": "Only Cloud Knows",
+      "gross": 1.11,
+      "cume": 21.5,
+      "showings": 25047,
+      "admissions": 211422,
+      "rank": 5,
+      "days": 10,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 681814,
+      "title": "Star Wars: The Rise of Skywalker",
+      "gross": 0.83,
+      "cume": 17.97,
+      "showings": 11850,
+      "admissions": 132967,
+      "rank": 6,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 676432,
+      "title": "Frozen 2",
+      "gross": 0.67,
+      "cume": 121.23,
+      "showings": 12555,
+      "admissions": 140726,
+      "rank": 7,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 684936,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "gross": 0.58,
+      "cume": 1.46,
+      "showings": 20619,
+      "admissions": 132357,
+      "rank": 8,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 696120,
+      "title": "Warriors of Hornor",
+      "gross": 0.48,
+      "cume": 20.78,
+      "showings": 1874,
+      "admissions": 32708,
+      "rank": 9,
+      "days": 25,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 685446,
+      "title": "Liberation",
+      "gross": 0.43,
+      "cume": 2.14,
+      "showings": 16778,
+      "admissions": 62954,
+      "rank": 10,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 673614,
+      "title": "xiangcunqingnian",
+      "gross": 0.36,
+      "cume": 1.3,
+      "showings": 274,
+      "admissions": 15439,
+      "rank": 11,
+      "days": null,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 643987,
+      "title": "Manou the Swift",
+      "gross": 0.19,
+      "cume": 0.42,
+      "showings": 8492,
+      "admissions": 44623,
+      "rank": 12,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 682822,
+      "title": "Robin Hood: Origins",
+      "gross": 0.11,
+      "cume": 0.55,
+      "showings": 7710,
+      "admissions": 21107,
+      "rank": 13,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 694774,
+      "title": "Song Of Love",
+      "gross": 0.08,
+      "cume": 4.99,
+      "showings": 169,
+      "admissions": 14649,
+      "rank": 14,
+      "days": 39,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 672764,
+      "title": "A Windfall Trap",
+      "gross": 0.08,
+      "cume": 0.2,
+      "showings": 3349,
+      "admissions": 11251,
+      "rank": 15,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 692341,
+      "title": "The Professor and the Madman",
+      "gross": 0.07,
+      "cume": 0.21,
+      "showings": 211,
+      "admissions": 6844,
+      "rank": 16,
+      "days": 6,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 682060,
+      "title": "Downton Abbey",
+      "gross": 0.06,
+      "cume": 3.14,
+      "showings": 774,
+      "admissions": 10860,
+      "rank": 17,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 686284,
+      "title": "Jumanji: The Next Level",
+      "gross": 0.05,
+      "cume": 42.55,
+      "showings": 1396,
+      "admissions": 9994,
+      "rank": 18,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 694745,
+      "title": "Back to Youth",
+      "gross": 0.04,
+      "cume": 1.98,
+      "showings": 406,
+      "admissions": 7192,
+      "rank": 19,
+      "days": 20,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 695766,
+      "title": "Knives Out",
+      "gross": 0.04,
+      "cume": 29.37,
+      "showings": 405,
+      "admissions": 6653,
+      "rank": 20,
+      "days": 31,
+      "day": "5th Sun"
+    }
+  ]
+}

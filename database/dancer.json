@@ -1,0 +1,57 @@
+{
+  "movie_id": 738698,
+  "title": "Dancer",
+  "releaseDate": "08-08-2023",
+  "entries": [
+    {
+      "date": "08-08-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 19,
+      "admissions": 1349,
+      "days": 26,
+      "day": "1st Tue"
+    },
+    {
+      "date": "09-08-2023",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 22,
+      "admissions": 1527,
+      "days": 27,
+      "day": "1st Wed"
+    },
+    {
+      "date": "10-08-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 20,
+      "admissions": 1274,
+      "days": 28,
+      "day": "1st Thu"
+    },
+    {
+      "date": "11-08-2023",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 22,
+      "admissions": 1713,
+      "days": 29,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-08-2023",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.23,
+      "showings": 28,
+      "admissions": 3581,
+      "days": 30,
+      "day": "1st Sat"
+    }
+  ]
+}

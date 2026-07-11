@@ -1,0 +1,27 @@
+{
+  "movie_id": 681413,
+  "title": "Man on the Dragon",
+  "releaseDate": "28-06-2019",
+  "entries": [
+    {
+      "date": "28-06-2019",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.06,
+      "showings": 5633,
+      "admissions": 13102,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "29-06-2019",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 2437,
+      "admissions": 4606,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "03-01-2022",
+  "data": [
+    {
+      "movie_id": 705150,
+      "title": "",
+      "gross": 8.02,
+      "cume": 87.27,
+      "showings": 110699,
+      "admissions": 1276053,
+      "rank": 1,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 705642,
+      "title": "Another Me",
+      "gross": 7.06,
+      "cume": 33.34,
+      "showings": 87602,
+      "admissions": 1196617,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 698510,
+      "title": "G Storm",
+      "gross": 6.0,
+      "cume": 55.32,
+      "showings": 87369,
+      "admissions": 981115,
+      "rank": 3,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 709879,
+      "title": "Fireflies in the Sun",
+      "gross": 2.72,
+      "cume": 135.17,
+      "showings": 40607,
+      "admissions": 455769,
+      "rank": 4,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 705084,
+      "title": "B for Busy",
+      "gross": 2.34,
+      "cume": 25.04,
+      "showings": 15557,
+      "admissions": 335681,
+      "rank": 5,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 696843,
+      "title": "Lion Dance Boy",
+      "gross": 1.73,
+      "cume": 30.21,
+      "showings": 21289,
+      "admissions": 285375,
+      "rank": 6,
+      "days": 18,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 707289,
+      "title": "Lost And Found",
+      "gross": 1.57,
+      "cume": 19.97,
+      "showings": 36177,
+      "admissions": 279013,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 701984,
+      "title": "mengjixiaodui：mengchenxinshijie",
+      "gross": 0.56,
+      "cume": 2.23,
+      "showings": 10186,
+      "admissions": 111697,
+      "rank": 8,
+      "days": null,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 697410,
+      "title": "Magic Elf",
+      "gross": 0.12,
+      "cume": 0.64,
+      "showings": 6319,
+      "admissions": 23748,
+      "rank": 9,
+      "days": 3,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 709926,
+      "title": "Crossing the Yalu River",
+      "gross": 0.09,
+      "cume": 10.97,
+      "showings": 1975,
+      "admissions": 18028,
+      "rank": 10,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 706189,
+      "title": "Be Somebody",
+      "gross": 0.09,
+      "cume": 135.92,
+      "showings": 1396,
+      "admissions": 14544,
+      "rank": 11,
+      "days": 54,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 695172,
+      "title": "Chhichhore",
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 375,
+      "admissions": 8997,
+      "rank": 12,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 684490,
+      "title": "Mini Force:Saving Dino King",
+      "gross": 0.05,
+      "cume": 3.46,
+      "showings": 860,
+      "admissions": 11208,
+      "rank": 13,
+      "days": 38,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 707516,
+      "title": "BREAK THROUGH",
+      "gross": 0.05,
+      "cume": 0.31,
+      "showings": 109,
+      "admissions": 8505,
+      "rank": 14,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 0.04,
+      "cume": 852.0,
+      "showings": 1053,
+      "admissions": 9044,
+      "rank": 15,
+      "days": 96,
+      "day": "15th Mon"
+    },
+    {
+      "movie_id": 706007,
+      "title": "To the Bright Side",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 69,
+      "admissions": 3745,
+      "rank": 16,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 702054,
+      "title": "FAMILY REUNION DLNNER-A LJTTLE BOY",
+      "gross": 0.02,
+      "cume": 0.5,
+      "showings": 46,
+      "admissions": 3501,
+      "rank": 17,
+      "days": 71,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 677896,
+      "title": "Schemes In Antiques",
+      "gross": 0.01,
+      "cume": 63.38,
+      "showings": 427,
+      "admissions": 2362,
+      "rank": 18,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.01,
+      "cume": 6.53,
+      "showings": 49,
+      "admissions": 3299,
+      "rank": 19,
+      "days": 169,
+      "day": "25th Mon"
+    },
+    {
+      "movie_id": 679887,
+      "title": "Crazy Chinese Mother",
+      "gross": 0.01,
+      "cume": 0.35,
+      "showings": 99,
+      "admissions": 2397,
+      "rank": 20,
+      "days": 39,
+      "day": "24th Mon"
+    }
+  ]
+}

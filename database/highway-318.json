@@ -1,0 +1,37 @@
+{
+  "movie_id": 642629,
+  "title": "Highway 318",
+  "releaseDate": "18-03-2019",
+  "entries": [
+    {
+      "date": "18-03-2019",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 442,
+      "admissions": 2772,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "19-03-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 440,
+      "admissions": 2025,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "date": "20-03-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 400,
+      "admissions": 1679,
+      "days": 3,
+      "day": "1st Wed"
+    }
+  ]
+}

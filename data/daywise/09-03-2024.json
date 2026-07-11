@@ -1,0 +1,225 @@
+{
+  "date": "09-03-2024",
+  "data": [
+    {
+      "movie_id": 596852,
+      "title": "",
+      "gross": 8.55,
+      "cume": 50.27,
+      "showings": 74101,
+      "admissions": 1462080,
+      "rank": 1,
+      "days": 9,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 739312,
+      "title": "Dune: Part Two",
+      "gross": 8.27,
+      "cume": 14.62,
+      "showings": 89622,
+      "admissions": 1184775,
+      "rank": 2,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 710288,
+      "title": "I Miss You",
+      "gross": 5.22,
+      "cume": 10.66,
+      "showings": 66256,
+      "admissions": 860470,
+      "rank": 3,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 747074,
+      "title": "Kung Fu Panda 4",
+      "gross": 3.58,
+      "cume": 3.58,
+      "showings": 22279,
+      "admissions": 592964,
+      "rank": 4,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 735035,
+      "title": "Article 20",
+      "gross": 2.95,
+      "cume": 346.0,
+      "showings": 41725,
+      "admissions": 481532,
+      "rank": 5,
+      "days": 29,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 737452,
+      "title": "Pegasus 2",
+      "gross": 2.69,
+      "cume": 485.68,
+      "showings": 50674,
+      "admissions": 433859,
+      "rank": 6,
+      "days": 29,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 739598,
+      "title": "Boonie Bears:Time Twist",
+      "gross": 2.29,
+      "cume": 281.62,
+      "showings": 31014,
+      "admissions": 386937,
+      "rank": 7,
+      "days": 29,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 716595,
+      "title": "Yolo",
+      "gross": 0.97,
+      "cume": 501.66,
+      "showings": 21869,
+      "admissions": 160289,
+      "rank": 8,
+      "days": 29,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.13,
+      "cume": 38.61,
+      "showings": 294,
+      "admissions": 16400,
+      "rank": 9,
+      "days": 870,
+      "day": "125th Sat"
+    },
+    {
+      "movie_id": 745532,
+      "title": "Taylor Swift: The Eras Tour",
+      "gross": 0.09,
+      "cume": 14.72,
+      "showings": 154,
+      "admissions": 13840,
+      "rank": 10,
+      "days": 70,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 745267,
+      "title": "Room 6 At Midnight",
+      "gross": 0.04,
+      "cume": 0.46,
+      "showings": 1912,
+      "admissions": 8193,
+      "rank": 11,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 708416,
+      "title": "PATHFINDERS",
+      "gross": 0.04,
+      "cume": 4.09,
+      "showings": 52,
+      "admissions": 5891,
+      "rank": 12,
+      "days": 195,
+      "day": "27th Sat"
+    },
+    {
+      "movie_id": 710176,
+      "title": "A woman",
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 112,
+      "admissions": 4268,
+      "rank": 13,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 745628,
+      "title": "Table For Six 2",
+      "gross": 0.02,
+      "cume": 2.56,
+      "showings": 515,
+      "admissions": 3955,
+      "rank": 14,
+      "days": 15,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 745229,
+      "title": "Remember Me",
+      "gross": 0.02,
+      "cume": 0.65,
+      "showings": 110,
+      "admissions": 2271,
+      "rank": 15,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 713368,
+      "title": "The Lone Warriors",
+      "gross": 0.02,
+      "cume": 4.28,
+      "showings": 37,
+      "admissions": 3192,
+      "rank": 16,
+      "days": 73,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 711952,
+      "title": "Off the Stage",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 634,
+      "admissions": 2444,
+      "rank": 17,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 714218,
+      "title": "The Killing Performance",
+      "gross": 0.01,
+      "cume": 1.23,
+      "showings": 1106,
+      "admissions": 2485,
+      "rank": 18,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 748663,
+      "title": "Challenge",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 33,
+      "admissions": 1687,
+      "rank": 19,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 747315,
+      "title": "Madame Web",
+      "gross": 0.01,
+      "cume": 0.83,
+      "showings": 543,
+      "admissions": 956,
+      "rank": 20,
+      "days": 9,
+      "day": "2nd Sat"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "movie_id": 694245,
+  "title": "A Teenager's Diary",
+  "releaseDate": "26-04-2023",
+  "entries": [
+    {
+      "date": "26-04-2023",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 30,
+      "admissions": 3495,
+      "days": 12,
+      "day": "1st Wed"
+    },
+    {
+      "date": "27-04-2023",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.06,
+      "showings": 57,
+      "admissions": 7204,
+      "days": 13,
+      "day": "1st Thu"
+    },
+    {
+      "date": "08-05-2023",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 21,
+      "admissions": 2825,
+      "days": 24,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "11-05-2023",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 20,
+      "admissions": 1529,
+      "days": 27,
+      "day": "3rd Thu"
+    }
+  ]
+}

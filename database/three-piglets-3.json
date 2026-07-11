@@ -1,0 +1,67 @@
+{
+  "movie_id": 676103,
+  "title": "Three Piglets 3",
+  "releaseDate": "26-06-2021",
+  "entries": [
+    {
+      "date": "26-06-2021",
+      "rank": 12,
+      "gross": 0.22,
+      "cume": 0.23,
+      "showings": 15295,
+      "admissions": 45181,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-06-2021",
+      "rank": 12,
+      "gross": 0.17,
+      "cume": 0.4,
+      "showings": 12480,
+      "admissions": 35913,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-06-2021",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.44,
+      "showings": 4012,
+      "admissions": 4200,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "30-06-2021",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.46,
+      "showings": 3951,
+      "admissions": 5565,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "01-07-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.47,
+      "showings": 1784,
+      "admissions": 2474,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "02-07-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.49,
+      "showings": 2051,
+      "admissions": 2890,
+      "days": 7,
+      "day": "1st Fri"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "movie_id": 713164,
+  "title": "Clash",
+  "releaseDate": "11-08-2024",
+  "entries": [
+    {
+      "date": "11-08-2024",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 176,
+      "admissions": 3126,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "17-05-2025",
+      "rank": 15,
+      "gross": 0.08,
+      "cume": 0.14,
+      "showings": 18996,
+      "admissions": 15312,
+      "days": 1,
+      "day": "40th Sat"
+    },
+    {
+      "date": "19-05-2025",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 9962,
+      "admissions": 2416,
+      "days": 3,
+      "day": "41st Mon"
+    },
+    {
+      "date": "20-05-2025",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 4595,
+      "admissions": 1558,
+      "days": 4,
+      "day": "41st Tue"
+    }
+  ]
+}

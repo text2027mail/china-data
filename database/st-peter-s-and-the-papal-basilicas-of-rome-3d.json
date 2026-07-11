@@ -1,0 +1,47 @@
+{
+  "movie_id": 666207,
+  "title": "St. Peter's and the Papal Basilicas of Rome 3D",
+  "releaseDate": "15-07-2017",
+  "entries": [
+    {
+      "date": "15-07-2017",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 23,
+      "admissions": 2561,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-07-2017",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.07,
+      "showings": 41,
+      "admissions": 4242,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "19-07-2017",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 23,
+      "admissions": 2641,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "23-07-2017",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 20,
+      "admissions": 2570,
+      "days": 9,
+      "day": "2nd Sun"
+    }
+  ]
+}

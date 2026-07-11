@@ -1,0 +1,67 @@
+{
+  "movie_id": 683564,
+  "title": "Benji",
+  "releaseDate": "28-12-2018",
+  "entries": [
+    {
+      "date": "28-12-2018",
+      "rank": 10,
+      "gross": 0.12,
+      "cume": 0.13,
+      "showings": 19553,
+      "admissions": 28268,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "29-12-2018",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.18,
+      "showings": 2950,
+      "admissions": 14239,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "30-12-2018",
+      "rank": 14,
+      "gross": 0.1,
+      "cume": 0.29,
+      "showings": 2668,
+      "admissions": 24392,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "31-12-2018",
+      "rank": 15,
+      "gross": 0.1,
+      "cume": 0.38,
+      "showings": 1945,
+      "admissions": 22618,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-01-2019",
+      "rank": 14,
+      "gross": 0.1,
+      "cume": 0.48,
+      "showings": 1671,
+      "admissions": 22738,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "02-01-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.49,
+      "showings": 1550,
+      "admissions": 2479,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

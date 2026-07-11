@@ -1,0 +1,97 @@
+{
+  "movie_id": 671358,
+  "title": "The Magic School",
+  "releaseDate": "02-01-2020",
+  "entries": [
+    {
+      "date": "02-01-2020",
+      "rank": 19,
+      "gross": 0.07,
+      "cume": 0.12,
+      "showings": 32,
+      "admissions": 2426,
+      "days": 248,
+      "day": "1st Thu"
+    },
+    {
+      "date": "03-01-2020",
+      "rank": 20,
+      "gross": 0.11,
+      "cume": 0.23,
+      "showings": 21,
+      "admissions": 3072,
+      "days": 249,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-01-2020",
+      "rank": 18,
+      "gross": 0.05,
+      "cume": 0.38,
+      "showings": 60,
+      "admissions": 5916,
+      "days": 260,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "15-01-2020",
+      "rank": 19,
+      "gross": 0.05,
+      "cume": 0.43,
+      "showings": 60,
+      "admissions": 6000,
+      "days": 261,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "16-01-2020",
+      "rank": 20,
+      "gross": 0.05,
+      "cume": 0.48,
+      "showings": 60,
+      "admissions": 6000,
+      "days": 262,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "17-01-2020",
+      "rank": 18,
+      "gross": 0.05,
+      "cume": 0.54,
+      "showings": 60,
+      "admissions": 6000,
+      "days": 263,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "18-01-2020",
+      "rank": 17,
+      "gross": 0.05,
+      "cume": 0.59,
+      "showings": 60,
+      "admissions": 6000,
+      "days": 264,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "19-01-2020",
+      "rank": 16,
+      "gross": 0.06,
+      "cume": 0.65,
+      "showings": 65,
+      "admissions": 6500,
+      "days": 265,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "20-01-2020",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.68,
+      "showings": 68,
+      "admissions": 4106,
+      "days": 266,
+      "day": "3rd Mon"
+    }
+  ]
+}

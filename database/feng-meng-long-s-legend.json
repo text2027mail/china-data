@@ -1,0 +1,37 @@
+{
+  "movie_id": 657277,
+  "title": "Feng Meng Long's Legend",
+  "releaseDate": "30-06-2017",
+  "entries": [
+    {
+      "date": "30-06-2017",
+      "rank": 13,
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 1125,
+      "admissions": 22265,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-07-2017",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.14,
+      "showings": 538,
+      "admissions": 9050,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-07-2017",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.15,
+      "showings": 255,
+      "admissions": 3975,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

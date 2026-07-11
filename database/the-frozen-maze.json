@@ -1,0 +1,67 @@
+{
+  "movie_id": 654238,
+  "title": "The Frozen Maze",
+  "releaseDate": "20-04-2018",
+  "entries": [
+    {
+      "date": "20-04-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1555,
+      "admissions": 2645,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-04-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1311,
+      "admissions": 2984,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-04-2018",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 1153,
+      "admissions": 1384,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-04-2018",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 1093,
+      "admissions": 1410,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-04-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 1070,
+      "admissions": 1184,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "26-04-2018",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 1060,
+      "admissions": 1115,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

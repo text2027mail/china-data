@@ -1,0 +1,67 @@
+{
+  "movie_id": 613851,
+  "title": "My Sassy Hubby",
+  "releaseDate": "01-01-2013",
+  "entries": [
+    {
+      "date": "01-01-2013",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 3.8,
+      "showings": 305,
+      "admissions": 2493,
+      "days": 26,
+      "day": "1st Tue"
+    },
+    {
+      "date": "02-01-2013",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 3.81,
+      "showings": 291,
+      "admissions": 2014,
+      "days": 27,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-01-2013",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 3.82,
+      "showings": 250,
+      "admissions": 1390,
+      "days": 28,
+      "day": "1st Thu"
+    },
+    {
+      "date": "04-01-2013",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 3.82,
+      "showings": 240,
+      "admissions": 1418,
+      "days": 29,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-01-2013",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 3.83,
+      "showings": 237,
+      "admissions": 982,
+      "days": 30,
+      "day": "1st Sat"
+    },
+    {
+      "date": "06-01-2013",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 3.83,
+      "showings": 193,
+      "admissions": 764,
+      "days": 31,
+      "day": "1st Sun"
+    }
+  ]
+}

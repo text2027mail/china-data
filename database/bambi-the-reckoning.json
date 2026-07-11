@@ -1,0 +1,47 @@
+{
+  "movie_id": 852458,
+  "title": "Bambi: The Reckoning",
+  "releaseDate": "06-09-2025",
+  "entries": [
+    {
+      "date": "06-09-2025",
+      "rank": 16,
+      "gross": 0.15,
+      "cume": 0.16,
+      "showings": 18324,
+      "admissions": 26489,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-09-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 8826,
+      "admissions": 3627,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "09-09-2025",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.25,
+      "showings": 8013,
+      "admissions": 3042,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "10-09-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 6697,
+      "admissions": 2576,
+      "days": 5,
+      "day": "1st Wed"
+    }
+  ]
+}

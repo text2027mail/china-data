@@ -1,0 +1,225 @@
+{
+  "date": "01-02-2013",
+  "data": [
+    {
+      "movie_id": 592438,
+      "title": "",
+      "gross": 2.35,
+      "cume": 4.79,
+      "showings": 15591,
+      "admissions": 484520,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 610088,
+      "title": "Skyfall",
+      "gross": 1.6,
+      "cume": 43.4,
+      "showings": 12042,
+      "admissions": 302522,
+      "rank": 2,
+      "days": 12,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 610086,
+      "title": "Roco Kingdom: the Desire of Dragon",
+      "gross": 1.05,
+      "cume": 2.9,
+      "showings": 11840,
+      "admissions": 247812,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 614154,
+      "title": "Balala the Fairies",
+      "gross": 0.86,
+      "cume": 2.18,
+      "showings": 9456,
+      "admissions": 197675,
+      "rank": 4,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 614593,
+      "title": "Hotel Deluxe",
+      "gross": 0.66,
+      "cume": 0.67,
+      "showings": 8475,
+      "admissions": 140465,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 613467,
+      "title": "The Mythical Ark: Adventures in Love & Happiness",
+      "gross": 0.37,
+      "cume": 12.84,
+      "showings": 5838,
+      "admissions": 83901,
+      "rank": 6,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 595639,
+      "title": "The Chrysalis",
+      "gross": 0.22,
+      "cume": 0.22,
+      "showings": 3840,
+      "admissions": 47511,
+      "rank": 7,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 612627,
+      "title": "Bring Happiness Home",
+      "gross": 0.19,
+      "cume": 21.43,
+      "showings": 2805,
+      "admissions": 44187,
+      "rank": 8,
+      "days": 18,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 596765,
+      "title": "Angry Kid",
+      "gross": 0.08,
+      "cume": 0.62,
+      "showings": 1605,
+      "admissions": 17058,
+      "rank": 9,
+      "days": 4,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 573880,
+      "title": "The Grandmasters",
+      "gross": 0.07,
+      "cume": 42.05,
+      "showings": 773,
+      "admissions": 12296,
+      "rank": 10,
+      "days": 25,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 614166,
+      "title": "Mysterious Island 2",
+      "gross": 0.06,
+      "cume": 2.1,
+      "showings": 1368,
+      "admissions": 12766,
+      "rank": 11,
+      "days": 7,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 573367,
+      "title": "CZ12",
+      "gross": 0.05,
+      "cume": 129.83,
+      "showings": 592,
+      "admissions": 9381,
+      "rank": 12,
+      "days": 44,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 614548,
+      "title": "Pororo, The Racing Adventure",
+      "gross": 0.03,
+      "cume": 1.41,
+      "showings": 763,
+      "admissions": 5804,
+      "rank": 13,
+      "days": 8,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 610009,
+      "title": "Lost In Thailand",
+      "gross": 0.03,
+      "cume": 186.49,
+      "showings": 447,
+      "admissions": 5980,
+      "rank": 14,
+      "days": 52,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 605657,
+      "title": "Gone",
+      "gross": 0.01,
+      "cume": 1.11,
+      "showings": 520,
+      "admissions": 3257,
+      "rank": 15,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 596419,
+      "title": "Little Tigers",
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 214,
+      "admissions": 1839,
+      "rank": 16,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 590372,
+      "title": "Jungle Master",
+      "gross": 0.01,
+      "cume": 1.2,
+      "showings": 189,
+      "admissions": 1396,
+      "rank": 17,
+      "days": 14,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 592980,
+      "title": "The Thieves",
+      "gross": 0.0,
+      "cume": 3.26,
+      "showings": 102,
+      "admissions": 531,
+      "rank": 18,
+      "days": 18,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 590337,
+      "title": "The King of Comedy",
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 27,
+      "admissions": 1090,
+      "rank": 19,
+      "days": 18,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 0.38,
+      "showings": 6,
+      "admissions": 395,
+      "rank": 20,
+      "days": 522,
+      "day": "4th Fri"
+    }
+  ]
+}

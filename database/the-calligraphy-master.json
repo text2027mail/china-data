@@ -1,0 +1,27 @@
+{
+  "movie_id": 614591,
+  "title": "The Calligraphy Master",
+  "releaseDate": "10-09-2015",
+  "entries": [
+    {
+      "date": "10-09-2015",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 845,
+      "admissions": 2136,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "15-09-2015",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 181,
+      "admissions": 2065,
+      "days": 6,
+      "day": "1st Tue"
+    }
+  ]
+}

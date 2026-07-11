@@ -1,0 +1,225 @@
+{
+  "date": "20-04-2018",
+  "data": [
+    {
+      "movie_id": 676242,
+      "title": "",
+      "gross": 6.18,
+      "cume": 80.38,
+      "showings": 92529,
+      "admissions": 1191382,
+      "rank": 1,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 642174,
+      "title": "21 Karat",
+      "gross": 2.68,
+      "cume": 2.7,
+      "showings": 64750,
+      "admissions": 596696,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 657862,
+      "title": "Ready Player One",
+      "gross": 1.59,
+      "cume": 186.59,
+      "showings": 29425,
+      "admissions": 306802,
+      "rank": 3,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 643903,
+      "title": "Dude's Manual",
+      "gross": 1.35,
+      "cume": 1.38,
+      "showings": 53529,
+      "admissions": 274407,
+      "rank": 4,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 665003,
+      "title": "Isle of Dogs",
+      "gross": 1.02,
+      "cume": 1.04,
+      "showings": 36311,
+      "admissions": 226105,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 675328,
+      "title": "Annihilation",
+      "gross": 0.22,
+      "cume": 8.04,
+      "showings": 7654,
+      "admissions": 44867,
+      "rank": 6,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 665847,
+      "title": "Hindi Medium",
+      "gross": 0.22,
+      "cume": 29.14,
+      "showings": 7196,
+      "admissions": 47763,
+      "rank": 7,
+      "days": 17,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 675239,
+      "title": "Amazing China",
+      "gross": 0.21,
+      "cume": 69.56,
+      "showings": 1509,
+      "admissions": 45845,
+      "rank": 8,
+      "days": 50,
+      "day": "8th Fri"
+    },
+    {
+      "movie_id": 655823,
+      "title": "Operation Red Sea",
+      "gross": 0.08,
+      "cume": 537.5,
+      "showings": 2468,
+      "admissions": 17635,
+      "rank": 9,
+      "days": 64,
+      "day": "10th Fri"
+    },
+    {
+      "movie_id": 659490,
+      "title": "The Taste of Rice Flower",
+      "gross": 0.05,
+      "cume": 0.06,
+      "showings": 2286,
+      "admissions": 9841,
+      "rank": 10,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 639128,
+      "title": "Where‘s The Dragon？",
+      "gross": 0.02,
+      "cume": 3.09,
+      "showings": 3308,
+      "admissions": 5487,
+      "rank": 11,
+      "days": 911,
+      "day": "131st Fri"
+    },
+    {
+      "movie_id": 639900,
+      "title": "Path to the Dream",
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 415,
+      "admissions": 7635,
+      "rank": 12,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 639863,
+      "title": "The Snow Queen 3: Fire and Ice",
+      "gross": 0.02,
+      "cume": 8.39,
+      "showings": 1345,
+      "admissions": 5142,
+      "rank": 13,
+      "days": 16,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 668536,
+      "title": "Wrath Of Silence",
+      "gross": 0.02,
+      "cume": 7.73,
+      "showings": 826,
+      "admissions": 4176,
+      "rank": 14,
+      "days": 17,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 659536,
+      "title": "Sasha",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2994,
+      "admissions": 4860,
+      "rank": 15,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 657865,
+      "title": "Pacific Rim: Uprising",
+      "gross": 0.02,
+      "cume": 93.33,
+      "showings": 1249,
+      "admissions": 3070,
+      "rank": 16,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 654238,
+      "title": "The Frozen Maze",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1555,
+      "admissions": 2645,
+      "rank": 17,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 673059,
+      "title": "Beyond the mountains",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 222,
+      "admissions": 3366,
+      "rank": 18,
+      "days": 29,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 559929,
+      "title": "I Love Yangge Dance",
+      "gross": 0.01,
+      "cume": 0.58,
+      "showings": 130,
+      "admissions": 1878,
+      "rank": 19,
+      "days": 3806,
+      "day": "10th Fri"
+    },
+    {
+      "movie_id": 674543,
+      "title": "The Commuter",
+      "gross": 0.01,
+      "cume": 6.63,
+      "showings": 380,
+      "admissions": 954,
+      "rank": 20,
+      "days": 22,
+      "day": "4th Fri"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 638261,
+  "title": "Mysterious Face2",
+  "releaseDate": "28-10-2016",
+  "entries": [
+    {
+      "date": "28-10-2016",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 2933,
+      "admissions": 15396,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "29-10-2016",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 0.13,
+      "showings": 2779,
+      "admissions": 18087,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "30-10-2016",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.17,
+      "showings": 2850,
+      "admissions": 12993,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "31-10-2016",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.23,
+      "showings": 3310,
+      "admissions": 13743,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-11-2016",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.25,
+      "showings": 2352,
+      "admissions": 6514,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "02-11-2016",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.27,
+      "showings": 2026,
+      "admissions": 5192,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-11-2016",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 1953,
+      "admissions": 4721,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

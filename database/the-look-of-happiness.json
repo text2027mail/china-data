@@ -1,0 +1,27 @@
+{
+  "movie_id": 706885,
+  "title": "THE LOOK OF HAPPINESS",
+  "releaseDate": "14-08-2024",
+  "entries": [
+    {
+      "date": "14-08-2024",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 12,
+      "admissions": 1360,
+      "days": 10,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-08-2024",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 9,
+      "admissions": 999,
+      "days": 11,
+      "day": "1st Thu"
+    }
+  ]
+}

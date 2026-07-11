@@ -1,0 +1,57 @@
+{
+  "movie_id": 672659,
+  "title": "Record Without Words",
+  "releaseDate": "01-12-2023",
+  "entries": [
+    {
+      "date": "01-12-2023",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.08,
+      "showings": 7419,
+      "admissions": 10067,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "02-12-2023",
+      "rank": 17,
+      "gross": 0.05,
+      "cume": 0.13,
+      "showings": 4440,
+      "admissions": 8501,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-12-2023",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.16,
+      "showings": 5522,
+      "admissions": 6022,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-12-2023",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 3241,
+      "admissions": 1877,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "05-12-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 3067,
+      "admissions": 1859,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

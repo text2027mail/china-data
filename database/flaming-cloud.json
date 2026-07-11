@@ -1,0 +1,67 @@
+{
+  "movie_id": 672982,
+  "title": "Flaming Cloud",
+  "releaseDate": "09-09-2023",
+  "entries": [
+    {
+      "date": "09-09-2023",
+      "rank": 7,
+      "gross": 0.42,
+      "cume": 0.43,
+      "showings": 46473,
+      "admissions": 69348,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-09-2023",
+      "rank": 12,
+      "gross": 0.13,
+      "cume": 0.56,
+      "showings": 18869,
+      "admissions": 21605,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-09-2023",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.6,
+      "showings": 12721,
+      "admissions": 5987,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-09-2023",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 0.62,
+      "showings": 10477,
+      "admissions": 4642,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-09-2023",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.65,
+      "showings": 9328,
+      "admissions": 4233,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-09-2023",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.67,
+      "showings": 8767,
+      "admissions": 3669,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

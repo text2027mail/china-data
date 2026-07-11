@@ -1,0 +1,225 @@
+{
+  "date": "07-03-2013",
+  "data": [
+    {
+      "movie_id": 566700,
+      "title": "",
+      "gross": 1.03,
+      "cume": 1.04,
+      "showings": 14349,
+      "admissions": 188460,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 589797,
+      "title": "Journey to the West: Conquering the Demons",
+      "gross": 0.9,
+      "cume": 174.45,
+      "showings": 13653,
+      "admissions": 156217,
+      "rank": 2,
+      "days": 26,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 341723,
+      "title": "The Hobbit: An Unexpected Journey",
+      "gross": 0.69,
+      "cume": 38.52,
+      "showings": 7914,
+      "admissions": 104134,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 604129,
+      "title": "Stolen",
+      "gross": 0.36,
+      "cume": 4.38,
+      "showings": 8955,
+      "admissions": 79877,
+      "rank": 4,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 555111,
+      "title": "Les Miserables",
+      "gross": 0.34,
+      "cume": 5.4,
+      "showings": 4781,
+      "admissions": 65332,
+      "rank": 5,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 566117,
+      "title": "Dredd",
+      "gross": 0.14,
+      "cume": 3.72,
+      "showings": 4988,
+      "admissions": 26393,
+      "rank": 6,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 592544,
+      "title": "Say Yes",
+      "gross": 0.12,
+      "cume": 29.02,
+      "showings": 3042,
+      "admissions": 25146,
+      "rank": 7,
+      "days": 24,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 596648,
+      "title": "Midnight Microblog",
+      "gross": 0.05,
+      "cume": 0.74,
+      "showings": 2697,
+      "admissions": 10852,
+      "rank": 8,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 611576,
+      "title": "Lift to Hell",
+      "gross": 0.04,
+      "cume": 3.07,
+      "showings": 1603,
+      "admissions": 8946,
+      "rank": 9,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 592550,
+      "title": "The Iron Lady",
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 1301,
+      "admissions": 7029,
+      "rank": 10,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 614864,
+      "title": "Jack Reacher",
+      "gross": 0.03,
+      "cume": 14.22,
+      "showings": 935,
+      "admissions": 5443,
+      "rank": 11,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 609363,
+      "title": "Youthful Days",
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 395,
+      "admissions": 3478,
+      "rank": 12,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 610087,
+      "title": "The Love Flu",
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 1231,
+      "admissions": 2456,
+      "rank": 13,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 615231,
+      "title": "Fall In Love",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 22,
+      "admissions": 1274,
+      "rank": 14,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 608215,
+      "title": "Princess and Seven Kung Fu Masters",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 42,
+      "admissions": 2016,
+      "rank": 15,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 615230,
+      "title": "Happy life of YangGuang",
+      "gross": 0.01,
+      "cume": 0.28,
+      "showings": 443,
+      "admissions": 1315,
+      "rank": 16,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 610355,
+      "title": "Love Retake",
+      "gross": 0.0,
+      "cume": 1.05,
+      "showings": 62,
+      "admissions": 997,
+      "rank": 17,
+      "days": 26,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 473370,
+      "title": "Le Petit Nicolas",
+      "gross": 0.0,
+      "cume": 0.27,
+      "showings": 9,
+      "admissions": 495,
+      "rank": 18,
+      "days": 26,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 614536,
+      "title": "Better And Better",
+      "gross": 0.0,
+      "cume": 4.42,
+      "showings": 84,
+      "admissions": 475,
+      "rank": 19,
+      "days": 26,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 614860,
+      "title": "Shui Hold Zhu Shui",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 14,
+      "admissions": 675,
+      "rank": 20,
+      "days": 26,
+      "day": "4th Thu"
+    }
+  ]
+}

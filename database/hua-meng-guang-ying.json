@@ -1,0 +1,47 @@
+{
+  "movie_id": 696117,
+  "title": "Hua Meng Guang Ying",
+  "releaseDate": "01-03-2021",
+  "entries": [
+    {
+      "date": "01-03-2021",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 67,
+      "admissions": 4230,
+      "days": 25,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-03-2021",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.07,
+      "showings": 67,
+      "admissions": 4230,
+      "days": 26,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-03-2021",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.11,
+      "showings": 70,
+      "admissions": 4302,
+      "days": 27,
+      "day": "1st Wed"
+    },
+    {
+      "date": "04-03-2021",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.14,
+      "showings": 70,
+      "admissions": 4310,
+      "days": 28,
+      "day": "1st Thu"
+    }
+  ]
+}

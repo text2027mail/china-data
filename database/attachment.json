@@ -1,0 +1,37 @@
+{
+  "movie_id": 734295,
+  "title": "Attachment",
+  "releaseDate": "16-12-2022",
+  "entries": [
+    {
+      "date": "16-12-2022",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 17,
+      "admissions": 345,
+      "days": 11,
+      "day": "1st Fri"
+    },
+    {
+      "date": "17-12-2022",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 17,
+      "admissions": 317,
+      "days": 12,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-01-2023",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 2,
+      "admissions": 112,
+      "days": 47,
+      "day": "6th Sat"
+    }
+  ]
+}

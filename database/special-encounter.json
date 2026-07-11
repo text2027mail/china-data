@@ -1,0 +1,97 @@
+{
+  "movie_id": 642158,
+  "title": "Special Encounter",
+  "releaseDate": "16-05-2017",
+  "entries": [
+    {
+      "date": "16-05-2017",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 8,
+      "admissions": 1052,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-05-2017",
+      "rank": 7,
+      "gross": 0.33,
+      "cume": 0.34,
+      "showings": 15449,
+      "admissions": 73450,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-05-2017",
+      "rank": 7,
+      "gross": 0.52,
+      "cume": 0.86,
+      "showings": 12425,
+      "admissions": 112023,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-05-2017",
+      "rank": 9,
+      "gross": 0.25,
+      "cume": 1.11,
+      "showings": 10907,
+      "admissions": 53847,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-05-2017",
+      "rank": 8,
+      "gross": 0.1,
+      "cume": 1.21,
+      "showings": 9962,
+      "admissions": 22455,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-05-2017",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 1.31,
+      "showings": 9357,
+      "admissions": 19667,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "24-05-2017",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 1.39,
+      "showings": 8965,
+      "admissions": 17735,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "25-05-2017",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 1.46,
+      "showings": 8633,
+      "admissions": 14461,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "26-05-2017",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 1.47,
+      "showings": 2423,
+      "admissions": 2830,
+      "days": 8,
+      "day": "2nd Fri"
+    }
+  ]
+}

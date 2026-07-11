@@ -1,0 +1,47 @@
+{
+  "movie_id": 179,
+  "title": "Cheng feng po lang",
+  "releaseDate": "28-01-2017",
+  "entries": [
+    {
+      "date": "28-01-2017",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 130,
+      "admissions": 6857,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-01-2017",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.06,
+      "showings": 108,
+      "admissions": 5136,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-01-2017",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 83,
+      "admissions": 4123,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-01-2017",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 31,
+      "admissions": 1317,
+      "days": null,
+      "day": "1st Tue"
+    }
+  ]
+}

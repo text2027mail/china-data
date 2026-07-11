@@ -1,0 +1,225 @@
+{
+  "date": "29-11-2017",
+  "data": [
+    {
+      "movie_id": 670102,
+      "title": "",
+      "gross": 3.54,
+      "cume": 27.2,
+      "showings": 61902,
+      "admissions": 713451,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 349187,
+      "title": "Justice League",
+      "gross": 1.47,
+      "cume": 86.78,
+      "showings": 56247,
+      "admissions": 286636,
+      "rank": 2,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 637776,
+      "title": "Manhunt",
+      "gross": 0.85,
+      "cume": 13.75,
+      "showings": 47672,
+      "admissions": 175655,
+      "rank": 3,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 643292,
+      "title": "Explosion",
+      "gross": 0.52,
+      "cume": 6.42,
+      "showings": 29512,
+      "admissions": 120017,
+      "rank": 4,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 669767,
+      "title": "Angels Wear White",
+      "gross": 0.22,
+      "cume": 2.67,
+      "showings": 13565,
+      "admissions": 47031,
+      "rank": 5,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 643330,
+      "title": "Family of Winners",
+      "gross": 0.17,
+      "cume": 0.51,
+      "showings": 6424,
+      "admissions": 26558,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 644134,
+      "title": "Thor: Ragnarok",
+      "gross": 0.17,
+      "cume": 109.15,
+      "showings": 7147,
+      "admissions": 33275,
+      "rank": 7,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 659759,
+      "title": "Murder on the Orient Express",
+      "gross": 0.12,
+      "cume": 33.11,
+      "showings": 4739,
+      "admissions": 25332,
+      "rank": 8,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 666423,
+      "title": "The Golden Monk",
+      "gross": 0.12,
+      "cume": 13.0,
+      "showings": 8722,
+      "admissions": 25253,
+      "rank": 9,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 618581,
+      "title": "Seventy-seven Days",
+      "gross": 0.07,
+      "cume": 12.4,
+      "showings": 3096,
+      "admissions": 15036,
+      "rank": 10,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 612268,
+      "title": "Pao Cai",
+      "gross": 0.07,
+      "cume": 0.52,
+      "showings": 106,
+      "admissions": 12229,
+      "rank": 11,
+      "days": 1193,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 661004,
+      "title": "Never Say Die",
+      "gross": 0.05,
+      "cume": 324.56,
+      "showings": 1881,
+      "admissions": 9550,
+      "rank": 12,
+      "days": 61,
+      "day": "10th Wed"
+    },
+    {
+      "movie_id": 659563,
+      "title": "Inference Notes",
+      "gross": 0.04,
+      "cume": 1.46,
+      "showings": 10447,
+      "admissions": 9446,
+      "rank": 13,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 594269,
+      "title": "The Chinese Widow",
+      "gross": 0.04,
+      "cume": 4.12,
+      "showings": 113,
+      "admissions": 5139,
+      "rank": 14,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 669931,
+      "title": "The Frontier Wairriors",
+      "gross": 0.04,
+      "cume": 0.78,
+      "showings": 51,
+      "admissions": 7809,
+      "rank": 15,
+      "days": 44,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 666361,
+      "title": "HHhH",
+      "gross": 0.03,
+      "cume": 0.53,
+      "showings": 3530,
+      "admissions": 7162,
+      "rank": 16,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 640829,
+      "title": "Mr. No Problem",
+      "gross": 0.03,
+      "cume": 1.0,
+      "showings": 1216,
+      "admissions": 5997,
+      "rank": 17,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 666742,
+      "title": "Spirit Touch Seventh Senses",
+      "gross": 0.03,
+      "cume": 0.38,
+      "showings": 3132,
+      "admissions": 7284,
+      "rank": 18,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 662824,
+      "title": "All the Way to Bloom",
+      "gross": 0.03,
+      "cume": 0.84,
+      "showings": 403,
+      "admissions": 5527,
+      "rank": 19,
+      "days": 7,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 670581,
+      "title": "A Better Tomorrow",
+      "gross": 0.02,
+      "cume": 4.75,
+      "showings": 1923,
+      "admissions": 4993,
+      "rank": 20,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 612422,
+  "title": "21 & Over",
+  "releaseDate": "21-11-2014",
+  "entries": [
+    {
+      "date": "21-11-2014",
+      "rank": 10,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 4571,
+      "admissions": 11442,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-11-2014",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.12,
+      "showings": 3613,
+      "admissions": 14666,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-11-2014",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 0.17,
+      "showings": 3063,
+      "admissions": 11436,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "24-11-2014",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.19,
+      "showings": 2881,
+      "admissions": 4962,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "25-11-2014",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.21,
+      "showings": 2541,
+      "admissions": 4864,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "26-11-2014",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.23,
+      "showings": 2329,
+      "admissions": 4056,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "27-11-2014",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.25,
+      "showings": 2134,
+      "admissions": 3812,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

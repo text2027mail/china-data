@@ -1,0 +1,87 @@
+{
+  "movie_id": 641088,
+  "title": "The Road Not Taken",
+  "releaseDate": "06-09-2018",
+  "entries": [
+    {
+      "date": "06-09-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 8,
+      "admissions": 1181,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "14-09-2018",
+      "rank": 5,
+      "gross": 0.35,
+      "cume": 0.38,
+      "showings": 26024,
+      "admissions": 71132,
+      "days": 1,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "15-09-2018",
+      "rank": 8,
+      "gross": 0.27,
+      "cume": 0.66,
+      "showings": 16200,
+      "admissions": 55775,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "16-09-2018",
+      "rank": 9,
+      "gross": 0.18,
+      "cume": 0.83,
+      "showings": 13370,
+      "admissions": 36526,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "17-09-2018",
+      "rank": 8,
+      "gross": 0.07,
+      "cume": 0.9,
+      "showings": 11885,
+      "admissions": 14198,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "18-09-2018",
+      "rank": 8,
+      "gross": 0.06,
+      "cume": 0.96,
+      "showings": 11126,
+      "admissions": 12559,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "19-09-2018",
+      "rank": 8,
+      "gross": 0.05,
+      "cume": 1.01,
+      "showings": 10449,
+      "admissions": 11210,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "20-09-2018",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 1.06,
+      "showings": 9986,
+      "admissions": 9506,
+      "days": 7,
+      "day": "3rd Thu"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 794714,
+  "title": "2025 Japan Film Exhibition",
+  "releaseDate": "12-04-2025",
+  "entries": [
+    {
+      "date": "12-04-2025",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 2,
+      "admissions": 1779,
+      "days": 10,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-04-2025",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 2,
+      "admissions": 2016,
+      "days": 11,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-04-2025",
+      "rank": 20,
+      "gross": 0.04,
+      "cume": 0.14,
+      "showings": 3,
+      "admissions": 3000,
+      "days": 18,
+      "day": "2nd Sun"
+    }
+  ]
+}

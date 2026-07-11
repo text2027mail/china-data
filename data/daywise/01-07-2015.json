@@ -1,0 +1,225 @@
+{
+  "date": "01-07-2015",
+  "data": [
+    {
+      "movie_id": 629494,
+      "title": "",
+      "gross": 2.85,
+      "cume": 35.22,
+      "showings": 43838,
+      "admissions": 569976,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 348959,
+      "title": "Jurassic World",
+      "gross": 2.28,
+      "cume": 193.1,
+      "showings": 27329,
+      "admissions": 407635,
+      "rank": 2,
+      "days": 22,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 617809,
+      "title": "SPL 2: A Time For Consequences",
+      "gross": 1.78,
+      "cume": 73.76,
+      "showings": 26289,
+      "admissions": 332493,
+      "rank": 3,
+      "days": 14,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 633304,
+      "title": "San Andreas",
+      "gross": 0.52,
+      "cume": 92.91,
+      "showings": 6002,
+      "admissions": 96968,
+      "rank": 4,
+      "days": 30,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 631828,
+      "title": "Insurgent",
+      "gross": 0.31,
+      "cume": 15.49,
+      "showings": 5863,
+      "admissions": 56338,
+      "rank": 5,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 618612,
+      "title": "I Am Somebody",
+      "gross": 0.24,
+      "cume": 0.55,
+      "showings": 505,
+      "admissions": 54264,
+      "rank": 6,
+      "days": null,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 628433,
+      "title": "Begin Again",
+      "gross": 0.21,
+      "cume": 1.23,
+      "showings": 3105,
+      "admissions": 41469,
+      "rank": 7,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 629440,
+      "title": "Twilight Online",
+      "gross": 0.14,
+      "cume": 1.08,
+      "showings": 4356,
+      "admissions": 32507,
+      "rank": 8,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 630556,
+      "title": "The Three Pigs and the Lamp",
+      "gross": 0.12,
+      "cume": 2.16,
+      "showings": 4936,
+      "admissions": 28114,
+      "rank": 9,
+      "days": 5,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 627027,
+      "title": "The Ark Of Mr.Chow",
+      "gross": 0.09,
+      "cume": 7.36,
+      "showings": 3447,
+      "admissions": 18316,
+      "rank": 10,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 639355,
+      "title": "Silently Love",
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 2152,
+      "admissions": 16530,
+      "rank": 11,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 627626,
+      "title": "Mr. Deng Goes to Washington",
+      "gross": 0.07,
+      "cume": 2.31,
+      "showings": 235,
+      "admissions": 14076,
+      "rank": 12,
+      "days": 48,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 627601,
+      "title": "Where the Wind Settles",
+      "gross": 0.06,
+      "cume": 0.35,
+      "showings": 2658,
+      "admissions": 12040,
+      "rank": 13,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 658947,
+      "title": "Beijing international film festival screening of imports",
+      "gross": 0.04,
+      "cume": 0.35,
+      "showings": 5,
+      "admissions": 101,
+      "rank": 14,
+      "days": null,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 573457,
+      "title": "Laowu’s Oscar",
+      "gross": 0.04,
+      "cume": 0.91,
+      "showings": 120,
+      "admissions": 14875,
+      "rank": 15,
+      "days": 2337,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 587871,
+      "title": "Lets fall in love",
+      "gross": 0.04,
+      "cume": 0.65,
+      "showings": 121,
+      "admissions": 14868,
+      "rank": 16,
+      "days": 2008,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 638413,
+      "title": "Love Me Love My Dog",
+      "gross": 0.04,
+      "cume": 3.5,
+      "showings": 1503,
+      "admissions": 10566,
+      "rank": 17,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 573595,
+      "title": "Hear Me",
+      "gross": 0.04,
+      "cume": 0.32,
+      "showings": 2198,
+      "admissions": 8315,
+      "rank": 18,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 638997,
+      "title": "The Adventures of Little Piglet Banna",
+      "gross": 0.03,
+      "cume": 0.46,
+      "showings": 2333,
+      "admissions": 7055,
+      "rank": 19,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 627562,
+      "title": "Admission by Guts",
+      "gross": 0.02,
+      "cume": 1.19,
+      "showings": 1049,
+      "admissions": 4245,
+      "rank": 20,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

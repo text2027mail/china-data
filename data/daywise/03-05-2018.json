@@ -1,0 +1,225 @@
+{
+  "date": "03-05-2018",
+  "data": [
+    {
+      "movie_id": 663327,
+      "title": "",
+      "gross": 7.77,
+      "cume": 155.4,
+      "showings": 127648,
+      "admissions": 1550194,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 669662,
+      "title": "A or B",
+      "gross": 2.44,
+      "cume": 34.53,
+      "showings": 57298,
+      "admissions": 471472,
+      "rank": 2,
+      "days": 6,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 676242,
+      "title": "Rampage",
+      "gross": 1.29,
+      "cume": 133.1,
+      "showings": 36983,
+      "admissions": 250004,
+      "rank": 3,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 657862,
+      "title": "Ready Player One",
+      "gross": 0.34,
+      "cume": 202.05,
+      "showings": 9906,
+      "admissions": 64196,
+      "rank": 4,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 661851,
+      "title": "The Trough",
+      "gross": 0.2,
+      "cume": 4.49,
+      "showings": 16513,
+      "admissions": 37716,
+      "rank": 5,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 643724,
+      "title": "Genghis khan",
+      "gross": 0.16,
+      "cume": 5.13,
+      "showings": 17139,
+      "admissions": 32457,
+      "rank": 6,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 642174,
+      "title": "21 Karat",
+      "gross": 0.05,
+      "cume": 15.97,
+      "showings": 3537,
+      "admissions": 11532,
+      "rank": 7,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 667137,
+      "title": "Mary and The Witch's Flower",
+      "gross": 0.04,
+      "cume": 2.19,
+      "showings": 6154,
+      "admissions": 8998,
+      "rank": 8,
+      "days": 6,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 665003,
+      "title": "Isle of Dogs",
+      "gross": 0.04,
+      "cume": 5.99,
+      "showings": 1561,
+      "admissions": 6447,
+      "rank": 9,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 675239,
+      "title": "Amazing China",
+      "gross": 0.02,
+      "cume": 70.47,
+      "showings": 352,
+      "admissions": 4049,
+      "rank": 10,
+      "days": 63,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 638936,
+      "title": "Midnight Ⅻ",
+      "gross": 0.02,
+      "cume": 0.2,
+      "showings": 1399,
+      "admissions": 4422,
+      "rank": 11,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 669155,
+      "title": "Screaming live",
+      "gross": 0.02,
+      "cume": 0.42,
+      "showings": 451,
+      "admissions": 4593,
+      "rank": 12,
+      "days": 5,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 653330,
+      "title": "Baahubali 2: The Conclusion",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 286,
+      "admissions": 3186,
+      "rank": 13,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 673059,
+      "title": "Beyond the mountains",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 85,
+      "admissions": 2741,
+      "rank": 14,
+      "days": 42,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 665847,
+      "title": "Hindi Medium",
+      "gross": 0.01,
+      "cume": 30.94,
+      "showings": 958,
+      "admissions": 3093,
+      "rank": 15,
+      "days": 30,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 675328,
+      "title": "Annihilation",
+      "gross": 0.01,
+      "cume": 9.66,
+      "showings": 542,
+      "admissions": 2064,
+      "rank": 16,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 655866,
+      "title": "Tomorrow Is Another Day",
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 1676,
+      "admissions": 2261,
+      "rank": 17,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 667611,
+      "title": "Gu Zhen Hua Qing",
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 137,
+      "admissions": 1750,
+      "rank": 18,
+      "days": null,
+      "day": "11th Thu"
+    },
+    {
+      "movie_id": 619427,
+      "title": "Hongkong Rescue",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 41,
+      "admissions": 1951,
+      "rank": 19,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639863,
+      "title": "The Snow Queen 3: Fire and Ice",
+      "gross": 0.01,
+      "cume": 9.81,
+      "showings": 955,
+      "admissions": 1406,
+      "rank": 20,
+      "days": 29,
+      "day": "5th Thu"
+    }
+  ]
+}

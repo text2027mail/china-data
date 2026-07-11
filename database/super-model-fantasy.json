@@ -1,0 +1,27 @@
+{
+  "movie_id": 680404,
+  "title": "Super Model Fantasy",
+  "releaseDate": "19-10-2018",
+  "entries": [
+    {
+      "date": "19-10-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 5551,
+      "admissions": 3148,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-06-2019",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.09,
+      "showings": 7450,
+      "admissions": 13655,
+      "days": 239,
+      "day": "35th Fri"
+    }
+  ]
+}

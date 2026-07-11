@@ -1,0 +1,225 @@
+{
+  "date": "10-02-2022",
+  "data": [
+    {
+      "movie_id": 709649,
+      "title": "",
+      "gross": 13.67,
+      "cume": 453.49,
+      "showings": 121895,
+      "admissions": 2061361,
+      "rank": 1,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 708179,
+      "title": "Too Cool To Kill",
+      "gross": 10.81,
+      "cume": 266.02,
+      "showings": 104323,
+      "admissions": 1629196,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 706338,
+      "title": "Nice View",
+      "gross": 6.14,
+      "cume": 131.47,
+      "showings": 69762,
+      "admissions": 935010,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 4.2,
+      "cume": 106.74,
+      "showings": 42215,
+      "admissions": 660936,
+      "rank": 4,
+      "days": 10,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 2.88,
+      "cume": 54.6,
+      "showings": 46270,
+      "admissions": 459814,
+      "rank": 5,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 709374,
+      "title": "DUNK FOR FUTURE",
+      "gross": 0.78,
+      "cume": 18.58,
+      "showings": 14777,
+      "admissions": 132294,
+      "rank": 6,
+      "days": 10,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 706238,
+      "title": "Only Fools Rush In",
+      "gross": 0.71,
+      "cume": 74.21,
+      "showings": 17558,
+      "admissions": 106638,
+      "rank": 7,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 708482,
+      "title": "Paw Patrol: The Movie",
+      "gross": 0.05,
+      "cume": 11.55,
+      "showings": 1280,
+      "admissions": 9521,
+      "rank": 8,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 697513,
+      "title": "Run,Tiger Run!",
+      "gross": 0.04,
+      "cume": 2.83,
+      "showings": 3018,
+      "admissions": 7162,
+      "rank": 9,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 709926,
+      "title": "Crossing the Yalu River",
+      "gross": 0.04,
+      "cume": 14.85,
+      "showings": 373,
+      "admissions": 7471,
+      "rank": 10,
+      "days": 56,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 702937,
+      "title": "WILD KID2",
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 222,
+      "admissions": 3764,
+      "rank": 11,
+      "days": 45,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 702945,
+      "title": "The Past Time",
+      "gross": 0.02,
+      "cume": 0.49,
+      "showings": 115,
+      "admissions": 2432,
+      "rank": 12,
+      "days": 49,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 701949,
+      "title": "Don't forget I love you",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 16,
+      "admissions": 1720,
+      "rank": 13,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 710368,
+      "title": "The Matrix Resurrections",
+      "gross": 0.01,
+      "cume": 12.61,
+      "showings": 125,
+      "admissions": 1148,
+      "rank": 14,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 702084,
+      "title": "BACK TO LOVE",
+      "gross": 0.01,
+      "cume": 3.42,
+      "showings": 145,
+      "admissions": 1842,
+      "rank": 15,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 702894,
+      "title": "A Girl And Her Beea",
+      "gross": 0.01,
+      "cume": 0.47,
+      "showings": 16,
+      "admissions": 1383,
+      "rank": 16,
+      "days": 45,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 702083,
+      "title": "Confusion",
+      "gross": 0.01,
+      "cume": 1.45,
+      "showings": 9,
+      "admissions": 1804,
+      "rank": 17,
+      "days": 75,
+      "day": "11th Thu"
+    },
+    {
+      "movie_id": 692826,
+      "title": "My P.E. Teacher",
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 101,
+      "admissions": 1635,
+      "rank": 18,
+      "days": 35,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.01,
+      "cume": 7.88,
+      "showings": 44,
+      "admissions": 1859,
+      "rank": 19,
+      "days": 207,
+      "day": "31st Thu"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.01,
+      "cume": 4.79,
+      "showings": 17,
+      "admissions": 748,
+      "rank": 20,
+      "days": 189,
+      "day": "29th Thu"
+    }
+  ]
+}

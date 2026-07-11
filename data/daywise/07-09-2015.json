@@ -1,0 +1,225 @@
+{
+  "date": "07-09-2015",
+  "data": [
+    {
+      "movie_id": 636000,
+      "title": "",
+      "gross": 1.38,
+      "cume": 1.38,
+      "showings": 4321,
+      "admissions": 268877,
+      "rank": 1,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 631839,
+      "title": "Terminator: Genisys",
+      "gross": 1.28,
+      "cume": 103.87,
+      "showings": 33909,
+      "admissions": 232110,
+      "rank": 2,
+      "days": 16,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 617356,
+      "title": "The Dead End",
+      "gross": 1.22,
+      "cume": 40.64,
+      "showings": 29268,
+      "admissions": 263023,
+      "rank": 3,
+      "days": 12,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 627896,
+      "title": "Monster Hunt",
+      "gross": 0.42,
+      "cume": 357.23,
+      "showings": 5340,
+      "admissions": 56862,
+      "rank": 4,
+      "days": 54,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 615796,
+      "title": "Office",
+      "gross": 0.31,
+      "cume": 6.69,
+      "showings": 16868,
+      "admissions": 60144,
+      "rank": 5,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 639056,
+      "title": "The Hundred Regiments Offensive",
+      "gross": 0.25,
+      "cume": 57.65,
+      "showings": 6984,
+      "admissions": 56856,
+      "rank": 6,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 638757,
+      "title": "All You Need Is Love",
+      "gross": 0.22,
+      "cume": 1.56,
+      "showings": 10913,
+      "admissions": 48122,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 637578,
+      "title": "Go Away Mr. Tumour",
+      "gross": 0.17,
+      "cume": 74.95,
+      "showings": 5392,
+      "admissions": 34581,
+      "rank": 8,
+      "days": 26,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 7954,
+      "title": "The Assassin",
+      "gross": 0.13,
+      "cume": 8.74,
+      "showings": 3552,
+      "admissions": 24690,
+      "rank": 9,
+      "days": 12,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 627938,
+      "title": "Cairo Declaration",
+      "gross": 0.12,
+      "cume": 0.95,
+      "showings": 1382,
+      "admissions": 15755,
+      "rank": 10,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 629560,
+      "title": "The Honey Enemy",
+      "gross": 0.08,
+      "cume": 1.42,
+      "showings": 5102,
+      "admissions": 17687,
+      "rank": 11,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 591859,
+      "title": "Xiao Gui Zhi Duo Xing",
+      "gross": 0.06,
+      "cume": 0.68,
+      "showings": 87,
+      "admissions": 11034,
+      "rank": 12,
+      "days": 1346,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 594616,
+      "title": "A Story Behind the Mountain",
+      "gross": 0.06,
+      "cume": 0.68,
+      "showings": 88,
+      "admissions": 10965,
+      "rank": 13,
+      "days": null,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 552015,
+      "title": "Amazonia",
+      "gross": 0.05,
+      "cume": 1.68,
+      "showings": 6002,
+      "admissions": 9693,
+      "rank": 14,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 630112,
+      "title": "Bedside Cry",
+      "gross": 0.04,
+      "cume": 0.36,
+      "showings": 2849,
+      "admissions": 11007,
+      "rank": 15,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 627946,
+      "title": "The Old Cinderella 2",
+      "gross": 0.03,
+      "cume": 1.18,
+      "showings": 3753,
+      "admissions": 6649,
+      "rank": 16,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 630887,
+      "title": "Monkey King：Hero is Back",
+      "gross": 0.03,
+      "cume": 141.11,
+      "showings": 1814,
+      "admissions": 5925,
+      "rank": 17,
+      "days": 60,
+      "day": "11th Mon"
+    },
+    {
+      "movie_id": 639404,
+      "title": "Enchanted Mirror Romance",
+      "gross": 0.01,
+      "cume": 2.04,
+      "showings": 4680,
+      "admissions": 3080,
+      "rank": 18,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 638759,
+      "title": "The Dawns Here Are Quiet",
+      "gross": 0.01,
+      "cume": 0.99,
+      "showings": 462,
+      "admissions": 2712,
+      "rank": 19,
+      "days": 14,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 617154,
+      "title": "Tale of Three Cities",
+      "gross": 0.01,
+      "cume": 1.79,
+      "showings": 688,
+      "admissions": 2075,
+      "rank": 20,
+      "days": 12,
+      "day": "2nd Mon"
+    }
+  ]
+}

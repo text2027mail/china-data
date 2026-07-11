@@ -1,0 +1,225 @@
+{
+  "date": "27-03-2016",
+  "data": [
+    {
+      "movie_id": 643388,
+      "title": "",
+      "gross": 14.33,
+      "cume": 55.04,
+      "showings": 79701,
+      "admissions": 2761695,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 643235,
+      "title": "Zootopia",
+      "gross": 6.34,
+      "cume": 191.72,
+      "showings": 36342,
+      "admissions": 1325626,
+      "rank": 2,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 642886,
+      "title": "The Revenant",
+      "gross": 2.1,
+      "cume": 49.1,
+      "showings": 19865,
+      "admissions": 459027,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 7861,
+      "title": "Behind The Yellow Line",
+      "gross": 0.34,
+      "cume": 1.1,
+      "showings": 7623,
+      "admissions": 83907,
+      "rank": 4,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 637664,
+      "title": "The Rise of A Tomboy",
+      "gross": 0.27,
+      "cume": 8.57,
+      "showings": 6017,
+      "admissions": 64338,
+      "rank": 5,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 643426,
+      "title": "Gods of Egypt",
+      "gross": 0.14,
+      "cume": 34.14,
+      "showings": 2597,
+      "admissions": 26233,
+      "rank": 6,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 642966,
+      "title": "Fear is coming",
+      "gross": 0.12,
+      "cume": 0.49,
+      "showings": 4030,
+      "admissions": 31595,
+      "rank": 7,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 610219,
+      "title": "Ip Man 3",
+      "gross": 0.1,
+      "cume": 113.37,
+      "showings": 1980,
+      "admissions": 17389,
+      "rank": 8,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 327746,
+      "title": "Eddie the Eagle",
+      "gross": 0.09,
+      "cume": 0.94,
+      "showings": 808,
+      "admissions": 21044,
+      "rank": 9,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 626153,
+      "title": "The Mermaid",
+      "gross": 0.09,
+      "cume": 499.99,
+      "showings": 1549,
+      "admissions": 16554,
+      "rank": 10,
+      "days": 49,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 639351,
+      "title": "Kung Fu Panda 3",
+      "gross": 0.07,
+      "cume": 147.18,
+      "showings": 370,
+      "admissions": 15293,
+      "rank": 11,
+      "days": 59,
+      "day": "10th Sun"
+    },
+    {
+      "movie_id": 643407,
+      "title": "Girls' Generation",
+      "gross": 0.06,
+      "cume": 0.25,
+      "showings": 4826,
+      "admissions": 14401,
+      "rank": 12,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 592975,
+      "title": "Easy Life",
+      "gross": 0.04,
+      "cume": 0.19,
+      "showings": 3236,
+      "admissions": 9957,
+      "rank": 13,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 626499,
+      "title": "Hui Ma Ting",
+      "gross": 0.04,
+      "cume": 0.2,
+      "showings": 1402,
+      "admissions": 8134,
+      "rank": 14,
+      "days": 18,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 642433,
+      "title": "Space Panda Hero Returns",
+      "gross": 0.04,
+      "cume": 0.2,
+      "showings": 1375,
+      "admissions": 8020,
+      "rank": 15,
+      "days": null,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 617763,
+      "title": "Chongqing Hot Pot",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 10,
+      "admissions": 1581,
+      "rank": 16,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 642530,
+      "title": "The White-haired Girl",
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 2314,
+      "admissions": 3532,
+      "rank": 17,
+      "days": 3,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 616345,
+      "title": "Wo He Wo Men",
+      "gross": 0.02,
+      "cume": 0.57,
+      "showings": 34,
+      "admissions": 2925,
+      "rank": 18,
+      "days": 678,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 637884,
+      "title": "Shui Mo Da Bie Shan",
+      "gross": 0.02,
+      "cume": 0.57,
+      "showings": 30,
+      "admissions": 2909,
+      "rank": 19,
+      "days": 221,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 637810,
+      "title": "Who Sleeps My Bro",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 37,
+      "admissions": 3157,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

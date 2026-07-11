@@ -1,0 +1,225 @@
+{
+  "date": "28-03-2021",
+  "data": [
+    {
+      "movie_id": 696413,
+      "title": "",
+      "gross": 20.21,
+      "cume": 67.77,
+      "showings": 202850,
+      "admissions": 3558805,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 662746,
+      "title": "Hi, Mom",
+      "gross": 1.19,
+      "cume": 792.74,
+      "showings": 37140,
+      "admissions": 218216,
+      "rank": 2,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 303851,
+      "title": "Avatar",
+      "gross": 1.17,
+      "cume": 247.42,
+      "showings": 30057,
+      "admissions": 253039,
+      "rank": 3,
+      "days": 4102,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 701866,
+      "title": "End Game",
+      "gross": 0.64,
+      "cume": 110.55,
+      "showings": 20858,
+      "admissions": 114434,
+      "rank": 4,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 704568,
+      "title": "Raya and The Last Dragon",
+      "gross": 0.41,
+      "cume": 17.98,
+      "showings": 13702,
+      "admissions": 78874,
+      "rank": 5,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 676314,
+      "title": "Detective Chinatown 3",
+      "gross": 0.32,
+      "cume": 666.16,
+      "showings": 11193,
+      "admissions": 58448,
+      "rank": 6,
+      "days": 45,
+      "day": "62nd Sun"
+    },
+    {
+      "movie_id": 703252,
+      "title": "Persian Lessons",
+      "gross": 0.29,
+      "cume": 3.38,
+      "showings": 6594,
+      "admissions": 51102,
+      "rank": 7,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 695236,
+      "title": "Boonie Bears:The Wild Life",
+      "gross": 0.24,
+      "cume": 87.45,
+      "showings": 8119,
+      "admissions": 47419,
+      "rank": 8,
+      "days": 45,
+      "day": "65th Sun"
+    },
+    {
+      "movie_id": 693143,
+      "title": "New Gods:Nezha Reborn",
+      "gross": 0.22,
+      "cume": 67.15,
+      "showings": 7523,
+      "admissions": 42634,
+      "rank": 9,
+      "days": 45,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 696122,
+      "title": "Warrior of China",
+      "gross": 0.18,
+      "cume": 0.89,
+      "showings": 218,
+      "admissions": 24405,
+      "rank": 10,
+      "days": 10,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 644881,
+      "title": "A Writer‘s Odyssey",
+      "gross": 0.18,
+      "cume": 152.26,
+      "showings": 6503,
+      "admissions": 30241,
+      "rank": 11,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 682059,
+      "title": "21 Bridges",
+      "gross": 0.15,
+      "cume": 3.79,
+      "showings": 7555,
+      "admissions": 27364,
+      "rank": 12,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 565993,
+      "title": "Tom and Jerry",
+      "gross": 0.05,
+      "cume": 15.33,
+      "showings": 2174,
+      "admissions": 10992,
+      "rank": 13,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 678591,
+      "title": "SISTER",
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 85,
+      "admissions": 8897,
+      "rank": 14,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 673322,
+      "title": "Informal Love",
+      "gross": 0.04,
+      "cume": 0.24,
+      "showings": 9986,
+      "admissions": 8065,
+      "rank": 15,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 701879,
+      "title": "Da Shi",
+      "gross": 0.04,
+      "cume": 0.38,
+      "showings": 130,
+      "admissions": 9693,
+      "rank": 16,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 683765,
+      "title": "The Blue Cappuccino",
+      "gross": 0.02,
+      "cume": 0.2,
+      "showings": 22,
+      "admissions": 3950,
+      "rank": 17,
+      "days": 66,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 696069,
+      "title": "Tracing Her Shadow",
+      "gross": 0.02,
+      "cume": 0.68,
+      "showings": 1182,
+      "admissions": 3811,
+      "rank": 18,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 705222,
+      "title": "Cheers",
+      "gross": 0.02,
+      "cume": 1.06,
+      "showings": 29,
+      "admissions": 3511,
+      "rank": 19,
+      "days": 43,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 686385,
+      "title": "Swan Lake & the ugly duckling",
+      "gross": 0.02,
+      "cume": 0.25,
+      "showings": 23,
+      "admissions": 3559,
+      "rank": 20,
+      "days": 52,
+      "day": "5th Sun"
+    }
+  ]
+}

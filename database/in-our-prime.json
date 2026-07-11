@@ -1,0 +1,87 @@
+{
+  "movie_id": 703495,
+  "title": "In Our Prime",
+  "releaseDate": "31-10-2023",
+  "entries": [
+    {
+      "date": "31-10-2023",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 10,
+      "admissions": 1540,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-11-2023",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 0.09,
+      "showings": 25537,
+      "admissions": 11196,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "04-11-2023",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.12,
+      "showings": 7247,
+      "admissions": 6287,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "05-11-2023",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 5670,
+      "admissions": 3265,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "06-11-2023",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 3848,
+      "admissions": 1197,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "07-11-2023",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 3618,
+      "admissions": 912,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "08-11-2023",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.16,
+      "showings": 1353,
+      "admissions": 800,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "09-11-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 2568,
+      "admissions": 1058,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

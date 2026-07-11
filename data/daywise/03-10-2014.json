@@ -1,0 +1,225 @@
+{
+  "date": "03-10-2014",
+  "data": [
+    {
+      "movie_id": 618111,
+      "title": "",
+      "gross": 14.64,
+      "cume": 69.23,
+      "showings": 48460,
+      "admissions": 2861002,
+      "rank": 1,
+      "days": 4,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 618013,
+      "title": "Black",
+      "gross": 3.72,
+      "cume": 12.69,
+      "showings": 22958,
+      "admissions": 675529,
+      "rank": 2,
+      "days": 3,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 618441,
+      "title": "Dearest",
+      "gross": 2.32,
+      "cume": 28.19,
+      "showings": 13904,
+      "admissions": 457290,
+      "rank": 3,
+      "days": 9,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 617250,
+      "title": "Armor Hero Atlas",
+      "gross": 0.96,
+      "cume": 2.94,
+      "showings": 8392,
+      "admissions": 217240,
+      "rank": 4,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 618516,
+      "title": "Mc Dull·Me & My Mum",
+      "gross": 0.83,
+      "cume": 2.91,
+      "showings": 8022,
+      "admissions": 178143,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 612791,
+      "title": "The Golden Era",
+      "gross": 0.75,
+      "cume": 2.88,
+      "showings": 6562,
+      "admissions": 134252,
+      "rank": 6,
+      "days": 3,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 627357,
+      "title": "Xin DaTou Er Zi He Xiao Tou Ba Ba Zhi Mi Mi Ji Hua",
+      "gross": 0.48,
+      "cume": 3.68,
+      "showings": 4140,
+      "admissions": 109518,
+      "rank": 7,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 616743,
+      "title": "kuiba 3",
+      "gross": 0.43,
+      "cume": 2.08,
+      "showings": 5757,
+      "admissions": 85193,
+      "rank": 8,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 628572,
+      "title": "Farm House 81 Ⅱ",
+      "gross": 0.38,
+      "cume": 1.34,
+      "showings": 4121,
+      "admissions": 79335,
+      "rank": 9,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 623004,
+      "title": "Non-Stop",
+      "gross": 0.06,
+      "cume": 15.18,
+      "showings": 597,
+      "admissions": 12094,
+      "rank": 10,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 618096,
+      "title": "One Step Away",
+      "gross": 0.05,
+      "cume": 11.06,
+      "showings": 573,
+      "admissions": 9496,
+      "rank": 11,
+      "days": 15,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 629426,
+      "title": "The Lost 15 Boys: The Big Adventure on Pirates' Island",
+      "gross": 0.03,
+      "cume": 0.18,
+      "showings": 407,
+      "admissions": 6998,
+      "rank": 12,
+      "days": 3,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 611564,
+      "title": "Shi Er Sheng Xiao Cheng Shi Ying Xiong",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1019,
+      "admissions": 5276,
+      "rank": 13,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 628463,
+      "title": "Into the Storm",
+      "gross": 0.02,
+      "cume": 16.23,
+      "showings": 186,
+      "admissions": 3667,
+      "rank": 14,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 629157,
+      "title": "The Eighth House",
+      "gross": 0.01,
+      "cume": 1.03,
+      "showings": 359,
+      "admissions": 1731,
+      "rank": 15,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 615125,
+      "title": "The Deathday Party",
+      "gross": 0.01,
+      "cume": 0.77,
+      "showings": 387,
+      "admissions": 1345,
+      "rank": 16,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 615851,
+      "title": "Tale of The Rally",
+      "gross": 0.0,
+      "cume": 1.62,
+      "showings": 149,
+      "admissions": 911,
+      "rank": 17,
+      "days": 28,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 618165,
+      "title": "But Always",
+      "gross": 0.0,
+      "cume": 33.71,
+      "showings": 145,
+      "admissions": 834,
+      "rank": 18,
+      "days": 29,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 627797,
+      "title": "Inside the Girls",
+      "gross": 0.0,
+      "cume": 1.87,
+      "showings": 190,
+      "admissions": 862,
+      "rank": 19,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 1.62,
+      "showings": 11,
+      "admissions": 460,
+      "rank": 20,
+      "days": 1131,
+      "day": "91st Fri"
+    }
+  ]
+}

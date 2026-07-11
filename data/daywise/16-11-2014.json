@@ -1,0 +1,225 @@
+{
+  "date": "16-11-2014",
+  "data": [
+    {
+      "movie_id": 346481,
+      "title": "",
+      "gross": 11.2,
+      "cume": 39.68,
+      "showings": 32900,
+      "admissions": 2097061,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 629859,
+      "title": "Penguins of Madagascar",
+      "gross": 4.56,
+      "cume": 10.68,
+      "showings": 24379,
+      "admissions": 877124,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 617708,
+      "title": "Don't Go Breaking My Heart 2",
+      "gross": 2.59,
+      "cume": 21.18,
+      "showings": 23770,
+      "admissions": 514822,
+      "rank": 3,
+      "days": 6,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 396577,
+      "title": "Teenage Mutant Ninja Turtles",
+      "gross": 0.87,
+      "cume": 55.22,
+      "showings": 10154,
+      "admissions": 168905,
+      "rank": 4,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 629659,
+      "title": "Haunted Road",
+      "gross": 0.32,
+      "cume": 1.15,
+      "showings": 5821,
+      "admissions": 76660,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 626573,
+      "title": "For Love Or Money",
+      "gross": 0.28,
+      "cume": 8.54,
+      "showings": 5609,
+      "admissions": 60646,
+      "rank": 6,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 621389,
+      "title": "The Maze Runner",
+      "gross": 0.16,
+      "cume": 21.88,
+      "showings": 1677,
+      "admissions": 30723,
+      "rank": 7,
+      "days": 20,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 629449,
+      "title": "Mystery",
+      "gross": 0.13,
+      "cume": 0.45,
+      "showings": 5032,
+      "admissions": 31037,
+      "rank": 8,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 616526,
+      "title": "Kung Fu Jungle",
+      "gross": 0.1,
+      "cume": 17.2,
+      "showings": 2331,
+      "admissions": 19650,
+      "rank": 9,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 627468,
+      "title": "Lucy",
+      "gross": 0.1,
+      "cume": 40.8,
+      "showings": 1009,
+      "admissions": 16411,
+      "rank": 10,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 611212,
+      "title": "The Nightingale",
+      "gross": 0.07,
+      "cume": 1.31,
+      "showings": 271,
+      "admissions": 15938,
+      "rank": 11,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 627466,
+      "title": "African Safari",
+      "gross": 0.04,
+      "cume": 1.16,
+      "showings": 362,
+      "admissions": 7442,
+      "rank": 12,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 626950,
+      "title": "The Boundary",
+      "gross": 0.03,
+      "cume": 5.08,
+      "showings": 1033,
+      "admissions": 7320,
+      "rank": 13,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 566546,
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "gross": 0.03,
+      "cume": 30.94,
+      "showings": 250,
+      "admissions": 5432,
+      "rank": 14,
+      "days": 892,
+      "day": "81st Sun"
+    },
+    {
+      "movie_id": 628178,
+      "title": "The Galaxy On The Earth",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 423,
+      "admissions": 3464,
+      "rank": 15,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 613011,
+      "title": "Women who Flirt",
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 13,
+      "admissions": 1829,
+      "rank": 16,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 589812,
+      "title": "All",
+      "gross": 0.01,
+      "cume": 24.51,
+      "showings": 16,
+      "admissions": 3060,
+      "rank": 17,
+      "days": 1386,
+      "day": "94th Sun"
+    },
+    {
+      "movie_id": 618101,
+      "title": "Nature Law",
+      "gross": 0.01,
+      "cume": 0.62,
+      "showings": 360,
+      "admissions": 2076,
+      "rank": 18,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 587766,
+      "title": "The Detective 2",
+      "gross": 0.01,
+      "cume": 3.56,
+      "showings": 18,
+      "admissions": 2805,
+      "rank": 19,
+      "days": 1298,
+      "day": "50th Sun"
+    },
+    {
+      "movie_id": 573396,
+      "title": "The Four",
+      "gross": 0.01,
+      "cume": 28.68,
+      "showings": 11,
+      "admissions": 2128,
+      "rank": 20,
+      "days": 858,
+      "day": "59th Sun"
+    }
+  ]
+}

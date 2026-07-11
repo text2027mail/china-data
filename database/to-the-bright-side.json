@@ -1,0 +1,37 @@
+{
+  "movie_id": 706007,
+  "title": "To the Bright Side",
+  "releaseDate": "03-01-2022",
+  "entries": [
+    {
+      "date": "03-01-2022",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 69,
+      "admissions": 3745,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-01-2022",
+      "rank": 18,
+      "gross": 0.09,
+      "cume": 0.13,
+      "showings": 8000,
+      "admissions": 17371,
+      "days": 1,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "16-01-2022",
+      "rank": 20,
+      "gross": 0.04,
+      "cume": 0.16,
+      "showings": 2331,
+      "admissions": 6828,
+      "days": 2,
+      "day": "2nd Sun"
+    }
+  ]
+}

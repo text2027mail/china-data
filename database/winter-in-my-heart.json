@@ -1,0 +1,27 @@
+{
+  "movie_id": 673960,
+  "title": "Winter In My Heart",
+  "releaseDate": "10-07-2018",
+  "entries": [
+    {
+      "date": "10-07-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 20,
+      "admissions": 1096,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "12-09-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 584,
+      "admissions": 2626,
+      "days": 1,
+      "day": "10th Wed"
+    }
+  ]
+}

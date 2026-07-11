@@ -1,0 +1,225 @@
+{
+  "date": "25-03-2019",
+  "data": [
+    {
+      "movie_id": 684702,
+      "title": "",
+      "gross": 3.12,
+      "cume": 122.93,
+      "showings": 110280,
+      "admissions": 688421,
+      "rank": 1,
+      "days": 12,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 678712,
+      "title": "Song of Youth",
+      "gross": 2.03,
+      "cume": 14.66,
+      "showings": 58343,
+      "admissions": 398956,
+      "rank": 2,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 679862,
+      "title": "Captain Marvel",
+      "gross": 0.8,
+      "cume": 146.1,
+      "showings": 33934,
+      "admissions": 149378,
+      "rank": 3,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 681962,
+      "title": "Bohemian Rhapsody",
+      "gross": 0.75,
+      "cume": 7.28,
+      "showings": 16227,
+      "admissions": 134174,
+      "rank": 4,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 683619,
+      "title": "Prooi",
+      "gross": 0.4,
+      "cume": 5.64,
+      "showings": 33237,
+      "admissions": 92659,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 673016,
+      "title": "So Long, My Son",
+      "gross": 0.37,
+      "cume": 4.57,
+      "showings": 18526,
+      "admissions": 69497,
+      "rank": 6,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 684562,
+      "title": "Green Book",
+      "gross": 0.37,
+      "cume": 67.99,
+      "showings": 14965,
+      "admissions": 77514,
+      "rank": 7,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 642412,
+      "title": "The Wandering Earth",
+      "gross": 0.1,
+      "cume": 689.02,
+      "showings": 5764,
+      "admissions": 19363,
+      "rank": 8,
+      "days": 49,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 685859,
+      "title": "Midnight Melody",
+      "gross": 0.09,
+      "cume": 0.39,
+      "showings": 2808,
+      "admissions": 8096,
+      "rank": 9,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 678806,
+      "title": "The Lego Movie 2: The Second Part",
+      "gross": 0.06,
+      "cume": 2.34,
+      "showings": 11255,
+      "admissions": 12322,
+      "rank": 10,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 678868,
+      "title": "How To Train Your Dragon: The Hidden World",
+      "gross": 0.05,
+      "cume": 53.64,
+      "showings": 3767,
+      "admissions": 9494,
+      "rank": 11,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 306285,
+      "title": "Alita: Battle Angel",
+      "gross": 0.04,
+      "cume": 131.86,
+      "showings": 2124,
+      "admissions": 8087,
+      "rank": 12,
+      "days": 32,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 677999,
+      "title": "shuizuxiu",
+      "gross": 0.04,
+      "cume": 0.45,
+      "showings": 58,
+      "admissions": 6112,
+      "rank": 13,
+      "days": null,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 672831,
+      "title": "Integrity",
+      "gross": 0.02,
+      "cume": 17.66,
+      "showings": 19,
+      "admissions": 66,
+      "rank": 14,
+      "days": 49,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 683082,
+      "title": "Natsume's Book Of Friends",
+      "gross": 0.02,
+      "cume": 16.87,
+      "showings": 2262,
+      "admissions": 5230,
+      "rank": 15,
+      "days": 19,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 681662,
+      "title": "Running To The Spring",
+      "gross": 0.02,
+      "cume": 1.27,
+      "showings": 18,
+      "admissions": 3816,
+      "rank": 16,
+      "days": 102,
+      "day": "15th Mon"
+    },
+    {
+      "movie_id": 681415,
+      "title": "My Hero Academia: Two Heroes",
+      "gross": 0.02,
+      "cume": 5.61,
+      "showings": 1692,
+      "admissions": 3870,
+      "rank": 17,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 616162,
+      "title": "My Avatar Horse",
+      "gross": 0.01,
+      "cume": 2.15,
+      "showings": 155,
+      "admissions": 3380,
+      "rank": 18,
+      "days": 2410,
+      "day": "310th Mon"
+    },
+    {
+      "movie_id": 680364,
+      "title": "Tracing The Shadow",
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 46,
+      "admissions": 1700,
+      "rank": 19,
+      "days": 189,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 673920,
+      "title": "The Crossing",
+      "gross": 0.01,
+      "cume": 1.41,
+      "showings": 652,
+      "admissions": 2022,
+      "rank": 20,
+      "days": 11,
+      "day": "4th Mon"
+    }
+  ]
+}

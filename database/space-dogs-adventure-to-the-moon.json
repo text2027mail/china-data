@@ -1,0 +1,47 @@
+{
+  "movie_id": 693788,
+  "title": "Space Dogs：Adventure to the Moon",
+  "releaseDate": "14-12-2019",
+  "entries": [
+    {
+      "date": "14-12-2019",
+      "rank": 14,
+      "gross": 0.17,
+      "cume": 0.17,
+      "showings": 6783,
+      "admissions": 37314,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-12-2019",
+      "rank": 14,
+      "gross": 0.13,
+      "cume": 0.29,
+      "showings": 5142,
+      "admissions": 28221,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "21-12-2019",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.34,
+      "showings": 1388,
+      "admissions": 9257,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "22-12-2019",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.39,
+      "showings": 1558,
+      "admissions": 10802,
+      "days": 9,
+      "day": "2nd Sun"
+    }
+  ]
+}

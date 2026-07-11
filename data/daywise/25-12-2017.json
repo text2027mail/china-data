@@ -1,0 +1,225 @@
+{
+  "date": "25-12-2017",
+  "data": [
+    {
+      "movie_id": 659453,
+      "title": "",
+      "gross": 8.83,
+      "cume": 131.0,
+      "showings": 68736,
+      "admissions": 1753648,
+      "rank": 1,
+      "days": 11,
+      "day": "14th Mon"
+    },
+    {
+      "movie_id": 643285,
+      "title": "Legend of the Demon Cat",
+      "gross": 6.59,
+      "cume": 42.47,
+      "showings": 66154,
+      "admissions": 1274244,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 643308,
+      "title": "Bleeding Steel",
+      "gross": 4.89,
+      "cume": 34.15,
+      "showings": 56672,
+      "admissions": 964425,
+      "rank": 3,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 653101,
+      "title": "The Liquidator",
+      "gross": 3.52,
+      "cume": 24.97,
+      "showings": 44607,
+      "admissions": 717195,
+      "rank": 4,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 670102,
+      "title": "Coco",
+      "gross": 0.81,
+      "cume": 163.0,
+      "showings": 13878,
+      "admissions": 158069,
+      "rank": 5,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 644856,
+      "title": "Paddington 2",
+      "gross": 0.17,
+      "cume": 28.1,
+      "showings": 3494,
+      "admissions": 35606,
+      "rank": 6,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 618517,
+      "title": "The Thousand Faces of Dunjia",
+      "gross": 0.15,
+      "cume": 43.72,
+      "showings": 5177,
+      "admissions": 29014,
+      "rank": 7,
+      "days": 12,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 618581,
+      "title": "Seventy-seven Days",
+      "gross": 0.09,
+      "cume": 15.01,
+      "showings": 136,
+      "admissions": 12627,
+      "rank": 8,
+      "days": 53,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 670000,
+      "title": "Loving Vincent",
+      "gross": 0.08,
+      "cume": 9.38,
+      "showings": 1293,
+      "admissions": 16321,
+      "rank": 9,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 626499,
+      "title": "Hui Ma Ting",
+      "gross": 0.05,
+      "cume": 1.22,
+      "showings": 81,
+      "admissions": 9786,
+      "rank": 10,
+      "days": 656,
+      "day": "93rd Mon"
+    },
+    {
+      "movie_id": 612268,
+      "title": "Pao Cai",
+      "gross": 0.05,
+      "cume": 0.76,
+      "showings": 90,
+      "admissions": 8463,
+      "rank": 11,
+      "days": 1219,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 616336,
+      "title": "The Door Of Happiness",
+      "gross": 0.04,
+      "cume": 0.76,
+      "showings": 61,
+      "admissions": 6866,
+      "rank": 12,
+      "days": 1091,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 672031,
+      "title": "Gui Yan",
+      "gross": 0.03,
+      "cume": 0.26,
+      "showings": 30,
+      "admissions": 3415,
+      "rank": 13,
+      "days": null,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 630178,
+      "title": "Running Man",
+      "gross": 0.03,
+      "cume": 65.65,
+      "showings": 33,
+      "admissions": 3973,
+      "rank": 14,
+      "days": 1061,
+      "day": "152nd Mon"
+    },
+    {
+      "movie_id": 671628,
+      "title": "Santa & Cie",
+      "gross": 0.03,
+      "cume": 0.69,
+      "showings": 988,
+      "admissions": 6176,
+      "rank": 15,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 638436,
+      "title": "Detective Chinatown",
+      "gross": 0.02,
+      "cume": 121.58,
+      "showings": 23,
+      "admissions": 2740,
+      "rank": 16,
+      "days": 726,
+      "day": "106th Mon"
+    },
+    {
+      "movie_id": 641143,
+      "title": "Miracles of the Namiya General Store",
+      "gross": 0.02,
+      "cume": 1.28,
+      "showings": 73,
+      "admissions": 1805,
+      "rank": 17,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 670585,
+      "title": "Darkest Hour",
+      "gross": 0.02,
+      "cume": 5.32,
+      "showings": 156,
+      "admissions": 2541,
+      "rank": 18,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 616743,
+      "title": "kuiba 3",
+      "gross": 0.01,
+      "cume": 3.62,
+      "showings": 19,
+      "admissions": 1837,
+      "rank": 19,
+      "days": 1182,
+      "day": "169th Mon"
+    },
+    {
+      "movie_id": 653840,
+      "title": "Seven Fright Ngihts",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 415,
+      "admissions": 2870,
+      "rank": 20,
+      "days": 5,
+      "day": "1st Mon"
+    }
+  ]
+}

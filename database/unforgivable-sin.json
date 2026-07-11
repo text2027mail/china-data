@@ -1,0 +1,27 @@
+{
+  "movie_id": 667474,
+  "title": "Unforgivable Sin",
+  "releaseDate": "01-03-2019",
+  "entries": [
+    {
+      "date": "01-03-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 746,
+      "admissions": 1336,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "07-03-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 147,
+      "admissions": 978,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

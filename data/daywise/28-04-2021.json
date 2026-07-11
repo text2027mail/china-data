@@ -1,0 +1,225 @@
+{
+  "date": "28-04-2021",
+  "data": [
+    {
+      "movie_id": 678591,
+      "title": "",
+      "gross": 0.67,
+      "cume": 125.01,
+      "showings": 62553,
+      "admissions": 124315,
+      "rank": 1,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 354593,
+      "title": "The Lord of the Rings: The Two Towers",
+      "gross": 0.47,
+      "cume": 5.38,
+      "showings": 33486,
+      "admissions": 88211,
+      "rank": 2,
+      "days": 6579,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 696413,
+      "title": "Godzilla vs Kong",
+      "gross": 0.4,
+      "cume": 177.51,
+      "showings": 47865,
+      "admissions": 78967,
+      "rank": 3,
+      "days": 34,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 706426,
+      "title": "Detective Conan the Movie: The Scarlet Bullet",
+      "gross": 0.4,
+      "cume": 26.09,
+      "showings": 61999,
+      "admissions": 81525,
+      "rank": 4,
+      "days": 12,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 638278,
+      "title": "August Never Ends",
+      "gross": 0.35,
+      "cume": 9.65,
+      "showings": 30140,
+      "admissions": 74800,
+      "rank": 5,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 701898,
+      "title": "Break Through the Darkness",
+      "gross": 0.27,
+      "cume": 0.43,
+      "showings": 4368,
+      "admissions": 52796,
+      "rank": 6,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 354587,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "gross": 0.13,
+      "cume": 8.22,
+      "showings": 13915,
+      "admissions": 26308,
+      "rank": 7,
+      "days": 6961,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 695870,
+      "title": "The Wings of songs",
+      "gross": 0.11,
+      "cume": 3.14,
+      "showings": 416,
+      "admissions": 16972,
+      "rank": 8,
+      "days": 32,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 696122,
+      "title": "Warrior of China",
+      "gross": 0.1,
+      "cume": 7.26,
+      "showings": 216,
+      "admissions": 14048,
+      "rank": 9,
+      "days": 41,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 642381,
+      "title": "Monkey King Reborn",
+      "gross": 0.05,
+      "cume": 15.72,
+      "showings": 9261,
+      "admissions": 10541,
+      "rank": 10,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 691763,
+      "title": "The Eleventh Chapter",
+      "gross": 0.05,
+      "cume": 10.86,
+      "showings": 5244,
+      "admissions": 8160,
+      "rank": 11,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 662746,
+      "title": "Hi, Mom",
+      "gross": 0.05,
+      "cume": 798.49,
+      "showings": 5036,
+      "admissions": 8391,
+      "rank": 12,
+      "days": 76,
+      "day": "11th Wed"
+    },
+    {
+      "movie_id": 706655,
+      "title": "Moonlight on the Autumnriver",
+      "gross": 0.04,
+      "cume": 0.57,
+      "showings": 105,
+      "admissions": 4972,
+      "rank": 13,
+      "days": 8,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 704681,
+      "title": "Love Over The World",
+      "gross": 0.04,
+      "cume": 2.15,
+      "showings": 47,
+      "admissions": 5400,
+      "rank": 14,
+      "days": 97,
+      "day": "14th Wed"
+    },
+    {
+      "movie_id": 681943,
+      "title": "Memory Dissection",
+      "gross": 0.04,
+      "cume": 0.53,
+      "showings": 11896,
+      "admissions": 8336,
+      "rank": 15,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 681836,
+      "title": "Jin Cheng Ji",
+      "gross": 0.04,
+      "cume": 0.39,
+      "showings": 125,
+      "admissions": 8316,
+      "rank": 16,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 701994,
+      "title": "The Sacrifice",
+      "gross": 0.02,
+      "cume": 166.09,
+      "showings": 4807,
+      "admissions": 7810,
+      "rank": 17,
+      "days": 188,
+      "day": "28th Wed"
+    },
+    {
+      "movie_id": 670735,
+      "title": "Overall Planning",
+      "gross": 0.02,
+      "cume": 2.95,
+      "showings": 48,
+      "admissions": 2350,
+      "rank": 18,
+      "days": 41,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 703252,
+      "title": "Persian Lessons",
+      "gross": 0.02,
+      "cume": 5.28,
+      "showings": 1129,
+      "admissions": 2749,
+      "rank": 19,
+      "days": 41,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 701870,
+      "title": "Farewell To Poverty",
+      "gross": 0.01,
+      "cume": 1.52,
+      "showings": 84,
+      "admissions": 3813,
+      "rank": 20,
+      "days": 62,
+      "day": "9th Wed"
+    }
+  ]
+}

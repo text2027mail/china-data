@@ -1,0 +1,37 @@
+{
+  "movie_id": 757557,
+  "title": "Midnight Mirror",
+  "releaseDate": "29-08-2025",
+  "entries": [
+    {
+      "date": "29-08-2025",
+      "rank": 15,
+      "gross": 0.1,
+      "cume": 0.11,
+      "showings": 5732,
+      "admissions": 19258,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-09-2025",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 2839,
+      "admissions": 2534,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-09-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 2763,
+      "admissions": 1976,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

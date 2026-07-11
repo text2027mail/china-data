@@ -1,0 +1,47 @@
+{
+  "movie_id": 734078,
+  "title": "Retrospective Exhibition of Carl Theodore Dreyer's Works",
+  "releaseDate": "03-12-2022",
+  "entries": [
+    {
+      "date": "03-12-2022",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 3,
+      "admissions": 1813,
+      "days": 16,
+      "day": "1st Sat"
+    },
+    {
+      "date": "04-12-2022",
+      "rank": 9,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 2,
+      "admissions": 2045,
+      "days": 17,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-12-2022",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 2,
+      "admissions": 2046,
+      "days": 23,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "11-12-2022",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 2,
+      "admissions": 2048,
+      "days": 24,
+      "day": "2nd Sun"
+    }
+  ]
+}

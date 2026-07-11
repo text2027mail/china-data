@@ -1,0 +1,27 @@
+{
+  "movie_id": 681912,
+  "title": "If You are Happy",
+  "releaseDate": "28-06-2019",
+  "entries": [
+    {
+      "date": "28-06-2019",
+      "rank": 11,
+      "gross": 0.09,
+      "cume": 0.1,
+      "showings": 7249,
+      "admissions": 24525,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "29-06-2019",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 2165,
+      "admissions": 5260,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

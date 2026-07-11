@@ -1,0 +1,37 @@
+{
+  "movie_id": 682144,
+  "title": "Widows",
+  "releaseDate": "16-10-2020",
+  "entries": [
+    {
+      "date": "16-10-2020",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2862,
+      "admissions": 3433,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "19-10-2020",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 1051,
+      "admissions": 1059,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "20-10-2020",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 929,
+      "admissions": 1275,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

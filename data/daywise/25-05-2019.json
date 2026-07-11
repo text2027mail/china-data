@@ -1,0 +1,225 @@
+{
+  "date": "25-05-2019",
+  "data": [
+    {
+      "movie_id": 681635,
+      "title": "",
+      "gross": 7.62,
+      "cume": 11.84,
+      "showings": 95470,
+      "admissions": 1370460,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 670828,
+      "title": "Detective Pikachu",
+      "gross": 3.44,
+      "cume": 82.41,
+      "showings": 49762,
+      "admissions": 667027,
+      "rank": 2,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 681795,
+      "title": "A Dog's Journey 2",
+      "gross": 2.22,
+      "cume": 22.51,
+      "showings": 45647,
+      "admissions": 480892,
+      "rank": 3,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 682691,
+      "title": "Godzilla: King of the Monsters",
+      "gross": 2.17,
+      "cume": 2.18,
+      "showings": 1811,
+      "admissions": 312040,
+      "rank": 4,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 692267,
+      "title": "LIFE",
+      "gross": 1.7,
+      "cume": 3.35,
+      "showings": 44226,
+      "admissions": 319861,
+      "rank": 5,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 683927,
+      "title": "Dragon Ball Z: Broly",
+      "gross": 1.2,
+      "cume": 2.22,
+      "showings": 46415,
+      "admissions": 269096,
+      "rank": 6,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 681412,
+      "title": "Capernaum",
+      "gross": 0.68,
+      "cume": 53.02,
+      "showings": 13502,
+      "admissions": 144909,
+      "rank": 7,
+      "days": 27,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 667122,
+      "title": "Mom",
+      "gross": 0.38,
+      "cume": 14.97,
+      "showings": 9481,
+      "admissions": 84870,
+      "rank": 8,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 685416,
+      "title": "Happy Little Submarine：Space Pals",
+      "gross": 0.15,
+      "cume": 0.15,
+      "showings": 10820,
+      "admissions": 33900,
+      "rank": 9,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 643548,
+      "title": "Heidi",
+      "gross": 0.13,
+      "cume": 2.45,
+      "showings": 3011,
+      "admissions": 27919,
+      "rank": 10,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 691925,
+      "title": "Enter the Forbidden City",
+      "gross": 0.09,
+      "cume": 1.44,
+      "showings": 762,
+      "admissions": 15924,
+      "rank": 11,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 673525,
+      "title": "Yellow Rose",
+      "gross": 0.07,
+      "cume": 0.57,
+      "showings": 160,
+      "admissions": 12758,
+      "rank": 12,
+      "days": 1,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 691948,
+      "title": "My Little Monster",
+      "gross": 0.07,
+      "cume": 0.22,
+      "showings": 3173,
+      "admissions": 15958,
+      "rank": 13,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 677405,
+      "title": "Beyond the Clouds",
+      "gross": 0.06,
+      "cume": 0.22,
+      "showings": 6256,
+      "admissions": 14179,
+      "rank": 14,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 692046,
+      "title": "Zhou Enlai Returned To Yanan",
+      "gross": 0.05,
+      "cume": 0.58,
+      "showings": 3912,
+      "admissions": 11460,
+      "rank": 15,
+      "days": 11,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 684944,
+      "title": "Think Big Big",
+      "gross": 0.05,
+      "cume": 0.21,
+      "showings": 5074,
+      "admissions": 11032,
+      "rank": 16,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 682635,
+      "title": "Midnight Ruins",
+      "gross": 0.04,
+      "cume": 0.13,
+      "showings": 1988,
+      "admissions": 10338,
+      "rank": 17,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 672992,
+      "title": "Shimajiro And The Fantastic Flying Ship",
+      "gross": 0.04,
+      "cume": 0.1,
+      "showings": 231,
+      "admissions": 7364,
+      "rank": 18,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 673751,
+      "title": "Kunlun Brothers",
+      "gross": 0.03,
+      "cume": 0.23,
+      "showings": 134,
+      "admissions": 6350,
+      "rank": 19,
+      "days": 10,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 662802,
+      "title": "Composer",
+      "gross": 0.03,
+      "cume": 0.27,
+      "showings": 2898,
+      "admissions": 6506,
+      "rank": 20,
+      "days": 9,
+      "day": "3rd Sat"
+    }
+  ]
+}

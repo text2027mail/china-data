@@ -1,0 +1,27 @@
+{
+  "movie_id": 691346,
+  "title": "YOU IN MY WORL",
+  "releaseDate": "14-09-2022",
+  "entries": [
+    {
+      "date": "14-09-2022",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 3,
+      "admissions": 325,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "16-09-2022",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 11463,
+      "admissions": 2494,
+      "days": 1,
+      "day": "1st Fri"
+    }
+  ]
+}

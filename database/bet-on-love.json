@@ -1,0 +1,27 @@
+{
+  "movie_id": 655950,
+  "title": "Bet on love",
+  "releaseDate": "03-03-2017",
+  "entries": [
+    {
+      "date": "03-03-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 119,
+      "admissions": 399,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-03-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 120,
+      "admissions": 441,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

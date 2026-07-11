@@ -1,0 +1,225 @@
+{
+  "date": "27-12-2013",
+  "data": [
+    {
+      "movie_id": 613384,
+      "title": "",
+      "gross": 5.18,
+      "cume": 27.78,
+      "showings": 35027,
+      "admissions": 909671,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 610928,
+      "title": "Personal Tailor",
+      "gross": 3.55,
+      "cume": 70.62,
+      "showings": 30502,
+      "admissions": 677847,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 614346,
+      "title": "Firestorm",
+      "gross": 0.59,
+      "cume": 43.36,
+      "showings": 6962,
+      "admissions": 98903,
+      "rank": 3,
+      "days": 16,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 566774,
+      "title": "No Man's Land",
+      "gross": 0.11,
+      "cume": 37.81,
+      "showings": 2016,
+      "admissions": 22452,
+      "rank": 4,
+      "days": 25,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 618532,
+      "title": "I Want You",
+      "gross": 0.09,
+      "cume": 0.12,
+      "showings": 6961,
+      "admissions": 21370,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 612120,
+      "title": "The White Storm",
+      "gross": 0.06,
+      "cume": 34.84,
+      "showings": 1002,
+      "admissions": 13185,
+      "rank": 6,
+      "days": 29,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 614308,
+      "title": "A Werewolf Boy",
+      "gross": 0.02,
+      "cume": 0.53,
+      "showings": 749,
+      "admissions": 4946,
+      "rank": 7,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 613083,
+      "title": "The Love Expert",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2269,
+      "admissions": 4665,
+      "rank": 8,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 616731,
+      "title": "Epic",
+      "gross": 0.02,
+      "cume": 7.36,
+      "showings": 322,
+      "admissions": 4539,
+      "rank": 9,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 609600,
+      "title": "Return The Money",
+      "gross": 0.02,
+      "cume": 0.37,
+      "showings": 412,
+      "admissions": 1182,
+      "rank": 10,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 610952,
+      "title": "The Four 2",
+      "gross": 0.01,
+      "cume": 25.65,
+      "showings": 623,
+      "admissions": 2075,
+      "rank": 11,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.01,
+      "cume": 8.18,
+      "showings": 22,
+      "admissions": 1857,
+      "rank": 12,
+      "days": 165,
+      "day": "25th Fri"
+    },
+    {
+      "movie_id": 611374,
+      "title": "The Ferry",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 20,
+      "admissions": 2166,
+      "rank": 13,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 615519,
+      "title": "A Cherry on a Pomegranate Tree",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 11,
+      "admissions": 2272,
+      "rank": 14,
+      "days": 268,
+      "day": "39th Fri"
+    },
+    {
+      "movie_id": 80,
+      "title": "The Secret of the Magic Gourd",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 9,
+      "admissions": 1440,
+      "rank": 15,
+      "days": 2374,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 589156,
+      "title": "Game of Assassins",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 537,
+      "admissions": 788,
+      "rank": 16,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 612758,
+      "title": "Soul Rhythm",
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 8,
+      "admissions": 1841,
+      "rank": 17,
+      "days": null,
+      "day": "7th Fri"
+    },
+    {
+      "movie_id": 573102,
+      "title": "Da Nao Wu Zi Cheng",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 4,
+      "admissions": 1241,
+      "rank": 18,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 615212,
+      "title": "The Frog Kingdom",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 9,
+      "admissions": 305,
+      "rank": 19,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 1.02,
+      "showings": 7,
+      "admissions": 321,
+      "rank": 20,
+      "days": 851,
+      "day": "51st Fri"
+    }
+  ]
+}

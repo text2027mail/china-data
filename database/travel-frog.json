@@ -1,0 +1,87 @@
+{
+  "movie_id": 678841,
+  "title": "Travel!Frog",
+  "releaseDate": "13-09-2018",
+  "entries": [
+    {
+      "date": "13-09-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 13,
+      "admissions": 1126,
+      "days": 27,
+      "day": "1st Thu"
+    },
+    {
+      "date": "14-09-2018",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 19,
+      "admissions": 2009,
+      "days": 28,
+      "day": "1st Fri"
+    },
+    {
+      "date": "17-09-2018",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.15,
+      "showings": 10,
+      "admissions": 1371,
+      "days": 31,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-09-2018",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.17,
+      "showings": 11,
+      "admissions": 1375,
+      "days": 32,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-09-2018",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.18,
+      "showings": 11,
+      "admissions": 1375,
+      "days": 33,
+      "day": "1st Wed"
+    },
+    {
+      "date": "20-09-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 13,
+      "admissions": 1251,
+      "days": 34,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "21-09-2018",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.22,
+      "showings": 16,
+      "admissions": 2000,
+      "days": 35,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "25-09-2018",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.3,
+      "showings": 10,
+      "admissions": 1375,
+      "days": 39,
+      "day": "2nd Tue"
+    }
+  ]
+}

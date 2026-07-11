@@ -1,0 +1,225 @@
+{
+  "date": "24-03-2026",
+  "data": [
+    {
+      "movie_id": 988180,
+      "title": "",
+      "gross": 1.1,
+      "cume": 9.49,
+      "showings": 47259,
+      "admissions": 168199,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 739726,
+      "title": "Blades of the Guardians",
+      "gross": 0.86,
+      "cume": 206.83,
+      "showings": 45063,
+      "admissions": 109303,
+      "rank": 2,
+      "days": 36,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 797006,
+      "title": "PEGASUS 3",
+      "gross": 0.61,
+      "cume": 638.31,
+      "showings": 70876,
+      "admissions": 98678,
+      "rank": 3,
+      "days": 36,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 973335,
+      "title": "Hoppers",
+      "gross": 0.54,
+      "cume": 11.03,
+      "showings": 67238,
+      "admissions": 93846,
+      "rank": 4,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 796840,
+      "title": "Scare Out",
+      "gross": 0.3,
+      "cume": 196.58,
+      "showings": 39620,
+      "admissions": 48880,
+      "rank": 5,
+      "days": 36,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 769435,
+      "title": "It's OK",
+      "gross": 0.17,
+      "cume": 0.3,
+      "showings": 8639,
+      "admissions": 33370,
+      "rank": 6,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 1007533,
+      "title": "Wuthering Heights",
+      "gross": 0.15,
+      "cume": 3.94,
+      "showings": 12209,
+      "admissions": 26035,
+      "rank": 7,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 1038599,
+      "title": "Night King",
+      "gross": 0.1,
+      "cume": 31.82,
+      "showings": 8377,
+      "admissions": 18070,
+      "rank": 8,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 785326,
+      "title": "Panda Plan:The Magical Tribe",
+      "gross": 0.03,
+      "cume": 42.13,
+      "showings": 10002,
+      "admissions": 6765,
+      "rank": 9,
+      "days": 36,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 706298,
+      "title": "Ailao Mountain Incident",
+      "gross": 0.03,
+      "cume": 1.13,
+      "showings": 6041,
+      "admissions": 5651,
+      "rank": 10,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 769714,
+      "title": "THE REUNION JOURNEY",
+      "gross": 0.03,
+      "cume": 1.05,
+      "showings": 114,
+      "admissions": 3790,
+      "rank": 11,
+      "days": 25,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 879892,
+      "title": "Boonie Bears: The Hidden Protector",
+      "gross": 0.02,
+      "cume": 154.97,
+      "showings": 9901,
+      "admissions": 3566,
+      "rank": 12,
+      "days": 36,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 659134,
+      "title": "The Shining",
+      "gross": 0.02,
+      "cume": 7.38,
+      "showings": 276,
+      "admissions": 2509,
+      "rank": 13,
+      "days": 54,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 1038596,
+      "title": "Marty Supreme",
+      "gross": 0.01,
+      "cume": 0.48,
+      "showings": 3705,
+      "admissions": 2189,
+      "rank": 14,
+      "days": 5,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 739885,
+      "title": "A Table For Two",
+      "gross": 0.01,
+      "cume": 1.06,
+      "showings": 3753,
+      "admissions": 2131,
+      "rank": 15,
+      "days": 11,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 974825,
+      "title": "Wild Nights",
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 3526,
+      "admissions": 2252,
+      "rank": 16,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 751051,
+      "title": "207B",
+      "gross": 0.01,
+      "cume": 0.73,
+      "showings": 1,
+      "admissions": 375,
+      "rank": 17,
+      "days": 89,
+      "day": "13th Tue"
+    },
+    {
+      "movie_id": 1044825,
+      "title": "Crime 101",
+      "gross": 0.01,
+      "cume": 3.63,
+      "showings": 2882,
+      "admissions": 1732,
+      "rank": 18,
+      "days": 18,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 1044824,
+      "title": "National Theatre Live: Inter Alia",
+      "gross": 0.01,
+      "cume": 1.39,
+      "showings": 1477,
+      "admissions": 1720,
+      "rank": 19,
+      "days": 17,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 1030019,
+      "title": "GOAT",
+      "gross": 0.01,
+      "cume": 4.11,
+      "showings": 6456,
+      "admissions": 1722,
+      "rank": 20,
+      "days": 11,
+      "day": "2nd Tue"
+    }
+  ]
+}

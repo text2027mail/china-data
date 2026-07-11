@@ -1,0 +1,225 @@
+{
+  "date": "22-06-2014",
+  "data": [
+    {
+      "movie_id": 625380,
+      "title": "",
+      "gross": 7.19,
+      "cume": 20.44,
+      "showings": 35940,
+      "admissions": 1300383,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 626889,
+      "title": "Godzilla",
+      "gross": 4.39,
+      "cume": 63.52,
+      "showings": 29470,
+      "admissions": 783073,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 624654,
+      "title": "Edge of Tomorrow",
+      "gross": 1.68,
+      "cume": 56.83,
+      "showings": 11528,
+      "admissions": 309159,
+      "rank": 3,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 621407,
+      "title": "Grace of Monaco",
+      "gross": 0.69,
+      "cume": 1.87,
+      "showings": 10373,
+      "admissions": 141478,
+      "rank": 4,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 620389,
+      "title": "X-Men: Days of Future Past",
+      "gross": 0.16,
+      "cume": 106.61,
+      "showings": 1489,
+      "admissions": 28428,
+      "rank": 5,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 616067,
+      "title": "Night Mail",
+      "gross": 0.16,
+      "cume": 0.48,
+      "showings": 5964,
+      "admissions": 36245,
+      "rank": 6,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 612127,
+      "title": "Overheard 3",
+      "gross": 0.16,
+      "cume": 45.17,
+      "showings": 2420,
+      "admissions": 31739,
+      "rank": 7,
+      "days": 25,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 658914,
+      "title": "Shanghai international film festival",
+      "gross": 0.13,
+      "cume": 2.17,
+      "showings": 60,
+      "admissions": 15583,
+      "rank": 8,
+      "days": null,
+      "day": "54th Sun"
+    },
+    {
+      "movie_id": 614662,
+      "title": "GG Bond 2",
+      "gross": 0.1,
+      "cume": 6.34,
+      "showings": 2270,
+      "admissions": 23685,
+      "rank": 9,
+      "days": 23,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 627456,
+      "title": "Happy Little Submarines 4 – Adventure of Octopus",
+      "gross": 0.07,
+      "cume": 6.94,
+      "showings": 1524,
+      "admissions": 15158,
+      "rank": 10,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 626911,
+      "title": "Midnight Hair",
+      "gross": 0.06,
+      "cume": 1.74,
+      "showings": 1671,
+      "admissions": 15116,
+      "rank": 11,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 617600,
+      "title": "Night of Adventure",
+      "gross": 0.06,
+      "cume": 3.88,
+      "showings": 1337,
+      "admissions": 13336,
+      "rank": 12,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 617336,
+      "title": "Face Hunter",
+      "gross": 0.05,
+      "cume": 0.16,
+      "showings": 2691,
+      "admissions": 10811,
+      "rank": 13,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 616513,
+      "title": "Coming Home",
+      "gross": 0.04,
+      "cume": 42.86,
+      "showings": 464,
+      "admissions": 8032,
+      "rank": 14,
+      "days": 38,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 626992,
+      "title": "The Adventures of Sinbad 2014",
+      "gross": 0.04,
+      "cume": 3.76,
+      "showings": 1163,
+      "admissions": 9471,
+      "rank": 15,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 590474,
+      "title": "Magic Wonderland",
+      "gross": 0.04,
+      "cume": 3.17,
+      "showings": 771,
+      "admissions": 7492,
+      "rank": 16,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 627869,
+      "title": "Guardians",
+      "gross": 0.02,
+      "cume": 0.87,
+      "showings": 1162,
+      "admissions": 4254,
+      "rank": 17,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.01,
+      "cume": 0.8,
+      "showings": 297,
+      "admissions": 5074,
+      "rank": 18,
+      "days": 69,
+      "day": "10th Sun"
+    },
+    {
+      "movie_id": 618253,
+      "title": "Breakup Guru",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 11,
+      "admissions": 1813,
+      "rank": 19,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 627609,
+      "title": "A Noble Spirit",
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 36,
+      "admissions": 2105,
+      "rank": 20,
+      "days": 36,
+      "day": "2nd Sun"
+    }
+  ]
+}

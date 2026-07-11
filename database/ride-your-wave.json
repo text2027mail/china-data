@@ -1,0 +1,77 @@
+{
+  "movie_id": 694046,
+  "title": "Ride Your Wave",
+  "releaseDate": "30-11-2019",
+  "entries": [
+    {
+      "date": "30-11-2019",
+      "rank": 16,
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 153,
+      "admissions": 13458,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "07-12-2019",
+      "rank": 6,
+      "gross": 1.07,
+      "cume": 1.14,
+      "showings": 38956,
+      "admissions": 249633,
+      "days": 1,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "08-12-2019",
+      "rank": 8,
+      "gross": 0.47,
+      "cume": 1.61,
+      "showings": 26616,
+      "admissions": 106790,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "09-12-2019",
+      "rank": 9,
+      "gross": 0.13,
+      "cume": 1.74,
+      "showings": 18522,
+      "admissions": 30687,
+      "days": 3,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "10-12-2019",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 1.82,
+      "showings": 14364,
+      "admissions": 19750,
+      "days": 4,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "11-12-2019",
+      "rank": 14,
+      "gross": 0.07,
+      "cume": 1.89,
+      "showings": 13228,
+      "admissions": 16731,
+      "days": 5,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "12-12-2019",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 1.94,
+      "showings": 6643,
+      "admissions": 9765,
+      "days": 6,
+      "day": "2nd Thu"
+    }
+  ]
+}

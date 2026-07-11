@@ -1,0 +1,47 @@
+{
+  "movie_id": 673582,
+  "title": "A stolen life",
+  "releaseDate": "12-04-2025",
+  "entries": [
+    {
+      "date": "12-04-2025",
+      "rank": 11,
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 19820,
+      "admissions": 19118,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-04-2025",
+      "rank": 17,
+      "gross": 0.03,
+      "cume": 0.13,
+      "showings": 7034,
+      "admissions": 5766,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-04-2025",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 5037,
+      "admissions": 1950,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "16-04-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 4406,
+      "admissions": 1550,
+      "days": 5,
+      "day": "1st Wed"
+    }
+  ]
+}

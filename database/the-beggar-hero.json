@@ -1,0 +1,37 @@
+{
+  "movie_id": 672563,
+  "title": "The Beggar Hero",
+  "releaseDate": "26-02-2019",
+  "entries": [
+    {
+      "date": "26-02-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 12,
+      "admissions": 1242,
+      "days": 120,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-02-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 17,
+      "admissions": 1704,
+      "days": 121,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-02-2019",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 19,
+      "admissions": 2045,
+      "days": 122,
+      "day": "1st Thu"
+    }
+  ]
+}

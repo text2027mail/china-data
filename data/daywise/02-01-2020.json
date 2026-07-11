@@ -1,0 +1,225 @@
+{
+  "date": "02-01-2020",
+  "data": [
+    {
+      "movie_id": 685447,
+      "title": "",
+      "gross": 4.76,
+      "cume": 47.15,
+      "showings": 124881,
+      "admissions": 923760,
+      "rank": 1,
+      "days": 3,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 624015,
+      "title": "IP Man 4：The Finale",
+      "gross": 2.69,
+      "cume": 124.98,
+      "showings": 72960,
+      "admissions": 505118,
+      "rank": 2,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 693266,
+      "title": "Sheep Without A Shepherd",
+      "gross": 1.85,
+      "cume": 130.73,
+      "showings": 54981,
+      "admissions": 365999,
+      "rank": 3,
+      "days": 21,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 696120,
+      "title": "Warriors of Hornor",
+      "gross": 1.02,
+      "cume": 22.61,
+      "showings": 1738,
+      "admissions": 74551,
+      "rank": 4,
+      "days": 29,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 694876,
+      "title": "Angel Has Fallen",
+      "gross": 0.61,
+      "cume": 3.93,
+      "showings": 20840,
+      "admissions": 128261,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 691481,
+      "title": "My People, My Country",
+      "gross": 0.4,
+      "cume": 462.51,
+      "showings": 448,
+      "admissions": 39172,
+      "rank": 6,
+      "days": 95,
+      "day": "14th Thu"
+    },
+    {
+      "movie_id": 679955,
+      "title": "Almost a Comedy",
+      "gross": 0.37,
+      "cume": 22.51,
+      "showings": 12728,
+      "admissions": 68168,
+      "rank": 7,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 694996,
+      "title": "Begin,Again",
+      "gross": 0.36,
+      "cume": 8.24,
+      "showings": 39070,
+      "admissions": 67785,
+      "rank": 8,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 685446,
+      "title": "Liberation",
+      "gross": 0.19,
+      "cume": 4.48,
+      "showings": 874,
+      "admissions": 25731,
+      "rank": 9,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 662685,
+      "title": "Ne Zha",
+      "gross": 0.18,
+      "cume": 738.5,
+      "showings": 163,
+      "admissions": 20620,
+      "rank": 10,
+      "days": 161,
+      "day": "25th Thu"
+    },
+    {
+      "movie_id": 686011,
+      "title": "Only Cloud Knows",
+      "gross": 0.15,
+      "cume": 22.78,
+      "showings": 6273,
+      "admissions": 26943,
+      "rank": 11,
+      "days": 14,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 676485,
+      "title": "The Last Wish",
+      "gross": 0.13,
+      "cume": 41.33,
+      "showings": 84,
+      "admissions": 12620,
+      "rank": 12,
+      "days": 113,
+      "day": "17th Thu"
+    },
+    {
+      "movie_id": 694774,
+      "title": "Song Of Love",
+      "gross": 0.12,
+      "cume": 5.25,
+      "showings": 191,
+      "admissions": 19514,
+      "rank": 13,
+      "days": 43,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 681814,
+      "title": "Star Wars: The Rise of Skywalker",
+      "gross": 0.12,
+      "cume": 19.42,
+      "showings": 4410,
+      "admissions": 17421,
+      "rank": 14,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 681319,
+      "title": "The Captain",
+      "gross": 0.09,
+      "cume": 428.71,
+      "showings": 122,
+      "admissions": 8858,
+      "rank": 15,
+      "days": 95,
+      "day": "14th Thu"
+    },
+    {
+      "movie_id": 676432,
+      "title": "Frozen 2",
+      "gross": 0.09,
+      "cume": 122.92,
+      "showings": 5717,
+      "admissions": 17283,
+      "rank": 16,
+      "days": 42,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 681876,
+      "title": "S.W.A.T.",
+      "gross": 0.08,
+      "cume": 7.7,
+      "showings": 5576,
+      "admissions": 15329,
+      "rank": 17,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 691939,
+      "title": "Abominable",
+      "gross": 0.07,
+      "cume": 19.33,
+      "showings": 55,
+      "admissions": 5514,
+      "rank": 18,
+      "days": 94,
+      "day": "14th Thu"
+    },
+    {
+      "movie_id": 671358,
+      "title": "The Magic School",
+      "gross": 0.07,
+      "cume": 0.12,
+      "showings": 32,
+      "admissions": 2426,
+      "rank": 19,
+      "days": 248,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 676869,
+      "title": "Changing China: Life is marvelous because of you",
+      "gross": 0.06,
+      "cume": 1.11,
+      "showings": 31,
+      "admissions": 2310,
+      "rank": 20,
+      "days": 42,
+      "day": "6th Thu"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 661922,
+  "title": "Open Fire",
+  "releaseDate": "13-10-2017",
+  "entries": [
+    {
+      "date": "13-10-2017",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 1609,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-10-2017",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.09,
+      "showings": 4815,
+      "admissions": 16552,
+      "days": 1,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "21-10-2017",
+      "rank": 13,
+      "gross": 0.09,
+      "cume": 0.18,
+      "showings": 3241,
+      "admissions": 18407,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "22-10-2017",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.24,
+      "showings": 2795,
+      "admissions": 13619,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "23-10-2017",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.27,
+      "showings": 2371,
+      "admissions": 5352,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "24-10-2017",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 2104,
+      "admissions": 3724,
+      "days": 5,
+      "day": "2nd Tue"
+    }
+  ]
+}

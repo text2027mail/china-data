@@ -1,0 +1,225 @@
+{
+  "date": "26-03-2016",
+  "data": [
+    {
+      "movie_id": 643388,
+      "title": "",
+      "gross": 21.61,
+      "cume": 40.71,
+      "showings": 81931,
+      "admissions": 4167845,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 643235,
+      "title": "Zootopia",
+      "gross": 7.36,
+      "cume": 185.38,
+      "showings": 34040,
+      "admissions": 1542365,
+      "rank": 2,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 642886,
+      "title": "The Revenant",
+      "gross": 2.55,
+      "cume": 47.0,
+      "showings": 19622,
+      "admissions": 565352,
+      "rank": 3,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 7861,
+      "title": "Behind The Yellow Line",
+      "gross": 0.39,
+      "cume": 0.76,
+      "showings": 7693,
+      "admissions": 97770,
+      "rank": 4,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 637664,
+      "title": "The Rise of A Tomboy",
+      "gross": 0.29,
+      "cume": 8.31,
+      "showings": 5702,
+      "admissions": 71782,
+      "rank": 5,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 642966,
+      "title": "Fear is coming",
+      "gross": 0.18,
+      "cume": 0.36,
+      "showings": 4118,
+      "admissions": 46123,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 643426,
+      "title": "Gods of Egypt",
+      "gross": 0.15,
+      "cume": 34.0,
+      "showings": 2521,
+      "admissions": 28276,
+      "rank": 7,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 610219,
+      "title": "Ip Man 3",
+      "gross": 0.11,
+      "cume": 113.27,
+      "showings": 1974,
+      "admissions": 19481,
+      "rank": 8,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 327746,
+      "title": "Eddie the Eagle",
+      "gross": 0.1,
+      "cume": 0.85,
+      "showings": 814,
+      "admissions": 21718,
+      "rank": 9,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 643407,
+      "title": "Girls' Generation",
+      "gross": 0.09,
+      "cume": 0.19,
+      "showings": 5478,
+      "admissions": 21966,
+      "rank": 10,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 626153,
+      "title": "The Mermaid",
+      "gross": 0.08,
+      "cume": 499.9,
+      "showings": 1412,
+      "admissions": 15623,
+      "rank": 11,
+      "days": 48,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 639351,
+      "title": "Kung Fu Panda 3",
+      "gross": 0.07,
+      "cume": 147.12,
+      "showings": 392,
+      "admissions": 17411,
+      "rank": 12,
+      "days": 58,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 592975,
+      "title": "Easy Life",
+      "gross": 0.06,
+      "cume": 0.15,
+      "showings": 3806,
+      "admissions": 14862,
+      "rank": 13,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 616345,
+      "title": "Wo He Wo Men",
+      "gross": 0.05,
+      "cume": 0.56,
+      "showings": 56,
+      "admissions": 7779,
+      "rank": 14,
+      "days": 677,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 637884,
+      "title": "Shui Mo Da Bie Shan",
+      "gross": 0.04,
+      "cume": 0.55,
+      "showings": 55,
+      "admissions": 7573,
+      "rank": 15,
+      "days": 220,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 626499,
+      "title": "Hui Ma Ting",
+      "gross": 0.04,
+      "cume": 0.17,
+      "showings": 1517,
+      "admissions": 8287,
+      "rank": 16,
+      "days": 17,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 642433,
+      "title": "Space Panda Hero Returns",
+      "gross": 0.04,
+      "cume": 0.16,
+      "showings": 1492,
+      "admissions": 8205,
+      "rank": 17,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 642530,
+      "title": "The White-haired Girl",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 2566,
+      "admissions": 3638,
+      "rank": 18,
+      "days": 2,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 638604,
+      "title": "Go Home",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 479,
+      "admissions": 3975,
+      "rank": 19,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 618156,
+      "title": "Legend Of The Moles-The Magic Train Adventure",
+      "gross": 0.01,
+      "cume": 1.33,
+      "showings": 1172,
+      "admissions": 3507,
+      "rank": 20,
+      "days": null,
+      "day": "60th Sat"
+    }
+  ]
+}

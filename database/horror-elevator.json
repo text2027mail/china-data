@@ -1,0 +1,77 @@
+{
+  "movie_id": 769970,
+  "title": "Horror Elevator",
+  "releaseDate": "04-04-2026",
+  "entries": [
+    {
+      "date": "04-04-2026",
+      "rank": 13,
+      "gross": 0.1,
+      "cume": 0.11,
+      "showings": 6437,
+      "admissions": 23603,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "05-04-2026",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.19,
+      "showings": 5791,
+      "admissions": 16402,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "06-04-2026",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.21,
+      "showings": 4451,
+      "admissions": 4903,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "07-04-2026",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.22,
+      "showings": 3489,
+      "admissions": 1924,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "08-04-2026",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 3337,
+      "admissions": 1507,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "09-04-2026",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 3175,
+      "admissions": 1361,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "14-04-2026",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.27,
+      "showings": 2402,
+      "admissions": 908,
+      "days": 11,
+      "day": "2nd Tue"
+    }
+  ]
+}

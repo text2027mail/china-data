@@ -1,0 +1,67 @@
+{
+  "movie_id": 674969,
+  "title": "The Girl in the Fog",
+  "releaseDate": "10-04-2021",
+  "entries": [
+    {
+      "date": "10-04-2021",
+      "rank": 14,
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 3071,
+      "admissions": 13899,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-04-2021",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 0.16,
+      "showings": 3899,
+      "admissions": 13952,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "12-04-2021",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.19,
+      "showings": 3162,
+      "admissions": 5949,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-04-2021",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.22,
+      "showings": 3202,
+      "admissions": 5764,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-04-2021",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.24,
+      "showings": 3178,
+      "admissions": 5476,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-04-2021",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.27,
+      "showings": 3208,
+      "admissions": 4917,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

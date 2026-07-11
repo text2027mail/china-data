@@ -1,0 +1,87 @@
+{
+  "movie_id": 669160,
+  "title": "The Storm Looming",
+  "releaseDate": "17-11-2017",
+  "entries": [
+    {
+      "date": "17-11-2017",
+      "rank": 3,
+      "gross": 1.08,
+      "cume": 1.1,
+      "showings": 32675,
+      "admissions": 239766,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "18-11-2017",
+      "rank": 6,
+      "gross": 1.12,
+      "cume": 2.21,
+      "showings": 27352,
+      "admissions": 236430,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "19-11-2017",
+      "rank": 6,
+      "gross": 0.74,
+      "cume": 2.96,
+      "showings": 23681,
+      "admissions": 157555,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-11-2017",
+      "rank": 6,
+      "gross": 0.3,
+      "cume": 3.25,
+      "showings": 21357,
+      "admissions": 63621,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "21-11-2017",
+      "rank": 9,
+      "gross": 0.23,
+      "cume": 3.48,
+      "showings": 18161,
+      "admissions": 48786,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "22-11-2017",
+      "rank": 8,
+      "gross": 0.21,
+      "cume": 3.69,
+      "showings": 17500,
+      "admissions": 44119,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "23-11-2017",
+      "rank": 9,
+      "gross": 0.18,
+      "cume": 3.87,
+      "showings": 16649,
+      "admissions": 38823,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "27-11-2017",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 3.95,
+      "showings": 1073,
+      "admissions": 1730,
+      "days": 11,
+      "day": "2nd Mon"
+    }
+  ]
+}

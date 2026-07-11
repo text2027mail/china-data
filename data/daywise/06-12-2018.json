@@ -1,0 +1,225 @@
+{
+  "date": "06-12-2018",
+  "data": [
+    {
+      "movie_id": 678587,
+      "title": "",
+      "gross": 2.41,
+      "cume": 103.42,
+      "showings": 89594,
+      "admissions": 476507,
+      "rank": 1,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 665526,
+      "title": "Aquaman",
+      "gross": 1.32,
+      "cume": 1.33,
+      "showings": 6624,
+      "admissions": 228975,
+      "rank": 2,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 662209,
+      "title": "Venom",
+      "gross": 1.08,
+      "cume": 272.7,
+      "showings": 62427,
+      "admissions": 210790,
+      "rank": 3,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 682016,
+      "title": "Johnny English Strikes Again",
+      "gross": 0.55,
+      "cume": 24.25,
+      "showings": 35055,
+      "admissions": 120755,
+      "rank": 4,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 678471,
+      "title": "Ralph Breaks the Internet: Wreck-It Ralph 2",
+      "gross": 0.39,
+      "cume": 36.9,
+      "showings": 30011,
+      "admissions": 72818,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 677543,
+      "title": "102 Not Out",
+      "gross": 0.2,
+      "cume": 4.34,
+      "showings": 26031,
+      "admissions": 46713,
+      "rank": 6,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 619583,
+      "title": "Dog 13",
+      "gross": 0.2,
+      "cume": 0.79,
+      "showings": 9049,
+      "admissions": 42119,
+      "rank": 7,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 671046,
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "gross": 0.18,
+      "cume": 58.59,
+      "showings": 12454,
+      "admissions": 32526,
+      "rank": 8,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 657107,
+      "title": "Crazy Rich Asians",
+      "gross": 0.1,
+      "cume": 1.61,
+      "showings": 10031,
+      "admissions": 18802,
+      "rank": 9,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 655975,
+      "title": "Blood Father",
+      "gross": 0.08,
+      "cume": 2.07,
+      "showings": 14636,
+      "admissions": 17607,
+      "rank": 10,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 675992,
+      "title": "From the Mountain a Smile",
+      "gross": 0.04,
+      "cume": 0.36,
+      "showings": 187,
+      "admissions": 11637,
+      "rank": 11,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 663152,
+      "title": "Peacekeeping Force",
+      "gross": 0.04,
+      "cume": 2.43,
+      "showings": 2554,
+      "admissions": 8744,
+      "rank": 12,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 678280,
+      "title": "Sky Rise",
+      "gross": 0.04,
+      "cume": 0.74,
+      "showings": 75,
+      "admissions": 6485,
+      "rank": 13,
+      "days": 77,
+      "day": "11th Thu"
+    },
+    {
+      "movie_id": 682178,
+      "title": "Yuan Qu De Mu Ge",
+      "gross": 0.04,
+      "cume": 0.22,
+      "showings": 371,
+      "admissions": 7834,
+      "rank": 14,
+      "days": 53,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 680504,
+      "title": "The Taste of Apple",
+      "gross": 0.02,
+      "cume": 1.7,
+      "showings": 50,
+      "admissions": 4847,
+      "rank": 15,
+      "days": 121,
+      "day": "18th Thu"
+    },
+    {
+      "movie_id": 683620,
+      "title": "Hello LIfe",
+      "gross": 0.02,
+      "cume": 0.61,
+      "showings": 707,
+      "admissions": 2720,
+      "rank": 16,
+      "days": 10,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 675238,
+      "title": "Twenty",
+      "gross": 0.01,
+      "cume": 0.46,
+      "showings": 3629,
+      "admissions": 3726,
+      "rank": 17,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 673523,
+      "title": "Zhong Quan Da Ying Jiu",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 54,
+      "admissions": 3144,
+      "rank": 18,
+      "days": 14,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 674436,
+      "title": "Sky Stream",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 214,
+      "admissions": 2975,
+      "rank": 19,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 674096,
+      "title": "babamamapeipeiwo",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 65,
+      "admissions": 1232,
+      "rank": 20,
+      "days": null,
+      "day": "3rd Thu"
+    }
+  ]
+}

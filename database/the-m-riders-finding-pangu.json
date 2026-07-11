@@ -1,0 +1,37 @@
+{
+  "movie_id": 644877,
+  "title": "The M Riders Finding Pangu",
+  "releaseDate": "28-07-2018",
+  "entries": [
+    {
+      "date": "28-07-2018",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 1974,
+      "admissions": 20944,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "30-07-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 257,
+      "admissions": 1182,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-07-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 218,
+      "admissions": 1216,
+      "days": 4,
+      "day": "1st Tue"
+    }
+  ]
+}

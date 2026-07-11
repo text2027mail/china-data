@@ -1,0 +1,37 @@
+{
+  "movie_id": 702563,
+  "title": "Parwaaz Hay Junoon",
+  "releaseDate": "10-11-2020",
+  "entries": [
+    {
+      "date": "10-11-2020",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 386,
+      "admissions": 2739,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "11-11-2020",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 352,
+      "admissions": 3269,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "13-11-2020",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.12,
+      "showings": 13503,
+      "admissions": 15562,
+      "days": 1,
+      "day": "1st Fri"
+    }
+  ]
+}

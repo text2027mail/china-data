@@ -1,0 +1,225 @@
+{
+  "date": "26-06-2021",
+  "data": [
+    {
+      "movie_id": 701782,
+      "title": "",
+      "gross": 4.09,
+      "cume": 7.19,
+      "showings": 91920,
+      "admissions": 764545,
+      "rank": 1,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 706713,
+      "title": "Man In Love",
+      "gross": 2.01,
+      "cume": 24.33,
+      "showings": 42007,
+      "admissions": 418517,
+      "rank": 2,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 707206,
+      "title": "Between Us",
+      "gross": 1.56,
+      "cume": 3.88,
+      "showings": 65300,
+      "admissions": 316688,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 695809,
+      "title": "Peter Rabbit 2: The Runaway",
+      "gross": 1.37,
+      "cume": 19.43,
+      "showings": 24236,
+      "admissions": 275726,
+      "rank": 4,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 706449,
+      "title": "On Your Mark",
+      "gross": 1.24,
+      "cume": 14.3,
+      "showings": 26674,
+      "admissions": 230817,
+      "rank": 5,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 692580,
+      "title": "Cruella",
+      "gross": 0.77,
+      "cume": 19.1,
+      "showings": 11244,
+      "admissions": 132898,
+      "rank": 6,
+      "days": 21,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 707737,
+      "title": "Island Keeper",
+      "gross": 0.58,
+      "cume": 7.91,
+      "showings": 16357,
+      "admissions": 106378,
+      "rank": 7,
+      "days": 9,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 695549,
+      "title": "Hello World",
+      "gross": 0.52,
+      "cume": 14.75,
+      "showings": 16254,
+      "admissions": 112828,
+      "rank": 8,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 696991,
+      "title": "A Quiet Place Part Ⅱ",
+      "gross": 0.42,
+      "cume": 36.44,
+      "showings": 8103,
+      "admissions": 70886,
+      "rank": 9,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 706639,
+      "title": "The Father",
+      "gross": 0.32,
+      "cume": 2.38,
+      "showings": 4027,
+      "admissions": 52154,
+      "rank": 10,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 692841,
+      "title": "The perfect Victim",
+      "gross": 0.27,
+      "cume": 0.61,
+      "showings": 11949,
+      "admissions": 58604,
+      "rank": 11,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 676103,
+      "title": "Three Piglets 3",
+      "gross": 0.22,
+      "cume": 0.23,
+      "showings": 15295,
+      "admissions": 45181,
+      "rank": 12,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 707185,
+      "title": "Sunny Sisters",
+      "gross": 0.16,
+      "cume": 12.97,
+      "showings": 6169,
+      "admissions": 31183,
+      "rank": 13,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 695422,
+      "title": "Never Stop",
+      "gross": 0.16,
+      "cume": 19.98,
+      "showings": 7731,
+      "admissions": 31672,
+      "rank": 14,
+      "days": 15,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 695516,
+      "title": "Cliff Walkers",
+      "gross": 0.14,
+      "cume": 174.74,
+      "showings": 2974,
+      "admissions": 23544,
+      "rank": 15,
+      "days": 58,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 696263,
+      "title": "New Happy Dad and Son 4",
+      "gross": 0.12,
+      "cume": 0.12,
+      "showings": 1253,
+      "admissions": 22841,
+      "rank": 16,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 674137,
+      "title": "White Snake",
+      "gross": 0.1,
+      "cume": 2.82,
+      "showings": 1382,
+      "admissions": 16879,
+      "rank": 17,
+      "days": 38,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 704464,
+      "title": "Stand by Me Doraemon 2",
+      "gross": 0.1,
+      "cume": 39.7,
+      "showings": 3720,
+      "admissions": 21140,
+      "rank": 18,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 672770,
+      "title": "Hell of Volcano",
+      "gross": 0.09,
+      "cume": 0.86,
+      "showings": 668,
+      "admissions": 9172,
+      "rank": 19,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 706571,
+      "title": "The Battle of Math",
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 17307,
+      "admissions": 15266,
+      "rank": 20,
+      "days": 1,
+      "day": "1st Sat"
+    }
+  ]
+}

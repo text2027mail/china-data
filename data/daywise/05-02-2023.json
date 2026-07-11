@@ -1,0 +1,225 @@
+{
+  "date": "05-02-2023",
+  "data": [
+    {
+      "movie_id": 704382,
+      "title": "",
+      "gross": 19.38,
+      "cume": 496.01,
+      "showings": 95299,
+      "admissions": 2660521,
+      "rank": 1,
+      "days": 15,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 713237,
+      "title": "Full River Red",
+      "gross": 16.69,
+      "cume": 588.48,
+      "showings": 101270,
+      "admissions": 2439492,
+      "rank": 2,
+      "days": 15,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 733627,
+      "title": "Boonie Bears: Guardian Code",
+      "gross": 7.88,
+      "cume": 185.71,
+      "showings": 48367,
+      "admissions": 1225260,
+      "rank": 3,
+      "days": 15,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 4.86,
+      "cume": 97.79,
+      "showings": 36398,
+      "admissions": 726274,
+      "rank": 4,
+      "days": 15,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 707469,
+      "title": "Hidden Blade",
+      "gross": 3.62,
+      "cume": 115.31,
+      "showings": 24143,
+      "admissions": 469996,
+      "rank": 5,
+      "days": 15,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 683508,
+      "title": "Where the Wind Blows",
+      "gross": 2.2,
+      "cume": 4.47,
+      "showings": 47053,
+      "admissions": 343922,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 708388,
+      "title": "Five Hundred Miles",
+      "gross": 0.85,
+      "cume": 52.82,
+      "showings": 14451,
+      "admissions": 129914,
+      "rank": 7,
+      "days": 15,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 612244,
+      "title": "Avatar: The Way of Water",
+      "gross": 0.6,
+      "cume": 245.07,
+      "showings": 3776,
+      "admissions": 84722,
+      "rank": 8,
+      "days": 52,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 692317,
+      "title": "Ping-pong of China",
+      "gross": 0.3,
+      "cume": 6.44,
+      "showings": 899,
+      "admissions": 46518,
+      "rank": 9,
+      "days": null,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.02,
+      "cume": 6.77,
+      "showings": 300,
+      "admissions": 2887,
+      "rank": 10,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 734739,
+      "title": "Federico Fellini Film Works Retrospective Exhibition",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1,
+      "admissions": 701,
+      "rank": 11,
+      "days": 44,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 681235,
+      "title": "Above The Rainbow",
+      "gross": 0.01,
+      "cume": 0.41,
+      "showings": 37,
+      "admissions": 1088,
+      "rank": 12,
+      "days": 193,
+      "day": "28th Sun"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.01,
+      "cume": 31.92,
+      "showings": 170,
+      "admissions": 1288,
+      "rank": 13,
+      "days": 129,
+      "day": "19th Sun"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 1.29,
+      "showings": 4,
+      "admissions": 733,
+      "rank": 14,
+      "days": 1314,
+      "day": "79th Sun"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 0.0,
+      "cume": 59.19,
+      "showings": 93,
+      "admissions": 569,
+      "rank": 15,
+      "days": 44,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 703298,
+      "title": "Like Father And Son",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 4,
+      "admissions": 422,
+      "rank": 16,
+      "days": null,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 696270,
+      "title": "Restaurant in a tree",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 24,
+      "admissions": 503,
+      "rank": 17,
+      "days": 37,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 733408,
+      "title": "Golden Rooster Hong Kong Film Festival in 2022",
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 6,
+      "admissions": 192,
+      "rank": 18,
+      "days": 98,
+      "day": "13th Sun"
+    },
+    {
+      "movie_id": 715838,
+      "title": "Dragon Ball Super: Super Hero",
+      "gross": 0.0,
+      "cume": 1.65,
+      "showings": 60,
+      "admissions": 199,
+      "rank": 19,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 700622,
+      "title": "Beautiful Life",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 3,
+      "admissions": 155,
+      "rank": 20,
+      "days": 80,
+      "day": "2nd Sun"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "25-05-2013",
+  "data": [
+    {
+      "movie_id": 610867,
+      "title": "",
+      "gross": 6.47,
+      "cume": 41.8,
+      "showings": 27013,
+      "admissions": 1350710,
+      "rank": 1,
+      "days": 9,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 346818,
+      "title": "Iron Man 3",
+      "gross": 1.56,
+      "cume": 107.83,
+      "showings": 9601,
+      "admissions": 251077,
+      "rank": 2,
+      "days": 25,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 615499,
+      "title": "The Croods",
+      "gross": 1.37,
+      "cume": 50.78,
+      "showings": 7252,
+      "admissions": 249224,
+      "rank": 3,
+      "days": 36,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 615765,
+      "title": "Oblivion",
+      "gross": 0.84,
+      "cume": 19.85,
+      "showings": 6190,
+      "admissions": 163596,
+      "rank": 4,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 610627,
+      "title": "Christmas Rose",
+      "gross": 0.77,
+      "cume": 1.39,
+      "showings": 12232,
+      "admissions": 171056,
+      "rank": 5,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 596973,
+      "title": "So Young",
+      "gross": 0.55,
+      "cume": 104.38,
+      "showings": 6838,
+      "admissions": 109237,
+      "rank": 6,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 616252,
+      "title": "Running All The Way",
+      "gross": 0.2,
+      "cume": 0.34,
+      "showings": 5176,
+      "admissions": 43956,
+      "rank": 7,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 605809,
+      "title": "Django Unchained",
+      "gross": 0.08,
+      "cume": 2.38,
+      "showings": 749,
+      "admissions": 13162,
+      "rank": 8,
+      "days": 14,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 616145,
+      "title": "Mortician",
+      "gross": 0.06,
+      "cume": 0.92,
+      "showings": 2150,
+      "admissions": 13002,
+      "rank": 9,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 616626,
+      "title": "The Charge",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 550,
+      "admissions": 2168,
+      "rank": 10,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 0.58,
+      "showings": 18,
+      "admissions": 838,
+      "rank": 11,
+      "days": 635,
+      "day": "20th Sat"
+    },
+    {
+      "movie_id": 614757,
+      "title": "The Incredible Truth",
+      "gross": 0.0,
+      "cume": 0.63,
+      "showings": 305,
+      "admissions": 847,
+      "rank": 12,
+      "days": 28,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 609644,
+      "title": "Conspirators",
+      "gross": 0.0,
+      "cume": 3.32,
+      "showings": 280,
+      "admissions": 781,
+      "rank": 13,
+      "days": 29,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 565284,
+      "title": "Gao Kao 1977",
+      "gross": 0.0,
+      "cume": 1.91,
+      "showings": 4,
+      "admissions": 842,
+      "rank": 14,
+      "days": 1514,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 615792,
+      "title": "Mr. & Mrs. Gambler",
+      "gross": 0.0,
+      "cume": 0.33,
+      "showings": 226,
+      "admissions": 621,
+      "rank": 15,
+      "days": 28,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 596088,
+      "title": "The Adventures of Sinbad 2013",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 7,
+      "admissions": 1000,
+      "rank": 16,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 589499,
+      "title": "Piano Trojan",
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 336,
+      "admissions": 479,
+      "rank": 17,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 614859,
+      "title": "Bai Fang Li",
+      "gross": 0.0,
+      "cume": 0.26,
+      "showings": 4,
+      "admissions": 287,
+      "rank": 18,
+      "days": 1656,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 4480,
+      "title": "Tactical Unit: The Code",
+      "gross": 0.0,
+      "cume": 1.05,
+      "showings": 7,
+      "admissions": 399,
+      "rank": 19,
+      "days": 1500,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 573137,
+      "title": "Fallen City",
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 124,
+      "admissions": 264,
+      "rank": 20,
+      "days": 16,
+      "day": "3rd Sat"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "25-12-2025",
+  "data": [
+    {
+      "movie_id": 612245,
+      "title": "",
+      "gross": 4.45,
+      "cume": 78.9,
+      "showings": 110589,
+      "admissions": 609637,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 868179,
+      "title": "Zootopia 2",
+      "gross": 1.75,
+      "cume": 570.34,
+      "showings": 109308,
+      "admissions": 295061,
+      "rank": 2,
+      "days": 30,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 879427,
+      "title": "LOVE IS HARD",
+      "gross": 0.45,
+      "cume": 1.98,
+      "showings": 23056,
+      "admissions": 82588,
+      "rank": 3,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 702019,
+      "title": "Escape From The Outland",
+      "gross": 0.43,
+      "cume": 1.0,
+      "showings": 24529,
+      "admissions": 78058,
+      "rank": 4,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 769397,
+      "title": "Gezhi Town",
+      "gross": 0.42,
+      "cume": 54.0,
+      "showings": 33125,
+      "admissions": 88291,
+      "rank": 5,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 954961,
+      "title": "Wicked: For Good",
+      "gross": 0.1,
+      "cume": 0.22,
+      "showings": 5306,
+      "admissions": 16213,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 751725,
+      "title": "ROBOT DREAMS",
+      "gross": 0.06,
+      "cume": 1.9,
+      "showings": 2252,
+      "admissions": 10038,
+      "rank": 7,
+      "days": 566,
+      "day": "81st Thu"
+    },
+    {
+      "movie_id": 713212,
+      "title": "Under Current",
+      "gross": 0.04,
+      "cume": 4.41,
+      "showings": 6105,
+      "admissions": 8390,
+      "rank": 8,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 750214,
+      "title": "The Hump",
+      "gross": 0.04,
+      "cume": 0.49,
+      "showings": 930,
+      "admissions": 6527,
+      "rank": 9,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 974332,
+      "title": "Puruo Gangri",
+      "gross": 0.03,
+      "cume": 0.3,
+      "showings": 6449,
+      "admissions": 4073,
+      "rank": 10,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 797217,
+      "title": "Now You See Me: Now You Don't",
+      "gross": 0.03,
+      "cume": 42.38,
+      "showings": 3014,
+      "admissions": 4757,
+      "rank": 11,
+      "days": 42,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 757432,
+      "title": "THLE OF THE KERCHIEF",
+      "gross": 0.02,
+      "cume": 0.18,
+      "showings": 23,
+      "admissions": 2837,
+      "rank": 12,
+      "days": 62,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 741329,
+      "title": "Behind You",
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 2815,
+      "admissions": 3042,
+      "rank": 13,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 627766,
+      "title": "Mountains May Depart",
+      "gross": 0.01,
+      "cume": 5.59,
+      "showings": 1088,
+      "admissions": 2736,
+      "rank": 14,
+      "days": 3710,
+      "day": "532nd Thu"
+    },
+    {
+      "movie_id": 739702,
+      "title": "want to say loudly I love you",
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 40,
+      "admissions": 2302,
+      "rank": 15,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 769420,
+      "title": "Shanghai Wonton",
+      "gross": 0.01,
+      "cume": 3.95,
+      "showings": 367,
+      "admissions": 2364,
+      "rank": 16,
+      "days": 41,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 757509,
+      "title": "MISSION IN THE SNOWY TERRITORY",
+      "gross": 0.01,
+      "cume": 0.6,
+      "showings": 392,
+      "admissions": 1470,
+      "rank": 17,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 958587,
+      "title": "Hidden Landscapes",
+      "gross": 0.01,
+      "cume": 0.73,
+      "showings": 431,
+      "admissions": 1734,
+      "rank": 18,
+      "days": 31,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 981379,
+      "title": "Eternity",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1796,
+      "admissions": 1650,
+      "rank": 19,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 853259,
+      "title": "MOUNTAINS AND RIVERS WITNESS",
+      "gross": 0.01,
+      "cume": 6.44,
+      "showings": 30,
+      "admissions": 964,
+      "rank": 20,
+      "days": 133,
+      "day": "19th Thu"
+    }
+  ]
+}

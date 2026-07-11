@@ -1,0 +1,57 @@
+{
+  "movie_id": 644852,
+  "title": "Disturbed Souls on Campus",
+  "releaseDate": "09-11-2018",
+  "entries": [
+    {
+      "date": "09-11-2018",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 2158,
+      "admissions": 11850,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "10-11-2018",
+      "rank": 17,
+      "gross": 0.03,
+      "cume": 0.08,
+      "showings": 1393,
+      "admissions": 7189,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-11-2018",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 1314,
+      "admissions": 6260,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "12-11-2018",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 1359,
+      "admissions": 4176,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-11-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 1284,
+      "admissions": 2534,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "25-07-2022",
+  "data": [
+    {
+      "movie_id": 675062,
+      "title": "",
+      "gross": 2.59,
+      "cume": 88.32,
+      "showings": 91675,
+      "admissions": 467302,
+      "rank": 1,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 702026,
+      "title": "LIGHTING UP THE STARS",
+      "gross": 2.16,
+      "cume": 233.94,
+      "showings": 79469,
+      "admissions": 364349,
+      "rank": 2,
+      "days": 32,
+      "day": "19th Mon"
+    },
+    {
+      "movie_id": 702098,
+      "title": "Mozart From Space",
+      "gross": 1.03,
+      "cume": 30.2,
+      "showings": 51002,
+      "admissions": 173991,
+      "rank": 3,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 692532,
+      "title": "Jurassic World: Dominion",
+      "gross": 0.45,
+      "cume": 153.87,
+      "showings": 20533,
+      "admissions": 85791,
+      "rank": 4,
+      "days": 46,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 700803,
+      "title": "Love Can't Be Said",
+      "gross": 0.32,
+      "cume": 2.5,
+      "showings": 27293,
+      "admissions": 61193,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 700663,
+      "title": "Octonauts：The Caves of Sac Actun",
+      "gross": 0.12,
+      "cume": 10.12,
+      "showings": 10473,
+      "admissions": 25244,
+      "rank": 6,
+      "days": 17,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 701661,
+      "title": "Return To Dust",
+      "gross": 0.1,
+      "cume": 2.0,
+      "showings": 4896,
+      "admissions": 20396,
+      "rank": 7,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 713716,
+      "title": "The Stones",
+      "gross": 0.1,
+      "cume": 2.08,
+      "showings": 12605,
+      "admissions": 22379,
+      "rank": 8,
+      "days": 4,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 693316,
+      "title": "Rainbow Sea Fly High",
+      "gross": 0.04,
+      "cume": 1.37,
+      "showings": 4952,
+      "admissions": 7203,
+      "rank": 9,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 706353,
+      "title": "ODE To The Spring",
+      "gross": 0.03,
+      "cume": 4.47,
+      "showings": 638,
+      "admissions": 5539,
+      "rank": 10,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 702906,
+      "title": "Moonman",
+      "gross": 0.03,
+      "cume": 0.05,
+      "showings": 8,
+      "admissions": 1451,
+      "rank": 11,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 704915,
+      "title": "LIFESAVERS’ PROMISE",
+      "gross": 0.01,
+      "cume": 0.4,
+      "showings": 27,
+      "admissions": 2410,
+      "rank": 12,
+      "days": 148,
+      "day": "22nd Mon"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.01,
+      "cume": 3.61,
+      "showings": 93,
+      "admissions": 2207,
+      "rank": 13,
+      "days": 95,
+      "day": "36th Mon"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.01,
+      "cume": 89.17,
+      "showings": 2978,
+      "admissions": 2318,
+      "rank": 14,
+      "days": 175,
+      "day": "25th Mon"
+    },
+    {
+      "movie_id": 694921,
+      "title": "Almost Love",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 11,
+      "admissions": 979,
+      "rank": 15,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 712866,
+      "title": "Doraemon the Movie: Nobita's Little Star Wars 2021",
+      "gross": 0.01,
+      "cume": 14.62,
+      "showings": 962,
+      "admissions": 1939,
+      "rank": 16,
+      "days": 59,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 710369,
+      "title": "Beyond the Skies",
+      "gross": 0.01,
+      "cume": 0.64,
+      "showings": 30,
+      "admissions": 1325,
+      "rank": 17,
+      "days": 39,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 698645,
+      "title": "BIG HEAD WITH GREAT WISDOM",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 797,
+      "admissions": 1334,
+      "rank": 18,
+      "days": 2,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 696825,
+      "title": "Septet: The Story of Hong Kong",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 15,
+      "admissions": 729,
+      "rank": 19,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 701724,
+      "title": "One Week Friends",
+      "gross": 0.0,
+      "cume": 17.94,
+      "showings": 659,
+      "admissions": 751,
+      "rank": 20,
+      "days": 38,
+      "day": "6th Mon"
+    }
+  ]
+}

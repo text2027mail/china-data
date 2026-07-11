@@ -1,0 +1,225 @@
+{
+  "date": "22-01-2022",
+  "data": [
+    {
+      "movie_id": 705150,
+      "title": "",
+      "gross": 1.78,
+      "cume": 127.77,
+      "showings": 58637,
+      "admissions": 288570,
+      "rank": 1,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 709879,
+      "title": "Fireflies in the Sun",
+      "gross": 1.5,
+      "cume": 155.48,
+      "showings": 39708,
+      "admissions": 273152,
+      "rank": 2,
+      "days": 37,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 698510,
+      "title": "G Storm",
+      "gross": 1.2,
+      "cume": 85.51,
+      "showings": 43597,
+      "admissions": 201857,
+      "rank": 3,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 705642,
+      "title": "Another Me",
+      "gross": 1.11,
+      "cume": 61.08,
+      "showings": 41830,
+      "admissions": 196001,
+      "rank": 4,
+      "days": 22,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 708482,
+      "title": "Paw Patrol: The Movie",
+      "gross": 0.77,
+      "cume": 6.23,
+      "showings": 21677,
+      "admissions": 156762,
+      "rank": 5,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 709374,
+      "title": "DUNK FOR FUTURE",
+      "gross": 0.72,
+      "cume": 0.97,
+      "showings": 35910,
+      "admissions": 134023,
+      "rank": 6,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 710368,
+      "title": "The Matrix Resurrections",
+      "gross": 0.66,
+      "cume": 10.14,
+      "showings": 34332,
+      "admissions": 110563,
+      "rank": 7,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 710426,
+      "title": "Encanto",
+      "gross": 0.53,
+      "cume": 8.15,
+      "showings": 11906,
+      "admissions": 92676,
+      "rank": 8,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 705084,
+      "title": "B for Busy",
+      "gross": 0.52,
+      "cume": 36.64,
+      "showings": 11153,
+      "admissions": 79737,
+      "rank": 9,
+      "days": 30,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 707289,
+      "title": "Lost And Found",
+      "gross": 0.39,
+      "cume": 31.59,
+      "showings": 20880,
+      "admissions": 71944,
+      "rank": 10,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 696843,
+      "title": "Lion Dance Boy",
+      "gross": 0.33,
+      "cume": 34.78,
+      "showings": 8503,
+      "admissions": 58108,
+      "rank": 11,
+      "days": 37,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 0.28,
+      "cume": 0.73,
+      "showings": 967,
+      "admissions": 43777,
+      "rank": 12,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 702084,
+      "title": "BACK TO LOVE",
+      "gross": 0.12,
+      "cume": 2.46,
+      "showings": 3195,
+      "admissions": 22569,
+      "rank": 13,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 695172,
+      "title": "Chhichhore",
+      "gross": 0.07,
+      "cume": 2.46,
+      "showings": 2960,
+      "admissions": 15304,
+      "rank": 14,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.06,
+      "cume": 7.47,
+      "showings": 152,
+      "admissions": 14621,
+      "rank": 15,
+      "days": 188,
+      "day": "28th Sat"
+    },
+    {
+      "movie_id": 684744,
+      "title": "Manchuria Tiger",
+      "gross": 0.06,
+      "cume": 2.29,
+      "showings": 7235,
+      "admissions": 10922,
+      "rank": 16,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 709926,
+      "title": "Crossing the Yalu River",
+      "gross": 0.05,
+      "cume": 14.29,
+      "showings": 1711,
+      "admissions": 10237,
+      "rank": 17,
+      "days": 37,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.05,
+      "cume": 1.57,
+      "showings": 170,
+      "admissions": 10353,
+      "rank": 18,
+      "days": null,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 706189,
+      "title": "Be Somebody",
+      "gross": 0.05,
+      "cume": 136.5,
+      "showings": 1278,
+      "admissions": 9056,
+      "rank": 19,
+      "days": 73,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 701984,
+      "title": "mengjixiaodui：mengchenxinshijie",
+      "gross": 0.04,
+      "cume": 4.79,
+      "showings": 2594,
+      "admissions": 7705,
+      "rank": 20,
+      "days": 15,
+      "day": "5th Sat"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "movie_id": 797651,
+  "title": "Les Trois Mousquetaires: D'Artagnan",
+  "releaseDate": "21-06-2025",
+  "entries": [
+    {
+      "date": "21-06-2025",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 4099,
+      "admissions": 3435,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-06-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 3757,
+      "admissions": 3072,
+      "days": 2,
+      "day": "1st Sun"
+    }
+  ]
+}

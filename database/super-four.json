@@ -1,0 +1,77 @@
+{
+  "movie_id": 642235,
+  "title": "Super Four",
+  "releaseDate": "26-01-2018",
+  "entries": [
+    {
+      "date": "26-01-2018",
+      "rank": 12,
+      "gross": 0.11,
+      "cume": 0.12,
+      "showings": 5119,
+      "admissions": 22649,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-01-2018",
+      "rank": 15,
+      "gross": 0.08,
+      "cume": 0.19,
+      "showings": 3522,
+      "admissions": 16657,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-01-2018",
+      "rank": 16,
+      "gross": 0.07,
+      "cume": 0.26,
+      "showings": 3207,
+      "admissions": 14422,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-01-2018",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.3,
+      "showings": 2402,
+      "admissions": 9137,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-01-2018",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.35,
+      "showings": 2305,
+      "admissions": 9674,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "31-01-2018",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.39,
+      "showings": 2174,
+      "admissions": 9709,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "01-02-2018",
+      "rank": 17,
+      "gross": 0.03,
+      "cume": 0.42,
+      "showings": 1352,
+      "admissions": 5410,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

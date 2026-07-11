@@ -1,0 +1,225 @@
+{
+  "date": "26-03-2015",
+  "data": [
+    {
+      "movie_id": 631010,
+      "title": "",
+      "gross": 1.72,
+      "cume": 23.6,
+      "showings": 33091,
+      "admissions": 317285,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 627482,
+      "title": "Lost and Love",
+      "gross": 1.58,
+      "cume": 24.56,
+      "showings": 35957,
+      "admissions": 346720,
+      "rank": 2,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 631303,
+      "title": "Cinderella",
+      "gross": 1.15,
+      "cume": 55.0,
+      "showings": 26524,
+      "admissions": 253455,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 621612,
+      "title": "Big Hero 6",
+      "gross": 0.45,
+      "cume": 74.3,
+      "showings": 11329,
+      "admissions": 87504,
+      "rank": 4,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 627447,
+      "title": "Little Big Master",
+      "gross": 0.24,
+      "cume": 2.65,
+      "showings": 9745,
+      "admissions": 51890,
+      "rank": 5,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 630484,
+      "title": "Legend of Rabbit：The Martial of Fire",
+      "gross": 0.1,
+      "cume": 1.98,
+      "showings": 338,
+      "admissions": 17128,
+      "rank": 6,
+      "days": 34,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 631381,
+      "title": "Kingsman: The Secret Service",
+      "gross": 0.09,
+      "cume": 0.09,
+      "showings": 766,
+      "admissions": 16282,
+      "rank": 7,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 623468,
+      "title": "Jupiter Ascending",
+      "gross": 0.09,
+      "cume": 41.79,
+      "showings": 4029,
+      "admissions": 16627,
+      "rank": 8,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 627594,
+      "title": "The Man From Macau Ⅱ",
+      "gross": 0.08,
+      "cume": 143.65,
+      "showings": 2226,
+      "admissions": 14632,
+      "rank": 9,
+      "days": 36,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 612432,
+      "title": "Wolf Totem",
+      "gross": 0.08,
+      "cume": 102.46,
+      "showings": 2183,
+      "admissions": 13627,
+      "rank": 10,
+      "days": 36,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 615868,
+      "title": "Nowhere To Run",
+      "gross": 0.07,
+      "cume": 3.49,
+      "showings": 4035,
+      "admissions": 16651,
+      "rank": 11,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 621772,
+      "title": "Paddington",
+      "gross": 0.06,
+      "cume": 14.15,
+      "showings": 2652,
+      "admissions": 12260,
+      "rank": 12,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 626314,
+      "title": "Dragon Blade",
+      "gross": 0.02,
+      "cume": 109.71,
+      "showings": 343,
+      "admissions": 3553,
+      "rank": 13,
+      "days": 36,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 630911,
+      "title": "The Right Mistake",
+      "gross": 0.01,
+      "cume": 5.76,
+      "showings": 1181,
+      "admissions": 3211,
+      "rank": 14,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 617165,
+      "title": "Wolf Warriors",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 7,
+      "admissions": 1413,
+      "rank": 15,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 629206,
+      "title": "My Brilliant Life",
+      "gross": 0.0,
+      "cume": 0.81,
+      "showings": 703,
+      "admissions": 971,
+      "rank": 16,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 631062,
+      "title": "10000 years later",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 63,
+      "admissions": 672,
+      "rank": 17,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 593957,
+      "title": "Bright Wedding",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 885,
+      "admissions": 690,
+      "rank": 18,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 630772,
+      "title": "The Wonderful Wedding",
+      "gross": 0.0,
+      "cume": 1.14,
+      "showings": 128,
+      "admissions": 426,
+      "rank": 19,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 631084,
+      "title": "Grey Met Shrek",
+      "gross": 0.0,
+      "cume": 0.14,
+      "showings": 110,
+      "admissions": 388,
+      "rank": 20,
+      "days": 63,
+      "day": "9th Thu"
+    }
+  ]
+}

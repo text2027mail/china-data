@@ -1,0 +1,57 @@
+{
+  "movie_id": 614558,
+  "title": "Love Dog Doc",
+  "releaseDate": "01-01-2013",
+  "entries": [
+    {
+      "date": "01-01-2013",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 391,
+      "admissions": 1312,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "02-01-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 348,
+      "admissions": 1076,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-01-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 318,
+      "admissions": 709,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "04-01-2013",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 298,
+      "admissions": 487,
+      "days": 7,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-01-2013",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 301,
+      "admissions": 298,
+      "days": 8,
+      "day": "1st Sat"
+    }
+  ]
+}

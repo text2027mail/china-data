@@ -1,0 +1,47 @@
+{
+  "movie_id": 618143,
+  "title": "Forget All Remember",
+  "releaseDate": "24-12-2014",
+  "entries": [
+    {
+      "date": "24-12-2014",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1621,
+      "admissions": 4265,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "25-12-2014",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 1540,
+      "admissions": 3782,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "date": "27-12-2014",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 526,
+      "admissions": 1924,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-12-2014",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 476,
+      "admissions": 1488,
+      "days": 5,
+      "day": "1st Sun"
+    }
+  ]
+}

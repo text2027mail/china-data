@@ -1,0 +1,225 @@
+{
+  "date": "12-10-2021",
+  "data": [
+    {
+      "movie_id": 703496,
+      "title": "",
+      "gross": 12.77,
+      "cume": 635.65,
+      "showings": 152948,
+      "admissions": 1854888,
+      "rank": 1,
+      "days": 13,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 706356,
+      "title": "My country,My parents",
+      "gross": 2.43,
+      "cume": 179.87,
+      "showings": 71369,
+      "admissions": 387195,
+      "rank": 2,
+      "days": 13,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 703028,
+      "title": "Water Boys",
+      "gross": 0.2,
+      "cume": 7.27,
+      "showings": 17067,
+      "admissions": 35609,
+      "rank": 3,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 709324,
+      "title": "The Guardian of Youth",
+      "gross": 0.12,
+      "cume": 1.37,
+      "showings": 434,
+      "admissions": 24022,
+      "rank": 4,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 699450,
+      "title": "Cloudy Mountain",
+      "gross": 0.09,
+      "cume": 63.84,
+      "showings": 7373,
+      "admissions": 17051,
+      "rank": 5,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 691302,
+      "title": "Dear Tutu: Operation T-Rex",
+      "gross": 0.07,
+      "cume": 6.98,
+      "showings": 4229,
+      "admissions": 10329,
+      "rank": 6,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 695476,
+      "title": "Knock Knock",
+      "gross": 0.04,
+      "cume": 0.07,
+      "showings": 396,
+      "admissions": 7162,
+      "rank": 7,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.04,
+      "cume": 3.45,
+      "showings": 58,
+      "admissions": 5514,
+      "rank": 8,
+      "days": 68,
+      "day": "12th Tue"
+    },
+    {
+      "movie_id": 701532,
+      "title": "All About My Mother",
+      "gross": 0.04,
+      "cume": 21.92,
+      "showings": 4789,
+      "admissions": 7579,
+      "rank": 9,
+      "days": 24,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 708513,
+      "title": "Our treasures",
+      "gross": 0.02,
+      "cume": 1.96,
+      "showings": 70,
+      "admissions": 3305,
+      "rank": 10,
+      "days": 73,
+      "day": "11th Tue"
+    },
+    {
+      "movie_id": 673641,
+      "title": "Saturday Fiction",
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 18,
+      "admissions": 1628,
+      "rank": 11,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.02,
+      "cume": 3.87,
+      "showings": 102,
+      "admissions": 3782,
+      "rank": 12,
+      "days": 86,
+      "day": "13th Tue"
+    },
+    {
+      "movie_id": 695333,
+      "title": "Little Canned Man",
+      "gross": 0.01,
+      "cume": 7.27,
+      "showings": 4774,
+      "admissions": 2376,
+      "rank": 13,
+      "days": 13,
+      "day": "11th Tue"
+    },
+    {
+      "movie_id": 707736,
+      "title": "Extinct",
+      "gross": 0.01,
+      "cume": 4.26,
+      "showings": 2711,
+      "admissions": 2045,
+      "rank": 14,
+      "days": 10,
+      "day": "11th Tue"
+    },
+    {
+      "movie_id": 691465,
+      "title": "Raging Fire",
+      "gross": 0.01,
+      "cume": 196.01,
+      "showings": 784,
+      "admissions": 1925,
+      "rank": 15,
+      "days": 75,
+      "day": "11th Tue"
+    },
+    {
+      "movie_id": 705651,
+      "title": "Commander Wang Liang",
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 181,
+      "admissions": 2301,
+      "rank": 16,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 1824,
+      "title": "The Eternal Wave",
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 2288,
+      "admissions": 2490,
+      "rank": 17,
+      "days": null,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 642229,
+      "title": "The Room",
+      "gross": 0.01,
+      "cume": 2.13,
+      "showings": 425,
+      "admissions": 1401,
+      "rank": 18,
+      "days": 47,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 684843,
+      "title": "Goldbeak",
+      "gross": 0.0,
+      "cume": 4.41,
+      "showings": 2156,
+      "admissions": 948,
+      "rank": 19,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 0.37,
+      "showings": 7,
+      "admissions": 868,
+      "rank": 20,
+      "days": 833,
+      "day": "10th Tue"
+    }
+  ]
+}

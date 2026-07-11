@@ -1,0 +1,57 @@
+{
+  "movie_id": 713308,
+  "title": "Once",
+  "releaseDate": "09-05-2025",
+  "entries": [
+    {
+      "date": "09-05-2025",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 817,
+      "admissions": 4063,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-05-2025",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 135,
+      "admissions": 2438,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-05-2025",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 119,
+      "admissions": 2726,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-05-2025",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 115,
+      "admissions": 2708,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-05-2025",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 112,
+      "admissions": 2582,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

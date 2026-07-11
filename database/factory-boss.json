@@ -1,0 +1,107 @@
+{
+  "movie_id": 629663,
+  "title": "Factory Boss",
+  "releaseDate": "19-10-2014",
+  "entries": [
+    {
+      "date": "19-10-2014",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 2,
+      "admissions": 527,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "21-10-2014",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 105,
+      "admissions": 1578,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "22-10-2014",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 110,
+      "admissions": 1457,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "23-10-2014",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 80,
+      "admissions": 1169,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "24-10-2014",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 36,
+      "admissions": 1172,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-10-2014",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 48,
+      "admissions": 2412,
+      "days": 6,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "27-10-2014",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 37,
+      "admissions": 1247,
+      "days": 7,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "28-10-2014",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 28,
+      "admissions": 1155,
+      "days": 8,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "29-10-2014",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 26,
+      "admissions": 993,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "30-10-2014",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 27,
+      "admissions": 1065,
+      "days": 10,
+      "day": "2nd Thu"
+    }
+  ]
+}

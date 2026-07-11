@@ -1,0 +1,225 @@
+{
+  "date": "13-02-2023",
+  "data": [
+    {
+      "movie_id": 704382,
+      "title": "",
+      "gross": 2.73,
+      "cume": 543.1,
+      "showings": 80142,
+      "admissions": 404431,
+      "rank": 1,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 713237,
+      "title": "Full River Red",
+      "gross": 2.52,
+      "cume": 628.85,
+      "showings": 77857,
+      "admissions": 393383,
+      "rank": 2,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 707469,
+      "title": "Hidden Blade",
+      "gross": 1.04,
+      "cume": 127.57,
+      "showings": 23306,
+      "admissions": 138148,
+      "rank": 3,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 1.02,
+      "cume": 113.71,
+      "showings": 37288,
+      "admissions": 159757,
+      "rank": 4,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 734256,
+      "title": "Black Panther: Wakanda Forever",
+      "gross": 0.64,
+      "cume": 12.65,
+      "showings": 33647,
+      "admissions": 108451,
+      "rank": 5,
+      "days": 7,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 733627,
+      "title": "Boonie Bears: Guardian Code",
+      "gross": 0.4,
+      "cume": 199.9,
+      "showings": 21395,
+      "admissions": 65478,
+      "rank": 6,
+      "days": 23,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 708388,
+      "title": "Five Hundred Miles",
+      "gross": 0.26,
+      "cume": 55.68,
+      "showings": 14347,
+      "admissions": 42275,
+      "rank": 7,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 612244,
+      "title": "Avatar: The Way of Water",
+      "gross": 0.18,
+      "cume": 247.12,
+      "showings": 4921,
+      "admissions": 28157,
+      "rank": 8,
+      "days": 60,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 683508,
+      "title": "Where the Wind Blows",
+      "gross": 0.13,
+      "cume": 6.64,
+      "showings": 8519,
+      "admissions": 20931,
+      "rank": 9,
+      "days": 9,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.02,
+      "cume": 32.15,
+      "showings": 278,
+      "admissions": 4980,
+      "rank": 10,
+      "days": 137,
+      "day": "20th Mon"
+    },
+    {
+      "movie_id": 681235,
+      "title": "Above The Rainbow",
+      "gross": 0.01,
+      "cume": 0.55,
+      "showings": 218,
+      "admissions": 2252,
+      "rank": 11,
+      "days": 201,
+      "day": "29th Mon"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 0.01,
+      "cume": 59.24,
+      "showings": 396,
+      "admissions": 1019,
+      "rank": 12,
+      "days": 52,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.0,
+      "cume": 6.85,
+      "showings": 296,
+      "admissions": 793,
+      "rank": 13,
+      "days": 53,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 696270,
+      "title": "Restaurant in a tree",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 27,
+      "admissions": 847,
+      "rank": 14,
+      "days": 45,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 700622,
+      "title": "Beautiful Life",
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 21,
+      "admissions": 644,
+      "rank": 15,
+      "days": 88,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 703781,
+      "title": "Ready to go",
+      "gross": 0.0,
+      "cume": 0.32,
+      "showings": 144,
+      "admissions": 399,
+      "rank": 16,
+      "days": 200,
+      "day": "20th Mon"
+    },
+    {
+      "movie_id": 681597,
+      "title": "Deep Love",
+      "gross": 0.0,
+      "cume": 0.79,
+      "showings": 513,
+      "admissions": 164,
+      "rank": 17,
+      "days": 550,
+      "day": "79th Mon"
+    },
+    {
+      "movie_id": 692317,
+      "title": "Ping-pong of China",
+      "gross": 0.0,
+      "cume": 7.34,
+      "showings": 123,
+      "admissions": 125,
+      "rank": 18,
+      "days": null,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 716641,
+      "title": "Persuit Of Light",
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 3,
+      "admissions": 36,
+      "rank": 19,
+      "days": 152,
+      "day": "22nd Mon"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.0,
+      "cume": 3.92,
+      "showings": 2,
+      "admissions": 15,
+      "rank": 20,
+      "days": 298,
+      "day": "65th Mon"
+    }
+  ]
+}

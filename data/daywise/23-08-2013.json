@@ -1,0 +1,225 @@
+{
+  "date": "23-08-2013",
+  "data": [
+    {
+      "movie_id": 348955,
+      "title": "",
+      "gross": 3.75,
+      "cume": 19.12,
+      "showings": 19231,
+      "admissions": 661505,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 593849,
+      "title": "Monsters University",
+      "gross": 3.37,
+      "cume": 3.4,
+      "showings": 22465,
+      "admissions": 627438,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 616113,
+      "title": "Fake Fiction",
+      "gross": 1.52,
+      "cume": 1.53,
+      "showings": 17235,
+      "admissions": 347682,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 614568,
+      "title": "Unbeatable",
+      "gross": 0.56,
+      "cume": 13.41,
+      "showings": 5820,
+      "admissions": 117498,
+      "rank": 4,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 616436,
+      "title": "Pacific Rim",
+      "gross": 0.42,
+      "cume": 99.59,
+      "showings": 3134,
+      "admissions": 69307,
+      "rank": 5,
+      "days": 24,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 612957,
+      "title": "A Moment Of Love",
+      "gross": 0.24,
+      "cume": 0.25,
+      "showings": 4878,
+      "admissions": 53076,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 613854,
+      "title": "One Night Surprise",
+      "gross": 0.2,
+      "cume": 24.3,
+      "showings": 3251,
+      "admissions": 42548,
+      "rank": 7,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.2,
+      "cume": 1.43,
+      "showings": 532,
+      "admissions": 44875,
+      "rank": 8,
+      "days": 39,
+      "day": "7th Fri"
+    },
+    {
+      "movie_id": 616735,
+      "title": "Tiny Times2",
+      "gross": 0.12,
+      "cume": 43.06,
+      "showings": 2590,
+      "admissions": 26116,
+      "rank": 9,
+      "days": 16,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 596592,
+      "title": "Pink Lady：Lover Run",
+      "gross": 0.08,
+      "cume": 0.1,
+      "showings": 3392,
+      "admissions": 18246,
+      "rank": 10,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 612621,
+      "title": "The Palace",
+      "gross": 0.05,
+      "cume": 7.83,
+      "showings": 1189,
+      "admissions": 8991,
+      "rank": 11,
+      "days": 11,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 615668,
+      "title": "Fast & Furious 6",
+      "gross": 0.04,
+      "cume": 60.87,
+      "showings": 389,
+      "admissions": 5840,
+      "rank": 12,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 617190,
+      "title": "I Love Wolffy 2",
+      "gross": 0.01,
+      "cume": 11.06,
+      "showings": 370,
+      "admissions": 2058,
+      "rank": 13,
+      "days": 23,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 617126,
+      "title": "Nightmare",
+      "gross": 0.01,
+      "cume": 0.47,
+      "showings": 455,
+      "admissions": 2077,
+      "rank": 14,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 593283,
+      "title": "Switch",
+      "gross": 0.01,
+      "cume": 44.18,
+      "showings": 9,
+      "admissions": 1095,
+      "rank": 15,
+      "days": 76,
+      "day": "11th Fri"
+    },
+    {
+      "movie_id": 589924,
+      "title": "Big Thief",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 525,
+      "admissions": 1624,
+      "rank": 16,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 590109,
+      "title": "Unidentified",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 895,
+      "admissions": 1624,
+      "rank": 17,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 618166,
+      "title": "Zhan Zheng Kuang Ren",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 22,
+      "admissions": 850,
+      "rank": 18,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 589743,
+      "title": "Crimes of Passion",
+      "gross": 0.0,
+      "cume": 3.34,
+      "showings": 155,
+      "admissions": 791,
+      "rank": 19,
+      "days": 16,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 0.76,
+      "showings": 5,
+      "admissions": 545,
+      "rank": 20,
+      "days": 725,
+      "day": "33rd Fri"
+    }
+  ]
+}

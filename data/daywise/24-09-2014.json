@@ -1,0 +1,225 @@
+{
+  "date": "24-09-2014",
+  "data": [
+    {
+      "movie_id": 623004,
+      "title": "",
+      "gross": 1.06,
+      "cume": 10.08,
+      "showings": 23920,
+      "admissions": 234570,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 618096,
+      "title": "One Step Away",
+      "gross": 0.83,
+      "cume": 8.56,
+      "showings": 24554,
+      "admissions": 167810,
+      "rank": 2,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 624046,
+      "title": "Dawn of the Planet of the Apes",
+      "gross": 0.53,
+      "cume": 102.53,
+      "showings": 10897,
+      "admissions": 98941,
+      "rank": 3,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 615487,
+      "title": "The Expendables 3",
+      "gross": 0.45,
+      "cume": 65.11,
+      "showings": 10645,
+      "admissions": 92044,
+      "rank": 4,
+      "days": 24,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 618165,
+      "title": "But Always",
+      "gross": 0.39,
+      "cume": 32.81,
+      "showings": 10665,
+      "admissions": 83636,
+      "rank": 5,
+      "days": 20,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 628463,
+      "title": "Into the Storm",
+      "gross": 0.38,
+      "cume": 15.0,
+      "showings": 11138,
+      "admissions": 81414,
+      "rank": 6,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 623129,
+      "title": "Divergent",
+      "gross": 0.08,
+      "cume": 11.02,
+      "showings": 2170,
+      "admissions": 14961,
+      "rank": 7,
+      "days": 17,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 629157,
+      "title": "The Eighth House",
+      "gross": 0.08,
+      "cume": 0.83,
+      "showings": 4386,
+      "admissions": 17662,
+      "rank": 8,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 615125,
+      "title": "The Deathday Party",
+      "gross": 0.06,
+      "cume": 0.59,
+      "showings": 4603,
+      "admissions": 14496,
+      "rank": 9,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 628894,
+      "title": "Cold Eyes",
+      "gross": 0.04,
+      "cume": 1.26,
+      "showings": 3246,
+      "admissions": 9209,
+      "rank": 10,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 626585,
+      "title": "Beauty and the Beast",
+      "gross": 0.02,
+      "cume": 2.38,
+      "showings": 1177,
+      "admissions": 4388,
+      "rank": 11,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 627797,
+      "title": "Inside the Girls",
+      "gross": 0.02,
+      "cume": 1.8,
+      "showings": 1168,
+      "admissions": 4377,
+      "rank": 12,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 618441,
+      "title": "Dearest",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 27,
+      "admissions": 2411,
+      "rank": 13,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 612791,
+      "title": "The Golden Era",
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 7,
+      "admissions": 2330,
+      "rank": 14,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 618013,
+      "title": "Black",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 15,
+      "admissions": 1222,
+      "rank": 15,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.01,
+      "cume": 1.35,
+      "showings": 4,
+      "admissions": 686,
+      "rank": 16,
+      "days": 163,
+      "day": "24th Wed"
+    },
+    {
+      "movie_id": 614395,
+      "title": "Outcast",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 17,
+      "admissions": 1118,
+      "rank": 17,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 587844,
+      "title": "Its Love",
+      "gross": 0.01,
+      "cume": 25.61,
+      "showings": 19,
+      "admissions": 2182,
+      "rank": 18,
+      "days": 1093,
+      "day": "29th Wed"
+    },
+    {
+      "movie_id": 131,
+      "title": "Connected",
+      "gross": 0.01,
+      "cume": 6.5,
+      "showings": 15,
+      "admissions": 2090,
+      "rank": 19,
+      "days": 2189,
+      "day": "51st Wed"
+    },
+    {
+      "movie_id": 608197,
+      "title": "Blind Detective",
+      "gross": 0.01,
+      "cume": 30.98,
+      "showings": 13,
+      "admissions": 1851,
+      "rank": 20,
+      "days": 448,
+      "day": "65th Wed"
+    }
+  ]
+}

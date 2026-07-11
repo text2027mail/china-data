@@ -1,0 +1,225 @@
+{
+  "date": "10-11-2021",
+  "data": [
+    {
+      "movie_id": 696608,
+      "title": "",
+      "gross": 0.99,
+      "cume": 49.7,
+      "showings": 54963,
+      "admissions": 171496,
+      "rank": 1,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 0.72,
+      "cume": 827.8,
+      "showings": 49397,
+      "admissions": 131302,
+      "rank": 2,
+      "days": 42,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 693750,
+      "title": "The Curious Tale of Mr.Guo",
+      "gross": 0.31,
+      "cume": 4.49,
+      "showings": 30402,
+      "admissions": 62476,
+      "rank": 3,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 461695,
+      "title": "Departures",
+      "gross": 0.28,
+      "cume": 8.11,
+      "showings": 19818,
+      "admissions": 57818,
+      "rank": 4,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.16,
+      "cume": 35.29,
+      "showings": 11119,
+      "admissions": 25780,
+      "rank": 5,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 706356,
+      "title": "My country,My parents",
+      "gross": 0.14,
+      "cume": 216.75,
+      "showings": 9848,
+      "admissions": 24007,
+      "rank": 6,
+      "days": 42,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 709656,
+      "title": "Return To Our Promised Land",
+      "gross": 0.09,
+      "cume": 1.3,
+      "showings": 280,
+      "admissions": 15806,
+      "rank": 7,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 707531,
+      "title": "The Legend of Sealed Book",
+      "gross": 0.08,
+      "cume": 2.44,
+      "showings": 12623,
+      "admissions": 14495,
+      "rank": 8,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 654440,
+      "title": "Love After Love",
+      "gross": 0.07,
+      "cume": 9.29,
+      "showings": 6568,
+      "admissions": 13021,
+      "rank": 9,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 708515,
+      "title": "Snake Eyes: G.I. Joe Origins",
+      "gross": 0.06,
+      "cume": 1.61,
+      "showings": 17571,
+      "admissions": 11958,
+      "rank": 10,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 695476,
+      "title": "Knock Knock",
+      "gross": 0.05,
+      "cume": 9.83,
+      "showings": 3535,
+      "admissions": 9884,
+      "rank": 11,
+      "days": 20,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 694504,
+      "title": "Wu Hai",
+      "gross": 0.04,
+      "cume": 2.02,
+      "showings": 5536,
+      "admissions": 9306,
+      "rank": 12,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 674033,
+      "title": "SYNESTHETE",
+      "gross": 0.04,
+      "cume": 1.6,
+      "showings": 4702,
+      "admissions": 9279,
+      "rank": 13,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 709324,
+      "title": "The Guardian of Youth",
+      "gross": 0.02,
+      "cume": 2.07,
+      "showings": 43,
+      "admissions": 3796,
+      "rank": 14,
+      "days": 55,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.01,
+      "cume": 4.26,
+      "showings": 32,
+      "admissions": 1695,
+      "rank": 15,
+      "days": 97,
+      "day": "16th Wed"
+    },
+    {
+      "movie_id": 709366,
+      "title": "Vivo",
+      "gross": 0.01,
+      "cume": 0.55,
+      "showings": 3262,
+      "admissions": 1508,
+      "rank": 16,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 703441,
+      "title": "Salute to the Heroes",
+      "gross": 0.01,
+      "cume": 0.67,
+      "showings": 10,
+      "admissions": 1199,
+      "rank": 17,
+      "days": 384,
+      "day": "53rd Wed"
+    },
+    {
+      "movie_id": 699531,
+      "title": "YANGZHEN ’S JOURNEY",
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 136,
+      "admissions": 1560,
+      "rank": 18,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 1824,
+      "title": "The Eternal Wave",
+      "gross": 0.01,
+      "cume": 0.37,
+      "showings": 1115,
+      "admissions": 1467,
+      "rank": 19,
+      "days": null,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 684463,
+      "title": "Zhou En Lai In His Childhood",
+      "gross": 0.01,
+      "cume": 2.04,
+      "showings": 15,
+      "admissions": 2032,
+      "rank": 20,
+      "days": 163,
+      "day": "24th Wed"
+    }
+  ]
+}

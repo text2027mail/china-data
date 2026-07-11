@@ -1,0 +1,67 @@
+{
+  "movie_id": 682889,
+  "title": "The Twins",
+  "releaseDate": "18-05-2019",
+  "entries": [
+    {
+      "date": "18-05-2019",
+      "rank": 5,
+      "gross": 1.49,
+      "cume": 1.49,
+      "showings": 75143,
+      "admissions": 340984,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "19-05-2019",
+      "rank": 6,
+      "gross": 0.5,
+      "cume": 1.99,
+      "showings": 42253,
+      "admissions": 121718,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-05-2019",
+      "rank": 6,
+      "gross": 0.32,
+      "cume": 2.31,
+      "showings": 28694,
+      "admissions": 77199,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "21-05-2019",
+      "rank": 7,
+      "gross": 0.11,
+      "cume": 2.41,
+      "showings": 23181,
+      "admissions": 29478,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "22-05-2019",
+      "rank": 8,
+      "gross": 0.07,
+      "cume": 2.49,
+      "showings": 20120,
+      "admissions": 20992,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "23-05-2019",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 2.54,
+      "showings": 16165,
+      "admissions": 14063,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

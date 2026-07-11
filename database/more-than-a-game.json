@@ -1,0 +1,87 @@
+{
+  "movie_id": 750421,
+  "title": "More Than a Game",
+  "releaseDate": "12-11-2024",
+  "entries": [
+    {
+      "date": "12-11-2024",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 6,
+      "admissions": 880,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-11-2024",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.06,
+      "showings": 19,
+      "admissions": 3190,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-11-2024",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.09,
+      "showings": 9,
+      "admissions": 2190,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "15-11-2024",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.16,
+      "showings": 21,
+      "admissions": 3767,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-11-2024",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.19,
+      "showings": 272,
+      "admissions": 3058,
+      "days": null,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "06-12-2024",
+      "rank": 8,
+      "gross": 0.24,
+      "cume": 0.51,
+      "showings": 20501,
+      "admissions": 43555,
+      "days": 1,
+      "day": "4th Fri"
+    },
+    {
+      "date": "07-12-2024",
+      "rank": 14,
+      "gross": 0.19,
+      "cume": 0.69,
+      "showings": 10923,
+      "admissions": 35154,
+      "days": 2,
+      "day": "4th Sat"
+    },
+    {
+      "date": "08-12-2024",
+      "rank": 17,
+      "gross": 0.09,
+      "cume": 0.78,
+      "showings": 9503,
+      "admissions": 17240,
+      "days": 3,
+      "day": "4th Sun"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 707916,
+  "title": "The Understudy of love",
+  "releaseDate": "26-08-2022",
+  "entries": [
+    {
+      "date": "26-08-2022",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 10357,
+      "admissions": 6397,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-08-2022",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 8844,
+      "admissions": 3433,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "05-09-2022",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 321,
+      "admissions": 453,
+      "days": 11,
+      "day": "2nd Mon"
+    }
+  ]
+}

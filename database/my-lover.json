@@ -1,0 +1,27 @@
+{
+  "movie_id": 1169652,
+  "title": "My Lover",
+  "releaseDate": "27-06-2026",
+  "entries": [
+    {
+      "date": "27-06-2026",
+      "rank": 17,
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 4817,
+      "admissions": 13008,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-06-2026",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 1765,
+      "admissions": 2364,
+      "days": 3,
+      "day": "1st Mon"
+    }
+  ]
+}

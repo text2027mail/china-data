@@ -1,0 +1,87 @@
+{
+  "movie_id": 644824,
+  "title": "Making Family",
+  "releaseDate": "29-10-2016",
+  "entries": [
+    {
+      "date": "29-10-2016",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 83,
+      "admissions": 2340,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "04-11-2016",
+      "rank": 9,
+      "gross": 0.24,
+      "cume": 0.26,
+      "showings": 12890,
+      "admissions": 57474,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-11-2016",
+      "rank": 10,
+      "gross": 0.29,
+      "cume": 0.56,
+      "showings": 9858,
+      "admissions": 70313,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "06-11-2016",
+      "rank": 10,
+      "gross": 0.22,
+      "cume": 0.78,
+      "showings": 8827,
+      "admissions": 53124,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "07-11-2016",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 0.86,
+      "showings": 8026,
+      "admissions": 18376,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "08-11-2016",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.9,
+      "showings": 5174,
+      "admissions": 10312,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "09-11-2016",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.94,
+      "showings": 4769,
+      "admissions": 9412,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "10-11-2016",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.96,
+      "showings": 3478,
+      "admissions": 5751,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

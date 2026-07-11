@@ -1,0 +1,47 @@
+{
+  "movie_id": 693534,
+  "title": "City Dream",
+  "releaseDate": "28-08-2020",
+  "entries": [
+    {
+      "date": "28-08-2020",
+      "rank": 10,
+      "gross": 0.08,
+      "cume": 0.1,
+      "showings": 279,
+      "admissions": 8581,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "29-08-2020",
+      "rank": 11,
+      "gross": 0.09,
+      "cume": 0.19,
+      "showings": 233,
+      "admissions": 10252,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "30-08-2020",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 0.28,
+      "showings": 165,
+      "admissions": 9363,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "31-08-2020",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.33,
+      "showings": 95,
+      "admissions": 5997,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

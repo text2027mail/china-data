@@ -1,0 +1,225 @@
+{
+  "date": "11-12-2014",
+  "data": [
+    {
+      "movie_id": 619144,
+      "title": "",
+      "gross": 3.44,
+      "cume": 49.99,
+      "showings": 41269,
+      "admissions": 670956,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 613011,
+      "title": "Women who Flirt",
+      "gross": 0.94,
+      "cume": 28.69,
+      "showings": 17675,
+      "admissions": 192010,
+      "rank": 2,
+      "days": 14,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 555839,
+      "title": "The Crossing : Part 1",
+      "gross": 0.84,
+      "cume": 20.2,
+      "showings": 19964,
+      "admissions": 148513,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 346481,
+      "title": "Interstellar",
+      "gross": 0.53,
+      "cume": 110.86,
+      "showings": 7630,
+      "admissions": 96950,
+      "rank": 4,
+      "days": 30,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 629873,
+      "title": "Fury",
+      "gross": 0.14,
+      "cume": 16.44,
+      "showings": 2845,
+      "admissions": 26906,
+      "rank": 5,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 617988,
+      "title": "Rise of the Legend",
+      "gross": 0.13,
+      "cume": 26.72,
+      "showings": 2628,
+      "admissions": 19663,
+      "rank": 6,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 629859,
+      "title": "Penguins of Madagascar",
+      "gross": 0.11,
+      "cume": 34.46,
+      "showings": 3137,
+      "admissions": 22458,
+      "rank": 7,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 628178,
+      "title": "The Galaxy On The Earth",
+      "gross": 0.1,
+      "cume": 3.71,
+      "showings": 210,
+      "admissions": 21643,
+      "rank": 8,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 629176,
+      "title": "Tomb Robber",
+      "gross": 0.08,
+      "cume": 1.08,
+      "showings": 4341,
+      "admissions": 17781,
+      "rank": 9,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 618615,
+      "title": "Who Moved My Dream",
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 3833,
+      "admissions": 14692,
+      "rank": 10,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 612723,
+      "title": "Blind Massage",
+      "gross": 0.03,
+      "cume": 0.57,
+      "showings": 313,
+      "admissions": 3913,
+      "rank": 11,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 628994,
+      "title": "Kung Fu Angels",
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 4300,
+      "admissions": 5658,
+      "rank": 12,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 606255,
+      "title": "Fire with Fire",
+      "gross": 0.02,
+      "cume": 1.46,
+      "showings": 1313,
+      "admissions": 3398,
+      "rank": 13,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 626514,
+      "title": "Meet Miss Anxiety",
+      "gross": 0.02,
+      "cume": 0.22,
+      "showings": 269,
+      "admissions": 4006,
+      "rank": 14,
+      "days": null,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 3801,
+      "title": "Brothers",
+      "gross": 0.01,
+      "cume": 0.31,
+      "showings": 28,
+      "admissions": 3933,
+      "rank": 15,
+      "days": 2612,
+      "day": "32nd Thu"
+    },
+    {
+      "movie_id": 816,
+      "title": "An Empress and The Warriors",
+      "gross": 0.01,
+      "cume": 5.82,
+      "showings": 28,
+      "admissions": 3787,
+      "rank": 16,
+      "days": 2471,
+      "day": "54th Thu"
+    },
+    {
+      "movie_id": 589209,
+      "title": "The Assassins",
+      "gross": 0.01,
+      "cume": 15.51,
+      "showings": 26,
+      "admissions": 3771,
+      "rank": 17,
+      "days": 807,
+      "day": "36th Thu"
+    },
+    {
+      "movie_id": 4964,
+      "title": "Dragon Tiger Gate",
+      "gross": 0.01,
+      "cume": 0.5,
+      "showings": 27,
+      "admissions": 3755,
+      "rank": 18,
+      "days": 3059,
+      "day": "62nd Thu"
+    },
+    {
+      "movie_id": 559983,
+      "title": "Shi Quan Jiu Mei",
+      "gross": 0.01,
+      "cume": 7.03,
+      "showings": 28,
+      "admissions": 3747,
+      "rank": 19,
+      "days": 2324,
+      "day": "63rd Thu"
+    },
+    {
+      "movie_id": 595608,
+      "title": "The Bullet Vanishes",
+      "gross": 0.01,
+      "cume": 23.36,
+      "showings": 23,
+      "admissions": 3406,
+      "rank": 20,
+      "days": 850,
+      "day": "63rd Thu"
+    }
+  ]
+}

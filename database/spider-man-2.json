@@ -1,0 +1,27 @@
+{
+  "movie_id": 385550,
+  "title": "Spider-Man 2",
+  "releaseDate": "04-05-2014",
+  "entries": [
+    {
+      "date": "04-05-2014",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 15,
+      "admissions": 510,
+      "days": 3560,
+      "day": "1st Sun"
+    },
+    {
+      "date": "05-05-2014",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 14,
+      "admissions": 368,
+      "days": 3561,
+      "day": "1st Mon"
+    }
+  ]
+}

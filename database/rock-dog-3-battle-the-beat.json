@@ -1,0 +1,47 @@
+{
+  "movie_id": 695919,
+  "title": "Rock Dog 3 Battle the Beat",
+  "releaseDate": "11-03-2023",
+  "entries": [
+    {
+      "date": "11-03-2023",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 9372,
+      "admissions": 14216,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-03-2023",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.13,
+      "showings": 7256,
+      "admissions": 11634,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "18-03-2023",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 2569,
+      "admissions": 4475,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "19-03-2023",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.18,
+      "showings": 2478,
+      "admissions": 3938,
+      "days": 9,
+      "day": "2nd Sun"
+    }
+  ]
+}

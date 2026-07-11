@@ -1,0 +1,225 @@
+{
+  "date": "01-02-2015",
+  "data": [
+    {
+      "movie_id": 630178,
+      "title": "",
+      "gross": 9.66,
+      "cume": 34.36,
+      "showings": 55565,
+      "admissions": 2035545,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 625819,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "gross": 6.31,
+      "cume": 85.74,
+      "showings": 25448,
+      "admissions": 1039347,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 629949,
+      "title": "Boonie Bears: Mystical Winter",
+      "gross": 4.86,
+      "cume": 15.69,
+      "showings": 27560,
+      "admissions": 944984,
+      "rank": 3,
+      "days": 3,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 629953,
+      "title": "Pleasant Goat and Big Big Wolf – Amazing Pleasant Goat",
+      "gross": 1.66,
+      "cume": 3.88,
+      "showings": 18457,
+      "admissions": 363676,
+      "rank": 4,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 630771,
+      "title": "Unbroken",
+      "gross": 0.73,
+      "cume": 2.22,
+      "showings": 6969,
+      "admissions": 153261,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 626506,
+      "title": "Miss Granny",
+      "gross": 0.31,
+      "cume": 52.81,
+      "showings": 3162,
+      "admissions": 63071,
+      "rank": 6,
+      "days": 25,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 623592,
+      "title": "Night at the Museum: Secret of the Tomb",
+      "gross": 0.18,
+      "cume": 47.41,
+      "showings": 1177,
+      "admissions": 35093,
+      "rank": 7,
+      "days": 29,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 630519,
+      "title": "Sorry Baby",
+      "gross": 0.15,
+      "cume": 0.38,
+      "showings": 4503,
+      "admissions": 32592,
+      "rank": 8,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 630478,
+      "title": "Lotus Code",
+      "gross": 0.07,
+      "cume": 3.04,
+      "showings": 117,
+      "admissions": 12431,
+      "rank": 9,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 613812,
+      "title": "The Taking Of Tiger Mountain",
+      "gross": 0.06,
+      "cume": 129.21,
+      "showings": 361,
+      "admissions": 9189,
+      "rank": 10,
+      "days": 41,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 385808,
+      "title": "Seventh Son",
+      "gross": 0.04,
+      "cume": 25.36,
+      "showings": 841,
+      "admissions": 7501,
+      "rank": 11,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 630521,
+      "title": "Tales of Mystery",
+      "gross": 0.02,
+      "cume": 1.05,
+      "showings": 705,
+      "admissions": 3338,
+      "rank": 12,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 628127,
+      "title": "Hot Blood Band",
+      "gross": 0.02,
+      "cume": 0.21,
+      "showings": 899,
+      "admissions": 3427,
+      "rank": 13,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 590052,
+      "title": "Online",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 776,
+      "admissions": 1626,
+      "rank": 14,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 631332,
+      "title": "Appassionato Sonata",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 1,
+      "admissions": 319,
+      "rank": 15,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 608979,
+      "title": "Who Is Under Cover",
+      "gross": 0.0,
+      "cume": 4.67,
+      "showings": 49,
+      "admissions": 2233,
+      "rank": 16,
+      "days": 33,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 629956,
+      "title": "Kung Fu Hustle",
+      "gross": 0.0,
+      "cume": 3.77,
+      "showings": 108,
+      "admissions": 912,
+      "rank": 17,
+      "days": 18,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 629493,
+      "title": "The Grandmaster 3D",
+      "gross": 0.0,
+      "cume": 9.29,
+      "showings": 33,
+      "admissions": 368,
+      "rank": 18,
+      "days": 25,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 628995,
+      "title": "One Hundred Thousand Bad Jokes",
+      "gross": 0.0,
+      "cume": 17.68,
+      "showings": 47,
+      "admissions": 505,
+      "rank": 19,
+      "days": 33,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.0,
+      "cume": 1.65,
+      "showings": 18,
+      "admissions": 416,
+      "rank": 20,
+      "days": 293,
+      "day": "42nd Sun"
+    }
+  ]
+}

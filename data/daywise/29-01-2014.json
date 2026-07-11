@@ -1,0 +1,225 @@
+{
+  "date": "29-01-2014",
+  "data": [
+    {
+      "movie_id": 617146,
+      "title": "",
+      "gross": 1.23,
+      "cume": 46.12,
+      "showings": 16110,
+      "admissions": 229206,
+      "rank": 1,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 617164,
+      "title": "Boonie Bears: To the Rescue",
+      "gross": 1.07,
+      "cume": 31.02,
+      "showings": 18015,
+      "admissions": 209844,
+      "rank": 2,
+      "days": 13,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 396487,
+      "title": "Jack Ryan: Shadow Recruit",
+      "gross": 1.05,
+      "cume": 22.97,
+      "showings": 19130,
+      "admissions": 219864,
+      "rank": 3,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 328433,
+      "title": "Ender's Game",
+      "gross": 0.41,
+      "cume": 20.31,
+      "showings": 6588,
+      "admissions": 85939,
+      "rank": 4,
+      "days": 23,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 618816,
+      "title": "Hello Babies",
+      "gross": 0.4,
+      "cume": 11.48,
+      "showings": 7057,
+      "admissions": 87850,
+      "rank": 5,
+      "days": 19,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 618269,
+      "title": "Meet the Pegusus",
+      "gross": 0.35,
+      "cume": 12.11,
+      "showings": 8348,
+      "admissions": 78795,
+      "rank": 6,
+      "days": 14,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 618308,
+      "title": "Balala The Fairies: The Magic Trial",
+      "gross": 0.19,
+      "cume": 2.54,
+      "showings": 8023,
+      "admissions": 43231,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 613384,
+      "title": "Police Story 2013",
+      "gross": 0.14,
+      "cume": 78.8,
+      "showings": 2224,
+      "admissions": 25085,
+      "rank": 8,
+      "days": 37,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 610928,
+      "title": "Personal Tailor",
+      "gross": 0.1,
+      "cume": 105.24,
+      "showings": 1582,
+      "admissions": 20459,
+      "rank": 9,
+      "days": 42,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 619452,
+      "title": "Saving Santa",
+      "gross": 0.08,
+      "cume": 0.61,
+      "showings": 4409,
+      "admissions": 15890,
+      "rank": 10,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 619451,
+      "title": "Метро",
+      "gross": 0.07,
+      "cume": 2.81,
+      "showings": 2036,
+      "admissions": 15839,
+      "rank": 11,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 613569,
+      "title": "The Apostles",
+      "gross": 0.06,
+      "cume": 1.24,
+      "showings": 2556,
+      "admissions": 12880,
+      "rank": 12,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 613414,
+      "title": "As The Light Goes Out",
+      "gross": 0.05,
+      "cume": 11.39,
+      "showings": 1189,
+      "admissions": 9579,
+      "rank": 13,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 619293,
+      "title": "Dad, Where are We Going",
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 28,
+      "admissions": 3482,
+      "rank": 14,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 617502,
+      "title": "The Mortal Instruments: City of Bones",
+      "gross": 0.02,
+      "cume": 4.37,
+      "showings": 372,
+      "admissions": 3764,
+      "rank": 15,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 615471,
+      "title": "Up in the Wind",
+      "gross": 0.02,
+      "cume": 11.76,
+      "showings": 610,
+      "admissions": 3401,
+      "rank": 16,
+      "days": 30,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 609014,
+      "title": "Once Upon A Time In Shanghai",
+      "gross": 0.01,
+      "cume": 1.18,
+      "showings": 623,
+      "admissions": 2669,
+      "rank": 17,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 618625,
+      "title": "Legendary: Tomb of the Dragon",
+      "gross": 0.01,
+      "cume": 5.13,
+      "showings": 212,
+      "admissions": 1446,
+      "rank": 18,
+      "days": 30,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 619597,
+      "title": "A Gold Medal Winning Tramp Dog",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 410,
+      "admissions": 1224,
+      "rank": 19,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 625992,
+      "title": "Everlasting Broadcasting",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 669,
+      "admissions": 1121,
+      "rank": 20,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

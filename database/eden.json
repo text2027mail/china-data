@@ -1,0 +1,77 @@
+{
+  "movie_id": 874444,
+  "title": "Eden",
+  "releaseDate": "22-08-2025",
+  "entries": [
+    {
+      "date": "22-08-2025",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 4306,
+      "admissions": 13178,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-08-2025",
+      "rank": 17,
+      "gross": 0.08,
+      "cume": 0.16,
+      "showings": 3846,
+      "admissions": 13901,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-08-2025",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.2,
+      "showings": 1600,
+      "admissions": 7113,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-08-2025",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.23,
+      "showings": 1543,
+      "admissions": 3846,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-08-2025",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 1395,
+      "admissions": 3323,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-08-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.26,
+      "showings": 1303,
+      "admissions": 2905,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-08-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 1163,
+      "admissions": 2603,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

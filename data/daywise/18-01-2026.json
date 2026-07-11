@@ -1,0 +1,225 @@
+{
+  "date": "18-01-2026",
+  "data": [
+    {
+      "movie_id": 868179,
+      "title": "",
+      "gross": 1.92,
+      "cume": 645.93,
+      "showings": 78765,
+      "admissions": 336152,
+      "rank": 1,
+      "days": 54,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 716567,
+      "title": "The Fire Raven",
+      "gross": 1.75,
+      "cume": 53.81,
+      "showings": 68019,
+      "admissions": 316830,
+      "rank": 2,
+      "days": 19,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 612245,
+      "title": "Avatar: Fire and Ash",
+      "gross": 1.54,
+      "cume": 161.02,
+      "showings": 39562,
+      "admissions": 217298,
+      "rank": 3,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 737454,
+      "title": "TAKE OFF",
+      "gross": 1.18,
+      "cume": 3.04,
+      "showings": 54264,
+      "admissions": 224635,
+      "rank": 4,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 639862,
+      "title": "Back to the Past",
+      "gross": 0.74,
+      "cume": 39.92,
+      "showings": 41391,
+      "admissions": 134107,
+      "rank": 5,
+      "days": 19,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 706635,
+      "title": "My friend Andre",
+      "gross": 0.33,
+      "cume": 0.88,
+      "showings": 32708,
+      "admissions": 63575,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 706141,
+      "title": "Every Dog Has Its Day",
+      "gross": 0.27,
+      "cume": 1.37,
+      "showings": 30036,
+      "admissions": 53396,
+      "rank": 7,
+      "days": 3,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 769397,
+      "title": "Gezhi Town",
+      "gross": 0.24,
+      "cume": 59.55,
+      "showings": 5502,
+      "admissions": 63182,
+      "rank": 8,
+      "days": 44,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 964069,
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "gross": 0.2,
+      "cume": 5.77,
+      "showings": 13112,
+      "admissions": 37405,
+      "rank": 9,
+      "days": 18,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 694445,
+      "title": "UNEXPECTED FAMILY",
+      "gross": 0.19,
+      "cume": 7.12,
+      "showings": 12551,
+      "admissions": 38122,
+      "rank": 10,
+      "days": 18,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 702019,
+      "title": "Escape From The Outland",
+      "gross": 0.11,
+      "cume": 10.18,
+      "showings": 6501,
+      "admissions": 20141,
+      "rank": 11,
+      "days": 19,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 972735,
+      "title": "Nothing More Just A Job",
+      "gross": 0.04,
+      "cume": 1.99,
+      "showings": 4692,
+      "admissions": 8210,
+      "rank": 12,
+      "days": 9,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 696125,
+      "title": "Qing Yuan Cao Xueqin",
+      "gross": 0.04,
+      "cume": 0.1,
+      "showings": 3170,
+      "admissions": 6136,
+      "rank": 13,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 986637,
+      "title": "96 Minutes",
+      "gross": 0.03,
+      "cume": 1.08,
+      "showings": 3686,
+      "admissions": 5773,
+      "rank": 14,
+      "days": 9,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 988165,
+      "title": "Arco",
+      "gross": 0.03,
+      "cume": 0.09,
+      "showings": 10389,
+      "admissions": 5576,
+      "rank": 15,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 986638,
+      "title": "Anaconda",
+      "gross": 0.03,
+      "cume": 1.05,
+      "showings": 3241,
+      "admissions": 5276,
+      "rank": 16,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 741175,
+      "title": "As The Water Flows",
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 85,
+      "admissions": 3393,
+      "rank": 17,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 788638,
+      "title": "Midnight Whisper 2",
+      "gross": 0.02,
+      "cume": 0.27,
+      "showings": 2638,
+      "admissions": 4614,
+      "rank": 18,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 750214,
+      "title": "The Hump",
+      "gross": 0.02,
+      "cume": 1.42,
+      "showings": 1989,
+      "admissions": 3583,
+      "rank": 19,
+      "days": 37,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 751725,
+      "title": "ROBOT DREAMS",
+      "gross": 0.02,
+      "cume": 2.68,
+      "showings": 551,
+      "admissions": 3205,
+      "rank": 20,
+      "days": 590,
+      "day": "85th Sun"
+    }
+  ]
+}

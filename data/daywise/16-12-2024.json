@@ -1,0 +1,225 @@
+{
+  "date": "16-12-2024",
+  "data": [
+    {
+      "movie_id": 773679,
+      "title": "",
+      "gross": 1.1,
+      "cume": 11.24,
+      "showings": 60416,
+      "admissions": 199375,
+      "rank": 1,
+      "days": 3,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 736260,
+      "title": "Her Story",
+      "gross": 0.95,
+      "cume": 94.45,
+      "showings": 63929,
+      "admissions": 153364,
+      "rank": 2,
+      "days": 25,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 739378,
+      "title": "The Prosecutor",
+      "gross": 0.87,
+      "cume": 9.01,
+      "showings": 28276,
+      "admissions": 145690,
+      "rank": 3,
+      "days": null,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 736312,
+      "title": "I Am What I Am 2",
+      "gross": 0.33,
+      "cume": 5.13,
+      "showings": 46551,
+      "admissions": 59336,
+      "rank": 4,
+      "days": 3,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 707139,
+      "title": "Burning Star",
+      "gross": 0.21,
+      "cume": 13.81,
+      "showings": 30570,
+      "admissions": 39145,
+      "rank": 5,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 771231,
+      "title": "Kraven the Hunter",
+      "gross": 0.17,
+      "cume": 1.37,
+      "showings": 20441,
+      "admissions": 26986,
+      "rank": 6,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 771234,
+      "title": "Maharaja",
+      "gross": 0.12,
+      "cume": 10.38,
+      "showings": 12881,
+      "admissions": 21103,
+      "rank": 7,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 703767,
+      "title": "Break Through",
+      "gross": 0.08,
+      "cume": 1.54,
+      "showings": 447,
+      "admissions": 13094,
+      "rank": 8,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 692114,
+      "title": "GOODLUCK",
+      "gross": 0.06,
+      "cume": 8.92,
+      "showings": 9387,
+      "admissions": 10408,
+      "rank": 9,
+      "days": 17,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 746635,
+      "title": "The Young Couple Apartment",
+      "gross": 0.06,
+      "cume": 18.34,
+      "showings": 8975,
+      "admissions": 11452,
+      "rank": 10,
+      "days": 47,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 766108,
+      "title": "Moana 2",
+      "gross": 0.05,
+      "cume": 14.12,
+      "showings": 10451,
+      "admissions": 8994,
+      "rank": 11,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 709306,
+      "title": "THE GREAT JOURNEY",
+      "gross": 0.04,
+      "cume": 0.15,
+      "showings": 68,
+      "admissions": 6972,
+      "rank": 12,
+      "days": 47,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 709541,
+      "title": "Fortress",
+      "gross": 0.04,
+      "cume": 0.63,
+      "showings": 73,
+      "admissions": 5329,
+      "rank": 13,
+      "days": 270,
+      "day": "43rd Mon"
+    },
+    {
+      "movie_id": 755469,
+      "title": "CrayonShinchantheMovie:OurDinosaurDiary",
+      "gross": 0.04,
+      "cume": 18.11,
+      "showings": 7610,
+      "admissions": 6633,
+      "rank": 14,
+      "days": 24,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 750300,
+      "title": "Promise of Decades",
+      "gross": 0.03,
+      "cume": 0.28,
+      "showings": 7799,
+      "admissions": 4227,
+      "rank": 15,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 400915,
+      "title": "Wicked",
+      "gross": 0.03,
+      "cume": 1.87,
+      "showings": 1745,
+      "admissions": 3773,
+      "rank": 16,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 762414,
+      "title": "Venom: The Last Dance",
+      "gross": 0.02,
+      "cume": 100.91,
+      "showings": 2750,
+      "admissions": 4094,
+      "rank": 17,
+      "days": 55,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 702274,
+      "title": "Nie Xiaoqian",
+      "gross": 0.02,
+      "cume": 1.75,
+      "showings": 4917,
+      "admissions": 3318,
+      "rank": 18,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 755093,
+      "title": "Brave New World",
+      "gross": 0.01,
+      "cume": 30.08,
+      "showings": 2406,
+      "admissions": 2803,
+      "rank": 19,
+      "days": 32,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 774359,
+      "title": "Botticelli, Florence And The Medici",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 383,
+      "admissions": 1598,
+      "rank": 20,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

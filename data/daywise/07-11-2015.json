@@ -1,0 +1,225 @@
+{
+  "date": "07-11-2015",
+  "data": [
+    {
+      "movie_id": 637665,
+      "title": "",
+      "gross": 6.3,
+      "cume": 10.9,
+      "showings": 43689,
+      "admissions": 1420888,
+      "rank": 1,
+      "days": 2,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 634293,
+      "title": "Maze Runner: The Scorch Trials",
+      "gross": 5.75,
+      "cume": 15.91,
+      "showings": 33176,
+      "admissions": 1119083,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 640867,
+      "title": "Everest",
+      "gross": 2.35,
+      "cume": 8.99,
+      "showings": 13592,
+      "admissions": 397962,
+      "rank": 3,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 618352,
+      "title": "The Last Woman Standing",
+      "gross": 2.25,
+      "cume": 4.15,
+      "showings": 26625,
+      "admissions": 509780,
+      "rank": 4,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 631325,
+      "title": "The Witness",
+      "gross": 1.86,
+      "cume": 27.82,
+      "showings": 14616,
+      "admissions": 394445,
+      "rank": 5,
+      "days": 9,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 634689,
+      "title": "The Peanuts Movie",
+      "gross": 1.36,
+      "cume": 1.76,
+      "showings": 16088,
+      "admissions": 283144,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 640998,
+      "title": "Hotel Transylvania 2",
+      "gross": 0.89,
+      "cume": 14.19,
+      "showings": 5484,
+      "admissions": 172926,
+      "rank": 7,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 302023,
+      "title": "Ant-Man",
+      "gross": 0.39,
+      "cume": 98.37,
+      "showings": 2632,
+      "admissions": 68642,
+      "rank": 8,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 628183,
+      "title": "Goodbye Mr. Loser",
+      "gross": 0.31,
+      "cume": 211.59,
+      "showings": 2845,
+      "admissions": 61383,
+      "rank": 9,
+      "days": 39,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 627766,
+      "title": "Mountains May Depart",
+      "gross": 0.22,
+      "cume": 3.8,
+      "showings": 2245,
+      "admissions": 43798,
+      "rank": 10,
+      "days": 9,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 625045,
+      "title": "The Little Prince",
+      "gross": 0.1,
+      "cume": 23.12,
+      "showings": 713,
+      "admissions": 19846,
+      "rank": 11,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 639128,
+      "title": "Where‘s The Dragon？",
+      "gross": 0.1,
+      "cume": 2.85,
+      "showings": 471,
+      "admissions": 12555,
+      "rank": 12,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 630741,
+      "title": "Jian Xi Jing Yuan Bai Yi Nan Zhi Chu Lai Za Dao",
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 77,
+      "admissions": 10565,
+      "rank": 13,
+      "days": 229,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 629068,
+      "title": "The Stormy Night",
+      "gross": 0.06,
+      "cume": 0.14,
+      "showings": 1891,
+      "admissions": 15025,
+      "rank": 14,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 640871,
+      "title": "Himalaya:Ladder to Pradise",
+      "gross": 0.06,
+      "cume": 1.15,
+      "showings": 145,
+      "admissions": 11200,
+      "rank": 15,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 588292,
+      "title": "Yao Yuan  De Yong Bao",
+      "gross": 0.05,
+      "cume": 0.08,
+      "showings": 56,
+      "admissions": 7714,
+      "rank": 16,
+      "days": 44,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 635793,
+      "title": "Meitantei Conan: Goka No Himawari",
+      "gross": 0.04,
+      "cume": 11.94,
+      "showings": 692,
+      "admissions": 8305,
+      "rank": 17,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 631109,
+      "title": "Midnight Whisper",
+      "gross": 0.02,
+      "cume": 1.09,
+      "showings": 1122,
+      "admissions": 6258,
+      "rank": 18,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 628823,
+      "title": "Youth Never Returns",
+      "gross": 0.01,
+      "cume": 7.36,
+      "showings": 238,
+      "admissions": 2071,
+      "rank": 19,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 641095,
+      "title": "My Virgin Land",
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 84,
+      "admissions": 2374,
+      "rank": 20,
+      "days": 5,
+      "day": "1st Sat"
+    }
+  ]
+}

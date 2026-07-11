@@ -1,0 +1,37 @@
+{
+  "movie_id": 757112,
+  "title": "Speak No Evil",
+  "releaseDate": "14-09-2024",
+  "entries": [
+    {
+      "date": "14-09-2024",
+      "rank": 8,
+      "gross": 0.18,
+      "cume": 0.18,
+      "showings": 13671,
+      "admissions": 29859,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "18-09-2024",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.38,
+      "showings": 2968,
+      "admissions": 3047,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "19-09-2024",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.39,
+      "showings": 2881,
+      "admissions": 2681,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

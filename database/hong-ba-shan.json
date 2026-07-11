@@ -1,0 +1,47 @@
+{
+  "movie_id": 696116,
+  "title": "Hong Ba Shan",
+  "releaseDate": "10-10-2020",
+  "entries": [
+    {
+      "date": "10-10-2020",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 60,
+      "admissions": 1772,
+      "days": 23,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-10-2020",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 64,
+      "admissions": 1573,
+      "days": 25,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-10-2020",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 92,
+      "admissions": 2289,
+      "days": 26,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-10-2020",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 64,
+      "admissions": 1699,
+      "days": 27,
+      "day": "1st Wed"
+    }
+  ]
+}

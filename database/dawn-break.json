@@ -1,0 +1,47 @@
+{
+  "movie_id": 755392,
+  "title": "Dawn Break",
+  "releaseDate": "29-11-2024",
+  "entries": [
+    {
+      "date": "29-11-2024",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 5067,
+      "admissions": 7650,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-11-2024",
+      "rank": 15,
+      "gross": 0.06,
+      "cume": 0.1,
+      "showings": 6488,
+      "admissions": 12907,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-12-2024",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 3019,
+      "admissions": 3865,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-12-2024",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 2848,
+      "admissions": 3084,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

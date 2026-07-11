@@ -1,0 +1,225 @@
+{
+  "date": "02-04-2021",
+  "data": [
+    {
+      "movie_id": 678591,
+      "title": "",
+      "gross": 9.21,
+      "cume": 9.3,
+      "showings": 58418,
+      "admissions": 1706429,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 696413,
+      "title": "Godzilla vs Kong",
+      "gross": 7.65,
+      "cume": 96.96,
+      "showings": 114511,
+      "admissions": 1372349,
+      "rank": 2,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 691763,
+      "title": "The Eleventh Chapter",
+      "gross": 1.89,
+      "cume": 1.91,
+      "showings": 72622,
+      "admissions": 345245,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 706395,
+      "title": "Tomorrow Will Be Fine",
+      "gross": 1.46,
+      "cume": 1.48,
+      "showings": 22151,
+      "admissions": 266860,
+      "rank": 4,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 642381,
+      "title": "Monkey King Reborn",
+      "gross": 0.99,
+      "cume": 1.0,
+      "showings": 11551,
+      "admissions": 199911,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 696122,
+      "title": "Warrior of China",
+      "gross": 0.41,
+      "cume": 3.06,
+      "showings": 587,
+      "admissions": 54836,
+      "rank": 6,
+      "days": 15,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 662746,
+      "title": "Hi, Mom",
+      "gross": 0.28,
+      "cume": 794.77,
+      "showings": 18745,
+      "admissions": 51816,
+      "rank": 7,
+      "days": 50,
+      "day": "8th Fri"
+    },
+    {
+      "movie_id": 303851,
+      "title": "Avatar",
+      "gross": 0.23,
+      "cume": 249.03,
+      "showings": 13120,
+      "admissions": 48329,
+      "rank": 8,
+      "days": 4107,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 701866,
+      "title": "End Game",
+      "gross": 0.1,
+      "cume": 111.95,
+      "showings": 9156,
+      "admissions": 18661,
+      "rank": 9,
+      "days": 50,
+      "day": "8th Fri"
+    },
+    {
+      "movie_id": 703252,
+      "title": "Persian Lessons",
+      "gross": 0.07,
+      "cume": 3.89,
+      "showings": 2955,
+      "admissions": 12585,
+      "rank": 10,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 676314,
+      "title": "Detective Chinatown 3",
+      "gross": 0.05,
+      "cume": 666.72,
+      "showings": 4172,
+      "admissions": 8486,
+      "rank": 11,
+      "days": 50,
+      "day": "62nd Fri"
+    },
+    {
+      "movie_id": 696807,
+      "title": "Impermanence",
+      "gross": 0.05,
+      "cume": 0.06,
+      "showings": 2325,
+      "admissions": 9926,
+      "rank": 12,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 695870,
+      "title": "The Wings of songs",
+      "gross": 0.04,
+      "cume": 0.09,
+      "showings": 187,
+      "admissions": 7465,
+      "rank": 13,
+      "days": 6,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 704568,
+      "title": "Raya and The Last Dragon",
+      "gross": 0.03,
+      "cume": 18.16,
+      "showings": 2630,
+      "admissions": 5806,
+      "rank": 14,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 644881,
+      "title": "A Writer‘s Odyssey",
+      "gross": 0.03,
+      "cume": 152.61,
+      "showings": 2544,
+      "admissions": 4690,
+      "rank": 15,
+      "days": 50,
+      "day": "8th Fri"
+    },
+    {
+      "movie_id": 682059,
+      "title": "21 Bridges",
+      "gross": 0.02,
+      "cume": 4.08,
+      "showings": 2433,
+      "admissions": 4119,
+      "rank": 16,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 701879,
+      "title": "Da Shi",
+      "gross": 0.02,
+      "cume": 0.52,
+      "showings": 36,
+      "admissions": 4275,
+      "rank": 17,
+      "days": 22,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 692498,
+      "title": "The Outsider Secretary",
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 39,
+      "admissions": 2889,
+      "rank": 18,
+      "days": 106,
+      "day": "16th Fri"
+    },
+    {
+      "movie_id": 683765,
+      "title": "The Blue Cappuccino",
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 25,
+      "admissions": 2394,
+      "rank": 19,
+      "days": 71,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 699989,
+      "title": "Huang Wenxiu",
+      "gross": 0.01,
+      "cume": 8.05,
+      "showings": 46,
+      "admissions": 2732,
+      "rank": 20,
+      "days": 233,
+      "day": "31st Fri"
+    }
+  ]
+}

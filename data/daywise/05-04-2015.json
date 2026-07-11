@@ -1,0 +1,225 @@
+{
+  "date": "05-04-2015",
+  "data": [
+    {
+      "movie_id": 617165,
+      "title": "",
+      "gross": 10.36,
+      "cume": 31.05,
+      "showings": 40904,
+      "admissions": 2011422,
+      "rank": 1,
+      "days": 4,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 627393,
+      "title": "Let's Get Married",
+      "gross": 6.75,
+      "cume": 21.73,
+      "showings": 33990,
+      "admissions": 1361890,
+      "rank": 2,
+      "days": 4,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 631381,
+      "title": "Kingsman: The Secret Service",
+      "gross": 6.73,
+      "cume": 51.84,
+      "showings": 19481,
+      "admissions": 1276100,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 637763,
+      "title": "The House of Magic",
+      "gross": 1.65,
+      "cume": 2.84,
+      "showings": 12508,
+      "admissions": 337581,
+      "rank": 4,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 613404,
+      "title": "Insanity",
+      "gross": 1.24,
+      "cume": 4.14,
+      "showings": 14522,
+      "admissions": 256643,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 614395,
+      "title": "Outcast",
+      "gross": 0.59,
+      "cume": 2.3,
+      "showings": 8002,
+      "admissions": 107961,
+      "rank": 6,
+      "days": 3,
+      "day": "28th Sun"
+    },
+    {
+      "movie_id": 631303,
+      "title": "Cinderella",
+      "gross": 0.58,
+      "cume": 64.47,
+      "showings": 3249,
+      "admissions": 119072,
+      "rank": 7,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 617807,
+      "title": "Two Thumbs Up",
+      "gross": 0.55,
+      "cume": 1.5,
+      "showings": 8925,
+      "admissions": 116780,
+      "rank": 8,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 616185,
+      "title": "Midnight Garage",
+      "gross": 0.2,
+      "cume": 0.57,
+      "showings": 4505,
+      "admissions": 45866,
+      "rank": 9,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 630484,
+      "title": "Legend of Rabbit：The Martial of Fire",
+      "gross": 0.12,
+      "cume": 3.11,
+      "showings": 235,
+      "admissions": 16824,
+      "rank": 10,
+      "days": 44,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 617756,
+      "title": "The Invincible Piglet",
+      "gross": 0.11,
+      "cume": 0.27,
+      "showings": 3234,
+      "admissions": 26056,
+      "rank": 11,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 621772,
+      "title": "Paddington",
+      "gross": 0.07,
+      "cume": 14.74,
+      "showings": 411,
+      "admissions": 17013,
+      "rank": 12,
+      "days": 32,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 631010,
+      "title": "Taken 3",
+      "gross": 0.07,
+      "cume": 29.97,
+      "showings": 761,
+      "admissions": 11466,
+      "rank": 13,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 627482,
+      "title": "Lost and Love",
+      "gross": 0.06,
+      "cume": 31.74,
+      "showings": 924,
+      "admissions": 12361,
+      "rank": 14,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 631062,
+      "title": "10000 years later",
+      "gross": 0.04,
+      "cume": 3.99,
+      "showings": 659,
+      "admissions": 7892,
+      "rank": 15,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 612432,
+      "title": "Wolf Totem",
+      "gross": 0.02,
+      "cume": 102.84,
+      "showings": 124,
+      "admissions": 3001,
+      "rank": 16,
+      "days": 46,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 615868,
+      "title": "Nowhere To Run",
+      "gross": 0.01,
+      "cume": 3.75,
+      "showings": 742,
+      "admissions": 2708,
+      "rank": 17,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 627447,
+      "title": "Little Big Master",
+      "gross": 0.01,
+      "cume": 3.17,
+      "showings": 117,
+      "admissions": 1726,
+      "rank": 18,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 628143,
+      "title": "Emperor",
+      "gross": 0.0,
+      "cume": 16.8,
+      "showings": 56,
+      "admissions": 2301,
+      "rank": 19,
+      "days": 46,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 625912,
+      "title": "Rookie",
+      "gross": 0.0,
+      "cume": 0.26,
+      "showings": 341,
+      "admissions": 1084,
+      "rank": 20,
+      "days": 10,
+      "day": "2nd Sun"
+    }
+  ]
+}

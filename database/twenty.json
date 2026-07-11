@@ -1,0 +1,77 @@
+{
+  "movie_id": 675238,
+  "title": "Twenty",
+  "releaseDate": "30-11-2018",
+  "entries": [
+    {
+      "date": "30-11-2018",
+      "rank": 9,
+      "gross": 0.19,
+      "cume": 0.19,
+      "showings": 13784,
+      "admissions": 44698,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-12-2018",
+      "rank": 10,
+      "gross": 0.13,
+      "cume": 0.31,
+      "showings": 7014,
+      "admissions": 31028,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-12-2018",
+      "rank": 10,
+      "gross": 0.07,
+      "cume": 0.39,
+      "showings": 5682,
+      "admissions": 18420,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-12-2018",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.41,
+      "showings": 4689,
+      "admissions": 6119,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "04-12-2018",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.43,
+      "showings": 3989,
+      "admissions": 4009,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "05-12-2018",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.44,
+      "showings": 3810,
+      "admissions": 3650,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "06-12-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.46,
+      "showings": 3629,
+      "admissions": 3726,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

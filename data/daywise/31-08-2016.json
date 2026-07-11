@@ -1,0 +1,225 @@
+{
+  "date": "31-08-2016",
+  "data": [
+    {
+      "movie_id": 643772,
+      "title": "",
+      "gross": 2.43,
+      "cume": 51.04,
+      "showings": 59910,
+      "admissions": 524274,
+      "rank": 1,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 644495,
+      "title": "Jason Bourne",
+      "gross": 2.4,
+      "cume": 57.07,
+      "showings": 60484,
+      "admissions": 506538,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 637798,
+      "title": "Line Walker",
+      "gross": 0.9,
+      "cume": 85.8,
+      "showings": 20634,
+      "admissions": 211932,
+      "rank": 3,
+      "days": 21,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 611818,
+      "title": "Time Raiders",
+      "gross": 0.48,
+      "cume": 145.8,
+      "showings": 11012,
+      "admissions": 101232,
+      "rank": 4,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 631411,
+      "title": "Love O2O",
+      "gross": 0.37,
+      "cume": 39.74,
+      "showings": 9167,
+      "admissions": 76116,
+      "rank": 5,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 653081,
+      "title": "New Happy Dad Son2:The Instant Genius",
+      "gross": 0.21,
+      "cume": 12.36,
+      "showings": 7666,
+      "admissions": 50491,
+      "rank": 6,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 644633,
+      "title": "Born in China",
+      "gross": 0.18,
+      "cume": 8.5,
+      "showings": 3015,
+      "admissions": 39927,
+      "rank": 7,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 631834,
+      "title": "Kidnapping Mr. Heineken",
+      "gross": 0.13,
+      "cume": 1.88,
+      "showings": 11603,
+      "admissions": 31868,
+      "rank": 8,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 640694,
+      "title": "Crying Out In Love",
+      "gross": 0.09,
+      "cume": 1.56,
+      "showings": 7383,
+      "admissions": 19302,
+      "rank": 9,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 643879,
+      "title": "The Secret Life of Pets",
+      "gross": 0.08,
+      "cume": 57.21,
+      "showings": 2258,
+      "admissions": 17614,
+      "rank": 10,
+      "days": 30,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 573396,
+      "title": "The Four",
+      "gross": 0.07,
+      "cume": 29.31,
+      "showings": 109,
+      "admissions": 15312,
+      "rank": 11,
+      "days": 1512,
+      "day": "153rd Wed"
+    },
+    {
+      "movie_id": 131,
+      "title": "Connected",
+      "gross": 0.06,
+      "cume": 7.01,
+      "showings": 106,
+      "admissions": 14303,
+      "rank": 12,
+      "days": 2896,
+      "day": "152nd Wed"
+    },
+    {
+      "movie_id": 628843,
+      "title": "The Weird Bride",
+      "gross": 0.05,
+      "cume": 0.51,
+      "showings": 3642,
+      "admissions": 15662,
+      "rank": 13,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 643898,
+      "title": "On - drakon",
+      "gross": 0.04,
+      "cume": 8.81,
+      "showings": 1796,
+      "admissions": 9194,
+      "rank": 14,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 610009,
+      "title": "Lost In Thailand",
+      "gross": 0.04,
+      "cume": 187.46,
+      "showings": 69,
+      "admissions": 9458,
+      "rank": 15,
+      "days": 1359,
+      "day": "192nd Wed"
+    },
+    {
+      "movie_id": 639257,
+      "title": "Call of Heroes",
+      "gross": 0.04,
+      "cume": 24.59,
+      "showings": 1325,
+      "admissions": 7996,
+      "rank": 16,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 640892,
+      "title": "The Woman Behind The Man",
+      "gross": 0.03,
+      "cume": 1.53,
+      "showings": 52,
+      "admissions": 4895,
+      "rank": 17,
+      "days": 41,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 630554,
+      "title": "Throne Of Elves",
+      "gross": 0.02,
+      "cume": 3.65,
+      "showings": 1028,
+      "admissions": 4905,
+      "rank": 18,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 630936,
+      "title": "Final Recipe",
+      "gross": 0.02,
+      "cume": 0.34,
+      "showings": 2868,
+      "admissions": 4146,
+      "rank": 19,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 642478,
+      "title": "Fengmei Mao",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 29,
+      "admissions": 3092,
+      "rank": 20,
+      "days": 64,
+      "day": "1st Wed"
+    }
+  ]
+}

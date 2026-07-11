@@ -1,0 +1,77 @@
+{
+  "movie_id": 618402,
+  "title": "Like Father, Like Son",
+  "releaseDate": "02-12-2024",
+  "entries": [
+    {
+      "date": "02-12-2024",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 1288,
+      "admissions": 2668,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-12-2024",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 1577,
+      "admissions": 4050,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-12-2024",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 1638,
+      "admissions": 4133,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "05-12-2024",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 1618,
+      "admissions": 3730,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "06-12-2024",
+      "rank": 12,
+      "gross": 0.1,
+      "cume": 0.25,
+      "showings": 10540,
+      "admissions": 18192,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "07-12-2024",
+      "rank": 15,
+      "gross": 0.15,
+      "cume": 0.4,
+      "showings": 18612,
+      "admissions": 25762,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-12-2024",
+      "rank": 19,
+      "gross": 0.09,
+      "cume": 0.49,
+      "showings": 7779,
+      "admissions": 15932,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "movie_id": 678806,
+  "title": "The Lego Movie 2: The Second Part",
+  "releaseDate": "22-03-2019",
+  "entries": [
+    {
+      "date": "22-03-2019",
+      "rank": 8,
+      "gross": 0.3,
+      "cume": 0.31,
+      "showings": 22169,
+      "admissions": 60761,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-03-2019",
+      "rank": 8,
+      "gross": 1.04,
+      "cume": 1.35,
+      "showings": 24525,
+      "admissions": 209003,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-03-2019",
+      "rank": 8,
+      "gross": 0.94,
+      "cume": 2.28,
+      "showings": 22026,
+      "admissions": 190254,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-03-2019",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 2.34,
+      "showings": 11255,
+      "admissions": 12322,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-03-2019",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 2.39,
+      "showings": 9566,
+      "admissions": 8465,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-03-2019",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 2.42,
+      "showings": 8720,
+      "admissions": 6997,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-03-2019",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 2.45,
+      "showings": 6940,
+      "admissions": 4687,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "30-03-2019",
+      "rank": 13,
+      "gross": 0.07,
+      "cume": 2.53,
+      "showings": 1648,
+      "admissions": 14447,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "31-03-2019",
+      "rank": 14,
+      "gross": 0.08,
+      "cume": 2.61,
+      "showings": 1809,
+      "admissions": 15928,
+      "days": 10,
+      "day": "2nd Sun"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 1007534,
+  "title": "THE BRIDE!",
+  "releaseDate": "06-03-2026",
+  "entries": [
+    {
+      "date": "06-03-2026",
+      "rank": 7,
+      "gross": 0.2,
+      "cume": 0.2,
+      "showings": 12940,
+      "admissions": 33371,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "07-03-2026",
+      "rank": 8,
+      "gross": 0.23,
+      "cume": 0.44,
+      "showings": 23759,
+      "admissions": 37193,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-03-2026",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.54,
+      "showings": 10142,
+      "admissions": 16766,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "09-03-2026",
+      "rank": 10,
+      "gross": 0.03,
+      "cume": 0.57,
+      "showings": 8172,
+      "admissions": 4890,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "10-03-2026",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.59,
+      "showings": 7038,
+      "admissions": 3926,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "11-03-2026",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.61,
+      "showings": 6470,
+      "admissions": 3498,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "12-03-2026",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.63,
+      "showings": 6093,
+      "admissions": 3095,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

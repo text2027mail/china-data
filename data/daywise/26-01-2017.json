@@ -1,0 +1,225 @@
+{
+  "date": "26-01-2017",
+  "data": [
+    {
+      "movie_id": 657814,
+      "title": "",
+      "gross": 1.72,
+      "cume": 44.98,
+      "showings": 41727,
+      "admissions": 330143,
+      "rank": 1,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 653984,
+      "title": "Some Like It Hot",
+      "gross": 1.56,
+      "cume": 96.49,
+      "showings": 35846,
+      "admissions": 334349,
+      "rank": 2,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 621560,
+      "title": "Arrival",
+      "gross": 1.46,
+      "cume": 14.54,
+      "showings": 41393,
+      "admissions": 313840,
+      "rank": 3,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 658620,
+      "title": "Backkom Bear：Agent 008",
+      "gross": 0.92,
+      "cume": 17.87,
+      "showings": 26594,
+      "admissions": 190887,
+      "rank": 4,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 642658,
+      "title": "Rogue One: A Star Wars Story",
+      "gross": 0.89,
+      "cume": 70.1,
+      "showings": 23164,
+      "admissions": 161429,
+      "rank": 5,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 643232,
+      "title": "The Village of No Return",
+      "gross": 0.45,
+      "cume": 0.97,
+      "showings": 14765,
+      "admissions": 98112,
+      "rank": 6,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 637972,
+      "title": "Railroad Tigers",
+      "gross": 0.41,
+      "cume": 102.94,
+      "showings": 9442,
+      "admissions": 83812,
+      "rank": 7,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 595849,
+      "title": "The Great Wall",
+      "gross": 0.37,
+      "cume": 172.15,
+      "showings": 7986,
+      "admissions": 72479,
+      "rank": 8,
+      "days": 42,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 657651,
+      "title": "Hacksaw Ridge",
+      "gross": 0.2,
+      "cume": 62.5,
+      "showings": 3460,
+      "admissions": 42287,
+      "rank": 9,
+      "days": 50,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 655281,
+      "title": "Kubo and the Two Strings",
+      "gross": 0.16,
+      "cume": 6.39,
+      "showings": 7282,
+      "admissions": 32710,
+      "rank": 10,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 659022,
+      "title": "Zhu Zhu Xia Zhi Ying Xiong Zhu Shao Nian",
+      "gross": 0.06,
+      "cume": 6.48,
+      "showings": 3363,
+      "admissions": 15155,
+      "rank": 11,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 643385,
+      "title": "Eye in the Sky",
+      "gross": 0.05,
+      "cume": 2.51,
+      "showings": 2628,
+      "admissions": 9477,
+      "rank": 12,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 655647,
+      "title": "Your Name",
+      "gross": 0.04,
+      "cume": 85.03,
+      "showings": 1006,
+      "admissions": 9773,
+      "rank": 13,
+      "days": 56,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 655171,
+      "title": "Sinbad and Mermaid Princess",
+      "gross": 0.03,
+      "cume": 0.28,
+      "showings": 151,
+      "admissions": 4785,
+      "rank": 14,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 628225,
+      "title": "See You Tomorrow",
+      "gross": 0.03,
+      "cume": 71.23,
+      "showings": 1163,
+      "admissions": 5460,
+      "rank": 15,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 637780,
+      "title": "Daughter",
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 2359,
+      "admissions": 4762,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 627974,
+      "title": "Crazy Teacher",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 1684,
+      "admissions": 2623,
+      "rank": 17,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 640184,
+      "title": "Ghost In Barber’s",
+      "gross": 0.01,
+      "cume": 0.64,
+      "showings": 702,
+      "admissions": 1663,
+      "rank": 18,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 617156,
+      "title": "The Wasted Times",
+      "gross": 0.01,
+      "cume": 18.12,
+      "showings": 154,
+      "admissions": 1029,
+      "rank": 19,
+      "days": 42,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 644849,
+      "title": "Bicycle Boy 2",
+      "gross": 0.01,
+      "cume": 0.44,
+      "showings": 708,
+      "admissions": 1172,
+      "rank": 20,
+      "days": 14,
+      "day": "2nd Thu"
+    }
+  ]
+}

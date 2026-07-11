@@ -1,0 +1,225 @@
+{
+  "date": "22-01-2023",
+  "data": [
+    {
+      "movie_id": 704382,
+      "title": "",
+      "gross": 70.79,
+      "cume": 70.81,
+      "showings": 119750,
+      "admissions": 8800294,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 713237,
+      "title": "Full River Red",
+      "gross": 59.83,
+      "cume": 59.85,
+      "showings": 114665,
+      "admissions": 7651429,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 707469,
+      "title": "Hidden Blade",
+      "gross": 20.29,
+      "cume": 20.29,
+      "showings": 58317,
+      "admissions": 2568910,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 733627,
+      "title": "Boonie Bears: Guardian Code",
+      "gross": 19.74,
+      "cume": 19.75,
+      "showings": 38954,
+      "admissions": 2624878,
+      "rank": 4,
+      "days": 1,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 708388,
+      "title": "Five Hundred Miles",
+      "gross": 18.79,
+      "cume": 18.79,
+      "showings": 77967,
+      "admissions": 2438718,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 10.8,
+      "cume": 11.03,
+      "showings": 40254,
+      "admissions": 1421717,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 612244,
+      "title": "Avatar: The Way of Water",
+      "gross": 0.08,
+      "cume": 234.21,
+      "showings": 211,
+      "admissions": 10035,
+      "rank": 7,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 703781,
+      "title": "Ready to go",
+      "gross": 0.02,
+      "cume": 0.3,
+      "showings": 38,
+      "admissions": 1764,
+      "rank": 8,
+      "days": 178,
+      "day": "17th Sun"
+    },
+    {
+      "movie_id": 700699,
+      "title": "Frog Prince Adventures 2",
+      "gross": 0.01,
+      "cume": 0.59,
+      "showings": 52,
+      "admissions": 2267,
+      "rank": 9,
+      "days": 72,
+      "day": "12th Sun"
+    },
+    {
+      "movie_id": 678559,
+      "title": "Wonder Boy",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 9,
+      "admissions": 1257,
+      "rank": 10,
+      "days": 52,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.01,
+      "cume": 1.24,
+      "showings": 9,
+      "admissions": 980,
+      "rank": 11,
+      "days": 1300,
+      "day": "77th Sun"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.0,
+      "cume": 6.52,
+      "showings": 28,
+      "admissions": 381,
+      "rank": 12,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 385143,
+      "title": "Space Station 3D",
+      "gross": 0.0,
+      "cume": 0.16,
+      "showings": 1,
+      "admissions": 399,
+      "rank": 13,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 668012,
+      "title": "Fei Zhou Da Cao Yuan",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 2,
+      "admissions": 226,
+      "rank": 14,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 659773,
+      "title": "Journey to Space",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 8,
+      "admissions": 199,
+      "rank": 15,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 714823,
+      "title": "Better Man",
+      "gross": 0.0,
+      "cume": 46.28,
+      "showings": 45,
+      "admissions": 114,
+      "rank": 16,
+      "days": 23,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 630021,
+      "title": "Super Me",
+      "gross": 0.0,
+      "cume": 1.53,
+      "showings": 8,
+      "admissions": 168,
+      "rank": 17,
+      "days": 654,
+      "day": "94th Sun"
+    },
+    {
+      "movie_id": 667612,
+      "title": "Tai Yang De Yan Se",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 4,
+      "admissions": 152,
+      "rank": 18,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 563591,
+      "title": "The Universal Pagoda",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 4,
+      "admissions": 152,
+      "rank": 19,
+      "days": 25193,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 628890,
+      "title": "Yu Long Yong Shi",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 2,
+      "admissions": 99,
+      "rank": 20,
+      "days": 3573,
+      "day": "1st Sun"
+    }
+  ]
+}

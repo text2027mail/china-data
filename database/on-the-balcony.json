@@ -1,0 +1,77 @@
+{
+  "movie_id": 674300,
+  "title": "On the Balcony",
+  "releaseDate": "13-03-2019",
+  "entries": [
+    {
+      "date": "13-03-2019",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 764,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-03-2019",
+      "rank": 8,
+      "gross": 0.28,
+      "cume": 0.29,
+      "showings": 28729,
+      "admissions": 58826,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "16-03-2019",
+      "rank": 12,
+      "gross": 0.15,
+      "cume": 0.45,
+      "showings": 14042,
+      "admissions": 31875,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-03-2019",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.51,
+      "showings": 8896,
+      "admissions": 12845,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "18-03-2019",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.53,
+      "showings": 6941,
+      "admissions": 4189,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "19-03-2019",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.55,
+      "showings": 5229,
+      "admissions": 3365,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "20-03-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 4421,
+      "admissions": 2077,
+      "days": 6,
+      "day": "2nd Wed"
+    }
+  ]
+}

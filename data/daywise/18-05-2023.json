@@ -1,0 +1,225 @@
+{
+  "date": "18-05-2023",
+  "data": [
+    {
+      "movie_id": 682200,
+      "title": "",
+      "gross": 9.11,
+      "cume": 27.3,
+      "showings": 175073,
+      "admissions": 1649364,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 710253,
+      "title": "GODSPEED",
+      "gross": 1.04,
+      "cume": 128.29,
+      "showings": 52379,
+      "admissions": 170311,
+      "rank": 2,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 736126,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "gross": 0.9,
+      "cume": 64.91,
+      "showings": 40019,
+      "admissions": 164430,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 707476,
+      "title": "Born To Fly",
+      "gross": 0.5,
+      "cume": 111.28,
+      "showings": 30429,
+      "admissions": 83114,
+      "rank": 4,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 709077,
+      "title": "All These Years",
+      "gross": 0.15,
+      "cume": 42.53,
+      "showings": 12809,
+      "admissions": 24380,
+      "rank": 5,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 713176,
+      "title": "Racing 72H",
+      "gross": 0.09,
+      "cume": 6.61,
+      "showings": 2083,
+      "admissions": 11234,
+      "rank": 6,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 734942,
+      "title": "The First Slam Dunk",
+      "gross": 0.06,
+      "cume": 94.29,
+      "showings": 5782,
+      "admissions": 11656,
+      "rank": 7,
+      "days": 29,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 710882,
+      "title": "SPARKS OF FIRE IN JINGGANGSHAN",
+      "gross": 0.05,
+      "cume": 1.28,
+      "showings": 142,
+      "admissions": 9569,
+      "rank": 8,
+      "days": 21,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 703744,
+      "title": "Manifesto",
+      "gross": 0.04,
+      "cume": 8.89,
+      "showings": 210,
+      "admissions": 6968,
+      "rank": 9,
+      "days": 56,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 705431,
+      "title": "Awaken2",
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 153,
+      "admissions": 9131,
+      "rank": 10,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 699972,
+      "title": "Tale of the Night",
+      "gross": 0.03,
+      "cume": 2.58,
+      "showings": 1388,
+      "admissions": 5477,
+      "rank": 11,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 696727,
+      "title": "The Procurator",
+      "gross": 0.02,
+      "cume": 8.89,
+      "showings": 2836,
+      "admissions": 3995,
+      "rank": 12,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 712045,
+      "title": "Zhou Yongkai",
+      "gross": 0.02,
+      "cume": 0.52,
+      "showings": 166,
+      "admissions": 3785,
+      "rank": 13,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 693694,
+      "title": "EX：Fall In Love Again",
+      "gross": 0.02,
+      "cume": 0.6,
+      "showings": 2656,
+      "admissions": 3251,
+      "rank": 14,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 710776,
+      "title": "Cosmicrew: Storm Force",
+      "gross": 0.02,
+      "cume": 2.45,
+      "showings": 700,
+      "admissions": 2733,
+      "rank": 15,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 710043,
+      "title": "Go With The Times",
+      "gross": 0.02,
+      "cume": 0.26,
+      "showings": 27,
+      "admissions": 2580,
+      "rank": 16,
+      "days": 63,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 704991,
+      "title": "Faces in the Crowd",
+      "gross": 0.01,
+      "cume": 5.63,
+      "showings": 216,
+      "admissions": 2462,
+      "rank": 17,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 698961,
+      "title": "One Mountain Away",
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 40,
+      "admissions": 2018,
+      "rank": 18,
+      "days": 62,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 703278,
+      "title": "Flash Over",
+      "gross": 0.01,
+      "cume": 6.14,
+      "showings": 1652,
+      "admissions": 1617,
+      "rank": 19,
+      "days": 21,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 735685,
+      "title": "Suzume no Tojimari",
+      "gross": 0.01,
+      "cume": 118.62,
+      "showings": 960,
+      "admissions": 1833,
+      "rank": 20,
+      "days": 56,
+      "day": "9th Thu"
+    }
+  ]
+}

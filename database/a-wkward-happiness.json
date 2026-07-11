@@ -1,0 +1,57 @@
+{
+  "movie_id": 708481,
+  "title": "A Wkward Happiness",
+  "releaseDate": "06-04-2022",
+  "entries": [
+    {
+      "date": "06-04-2022",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 6,
+      "admissions": 503,
+      "days": 216,
+      "day": "1st Wed"
+    },
+    {
+      "date": "07-04-2022",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 5,
+      "admissions": 690,
+      "days": 217,
+      "day": "1st Thu"
+    },
+    {
+      "date": "08-04-2022",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 11,
+      "admissions": 831,
+      "days": 218,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-04-2022",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 20,
+      "admissions": 1262,
+      "days": 219,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-04-2022",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 20,
+      "admissions": 1484,
+      "days": 220,
+      "day": "1st Sun"
+    }
+  ]
+}

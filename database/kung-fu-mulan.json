@@ -1,0 +1,57 @@
+{
+  "movie_id": 640323,
+  "title": "Kung Fu Mulan",
+  "releaseDate": "03-10-2020",
+  "entries": [
+    {
+      "date": "03-10-2020",
+      "rank": 5,
+      "gross": 1.01,
+      "cume": 1.01,
+      "showings": 24313,
+      "admissions": 177145,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "04-10-2020",
+      "rank": 9,
+      "gross": 0.12,
+      "cume": 1.13,
+      "showings": 5109,
+      "admissions": 23460,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "05-10-2020",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 1.17,
+      "showings": 2028,
+      "admissions": 8083,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-01-2022",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 1.2,
+      "showings": 675,
+      "admissions": 5030,
+      "days": 1,
+      "day": "66th Sat"
+    },
+    {
+      "date": "02-01-2022",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 1.22,
+      "showings": 715,
+      "admissions": 3789,
+      "days": 2,
+      "day": "66th Sun"
+    }
+  ]
+}

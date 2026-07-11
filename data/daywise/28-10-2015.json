@@ -1,0 +1,225 @@
+{
+  "date": "28-10-2015",
+  "data": [
+    {
+      "movie_id": 302023,
+      "title": "",
+      "gross": 1.97,
+      "cume": 83.33,
+      "showings": 36346,
+      "admissions": 376805,
+      "rank": 1,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 628183,
+      "title": "Goodbye Mr. Loser",
+      "gross": 1.27,
+      "cume": 202.89,
+      "showings": 26856,
+      "admissions": 266464,
+      "rank": 2,
+      "days": 29,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 640998,
+      "title": "Hotel Transylvania 2",
+      "gross": 1.06,
+      "cume": 2.27,
+      "showings": 28584,
+      "admissions": 217473,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 628823,
+      "title": "Youth Never Returns",
+      "gross": 0.41,
+      "cume": 6.08,
+      "showings": 14248,
+      "admissions": 92273,
+      "rank": 4,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 635793,
+      "title": "Meitantei Conan: Goka No Himawari",
+      "gross": 0.37,
+      "cume": 9.94,
+      "showings": 17008,
+      "admissions": 87101,
+      "rank": 5,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 625045,
+      "title": "The Little Prince",
+      "gross": 0.25,
+      "cume": 21.06,
+      "showings": 6905,
+      "admissions": 49159,
+      "rank": 6,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 640889,
+      "title": "Pan",
+      "gross": 0.14,
+      "cume": 3.79,
+      "showings": 7096,
+      "admissions": 26864,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 637885,
+      "title": "The Promised Land",
+      "gross": 0.07,
+      "cume": 0.16,
+      "showings": 5240,
+      "admissions": 15876,
+      "rank": 8,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 632370,
+      "title": "Undercover Duet",
+      "gross": 0.06,
+      "cume": 0.72,
+      "showings": 2480,
+      "admissions": 13811,
+      "rank": 9,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 641111,
+      "title": "Er Gou Fan Xiang Ji",
+      "gross": 0.06,
+      "cume": 0.19,
+      "showings": 77,
+      "admissions": 10422,
+      "rank": 10,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 641112,
+      "title": "Luck With The Blue And Wihte Poncelain",
+      "gross": 0.06,
+      "cume": 0.18,
+      "showings": 74,
+      "admissions": 9921,
+      "rank": 11,
+      "days": 2172,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 631690,
+      "title": "Romance Out Of The Blue",
+      "gross": 0.05,
+      "cume": 1.07,
+      "showings": 2873,
+      "admissions": 9322,
+      "rank": 12,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 639128,
+      "title": "Where‘s The Dragon？",
+      "gross": 0.04,
+      "cume": 2.38,
+      "showings": 2031,
+      "admissions": 9162,
+      "rank": 13,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 618038,
+      "title": "Lost In Hong Kong",
+      "gross": 0.04,
+      "cume": 237.93,
+      "showings": 1192,
+      "admissions": 9570,
+      "rank": 14,
+      "days": 34,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 631060,
+      "title": "Blind Spot",
+      "gross": 0.03,
+      "cume": 0.42,
+      "showings": 2219,
+      "admissions": 8051,
+      "rank": 15,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 631325,
+      "title": "The Witness",
+      "gross": 0.03,
+      "cume": 0.13,
+      "showings": 12,
+      "admissions": 2036,
+      "rank": 16,
+      "days": null,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 630504,
+      "title": "The Coffin in the Mountain",
+      "gross": 0.03,
+      "cume": 1.41,
+      "showings": 860,
+      "admissions": 5763,
+      "rank": 17,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 639889,
+      "title": "Campus Mystery",
+      "gross": 0.03,
+      "cume": 1.47,
+      "showings": 1819,
+      "admissions": 7775,
+      "rank": 18,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 615300,
+      "title": "Chronicles of the Ghostly Tribe",
+      "gross": 0.03,
+      "cume": 100.66,
+      "showings": 1258,
+      "admissions": 5332,
+      "rank": 19,
+      "days": 29,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 640871,
+      "title": "Himalaya:Ladder to Pradise",
+      "gross": 0.02,
+      "cume": 0.96,
+      "showings": 398,
+      "admissions": 4041,
+      "rank": 20,
+      "days": 13,
+      "day": "3rd Wed"
+    }
+  ]
+}

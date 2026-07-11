@@ -1,0 +1,47 @@
+{
+  "movie_id": 695339,
+  "title": "Allahyar and The Legend of Markhor",
+  "releaseDate": "25-12-2021",
+  "entries": [
+    {
+      "date": "25-12-2021",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 4808,
+      "admissions": 12986,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-12-2021",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.1,
+      "showings": 4894,
+      "admissions": 10229,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "01-01-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 307,
+      "admissions": 3053,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "02-01-2022",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 405,
+      "admissions": 3016,
+      "days": 9,
+      "day": "2nd Sun"
+    }
+  ]
+}

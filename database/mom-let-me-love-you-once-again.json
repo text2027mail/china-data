@@ -1,0 +1,27 @@
+{
+  "movie_id": 640890,
+  "title": "Mom Let Me Love You Once Again",
+  "releaseDate": "17-10-2015",
+  "entries": [
+    {
+      "date": "17-10-2015",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 60,
+      "admissions": 4250,
+      "days": 17,
+      "day": "1st Sat"
+    },
+    {
+      "date": "18-10-2015",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 86,
+      "admissions": 6179,
+      "days": 18,
+      "day": "1st Sun"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 691893,
+  "title": "Sharp the bull",
+  "releaseDate": "03-10-2019",
+  "entries": [
+    {
+      "date": "03-10-2019",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.11,
+      "showings": 6332,
+      "admissions": 16839,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "04-10-2019",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 0.18,
+      "showings": 4317,
+      "admissions": 9414,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-10-2019",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.22,
+      "showings": 3484,
+      "admissions": 4568,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "06-10-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 2582,
+      "admissions": 2086,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-10-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 324,
+      "admissions": 1540,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "11-10-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.26,
+      "showings": 358,
+      "admissions": 1264,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "12-10-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 376,
+      "admissions": 1054,
+      "days": 10,
+      "day": "2nd Sat"
+    }
+  ]
+}

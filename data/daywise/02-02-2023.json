@@ -1,0 +1,225 @@
+{
+  "date": "02-02-2023",
+  "data": [
+    {
+      "movie_id": 713237,
+      "title": "",
+      "gross": 12.87,
+      "cume": 539.04,
+      "showings": 116084,
+      "admissions": 1882148,
+      "rank": 1,
+      "days": 12,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 704382,
+      "title": "The Wandering Earth 2",
+      "gross": 11.63,
+      "cume": 440.3,
+      "showings": 94858,
+      "admissions": 1634438,
+      "rank": 2,
+      "days": 12,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 733627,
+      "title": "Boonie Bears: Guardian Code",
+      "gross": 5.31,
+      "cume": 164.87,
+      "showings": 49926,
+      "admissions": 821391,
+      "rank": 3,
+      "days": 12,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 3.58,
+      "cume": 84.12,
+      "showings": 39909,
+      "admissions": 536302,
+      "rank": 4,
+      "days": 12,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 707469,
+      "title": "Hidden Blade",
+      "gross": 3.56,
+      "cume": 103.9,
+      "showings": 32434,
+      "admissions": 453644,
+      "rank": 5,
+      "days": 12,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 708388,
+      "title": "Five Hundred Miles",
+      "gross": 0.81,
+      "cume": 50.16,
+      "showings": 18438,
+      "admissions": 122192,
+      "rank": 6,
+      "days": 12,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 612244,
+      "title": "Avatar: The Way of Water",
+      "gross": 0.41,
+      "cume": 243.34,
+      "showings": 5033,
+      "admissions": 59872,
+      "rank": 7,
+      "days": 49,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.02,
+      "cume": 31.87,
+      "showings": 232,
+      "admissions": 3275,
+      "rank": 8,
+      "days": 126,
+      "day": "19th Thu"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.01,
+      "cume": 6.73,
+      "showings": 302,
+      "admissions": 1611,
+      "rank": 9,
+      "days": 42,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 692317,
+      "title": "Ping-pong of China",
+      "gross": 0.01,
+      "cume": 6.09,
+      "showings": 22,
+      "admissions": 949,
+      "rank": 10,
+      "days": null,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 681235,
+      "title": "Above The Rainbow",
+      "gross": 0.01,
+      "cume": 0.39,
+      "showings": 35,
+      "admissions": 839,
+      "rank": 11,
+      "days": 190,
+      "day": "27th Thu"
+    },
+    {
+      "movie_id": 426671,
+      "title": "Les choristes",
+      "gross": 0.0,
+      "cume": 1.18,
+      "showings": 44,
+      "admissions": 789,
+      "rank": 12,
+      "days": 6559,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 1.28,
+      "showings": 4,
+      "admissions": 723,
+      "rank": 13,
+      "days": 1311,
+      "day": "79th Thu"
+    },
+    {
+      "movie_id": 385143,
+      "title": "Space Station 3D",
+      "gross": 0.0,
+      "cume": 0.17,
+      "showings": 2,
+      "admissions": 823,
+      "rank": 14,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 0.0,
+      "cume": 59.18,
+      "showings": 147,
+      "admissions": 451,
+      "rank": 15,
+      "days": 41,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 685389,
+      "title": "Shen Hai Tan Xian",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 2,
+      "admissions": 395,
+      "rank": 16,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 667612,
+      "title": "Tai Yang De Yan Se",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 6,
+      "admissions": 336,
+      "rank": 17,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 659773,
+      "title": "Journey to Space",
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 8,
+      "admissions": 238,
+      "rank": 18,
+      "days": null,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 715838,
+      "title": "Dragon Ball Super: Super Hero",
+      "gross": 0.0,
+      "cume": 1.64,
+      "showings": 95,
+      "admissions": 139,
+      "rank": 19,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 693579,
+      "title": "MET AT LUANFENG CORRIDOR BRIDGE",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 7,
+      "admissions": 115,
+      "rank": 20,
+      "days": 77,
+      "day": "11th Thu"
+    }
+  ]
+}

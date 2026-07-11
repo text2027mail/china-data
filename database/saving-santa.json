@@ -1,0 +1,87 @@
+{
+  "movie_id": 619452,
+  "title": "Saving Santa",
+  "releaseDate": "25-01-2014",
+  "entries": [
+    {
+      "date": "25-01-2014",
+      "rank": 9,
+      "gross": 0.2,
+      "cume": 0.2,
+      "showings": 6927,
+      "admissions": 40743,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-01-2014",
+      "rank": 9,
+      "gross": 0.13,
+      "cume": 0.34,
+      "showings": 6411,
+      "admissions": 26659,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "27-01-2014",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.44,
+      "showings": 5412,
+      "admissions": 20470,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "28-01-2014",
+      "rank": 10,
+      "gross": 0.09,
+      "cume": 0.53,
+      "showings": 4873,
+      "admissions": 19676,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "29-01-2014",
+      "rank": 10,
+      "gross": 0.08,
+      "cume": 0.61,
+      "showings": 4409,
+      "admissions": 15890,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-01-2014",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.63,
+      "showings": 1830,
+      "admissions": 4519,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "31-01-2014",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.64,
+      "showings": 142,
+      "admissions": 580,
+      "days": 7,
+      "day": "1st Fri"
+    },
+    {
+      "date": "03-02-2014",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.64,
+      "showings": 44,
+      "admissions": 244,
+      "days": 10,
+      "day": "2nd Mon"
+    }
+  ]
+}

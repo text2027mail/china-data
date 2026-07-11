@@ -1,0 +1,237 @@
+{
+  "movie_id": 686232,
+  "title": "Masquerade Hotel",
+  "releaseDate": "04-09-2020",
+  "entries": [
+    {
+      "date": "04-09-2020",
+      "rank": 4,
+      "gross": 0.43,
+      "cume": 0.44,
+      "showings": 19711,
+      "admissions": 92401,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-09-2020",
+      "rank": 4,
+      "gross": 0.56,
+      "cume": 1.0,
+      "showings": 13737,
+      "admissions": 117464,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "06-09-2020",
+      "rank": 5,
+      "gross": 0.43,
+      "cume": 1.43,
+      "showings": 12660,
+      "admissions": 88307,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "07-09-2020",
+      "rank": 4,
+      "gross": 0.2,
+      "cume": 1.62,
+      "showings": 12136,
+      "admissions": 41533,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "08-09-2020",
+      "rank": 4,
+      "gross": 0.17,
+      "cume": 1.79,
+      "showings": 11620,
+      "admissions": 35785,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "09-09-2020",
+      "rank": 4,
+      "gross": 0.15,
+      "cume": 1.94,
+      "showings": 11131,
+      "admissions": 30630,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "10-09-2020",
+      "rank": 5,
+      "gross": 0.13,
+      "cume": 2.07,
+      "showings": 9527,
+      "admissions": 26161,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "11-09-2020",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 2.09,
+      "showings": 859,
+      "admissions": 5009,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "12-09-2020",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 2.17,
+      "showings": 1073,
+      "admissions": 13483,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "13-09-2020",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 2.24,
+      "showings": 1279,
+      "admissions": 13188,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "14-09-2020",
+      "rank": 10,
+      "gross": 0.03,
+      "cume": 2.27,
+      "showings": 1493,
+      "admissions": 5264,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "15-09-2020",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 2.3,
+      "showings": 1582,
+      "admissions": 4960,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "16-09-2020",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 2.32,
+      "showings": 1617,
+      "admissions": 4561,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "17-09-2020",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 2.34,
+      "showings": 1251,
+      "admissions": 3118,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "18-09-2020",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 2.35,
+      "showings": 395,
+      "admissions": 1937,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "19-09-2020",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 2.39,
+      "showings": 709,
+      "admissions": 6515,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "20-09-2020",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 2.42,
+      "showings": 757,
+      "admissions": 5822,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "21-09-2020",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 2.43,
+      "showings": 781,
+      "admissions": 1845,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "22-09-2020",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 2.44,
+      "showings": 818,
+      "admissions": 1909,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "23-09-2020",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 2.45,
+      "showings": 838,
+      "admissions": 1670,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "24-09-2020",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 2.47,
+      "showings": 881,
+      "admissions": 2388,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "25-09-2020",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 2.47,
+      "showings": 387,
+      "admissions": 1090,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "date": "26-09-2020",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 2.48,
+      "showings": 211,
+      "admissions": 1680,
+      "days": 23,
+      "day": "4th Sat"
+    }
+  ]
+}

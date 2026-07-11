@@ -1,0 +1,77 @@
+{
+  "movie_id": 617533,
+  "title": "Fight for Love",
+  "releaseDate": "27-10-2017",
+  "entries": [
+    {
+      "date": "27-10-2017",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 10544,
+      "admissions": 16473,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-10-2017",
+      "rank": 11,
+      "gross": 0.09,
+      "cume": 0.16,
+      "showings": 3631,
+      "admissions": 18875,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-10-2017",
+      "rank": 11,
+      "gross": 0.11,
+      "cume": 0.28,
+      "showings": 3422,
+      "admissions": 22981,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-10-2017",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 2799,
+      "admissions": 3346,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-10-2017",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 2500,
+      "admissions": 2129,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-11-2017",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.31,
+      "showings": 2287,
+      "admissions": 1950,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-11-2017",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.32,
+      "showings": 2104,
+      "admissions": 1673,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

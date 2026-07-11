@@ -1,0 +1,225 @@
+{
+  "date": "25-11-2021",
+  "data": [
+    {
+      "movie_id": 706189,
+      "title": "",
+      "gross": 2.57,
+      "cume": 68.45,
+      "showings": 92321,
+      "admissions": 460892,
+      "rank": 1,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 702566,
+      "title": "Door Lock",
+      "gross": 1.01,
+      "cume": 23.91,
+      "showings": 77774,
+      "admissions": 199127,
+      "rank": 2,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 704791,
+      "title": "Railway Heros",
+      "gross": 0.73,
+      "cume": 12.27,
+      "showings": 50751,
+      "admissions": 132815,
+      "rank": 3,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 0.62,
+      "cume": 840.75,
+      "showings": 21180,
+      "admissions": 133434,
+      "rank": 4,
+      "days": 57,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 693966,
+      "title": "Anita",
+      "gross": 0.32,
+      "cume": 13.25,
+      "showings": 19046,
+      "admissions": 64199,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 696608,
+      "title": "No Time to Die",
+      "gross": 0.16,
+      "cume": 58.18,
+      "showings": 8915,
+      "admissions": 25393,
+      "rank": 6,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 472294,
+      "title": "Jungle Cruise",
+      "gross": 0.07,
+      "cume": 5.51,
+      "showings": 6919,
+      "admissions": 13294,
+      "rank": 7,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.03,
+      "cume": 36.78,
+      "showings": 1044,
+      "admissions": 3777,
+      "rank": 8,
+      "days": 35,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 708513,
+      "title": "Our treasures",
+      "gross": 0.03,
+      "cume": 2.26,
+      "showings": 27,
+      "admissions": 3719,
+      "rank": 9,
+      "days": 117,
+      "day": "17th Thu"
+    },
+    {
+      "movie_id": 461695,
+      "title": "Departures",
+      "gross": 0.03,
+      "cume": 9.57,
+      "showings": 2997,
+      "admissions": 5330,
+      "rank": 10,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 709324,
+      "title": "The Guardian of Youth",
+      "gross": 0.02,
+      "cume": 2.32,
+      "showings": 63,
+      "admissions": 5206,
+      "rank": 11,
+      "days": 70,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 706356,
+      "title": "My country,My parents",
+      "gross": 0.02,
+      "cume": 217.61,
+      "showings": 1500,
+      "admissions": 3745,
+      "rank": 12,
+      "days": 57,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.02,
+      "cume": 4.34,
+      "showings": 51,
+      "admissions": 3056,
+      "rank": 13,
+      "days": 130,
+      "day": "20th Thu"
+    },
+    {
+      "movie_id": 674033,
+      "title": "SYNESTHETE",
+      "gross": 0.02,
+      "cume": 1.99,
+      "showings": 1763,
+      "admissions": 3270,
+      "rank": 14,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 699531,
+      "title": "YANGZHEN ’S JOURNEY",
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 102,
+      "admissions": 3762,
+      "rank": 15,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 97,
+      "admissions": 2832,
+      "rank": 16,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.01,
+      "cume": 4.38,
+      "showings": 44,
+      "admissions": 2224,
+      "rank": 17,
+      "days": 112,
+      "day": "18th Thu"
+    },
+    {
+      "movie_id": 707737,
+      "title": "Island Keeper",
+      "gross": 0.01,
+      "cume": 20.31,
+      "showings": 20,
+      "admissions": 2359,
+      "rank": 18,
+      "days": 161,
+      "day": "24th Thu"
+    },
+    {
+      "movie_id": 707531,
+      "title": "The Legend of Sealed Book",
+      "gross": 0.01,
+      "cume": 3.65,
+      "showings": 1692,
+      "admissions": 1790,
+      "rank": 19,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 678571,
+      "title": "hongsejinrongjia—gaojiecheng",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 16,
+      "admissions": 1257,
+      "rank": 20,
+      "days": 788,
+      "day": "1st Thu"
+    }
+  ]
+}

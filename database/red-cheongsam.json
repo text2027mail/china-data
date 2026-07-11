@@ -1,0 +1,97 @@
+{
+  "movie_id": 639810,
+  "title": "Red Cheongsam",
+  "releaseDate": "17-03-2016",
+  "entries": [
+    {
+      "date": "17-03-2016",
+      "rank": 10,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 1631,
+      "admissions": 12737,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "18-03-2016",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.15,
+      "showings": 3245,
+      "admissions": 28036,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "19-03-2016",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.26,
+      "showings": 3194,
+      "admissions": 28922,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "20-03-2016",
+      "rank": 10,
+      "gross": 0.07,
+      "cume": 0.32,
+      "showings": 3114,
+      "admissions": 18909,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "21-03-2016",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.38,
+      "showings": 3064,
+      "admissions": 14123,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "22-03-2016",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.43,
+      "showings": 3047,
+      "admissions": 14332,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "23-03-2016",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.47,
+      "showings": 3025,
+      "admissions": 12974,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "24-03-2016",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.52,
+      "showings": 2970,
+      "admissions": 11079,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "30-03-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.55,
+      "showings": 548,
+      "admissions": 1054,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

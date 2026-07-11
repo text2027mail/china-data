@@ -1,0 +1,67 @@
+{
+  "movie_id": 673379,
+  "title": "The Queen of Drama",
+  "releaseDate": "01-11-2020",
+  "entries": [
+    {
+      "date": "01-11-2020",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 67,
+      "admissions": 4572,
+      "days": 9,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-11-2020",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 59,
+      "admissions": 2866,
+      "days": 10,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-11-2020",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 62,
+      "admissions": 2899,
+      "days": 11,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-11-2020",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 60,
+      "admissions": 2855,
+      "days": 12,
+      "day": "1st Wed"
+    },
+    {
+      "date": "05-11-2020",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 40,
+      "admissions": 2547,
+      "days": 13,
+      "day": "1st Thu"
+    },
+    {
+      "date": "06-11-2020",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 25,
+      "admissions": 2540,
+      "days": 14,
+      "day": "1st Fri"
+    }
+  ]
+}

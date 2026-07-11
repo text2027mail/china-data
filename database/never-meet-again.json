@@ -1,0 +1,47 @@
+{
+  "movie_id": 707812,
+  "title": "Never Meet Again",
+  "releaseDate": "29-11-2024",
+  "entries": [
+    {
+      "date": "29-11-2024",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 3023,
+      "admissions": 9575,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-11-2024",
+      "rank": 18,
+      "gross": 0.05,
+      "cume": 0.11,
+      "showings": 2191,
+      "admissions": 9063,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-12-2024",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.16,
+      "showings": 2565,
+      "admissions": 7425,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-12-2024",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.18,
+      "showings": 336,
+      "admissions": 2631,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

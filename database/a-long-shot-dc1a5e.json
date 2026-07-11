@@ -1,0 +1,87 @@
+{
+  "movie_id": 702977,
+  "title": "A Long Shot",
+  "releaseDate": "03-04-2025",
+  "entries": [
+    {
+      "date": "03-04-2025",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1539,
+      "admissions": 2130,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "07-04-2025",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 412,
+      "admissions": 1865,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-04-2025",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.08,
+      "showings": 208,
+      "admissions": 5948,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "13-04-2025",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.11,
+      "showings": 215,
+      "admissions": 6293,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "14-04-2025",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 209,
+      "admissions": 3554,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "15-04-2025",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.15,
+      "showings": 219,
+      "admissions": 3816,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "16-04-2025",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 215,
+      "admissions": 3891,
+      "days": 14,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "17-04-2025",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.18,
+      "showings": 203,
+      "admissions": 4362,
+      "days": 15,
+      "day": "3rd Thu"
+    }
+  ]
+}

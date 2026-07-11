@@ -1,0 +1,77 @@
+{
+  "movie_id": 626980,
+  "title": "Home Lost",
+  "releaseDate": "03-07-2017",
+  "entries": [
+    {
+      "date": "03-07-2017",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.08,
+      "showings": 195,
+      "admissions": 8675,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "04-07-2017",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.12,
+      "showings": 135,
+      "admissions": 6735,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "05-07-2017",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.16,
+      "showings": 133,
+      "admissions": 6875,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "06-07-2017",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.2,
+      "showings": 96,
+      "admissions": 6515,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "07-07-2017",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.24,
+      "showings": 67,
+      "admissions": 7131,
+      "days": 8,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-07-2017",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.28,
+      "showings": 64,
+      "admissions": 6874,
+      "days": 9,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-07-2017",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.33,
+      "showings": 68,
+      "admissions": 7159,
+      "days": 10,
+      "day": "1st Sun"
+    }
+  ]
+}

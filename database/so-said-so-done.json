@@ -1,0 +1,47 @@
+{
+  "movie_id": 735767,
+  "title": "So Said So Done",
+  "releaseDate": "24-03-2023",
+  "entries": [
+    {
+      "date": "24-03-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 188,
+      "admissions": 1651,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "25-03-2023",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 189,
+      "admissions": 4968,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-03-2023",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 230,
+      "admissions": 3615,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "27-03-2023",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 227,
+      "admissions": 987,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

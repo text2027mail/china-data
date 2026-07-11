@@ -1,0 +1,225 @@
+{
+  "date": "17-11-2016",
+  "data": [
+    {
+      "movie_id": 325408,
+      "title": "",
+      "gross": 1.86,
+      "cume": 92.59,
+      "showings": 49515,
+      "admissions": 368396,
+      "rank": 1,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 656548,
+      "title": "Deepwater Horizon",
+      "gross": 1.18,
+      "cume": 4.21,
+      "showings": 41906,
+      "admissions": 291816,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 625158,
+      "title": "Billy Lynn's Long Halftime Walk",
+      "gross": 0.98,
+      "cume": 16.45,
+      "showings": 30565,
+      "admissions": 150287,
+      "rank": 3,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 627541,
+      "title": "Scandal Maker",
+      "gross": 0.56,
+      "cume": 7.67,
+      "showings": 24943,
+      "admissions": 145446,
+      "rank": 4,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 653289,
+      "title": "One Piece Film Gold",
+      "gross": 0.49,
+      "cume": 12.9,
+      "showings": 27109,
+      "admissions": 120496,
+      "rank": 5,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 640103,
+      "title": "I Am Not Madame Bovary",
+      "gross": 0.28,
+      "cume": 0.32,
+      "showings": 1908,
+      "admissions": 54112,
+      "rank": 6,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 628324,
+      "title": "Mr. Donkey",
+      "gross": 0.2,
+      "cume": 24.91,
+      "showings": 6381,
+      "admissions": 44433,
+      "rank": 7,
+      "days": 21,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 644455,
+      "title": "Hide and Seek",
+      "gross": 0.11,
+      "cume": 10.36,
+      "showings": 5069,
+      "admissions": 23073,
+      "rank": 8,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 627597,
+      "title": "Sweet Sixteen",
+      "gross": 0.09,
+      "cume": 22.61,
+      "showings": 155,
+      "admissions": 15980,
+      "rank": 9,
+      "days": 105,
+      "day": "16th Thu"
+    },
+    {
+      "movie_id": 639709,
+      "title": "Zhu Meng Ren",
+      "gross": 0.09,
+      "cume": 0.19,
+      "showings": 74,
+      "admissions": 12101,
+      "rank": 10,
+      "days": 95,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639445,
+      "title": "Operation Mekong",
+      "gross": 0.08,
+      "cume": 174.13,
+      "showings": 2742,
+      "admissions": 19979,
+      "rank": 11,
+      "days": 49,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 638956,
+      "title": "Someone to Talk to",
+      "gross": 0.06,
+      "cume": 2.79,
+      "showings": 697,
+      "admissions": 13838,
+      "rank": 12,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 640982,
+      "title": "The Bride With Painted Skin",
+      "gross": 0.04,
+      "cume": 0.56,
+      "showings": 3428,
+      "admissions": 11470,
+      "rank": 13,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 628208,
+      "title": "Poor Rich Dad",
+      "gross": 0.02,
+      "cume": 0.59,
+      "showings": 1185,
+      "admissions": 5488,
+      "rank": 14,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 656434,
+      "title": "The Warriors",
+      "gross": 0.02,
+      "cume": 4.54,
+      "showings": 84,
+      "admissions": 4182,
+      "rank": 15,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 657017,
+      "title": "Keeping Up with the Joneses",
+      "gross": 0.02,
+      "cume": 1.74,
+      "showings": 2054,
+      "admissions": 4312,
+      "rank": 16,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 634059,
+      "title": "Inferno",
+      "gross": 0.02,
+      "cume": 19.76,
+      "showings": 546,
+      "admissions": 2814,
+      "rank": 17,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 655521,
+      "title": "Mechanic: Resurrection",
+      "gross": 0.02,
+      "cume": 49.99,
+      "showings": 1216,
+      "admissions": 3359,
+      "rank": 18,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 626520,
+      "title": "Scary Notes",
+      "gross": 0.02,
+      "cume": 0.22,
+      "showings": 152,
+      "admissions": 3098,
+      "rank": 19,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 646950,
+      "title": "Unforgettable Times",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 26,
+      "admissions": 2455,
+      "rank": 20,
+      "days": 322,
+      "day": "2nd Thu"
+    }
+  ]
+}

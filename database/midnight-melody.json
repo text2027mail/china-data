@@ -1,0 +1,137 @@
+{
+  "movie_id": 685859,
+  "title": "Midnight Melody",
+  "releaseDate": "21-03-2019",
+  "entries": [
+    {
+      "date": "21-03-2019",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 45,
+      "admissions": 365,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "22-03-2019",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.13,
+      "showings": 3511,
+      "admissions": 19710,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-03-2019",
+      "rank": 14,
+      "gross": 0.09,
+      "cume": 0.22,
+      "showings": 3195,
+      "admissions": 17758,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-03-2019",
+      "rank": 14,
+      "gross": 0.08,
+      "cume": 0.3,
+      "showings": 2945,
+      "admissions": 10781,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-03-2019",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 0.39,
+      "showings": 2808,
+      "admissions": 8096,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-03-2019",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 0.49,
+      "showings": 2784,
+      "admissions": 6423,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-03-2019",
+      "rank": 9,
+      "gross": 0.08,
+      "cume": 0.56,
+      "showings": 2714,
+      "admissions": 6384,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-03-2019",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 0.62,
+      "showings": 2237,
+      "admissions": 4500,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "29-03-2019",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.64,
+      "showings": 792,
+      "admissions": 2523,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "30-03-2019",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.68,
+      "showings": 1014,
+      "admissions": 4879,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "31-03-2019",
+      "rank": 20,
+      "gross": 0.03,
+      "cume": 0.71,
+      "showings": 1057,
+      "admissions": 3358,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "01-04-2019",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.72,
+      "showings": 1096,
+      "admissions": 2736,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "02-04-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.73,
+      "showings": 1176,
+      "admissions": 2690,
+      "days": 12,
+      "day": "2nd Tue"
+    }
+  ]
+}

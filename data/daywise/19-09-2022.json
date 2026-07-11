@@ -1,0 +1,225 @@
+{
+  "date": "19-09-2022",
+  "data": [
+    {
+      "movie_id": 701893,
+      "title": "",
+      "gross": 1.06,
+      "cume": 38.08,
+      "showings": 75830,
+      "admissions": 173276,
+      "rank": 1,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 715732,
+      "title": "Table for Six",
+      "gross": 0.41,
+      "cume": 8.45,
+      "showings": 25856,
+      "admissions": 83867,
+      "rank": 2,
+      "days": 11,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 702906,
+      "title": "Moonman",
+      "gross": 0.34,
+      "cume": 446.44,
+      "showings": 33817,
+      "admissions": 55328,
+      "rank": 3,
+      "days": 53,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 706969,
+      "title": "New Gods: Yang Jian",
+      "gross": 0.26,
+      "cume": 67.85,
+      "showings": 29469,
+      "admissions": 41302,
+      "rank": 4,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 708410,
+      "title": "Song of Spring",
+      "gross": 0.25,
+      "cume": 7.91,
+      "showings": 28161,
+      "admissions": 41279,
+      "rank": 5,
+      "days": 10,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 702457,
+      "title": "Hero",
+      "gross": 0.1,
+      "cume": 7.06,
+      "showings": 16751,
+      "admissions": 16659,
+      "rank": 6,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 696825,
+      "title": "Septet: The Story of Hong Kong",
+      "gross": 0.09,
+      "cume": 1.26,
+      "showings": 240,
+      "admissions": 13057,
+      "rank": 7,
+      "days": 53,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 678652,
+      "title": "Wolf Pack",
+      "gross": 0.08,
+      "cume": 3.2,
+      "showings": 12515,
+      "admissions": 16911,
+      "rank": 8,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 683536,
+      "title": "Warriors of Future",
+      "gross": 0.07,
+      "cume": 98.35,
+      "showings": 8562,
+      "admissions": 11116,
+      "rank": 9,
+      "days": 46,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 702055,
+      "title": "In Search of Lost Time",
+      "gross": 0.06,
+      "cume": 4.22,
+      "showings": 12364,
+      "admissions": 11540,
+      "rank": 10,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 683729,
+      "title": "A SINGER AT HEART",
+      "gross": 0.06,
+      "cume": 0.36,
+      "showings": 115,
+      "admissions": 8456,
+      "rank": 11,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 693873,
+      "title": "I Love You",
+      "gross": 0.04,
+      "cume": 0.53,
+      "showings": 12230,
+      "admissions": 7129,
+      "rank": 12,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 691422,
+      "title": "The Frog Kindoom",
+      "gross": 0.02,
+      "cume": 1.76,
+      "showings": 3975,
+      "admissions": 2444,
+      "rank": 13,
+      "days": 10,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.0,
+      "cume": 89.54,
+      "showings": 3117,
+      "admissions": 1034,
+      "rank": 14,
+      "days": 231,
+      "day": "33rd Mon"
+    },
+    {
+      "movie_id": 706249,
+      "title": "The Mauritanian",
+      "gross": 0.0,
+      "cume": 0.46,
+      "showings": 287,
+      "admissions": 608,
+      "rank": 15,
+      "days": 28,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 672679,
+      "title": "Moonlight Shadow Wall",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 26,
+      "admissions": 656,
+      "rank": 16,
+      "days": 11,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 702026,
+      "title": "LIGHTING UP THE STARS",
+      "gross": 0.0,
+      "cume": 252.76,
+      "showings": 457,
+      "admissions": 384,
+      "rank": 17,
+      "days": 88,
+      "day": "27th Mon"
+    },
+    {
+      "movie_id": 708201,
+      "title": "Great White",
+      "gross": 0.0,
+      "cume": 0.58,
+      "showings": 548,
+      "admissions": 422,
+      "rank": 18,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 630610,
+      "title": "Chuan Yue Xiao Yan De Ge Sheng",
+      "gross": 0.0,
+      "cume": 1.04,
+      "showings": 8,
+      "admissions": 351,
+      "rank": 19,
+      "days": 2636,
+      "day": "366th Mon"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.0,
+      "cume": 3.88,
+      "showings": 19,
+      "admissions": 299,
+      "rank": 20,
+      "days": 151,
+      "day": "44th Mon"
+    }
+  ]
+}

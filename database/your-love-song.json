@@ -1,0 +1,67 @@
+{
+  "movie_id": 698717,
+  "title": "Your Love Song",
+  "releaseDate": "20-08-2021",
+  "entries": [
+    {
+      "date": "20-08-2021",
+      "rank": 8,
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 7801,
+      "admissions": 15841,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-08-2021",
+      "rank": 9,
+      "gross": 0.12,
+      "cume": 0.2,
+      "showings": 19291,
+      "admissions": 24883,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-08-2021",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.25,
+      "showings": 7854,
+      "admissions": 9014,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-08-2021",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.28,
+      "showings": 5338,
+      "admissions": 5624,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-08-2021",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.29,
+      "showings": 4478,
+      "admissions": 2855,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-08-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 3956,
+      "admissions": 2353,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

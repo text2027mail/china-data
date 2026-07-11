@@ -1,0 +1,77 @@
+{
+  "movie_id": 640215,
+  "title": "17 Years Old",
+  "releaseDate": "30-10-2015",
+  "entries": [
+    {
+      "date": "30-10-2015",
+      "rank": 10,
+      "gross": 0.19,
+      "cume": 0.19,
+      "showings": 8967,
+      "admissions": 45867,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "31-10-2015",
+      "rank": 10,
+      "gross": 0.19,
+      "cume": 0.38,
+      "showings": 7314,
+      "admissions": 46247,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-11-2015",
+      "rank": 12,
+      "gross": 0.12,
+      "cume": 0.5,
+      "showings": 6255,
+      "admissions": 28977,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-11-2015",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.54,
+      "showings": 5705,
+      "admissions": 9284,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-11-2015",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.55,
+      "showings": 2465,
+      "admissions": 3453,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-11-2015",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 1185,
+      "admissions": 1515,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "05-11-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 1059,
+      "admissions": 1341,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

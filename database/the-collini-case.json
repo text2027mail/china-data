@@ -1,0 +1,67 @@
+{
+  "movie_id": 692362,
+  "title": "The Collini Case",
+  "releaseDate": "14-05-2021",
+  "entries": [
+    {
+      "date": "14-05-2021",
+      "rank": 8,
+      "gross": 0.14,
+      "cume": 0.15,
+      "showings": 20050,
+      "admissions": 28623,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "15-05-2021",
+      "rank": 10,
+      "gross": 0.16,
+      "cume": 0.31,
+      "showings": 9303,
+      "admissions": 29858,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-05-2021",
+      "rank": 10,
+      "gross": 0.13,
+      "cume": 0.44,
+      "showings": 7921,
+      "admissions": 25201,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "17-05-2021",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 0.49,
+      "showings": 6885,
+      "admissions": 9070,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-05-2021",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.53,
+      "showings": 6407,
+      "admissions": 8304,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-05-2021",
+      "rank": 9,
+      "gross": 0.04,
+      "cume": 0.57,
+      "showings": 6079,
+      "admissions": 8451,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

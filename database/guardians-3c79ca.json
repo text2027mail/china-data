@@ -1,0 +1,97 @@
+{
+  "movie_id": 643989,
+  "title": "Guardians",
+  "releaseDate": "18-05-2017",
+  "entries": [
+    {
+      "date": "18-05-2017",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 652,
+      "admissions": 5775,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "19-05-2017",
+      "rank": 5,
+      "gross": 0.78,
+      "cume": 0.81,
+      "showings": 34870,
+      "admissions": 169530,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-05-2017",
+      "rank": 4,
+      "gross": 1.03,
+      "cume": 1.84,
+      "showings": 27318,
+      "admissions": 220152,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-05-2017",
+      "rank": 4,
+      "gross": 0.5,
+      "cume": 2.34,
+      "showings": 23292,
+      "admissions": 104848,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-05-2017",
+      "rank": 4,
+      "gross": 0.18,
+      "cume": 2.53,
+      "showings": 20707,
+      "admissions": 37525,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-05-2017",
+      "rank": 4,
+      "gross": 0.16,
+      "cume": 2.69,
+      "showings": 18990,
+      "admissions": 33417,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "24-05-2017",
+      "rank": 5,
+      "gross": 0.14,
+      "cume": 2.83,
+      "showings": 18080,
+      "admissions": 29166,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "25-05-2017",
+      "rank": 6,
+      "gross": 0.11,
+      "cume": 2.94,
+      "showings": 17285,
+      "admissions": 22631,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "26-05-2017",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 2.95,
+      "showings": 3795,
+      "admissions": 2655,
+      "days": 8,
+      "day": "2nd Fri"
+    }
+  ]
+}

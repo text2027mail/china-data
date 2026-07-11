@@ -1,0 +1,37 @@
+{
+  "movie_id": 644603,
+  "title": "Leonardo da Vinci - Il genio a Milano",
+  "releaseDate": "14-07-2017",
+  "entries": [
+    {
+      "date": "14-07-2017",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 21,
+      "admissions": 2404,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "18-07-2017",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 23,
+      "admissions": 2509,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "20-07-2017",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 21,
+      "admissions": 2323,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

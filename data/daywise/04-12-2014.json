@@ -1,0 +1,225 @@
+{
+  "date": "04-12-2014",
+  "data": [
+    {
+      "movie_id": 555839,
+      "title": "",
+      "gross": 2.12,
+      "cume": 8.23,
+      "showings": 35690,
+      "admissions": 356860,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 613011,
+      "title": "Women who Flirt",
+      "gross": 1.65,
+      "cume": 19.54,
+      "showings": 26072,
+      "admissions": 334806,
+      "rank": 2,
+      "days": 7,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 346481,
+      "title": "Interstellar",
+      "gross": 0.83,
+      "cume": 103.67,
+      "showings": 12597,
+      "admissions": 159725,
+      "rank": 3,
+      "days": 23,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 617988,
+      "title": "Rise of the Legend",
+      "gross": 0.36,
+      "cume": 25.44,
+      "showings": 8026,
+      "admissions": 62096,
+      "rank": 4,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 629873,
+      "title": "Fury",
+      "gross": 0.28,
+      "cume": 15.07,
+      "showings": 5472,
+      "admissions": 56954,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 628178,
+      "title": "The Galaxy On The Earth",
+      "gross": 0.18,
+      "cume": 3.09,
+      "showings": 333,
+      "admissions": 40150,
+      "rank": 6,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 629859,
+      "title": "Penguins of Madagascar",
+      "gross": 0.13,
+      "cume": 30.66,
+      "showings": 3662,
+      "admissions": 25140,
+      "rank": 7,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 619144,
+      "title": "Fleet of Time",
+      "gross": 0.09,
+      "cume": 3.18,
+      "showings": 289,
+      "admissions": 13604,
+      "rank": 8,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 626573,
+      "title": "For Love Or Money",
+      "gross": 0.08,
+      "cume": 9.28,
+      "showings": 157,
+      "admissions": 12061,
+      "rank": 9,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 606574,
+      "title": "Autómata",
+      "gross": 0.08,
+      "cume": 2.94,
+      "showings": 5496,
+      "admissions": 17796,
+      "rank": 10,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 606255,
+      "title": "Fire with Fire",
+      "gross": 0.06,
+      "cume": 1.21,
+      "showings": 4127,
+      "admissions": 12242,
+      "rank": 11,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 628993,
+      "title": "Bad Sister",
+      "gross": 0.06,
+      "cume": 1.32,
+      "showings": 4011,
+      "admissions": 11978,
+      "rank": 12,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 612723,
+      "title": "Blind Massage",
+      "gross": 0.03,
+      "cume": 0.41,
+      "showings": 971,
+      "admissions": 5032,
+      "rank": 13,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 628824,
+      "title": "A Murder Beside YanHe River",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1201,
+      "admissions": 3662,
+      "rank": 14,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 629659,
+      "title": "Haunted Road",
+      "gross": 0.02,
+      "cume": 2.71,
+      "showings": 1219,
+      "admissions": 3760,
+      "rank": 15,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 617708,
+      "title": "Don't Go Breaking My Heart 2",
+      "gross": 0.01,
+      "cume": 29.26,
+      "showings": 690,
+      "admissions": 2781,
+      "rank": 16,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 618441,
+      "title": "Dearest",
+      "gross": 0.01,
+      "cume": 50.83,
+      "showings": 5,
+      "admissions": 1864,
+      "rank": 17,
+      "days": 71,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 618101,
+      "title": "Nature Law",
+      "gross": 0.01,
+      "cume": 0.75,
+      "showings": 29,
+      "admissions": 1360,
+      "rank": 18,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 1.87,
+      "showings": 9,
+      "admissions": 1120,
+      "rank": 19,
+      "days": 1193,
+      "day": "100th Thu"
+    },
+    {
+      "movie_id": 611200,
+      "title": "The Land is So Rich in Beauty",
+      "gross": 0.0,
+      "cume": 0.32,
+      "showings": 18,
+      "admissions": 2679,
+      "rank": 20,
+      "days": 272,
+      "day": "60th Thu"
+    }
+  ]
+}

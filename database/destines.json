@@ -1,0 +1,57 @@
+{
+  "movie_id": 673972,
+  "title": "Destines",
+  "releaseDate": "18-07-2019",
+  "entries": [
+    {
+      "date": "18-07-2019",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 1883,
+      "admissions": 5182,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "19-07-2019",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 1196,
+      "admissions": 4194,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-07-2019",
+      "rank": 7,
+      "gross": 0.29,
+      "cume": 0.41,
+      "showings": 27590,
+      "admissions": 71757,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "24-07-2019",
+      "rank": 10,
+      "gross": 0.08,
+      "cume": 0.49,
+      "showings": 13247,
+      "admissions": 21085,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "25-07-2019",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 0.52,
+      "showings": 6529,
+      "admissions": 8053,
+      "days": 3,
+      "day": "2nd Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "05-11-2017",
+  "data": [
+    {
+      "movie_id": 644134,
+      "title": "",
+      "gross": 15.35,
+      "cume": 53.47,
+      "showings": 120603,
+      "admissions": 2898467,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 657860,
+      "title": "Geostorm",
+      "gross": 2.58,
+      "cume": 56.41,
+      "showings": 34419,
+      "admissions": 513805,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 669515,
+      "title": "Eternal Wave",
+      "gross": 2.05,
+      "cume": 7.35,
+      "showings": 43659,
+      "admissions": 442378,
+      "rank": 3,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 661004,
+      "title": "Never Say Die",
+      "gross": 1.03,
+      "cume": 320.17,
+      "showings": 14452,
+      "admissions": 211578,
+      "rank": 4,
+      "days": 37,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 643849,
+      "title": "Kingsman: The Golden Circle",
+      "gross": 0.76,
+      "cume": 68.39,
+      "showings": 10292,
+      "admissions": 140585,
+      "rank": 5,
+      "days": 17,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 618581,
+      "title": "Seventy-seven Days",
+      "gross": 0.67,
+      "cume": 1.72,
+      "showings": 9704,
+      "admissions": 138735,
+      "rank": 6,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 667847,
+      "title": "The Son of Bigfoot",
+      "gross": 0.64,
+      "cume": 7.66,
+      "showings": 10356,
+      "admissions": 156163,
+      "rank": 7,
+      "days": 23,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 644033,
+      "title": "Love Education",
+      "gross": 0.32,
+      "cume": 1.07,
+      "showings": 9635,
+      "admissions": 61206,
+      "rank": 8,
+      "days": 3,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 657793,
+      "title": "Blade Runner 2049/Blade Runner 2",
+      "gross": 0.25,
+      "cume": 10.75,
+      "showings": 2696,
+      "admissions": 43161,
+      "rank": 9,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 669716,
+      "title": "Hold Your Hands",
+      "gross": 0.23,
+      "cume": 13.55,
+      "showings": 874,
+      "admissions": 42415,
+      "rank": 10,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 667490,
+      "title": "Bad Genius",
+      "gross": 0.23,
+      "cume": 39.47,
+      "showings": 2957,
+      "admissions": 48263,
+      "rank": 11,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 612013,
+      "title": "Under A Confessor",
+      "gross": 0.23,
+      "cume": 1.55,
+      "showings": 326,
+      "admissions": 41557,
+      "rank": 12,
+      "days": 1886,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 660009,
+      "title": "City of Rock",
+      "gross": 0.23,
+      "cume": 66.45,
+      "showings": 3384,
+      "admissions": 48708,
+      "rank": 13,
+      "days": 38,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 662474,
+      "title": "Always Be with You",
+      "gross": 0.09,
+      "cume": 6.58,
+      "showings": 3494,
+      "admissions": 20806,
+      "rank": 14,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 669198,
+      "title": "Six Years, 6 Days",
+      "gross": 0.07,
+      "cume": 1.09,
+      "showings": 156,
+      "admissions": 11829,
+      "rank": 15,
+      "days": 20,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 668674,
+      "title": "Doctor's Mind",
+      "gross": 0.06,
+      "cume": 1.05,
+      "showings": 137,
+      "admissions": 9663,
+      "rank": 16,
+      "days": 20,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 658278,
+      "title": "Chasing The Dragon",
+      "gross": 0.05,
+      "cume": 84.58,
+      "showings": 1416,
+      "admissions": 15220,
+      "rank": 17,
+      "days": 37,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 628411,
+      "title": "Gulu Mermaid",
+      "gross": 0.04,
+      "cume": 2.03,
+      "showings": 1416,
+      "admissions": 9314,
+      "rank": 18,
+      "days": 695,
+      "day": "100th Sun"
+    },
+    {
+      "movie_id": 666112,
+      "title": "Where Has Time Gone",
+      "gross": 0.04,
+      "cume": 1.23,
+      "showings": 143,
+      "admissions": 6037,
+      "rank": 19,
+      "days": 18,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 642456,
+      "title": "Trouble Makers",
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 285,
+      "admissions": 5579,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

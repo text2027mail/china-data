@@ -1,0 +1,57 @@
+{
+  "movie_id": 674454,
+  "title": "Miss Petunia",
+  "releaseDate": "09-10-2020",
+  "entries": [
+    {
+      "date": "09-10-2020",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 60,
+      "admissions": 679,
+      "days": 18,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-10-2020",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 81,
+      "admissions": 1056,
+      "days": 21,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-10-2020",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 77,
+      "admissions": 886,
+      "days": 22,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-10-2020",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 77,
+      "admissions": 1035,
+      "days": 23,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-10-2020",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 74,
+      "admissions": 838,
+      "days": 24,
+      "day": "1st Thu"
+    }
+  ]
+}

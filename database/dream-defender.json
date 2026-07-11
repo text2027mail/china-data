@@ -1,0 +1,27 @@
+{
+  "movie_id": 618431,
+  "title": "Dream Defender",
+  "releaseDate": "25-07-2015",
+  "entries": [
+    {
+      "date": "25-07-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 303,
+      "admissions": 555,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-07-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 250,
+      "admissions": 761,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

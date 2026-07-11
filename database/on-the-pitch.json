@@ -1,0 +1,27 @@
+{
+  "movie_id": 638804,
+  "title": "On The Pitch",
+  "releaseDate": "03-08-2017",
+  "entries": [
+    {
+      "date": "03-08-2017",
+      "rank": 8,
+      "gross": 0.08,
+      "cume": 0.09,
+      "showings": 5366,
+      "admissions": 19116,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "04-08-2017",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 935,
+      "admissions": 3465,
+      "days": 2,
+      "day": "1st Fri"
+    }
+  ]
+}

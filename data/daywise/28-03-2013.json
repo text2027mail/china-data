@@ -1,0 +1,225 @@
+{
+  "date": "28-03-2013",
+  "data": [
+    {
+      "movie_id": 596800,
+      "title": "",
+      "gross": 3.19,
+      "cume": 23.29,
+      "showings": 21825,
+      "admissions": 695718,
+      "rank": 1,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 602831,
+      "title": "Jack the Giant Slayer",
+      "gross": 1.0,
+      "cume": 4.83,
+      "showings": 15537,
+      "admissions": 172494,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 615250,
+      "title": "A Good Day to Die Hard",
+      "gross": 0.46,
+      "cume": 28.51,
+      "showings": 10632,
+      "admissions": 95720,
+      "rank": 3,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 605823,
+      "title": "Resident Evil: Retribution",
+      "gross": 0.32,
+      "cume": 15.83,
+      "showings": 7872,
+      "admissions": 53628,
+      "rank": 4,
+      "days": 12,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 590044,
+      "title": "The House",
+      "gross": 0.1,
+      "cume": 0.11,
+      "showings": 3788,
+      "admissions": 22720,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 608213,
+      "title": "Ip Man: Final Fight",
+      "gross": 0.06,
+      "cume": 1.44,
+      "showings": 3541,
+      "admissions": 12981,
+      "rank": 6,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 615223,
+      "title": "Oz The Great and Powerful",
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 389,
+      "admissions": 7294,
+      "rank": 7,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 610462,
+      "title": "The Chef, the Actor, the Scoundrel",
+      "gross": 0.04,
+      "cume": 0.07,
+      "showings": 295,
+      "admissions": 9426,
+      "rank": 8,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 608215,
+      "title": "Princess and Seven Kung Fu Masters",
+      "gross": 0.02,
+      "cume": 10.22,
+      "showings": 1408,
+      "admissions": 5277,
+      "rank": 9,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 595857,
+      "title": "An End To Killing",
+      "gross": 0.02,
+      "cume": 0.6,
+      "showings": 1890,
+      "admissions": 4104,
+      "rank": 10,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 555111,
+      "title": "Les Miserables",
+      "gross": 0.02,
+      "cume": 9.27,
+      "showings": 274,
+      "admissions": 2538,
+      "rank": 11,
+      "days": 29,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 589797,
+      "title": "Journey to the West: Conquering the Demons",
+      "gross": 0.01,
+      "cume": 183.99,
+      "showings": 497,
+      "admissions": 2124,
+      "rank": 12,
+      "days": 47,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 341723,
+      "title": "The Hobbit: An Unexpected Journey",
+      "gross": 0.01,
+      "cume": 46.59,
+      "showings": 183,
+      "admissions": 1191,
+      "rank": 13,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 566700,
+      "title": "Upside Down",
+      "gross": 0.01,
+      "cume": 10.89,
+      "showings": 235,
+      "admissions": 1026,
+      "rank": 14,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 615496,
+      "title": "The Sweet Smile",
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 24,
+      "admissions": 809,
+      "rank": 15,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 615462,
+      "title": "The Eighty-two A Strong Man",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 172,
+      "admissions": 900,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 610888,
+      "title": "Silent Code",
+      "gross": 0.0,
+      "cume": 0.39,
+      "showings": 130,
+      "admissions": 500,
+      "rank": 17,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 604129,
+      "title": "Stolen",
+      "gross": 0.0,
+      "cume": 6.53,
+      "showings": 140,
+      "admissions": 617,
+      "rank": 18,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 595235,
+      "title": "Midnight Train",
+      "gross": 0.0,
+      "cume": 0.99,
+      "showings": 187,
+      "admissions": 496,
+      "rank": 19,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 590327,
+      "title": "Love Bank",
+      "gross": 0.0,
+      "cume": 0.76,
+      "showings": 414,
+      "admissions": 475,
+      "rank": 20,
+      "days": 15,
+      "day": "3rd Thu"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "movie_id": 619165,
+  "title": "The Orange Tree And The Boy",
+  "releaseDate": "17-01-2015",
+  "entries": [
+    {
+      "date": "17-01-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 46,
+      "admissions": 2073,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "18-01-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 45,
+      "admissions": 2006,
+      "days": 4,
+      "day": "1st Sun"
+    }
+  ]
+}

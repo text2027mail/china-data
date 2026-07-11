@@ -1,0 +1,127 @@
+{
+  "movie_id": 629068,
+  "title": "The Stormy Night",
+  "releaseDate": "05-11-2015",
+  "entries": [
+    {
+      "date": "05-11-2015",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 1348,
+      "admissions": 8063,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "06-11-2015",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.08,
+      "showings": 1891,
+      "admissions": 13154,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "07-11-2015",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.14,
+      "showings": 1891,
+      "admissions": 15025,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-11-2015",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.18,
+      "showings": 1787,
+      "admissions": 9730,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "09-11-2015",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 0.21,
+      "showings": 1859,
+      "admissions": 7495,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "10-11-2015",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 0.23,
+      "showings": 1812,
+      "admissions": 7170,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "11-11-2015",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.27,
+      "showings": 1417,
+      "admissions": 8826,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "12-11-2015",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 1360,
+      "admissions": 5085,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "13-11-2015",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 501,
+      "admissions": 2433,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "16-11-2015",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.33,
+      "showings": 650,
+      "admissions": 2534,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "17-11-2015",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 682,
+      "admissions": 2517,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "18-11-2015",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.35,
+      "showings": 695,
+      "admissions": 2878,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

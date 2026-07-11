@@ -1,0 +1,225 @@
+{
+  "date": "10-04-2023",
+  "data": [
+    {
+      "movie_id": 709080,
+      "title": "",
+      "gross": 1.35,
+      "cume": 13.27,
+      "showings": 71477,
+      "admissions": 220021,
+      "rank": 1,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 663220,
+      "title": "Hachiko",
+      "gross": 0.9,
+      "cume": 28.59,
+      "showings": 56202,
+      "admissions": 161671,
+      "rank": 2,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 735685,
+      "title": "Suzume no Tojimari",
+      "gross": 0.54,
+      "cume": 105.1,
+      "showings": 65212,
+      "admissions": 109895,
+      "rank": 3,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 707140,
+      "title": "Post Truth",
+      "gross": 0.4,
+      "cume": 96.09,
+      "showings": 24359,
+      "admissions": 65940,
+      "rank": 4,
+      "days": 32,
+      "day": "16th Mon"
+    },
+    {
+      "movie_id": 736003,
+      "title": "The Super Mario Bros. Movie",
+      "gross": 0.35,
+      "cume": 12.11,
+      "showings": 31022,
+      "admissions": 60418,
+      "rank": 5,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 697450,
+      "title": "Journey To The West",
+      "gross": 0.23,
+      "cume": 6.45,
+      "showings": 11210,
+      "admissions": 36391,
+      "rank": 6,
+      "days": 10,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 392775,
+      "title": "Titanic",
+      "gross": 0.23,
+      "cume": 5.57,
+      "showings": 6988,
+      "admissions": 35613,
+      "rank": 7,
+      "days": 9139,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 716184,
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "gross": 0.18,
+      "cume": 9.79,
+      "showings": 13671,
+      "admissions": 33578,
+      "rank": 8,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 703744,
+      "title": "Manifesto",
+      "gross": 0.17,
+      "cume": 5.93,
+      "showings": 2451,
+      "admissions": 28125,
+      "rank": 9,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 461160,
+      "title": "Meitantei Konan: Bekâ Sutorîto no bôrei",
+      "gross": 0.12,
+      "cume": 5.33,
+      "showings": 10197,
+      "admissions": 23974,
+      "rank": 10,
+      "days": 7,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 707482,
+      "title": "Nobody But You",
+      "gross": 0.11,
+      "cume": 7.36,
+      "showings": 12685,
+      "admissions": 21115,
+      "rank": 11,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 713583,
+      "title": "To Be Continued",
+      "gross": 0.08,
+      "cume": 6.38,
+      "showings": 9595,
+      "admissions": 16627,
+      "rank": 12,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 716213,
+      "title": "Inu-oh",
+      "gross": 0.03,
+      "cume": 0.27,
+      "showings": 3064,
+      "admissions": 6431,
+      "rank": 13,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 710882,
+      "title": "SPARKS OF FIRE IN JINGGANGSHAN",
+      "gross": 0.03,
+      "cume": 0.15,
+      "showings": 18,
+      "admissions": 2937,
+      "rank": 14,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 736510,
+      "title": "Champion",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 322,
+      "admissions": 3335,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 704382,
+      "title": "The Wandering Earth 2",
+      "gross": 0.01,
+      "cume": 594.41,
+      "showings": 764,
+      "admissions": 2003,
+      "rank": 16,
+      "days": 79,
+      "day": "12th Mon"
+    },
+    {
+      "movie_id": 706746,
+      "title": "Revival",
+      "gross": 0.01,
+      "cume": 30.2,
+      "showings": 1318,
+      "admissions": 2062,
+      "rank": 17,
+      "days": 32,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 735288,
+      "title": "A Guilty Conscience",
+      "gross": 0.01,
+      "cume": 27.43,
+      "showings": 742,
+      "admissions": 2305,
+      "rank": 18,
+      "days": 46,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 736127,
+      "title": "taochubaieji",
+      "gross": 0.01,
+      "cume": 0.91,
+      "showings": 2984,
+      "admissions": 2040,
+      "rank": 19,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 736566,
+      "title": "Notre-Dame On Fire",
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 1036,
+      "admissions": 1331,
+      "rank": 20,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

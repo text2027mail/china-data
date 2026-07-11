@@ -1,0 +1,47 @@
+{
+  "movie_id": 643847,
+  "title": "Lei Feng Man",
+  "releaseDate": "21-10-2016",
+  "entries": [
+    {
+      "date": "21-10-2016",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1582,
+      "admissions": 2374,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-10-2016",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 1977,
+      "admissions": 5520,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-10-2016",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 1733,
+      "admissions": 5198,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "24-10-2016",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 776,
+      "admissions": 867,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

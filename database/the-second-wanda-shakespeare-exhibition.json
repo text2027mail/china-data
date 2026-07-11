@@ -1,0 +1,47 @@
+{
+  "movie_id": 704475,
+  "title": "The second Wanda Shakespeare Exhibition",
+  "releaseDate": "13-03-2021",
+  "entries": [
+    {
+      "date": "13-03-2021",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 13,
+      "admissions": 1299,
+      "days": 104,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-03-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 13,
+      "admissions": 623,
+      "days": 105,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-03-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 17,
+      "admissions": 961,
+      "days": 111,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "21-03-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 17,
+      "admissions": 714,
+      "days": 112,
+      "day": "2nd Sun"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 669155,
+  "title": "Screaming live",
+  "releaseDate": "29-04-2018",
+  "entries": [
+    {
+      "date": "29-04-2018",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.11,
+      "showings": 921,
+      "admissions": 25016,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-04-2018",
+      "rank": 10,
+      "gross": 0.16,
+      "cume": 0.27,
+      "showings": 752,
+      "admissions": 38540,
+      "days": 2,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-05-2018",
+      "rank": 11,
+      "gross": 0.11,
+      "cume": 0.39,
+      "showings": 664,
+      "admissions": 29422,
+      "days": 3,
+      "day": "1st Tue"
+    },
+    {
+      "date": "02-05-2018",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.41,
+      "showings": 535,
+      "admissions": 5495,
+      "days": 4,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-05-2018",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.42,
+      "showings": 451,
+      "admissions": 4593,
+      "days": 5,
+      "day": "1st Thu"
+    },
+    {
+      "date": "04-05-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.44,
+      "showings": 197,
+      "admissions": 2687,
+      "days": 6,
+      "day": "1st Fri"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "movie_id": 692765,
+  "title": "The Big Trip",
+  "releaseDate": "08-04-2023",
+  "entries": [
+    {
+      "date": "08-04-2023",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 7919,
+      "admissions": 11816,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-04-2023",
+      "rank": 18,
+      "gross": 0.03,
+      "cume": 0.09,
+      "showings": 4987,
+      "admissions": 7450,
+      "days": 2,
+      "day": "1st Sun"
+    }
+  ]
+}

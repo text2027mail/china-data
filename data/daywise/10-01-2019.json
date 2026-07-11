@@ -1,0 +1,225 @@
+{
+  "date": "10-01-2019",
+  "data": [
+    {
+      "movie_id": 678494,
+      "title": "",
+      "gross": 4.79,
+      "cume": 82.61,
+      "showings": 131591,
+      "admissions": 908914,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 675107,
+      "title": "The Big Shot",
+      "gross": 2.18,
+      "cume": 3.26,
+      "showings": 26257,
+      "admissions": 419963,
+      "rank": 2,
+      "days": 1,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 684192,
+      "title": "Kill Mobile",
+      "gross": 1.78,
+      "cume": 84.13,
+      "showings": 60548,
+      "admissions": 349257,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 665526,
+      "title": "Aquaman",
+      "gross": 0.62,
+      "cume": 290.85,
+      "showings": 23365,
+      "admissions": 123291,
+      "rank": 4,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 675900,
+      "title": "The Connection",
+      "gross": 0.31,
+      "cume": 2.29,
+      "showings": 804,
+      "admissions": 49751,
+      "rank": 5,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 682701,
+      "title": "White Snake",
+      "gross": 0.22,
+      "cume": 0.75,
+      "showings": 7455,
+      "admissions": 44512,
+      "rank": 6,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 680396,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "gross": 0.2,
+      "cume": 61.45,
+      "showings": 12001,
+      "admissions": 38999,
+      "rank": 7,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 675139,
+      "title": "The Photographer",
+      "gross": 0.11,
+      "cume": 0.82,
+      "showings": 938,
+      "admissions": 22639,
+      "rank": 8,
+      "days": 30,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 679229,
+      "title": "CREED II",
+      "gross": 0.09,
+      "cume": 2.41,
+      "showings": 10552,
+      "admissions": 19292,
+      "rank": 9,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 674125,
+      "title": "Four Springs",
+      "gross": 0.09,
+      "cume": 1.03,
+      "showings": 5114,
+      "admissions": 16738,
+      "rank": 10,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 638435,
+      "title": "Fighting Men of China",
+      "gross": 0.07,
+      "cume": 2.51,
+      "showings": 317,
+      "admissions": 9362,
+      "rank": 11,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 660756,
+      "title": "Master Z : The IP Man Legacy",
+      "gross": 0.07,
+      "cume": 19.29,
+      "showings": 4792,
+      "admissions": 12729,
+      "rank": 12,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 672799,
+      "title": "MoJin：The Warm Velley",
+      "gross": 0.06,
+      "cume": 22.01,
+      "showings": 6839,
+      "admissions": 11593,
+      "rank": 13,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 684208,
+      "title": "Thugs of Hindostan",
+      "gross": 0.05,
+      "cume": 9.01,
+      "showings": 4742,
+      "admissions": 11663,
+      "rank": 14,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 589663,
+      "title": "Big Big Man",
+      "gross": 0.05,
+      "cume": 1.65,
+      "showings": 850,
+      "admissions": 9809,
+      "rank": 15,
+      "days": 2863,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 674436,
+      "title": "Sky Stream",
+      "gross": 0.04,
+      "cume": 1.7,
+      "showings": 88,
+      "admissions": 6689,
+      "rank": 16,
+      "days": 42,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 654922,
+      "title": "My Neighbor Totoro",
+      "gross": 0.03,
+      "cume": 25.34,
+      "showings": 2826,
+      "admissions": 7081,
+      "rank": 17,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 673881,
+      "title": "Business On Wechat",
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 1535,
+      "admissions": 4634,
+      "rank": 18,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 670088,
+      "title": "Fate/stay night Heaven's Feel",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 157,
+      "admissions": 3517,
+      "rank": 19,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 642519,
+      "title": "Long Day's Journey Into Night",
+      "gross": 0.01,
+      "cume": 41.57,
+      "showings": 955,
+      "admissions": 2459,
+      "rank": 20,
+      "days": 11,
+      "day": "2nd Thu"
+    }
+  ]
+}

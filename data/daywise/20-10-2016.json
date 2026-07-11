@@ -1,0 +1,225 @@
+{
+  "date": "20-10-2016",
+  "data": [
+    {
+      "movie_id": 644689,
+      "title": "",
+      "gross": 3.06,
+      "cume": 3.12,
+      "showings": 30011,
+      "admissions": 646715,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639445,
+      "title": "Operation Mekong",
+      "gross": 2.13,
+      "cume": 150.84,
+      "showings": 53854,
+      "admissions": 476243,
+      "rank": 2,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 626806,
+      "title": "I Belonged To You",
+      "gross": 0.85,
+      "cume": 116.06,
+      "showings": 30076,
+      "admissions": 183501,
+      "rank": 3,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 644930,
+      "title": "The BFG",
+      "gross": 0.74,
+      "cume": 17.96,
+      "showings": 37979,
+      "admissions": 151044,
+      "rank": 4,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 655521,
+      "title": "Mechanic: Resurrection",
+      "gross": 0.23,
+      "cume": 0.23,
+      "showings": 1791,
+      "admissions": 50805,
+      "rank": 5,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 642914,
+      "title": "Mission Milano",
+      "gross": 0.14,
+      "cume": 38.23,
+      "showings": 7918,
+      "admissions": 32671,
+      "rank": 6,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 656434,
+      "title": "The Warriors",
+      "gross": 0.12,
+      "cume": 3.67,
+      "showings": 9360,
+      "admissions": 31075,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 643986,
+      "title": "Mafia: Survival Game",
+      "gross": 0.07,
+      "cume": 3.09,
+      "showings": 12616,
+      "admissions": 15587,
+      "rank": 8,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 637814,
+      "title": "L.O.R.D: Legend of Ravaging Dynasties",
+      "gross": 0.07,
+      "cume": 56.17,
+      "showings": 4727,
+      "admissions": 13402,
+      "rank": 9,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 642485,
+      "title": "What’s in the Darkness",
+      "gross": 0.03,
+      "cume": 0.84,
+      "showings": 3261,
+      "admissions": 7929,
+      "rank": 10,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 656220,
+      "title": "Jack Reacher: Never Go Back",
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 1416,
+      "admissions": 6698,
+      "rank": 11,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 652767,
+      "title": "ZunYi Conference",
+      "gross": 0.03,
+      "cume": 0.1,
+      "showings": 121,
+      "admissions": 5310,
+      "rank": 12,
+      "days": 11,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 644496,
+      "title": "Ben-Hur",
+      "gross": 0.02,
+      "cume": 2.57,
+      "showings": 2809,
+      "admissions": 4317,
+      "rank": 13,
+      "days": 11,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 642478,
+      "title": "Fengmei Mao",
+      "gross": 0.02,
+      "cume": 0.63,
+      "showings": 35,
+      "admissions": 4091,
+      "rank": 14,
+      "days": 114,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 644114,
+      "title": "Robinson Crusoe",
+      "gross": 0.01,
+      "cume": 7.36,
+      "showings": 2239,
+      "admissions": 3167,
+      "rank": 15,
+      "days": 17,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 638973,
+      "title": "The Ugly Duckling",
+      "gross": 0.01,
+      "cume": 0.83,
+      "showings": 152,
+      "admissions": 2508,
+      "rank": 16,
+      "days": 18,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 644851,
+      "title": "Ghost Hospital",
+      "gross": 0.01,
+      "cume": 0.69,
+      "showings": 812,
+      "admissions": 1757,
+      "rank": 17,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 643242,
+      "title": "Les Saisons",
+      "gross": 0.01,
+      "cume": 0.7,
+      "showings": 435,
+      "admissions": 1083,
+      "rank": 18,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 646943,
+      "title": "Nessun Dorma",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 36,
+      "admissions": 797,
+      "rank": 19,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 626298,
+      "title": "Soul Mate",
+      "gross": 0.0,
+      "cume": 24.62,
+      "showings": 155,
+      "admissions": 666,
+      "rank": 20,
+      "days": 37,
+      "day": "6th Thu"
+    }
+  ]
+}

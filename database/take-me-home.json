@@ -1,0 +1,77 @@
+{
+  "movie_id": 656054,
+  "title": "Take Me Home",
+  "releaseDate": "09-03-2019",
+  "entries": [
+    {
+      "date": "09-03-2019",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 60,
+      "admissions": 4970,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-03-2019",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.06,
+      "showings": 57,
+      "admissions": 4732,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-03-2019",
+      "rank": 9,
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 31,
+      "admissions": 3070,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-03-2019",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.1,
+      "showings": 46,
+      "admissions": 2985,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-03-2019",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 47,
+      "admissions": 3031,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-03-2019",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 37,
+      "admissions": 3006,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "15-03-2019",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.15,
+      "showings": 24,
+      "admissions": 2990,
+      "days": null,
+      "day": "1st Fri"
+    }
+  ]
+}

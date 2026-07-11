@@ -1,0 +1,97 @@
+{
+  "movie_id": 638432,
+  "title": "Gone with the time",
+  "releaseDate": "12-06-2015",
+  "entries": [
+    {
+      "date": "12-06-2015",
+      "rank": 6,
+      "gross": 0.12,
+      "cume": 0.12,
+      "showings": 8685,
+      "admissions": 27275,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-06-2015",
+      "rank": 6,
+      "gross": 0.16,
+      "cume": 0.28,
+      "showings": 7959,
+      "admissions": 35729,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-06-2015",
+      "rank": 6,
+      "gross": 0.16,
+      "cume": 0.44,
+      "showings": 7575,
+      "admissions": 34337,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "15-06-2015",
+      "rank": 6,
+      "gross": 0.1,
+      "cume": 0.53,
+      "showings": 7959,
+      "admissions": 21872,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "16-06-2015",
+      "rank": 5,
+      "gross": 0.1,
+      "cume": 0.63,
+      "showings": 7851,
+      "admissions": 23835,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "17-06-2015",
+      "rank": 6,
+      "gross": 0.09,
+      "cume": 0.72,
+      "showings": 7855,
+      "admissions": 20488,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "18-06-2015",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.76,
+      "showings": 4730,
+      "admissions": 8829,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "23-06-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.78,
+      "showings": 537,
+      "admissions": 438,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "24-06-2015",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.78,
+      "showings": 587,
+      "admissions": 2485,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

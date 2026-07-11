@@ -1,0 +1,225 @@
+{
+  "date": "30-04-2024",
+  "data": [
+    {
+      "movie_id": 749132,
+      "title": "",
+      "gross": 5.21,
+      "cume": 5.36,
+      "showings": 86390,
+      "admissions": 896533,
+      "rank": 1,
+      "days": 1,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 459588,
+      "title": "Howl's Moving Castle",
+      "gross": 2.65,
+      "cume": 2.7,
+      "showings": 48988,
+      "admissions": 460720,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 685456,
+      "title": "Twilight of the Warriors: Walled In",
+      "gross": 2.59,
+      "cume": 11.91,
+      "showings": 29862,
+      "admissions": 432118,
+      "rank": 3,
+      "days": null,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 735128,
+      "title": "Nothing Can't Be Undone by a HotPot",
+      "gross": 0.86,
+      "cume": 1.94,
+      "showings": 18597,
+      "admissions": 145272,
+      "rank": 4,
+      "days": null,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 745142,
+      "title": "Godzilla × Kong: The New Empire",
+      "gross": 0.76,
+      "cume": 135.36,
+      "showings": 41508,
+      "admissions": 124429,
+      "rank": 5,
+      "days": 33,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 749395,
+      "title": "The Boy and the Heron",
+      "gross": 0.55,
+      "cume": 114.62,
+      "showings": 35959,
+      "admissions": 96435,
+      "rank": 6,
+      "days": 28,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 735506,
+      "title": "Viva La Vida",
+      "gross": 0.2,
+      "cume": 40.43,
+      "showings": 14362,
+      "admissions": 33352,
+      "rank": 7,
+      "days": 32,
+      "day": "12th Tue"
+    },
+    {
+      "movie_id": 747074,
+      "title": "Kung Fu Panda 4",
+      "gross": 0.13,
+      "cume": 51.81,
+      "showings": 8058,
+      "admissions": 21505,
+      "rank": 8,
+      "days": 40,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 736205,
+      "title": "Super Villain",
+      "gross": 0.12,
+      "cume": 8.42,
+      "showings": 10933,
+      "admissions": 21916,
+      "rank": 9,
+      "days": 27,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 706205,
+      "title": "Dwelling by the West Lake",
+      "gross": 0.07,
+      "cume": 17.94,
+      "showings": 10345,
+      "admissions": 12821,
+      "rank": 10,
+      "days": 28,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 750447,
+      "title": "Times Still Turns The Pages",
+      "gross": 0.07,
+      "cume": 2.1,
+      "showings": 5271,
+      "admissions": 11503,
+      "rank": 11,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 749246,
+      "title": "I want to be a teacher",
+      "gross": 0.06,
+      "cume": 0.35,
+      "showings": 486,
+      "admissions": 9518,
+      "rank": 12,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 679341,
+      "title": "The Victims",
+      "gross": 0.06,
+      "cume": 14.97,
+      "showings": 8429,
+      "admissions": 10482,
+      "rank": 13,
+      "days": 28,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 698556,
+      "title": "Kong and Jigme",
+      "gross": 0.05,
+      "cume": 0.26,
+      "showings": 51,
+      "admissions": 5675,
+      "rank": 14,
+      "days": 111,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 746814,
+      "title": "Happyness Railway",
+      "gross": 0.02,
+      "cume": 1.69,
+      "showings": 54,
+      "admissions": 3680,
+      "rank": 15,
+      "days": 22,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 596852,
+      "title": "The Pig, the Snake and the Pigeon",
+      "gross": 0.02,
+      "cume": 98.25,
+      "showings": 1864,
+      "admissions": 3910,
+      "rank": 16,
+      "days": 61,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 704991,
+      "title": "Faces in the Crowd",
+      "gross": 0.02,
+      "cume": 5.99,
+      "showings": 90,
+      "admissions": 3951,
+      "rank": 17,
+      "days": 383,
+      "day": "56th Tue"
+    },
+    {
+      "movie_id": 739312,
+      "title": "Dune: Part Two",
+      "gross": 0.02,
+      "cume": 51.84,
+      "showings": 773,
+      "admissions": 2534,
+      "rank": 18,
+      "days": 54,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 677869,
+      "title": "A Vanished Puppet",
+      "gross": 0.02,
+      "cume": 0.34,
+      "showings": 1587,
+      "admissions": 3753,
+      "rank": 19,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 739598,
+      "title": "Boonie Bears:Time Twist",
+      "gross": 0.02,
+      "cume": 291.25,
+      "showings": 1179,
+      "admissions": 2384,
+      "rank": 20,
+      "days": 81,
+      "day": "12th Tue"
+    }
+  ]
+}

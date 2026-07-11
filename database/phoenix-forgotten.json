@@ -1,0 +1,47 @@
+{
+  "movie_id": 664819,
+  "title": "Phoenix Forgotten",
+  "releaseDate": "22-06-2018",
+  "entries": [
+    {
+      "date": "22-06-2018",
+      "rank": 10,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 6051,
+      "admissions": 15656,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-06-2018",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 1961,
+      "admissions": 5096,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-06-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 1882,
+      "admissions": 2623,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-06-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 1454,
+      "admissions": 1357,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

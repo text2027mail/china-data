@@ -1,0 +1,47 @@
+{
+  "movie_id": 658262,
+  "title": "June and Arrow",
+  "releaseDate": "07-04-2017",
+  "entries": [
+    {
+      "date": "07-04-2017",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 441,
+      "admissions": 924,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "11-04-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 187,
+      "admissions": 389,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-05-2017",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 35,
+      "admissions": 1813,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "date": "07-05-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 38,
+      "admissions": 1971,
+      "days": 31,
+      "day": "5th Sun"
+    }
+  ]
+}

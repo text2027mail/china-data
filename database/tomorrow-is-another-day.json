@@ -1,0 +1,57 @@
+{
+  "movie_id": 655866,
+  "title": "Tomorrow Is Another Day",
+  "releaseDate": "28-04-2018",
+  "entries": [
+    {
+      "date": "28-04-2018",
+      "rank": 9,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 5002,
+      "admissions": 11091,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-04-2018",
+      "rank": 20,
+      "gross": 0.03,
+      "cume": 0.09,
+      "showings": 2620,
+      "admissions": 5914,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-05-2018",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 1982,
+      "admissions": 2475,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-05-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 1676,
+      "admissions": 2261,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "08-05-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 524,
+      "admissions": 1212,
+      "days": 11,
+      "day": "2nd Tue"
+    }
+  ]
+}

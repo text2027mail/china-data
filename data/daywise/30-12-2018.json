@@ -1,0 +1,225 @@
+{
+  "date": "30-12-2018",
+  "data": [
+    {
+      "movie_id": 684192,
+      "title": "",
+      "gross": 12.88,
+      "cume": 25.05,
+      "showings": 93064,
+      "admissions": 2482172,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 665526,
+      "title": "Aquaman",
+      "gross": 6.39,
+      "cume": 265.42,
+      "showings": 37751,
+      "admissions": 1171173,
+      "rank": 2,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 672799,
+      "title": "MoJin：The Warm Velley",
+      "gross": 5.04,
+      "cume": 14.61,
+      "showings": 77196,
+      "admissions": 922428,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 680396,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "gross": 5.01,
+      "cume": 46.46,
+      "showings": 32566,
+      "admissions": 920098,
+      "rank": 4,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 666460,
+      "title": "Mad Ebriety",
+      "gross": 1.88,
+      "cume": 5.41,
+      "showings": 44753,
+      "admissions": 358003,
+      "rank": 5,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 684208,
+      "title": "Thugs of Hindostan",
+      "gross": 1.68,
+      "cume": 4.84,
+      "showings": 23275,
+      "admissions": 369225,
+      "rank": 6,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 660756,
+      "title": "Master Z : The IP Man Legacy",
+      "gross": 0.64,
+      "cume": 16.58,
+      "showings": 8745,
+      "admissions": 123617,
+      "rank": 7,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 654922,
+      "title": "My Neighbor Totoro",
+      "gross": 0.53,
+      "cume": 22.78,
+      "showings": 4861,
+      "admissions": 109797,
+      "rank": 8,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 642519,
+      "title": "Long Day's Journey Into Night",
+      "gross": 0.43,
+      "cume": 0.45,
+      "showings": 1985,
+      "admissions": 77611,
+      "rank": 9,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 676874,
+      "title": "Alibaba TheThree Golden Hair",
+      "gross": 0.34,
+      "cume": 0.35,
+      "showings": 12668,
+      "admissions": 73645,
+      "rank": 10,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 684593,
+      "title": "Battle of Tortoise and Rabbit",
+      "gross": 0.31,
+      "cume": 0.32,
+      "showings": 6722,
+      "admissions": 55224,
+      "rank": 11,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 681179,
+      "title": "Two small pigs brave the mysterious island",
+      "gross": 0.24,
+      "cume": 0.26,
+      "showings": 6902,
+      "admissions": 54894,
+      "rank": 12,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 680244,
+      "title": "Police Car Union",
+      "gross": 0.17,
+      "cume": 0.36,
+      "showings": 4092,
+      "admissions": 37383,
+      "rank": 13,
+      "days": 1,
+      "day": "15th Sun"
+    },
+    {
+      "movie_id": 683564,
+      "title": "Benji",
+      "gross": 0.1,
+      "cume": 0.29,
+      "showings": 2668,
+      "admissions": 24392,
+      "rank": 14,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 656597,
+      "title": "Kung Fu Monster",
+      "gross": 0.08,
+      "cume": 11.6,
+      "showings": 2562,
+      "admissions": 17480,
+      "rank": 15,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 638435,
+      "title": "Fighting Men of China",
+      "gross": 0.07,
+      "cume": 1.87,
+      "showings": 357,
+      "admissions": 11884,
+      "rank": 16,
+      "days": 13,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 668229,
+      "title": "Wait Here",
+      "gross": 0.06,
+      "cume": 0.68,
+      "showings": 244,
+      "admissions": 14864,
+      "rank": 17,
+      "days": 24,
+      "day": "49th Sun"
+    },
+    {
+      "movie_id": 682647,
+      "title": "Airpocalypse",
+      "gross": 0.05,
+      "cume": 18.11,
+      "showings": 2041,
+      "admissions": 10371,
+      "rank": 18,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 619583,
+      "title": "Dog 13",
+      "gross": 0.04,
+      "cume": 7.48,
+      "showings": 375,
+      "admissions": 8356,
+      "rank": 19,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 675107,
+      "title": "The Big Shot",
+      "gross": 0.04,
+      "cume": 0.11,
+      "showings": 479,
+      "admissions": 8141,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

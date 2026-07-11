@@ -1,0 +1,225 @@
+{
+  "date": "19-09-2015",
+  "data": [
+    {
+      "movie_id": 631837,
+      "title": "",
+      "gross": 8.55,
+      "cume": 40.99,
+      "showings": 43467,
+      "admissions": 1685491,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 636000,
+      "title": "Mission: Impossible - Rogue Nation",
+      "gross": 7.34,
+      "cume": 107.69,
+      "showings": 43411,
+      "admissions": 1515781,
+      "rank": 2,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 631838,
+      "title": "Pixels",
+      "gross": 2.84,
+      "cume": 9.09,
+      "showings": 24629,
+      "admissions": 546105,
+      "rank": 3,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 639419,
+      "title": "Assassination",
+      "gross": 1.11,
+      "cume": 2.5,
+      "showings": 12200,
+      "admissions": 239661,
+      "rank": 4,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 631264,
+      "title": "Saving Mr. Wu",
+      "gross": 1.04,
+      "cume": 1.15,
+      "showings": 10194,
+      "admissions": 226512,
+      "rank": 5,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 627833,
+      "title": "Ulterior Motive",
+      "gross": 0.36,
+      "cume": 1.11,
+      "showings": 8425,
+      "admissions": 74121,
+      "rank": 6,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 625385,
+      "title": "The Gunman",
+      "gross": 0.14,
+      "cume": 0.24,
+      "showings": 3963,
+      "admissions": 29107,
+      "rank": 7,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 638658,
+      "title": "The Puzzle of Human Skin",
+      "gross": 0.12,
+      "cume": 0.24,
+      "showings": 4706,
+      "admissions": 29046,
+      "rank": 8,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 594292,
+      "title": "Hui Tou Shi Yuan Fang",
+      "gross": 0.11,
+      "cume": 0.51,
+      "showings": 148,
+      "admissions": 22014,
+      "rank": 9,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 597026,
+      "title": "Evil Calls",
+      "gross": 0.11,
+      "cume": 0.51,
+      "showings": 151,
+      "admissions": 21913,
+      "rank": 10,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 617356,
+      "title": "The Dead End",
+      "gross": 0.09,
+      "cume": 44.7,
+      "showings": 1415,
+      "admissions": 19316,
+      "rank": 11,
+      "days": 24,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 631839,
+      "title": "Terminator: Genisys",
+      "gross": 0.05,
+      "cume": 106.93,
+      "showings": 1472,
+      "admissions": 10374,
+      "rank": 12,
+      "days": 28,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 639056,
+      "title": "The Hundred Regiments Offensive",
+      "gross": 0.05,
+      "cume": 59.53,
+      "showings": 711,
+      "admissions": 13148,
+      "rank": 13,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 638426,
+      "title": "Tomb Mystery",
+      "gross": 0.05,
+      "cume": 0.09,
+      "showings": 1895,
+      "admissions": 10819,
+      "rank": 14,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 639256,
+      "title": "Mr. Black: Green Star",
+      "gross": 0.02,
+      "cume": 9.99,
+      "showings": 128,
+      "admissions": 4479,
+      "rank": 15,
+      "days": 44,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 552015,
+      "title": "Amazonia",
+      "gross": 0.02,
+      "cume": 2.24,
+      "showings": 437,
+      "admissions": 4023,
+      "rank": 16,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 631301,
+      "title": "S for Secret",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 1413,
+      "admissions": 3829,
+      "rank": 17,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 630610,
+      "title": "Chuan Yue Xiao Yan De Ge Sheng",
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 26,
+      "admissions": 3640,
+      "rank": 18,
+      "days": 79,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 612022,
+      "title": "Fly To The Venus",
+      "gross": 0.01,
+      "cume": 0.7,
+      "showings": 452,
+      "admissions": 2710,
+      "rank": 19,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 628362,
+      "title": "Love in the 1980s",
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 139,
+      "admissions": 2392,
+      "rank": 20,
+      "days": 9,
+      "day": "2nd Sat"
+    }
+  ]
+}

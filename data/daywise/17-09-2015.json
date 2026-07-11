@@ -1,0 +1,225 @@
+{
+  "date": "17-09-2015",
+  "data": [
+    {
+      "movie_id": 636000,
+      "title": "",
+      "gross": 3.03,
+      "cume": 96.19,
+      "showings": 41900,
+      "admissions": 630067,
+      "rank": 1,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 631837,
+      "title": "Minions",
+      "gross": 1.99,
+      "cume": 28.91,
+      "showings": 38604,
+      "admissions": 392422,
+      "rank": 2,
+      "days": 5,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 631838,
+      "title": "Pixels",
+      "gross": 1.16,
+      "cume": 4.68,
+      "showings": 30379,
+      "admissions": 226008,
+      "rank": 3,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639419,
+      "title": "Assassination",
+      "gross": 0.62,
+      "cume": 0.63,
+      "showings": 15255,
+      "admissions": 139624,
+      "rank": 4,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 627833,
+      "title": "Ulterior Motive",
+      "gross": 0.39,
+      "cume": 0.4,
+      "showings": 13280,
+      "admissions": 82188,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639056,
+      "title": "The Hundred Regiments Offensive",
+      "gross": 0.15,
+      "cume": 59.24,
+      "showings": 1219,
+      "admissions": 34948,
+      "rank": 6,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 594292,
+      "title": "Hui Tou Shi Yuan Fang",
+      "gross": 0.11,
+      "cume": 0.28,
+      "showings": 145,
+      "admissions": 22023,
+      "rank": 7,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 597026,
+      "title": "Evil Calls",
+      "gross": 0.11,
+      "cume": 0.28,
+      "showings": 157,
+      "admissions": 21978,
+      "rank": 8,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 617356,
+      "title": "The Dead End",
+      "gross": 0.06,
+      "cume": 44.55,
+      "showings": 2186,
+      "admissions": 12822,
+      "rank": 9,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 631839,
+      "title": "Terminator: Genisys",
+      "gross": 0.04,
+      "cume": 106.84,
+      "showings": 2099,
+      "admissions": 7197,
+      "rank": 10,
+      "days": 26,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 630610,
+      "title": "Chuan Yue Xiao Yan De Ge Sheng",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 30,
+      "admissions": 3438,
+      "rank": 11,
+      "days": 77,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 628362,
+      "title": "Love in the 1980s",
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 261,
+      "admissions": 2160,
+      "rank": 12,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 630112,
+      "title": "Bedside Cry",
+      "gross": 0.01,
+      "cume": 0.58,
+      "showings": 811,
+      "admissions": 2739,
+      "rank": 13,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 639256,
+      "title": "Mr. Black: Green Star",
+      "gross": 0.01,
+      "cume": 9.94,
+      "showings": 78,
+      "admissions": 1320,
+      "rank": 14,
+      "days": 42,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 639518,
+      "title": "Wei Le Zhe Pian Tu Di",
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 11,
+      "admissions": 1905,
+      "rank": 15,
+      "days": 79,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 612022,
+      "title": "Fly To The Venus",
+      "gross": 0.01,
+      "cume": 0.67,
+      "showings": 821,
+      "admissions": 1537,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 7954,
+      "title": "The Assassin",
+      "gross": 0.01,
+      "cume": 9.02,
+      "showings": 132,
+      "admissions": 980,
+      "rank": 17,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 627016,
+      "title": "The Third Way of Love",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 7,
+      "admissions": 1009,
+      "rank": 18,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 638757,
+      "title": "All You Need Is Love",
+      "gross": 0.0,
+      "cume": 1.91,
+      "showings": 361,
+      "admissions": 883,
+      "rank": 19,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 637578,
+      "title": "Go Away Mr. Tumour",
+      "gross": 0.0,
+      "cume": 75.36,
+      "showings": 179,
+      "admissions": 812,
+      "rank": 20,
+      "days": 36,
+      "day": "7th Thu"
+    }
+  ]
+}

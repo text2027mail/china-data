@@ -1,0 +1,127 @@
+{
+  "movie_id": 625944,
+  "title": "My Original Dream",
+  "releaseDate": "05-11-2015",
+  "entries": [
+    {
+      "date": "05-11-2015",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 827,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "11-11-2015",
+      "rank": 3,
+      "gross": 1.06,
+      "cume": 1.07,
+      "showings": 21852,
+      "admissions": 259735,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "12-11-2015",
+      "rank": 7,
+      "gross": 0.31,
+      "cume": 1.38,
+      "showings": 20885,
+      "admissions": 74557,
+      "days": 2,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "13-11-2015",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 1.47,
+      "showings": 5164,
+      "admissions": 21307,
+      "days": 3,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "14-11-2015",
+      "rank": 10,
+      "gross": 0.12,
+      "cume": 1.59,
+      "showings": 3673,
+      "admissions": 27452,
+      "days": 4,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "15-11-2015",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 1.67,
+      "showings": 3353,
+      "admissions": 19372,
+      "days": 5,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "16-11-2015",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 1.71,
+      "showings": 3453,
+      "admissions": 8407,
+      "days": 6,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "17-11-2015",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 1.74,
+      "showings": 3302,
+      "admissions": 8175,
+      "days": 7,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "18-11-2015",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 1.78,
+      "showings": 3154,
+      "admissions": 7607,
+      "days": 8,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "19-11-2015",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 1.79,
+      "showings": 1671,
+      "admissions": 2820,
+      "days": 9,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "25-03-2017",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 1.84,
+      "showings": 23,
+      "admissions": 2769,
+      "days": 501,
+      "day": "73rd Sat"
+    },
+    {
+      "date": "26-03-2017",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 1.85,
+      "showings": 20,
+      "admissions": 2190,
+      "days": 502,
+      "day": "73rd Sun"
+    }
+  ]
+}

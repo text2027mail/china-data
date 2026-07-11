@@ -1,0 +1,47 @@
+{
+  "movie_id": 609,
+  "title": "A Time to Remember",
+  "releaseDate": "10-09-2023",
+  "entries": [
+    {
+      "date": "10-09-2023",
+      "rank": 19,
+      "gross": 0.03,
+      "cume": 0.1,
+      "showings": 492,
+      "admissions": 4510,
+      "days": 9190,
+      "day": "1st Sun"
+    },
+    {
+      "date": "12-09-2023",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.16,
+      "showings": 4257,
+      "admissions": 10423,
+      "days": 9192,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-09-2023",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.17,
+      "showings": 3794,
+      "admissions": 2819,
+      "days": 9193,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-09-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 3618,
+      "admissions": 2560,
+      "days": 9194,
+      "day": "1st Thu"
+    }
+  ]
+}

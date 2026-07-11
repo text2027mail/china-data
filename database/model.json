@@ -1,0 +1,97 @@
+{
+  "movie_id": 685149,
+  "title": "Model",
+  "releaseDate": "26-10-2021",
+  "entries": [
+    {
+      "date": "26-10-2021",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 542,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "29-10-2021",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.05,
+      "showings": 8461,
+      "admissions": 7924,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-10-2021",
+      "rank": 10,
+      "gross": 0.16,
+      "cume": 0.21,
+      "showings": 3854,
+      "admissions": 28262,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "31-10-2021",
+      "rank": 10,
+      "gross": 0.17,
+      "cume": 0.38,
+      "showings": 2831,
+      "admissions": 30034,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "01-11-2021",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.43,
+      "showings": 2373,
+      "admissions": 6599,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-11-2021",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.47,
+      "showings": 2188,
+      "admissions": 5131,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "03-11-2021",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.51,
+      "showings": 1832,
+      "admissions": 4451,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "04-11-2021",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.55,
+      "showings": 1702,
+      "admissions": 4816,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "05-11-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 486,
+      "admissions": 1495,
+      "days": 8,
+      "day": "2nd Fri"
+    }
+  ]
+}

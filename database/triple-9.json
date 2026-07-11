@@ -1,0 +1,97 @@
+{
+  "movie_id": 633144,
+  "title": "Triple 9",
+  "releaseDate": "27-07-2016",
+  "entries": [
+    {
+      "date": "27-07-2016",
+      "rank": 6,
+      "gross": 0.45,
+      "cume": 0.45,
+      "showings": 24019,
+      "admissions": 111434,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-07-2016",
+      "rank": 9,
+      "gross": 0.24,
+      "cume": 0.69,
+      "showings": 17895,
+      "admissions": 56910,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "date": "29-07-2016",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.77,
+      "showings": 5016,
+      "admissions": 17205,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-07-2016",
+      "rank": 13,
+      "gross": 0.09,
+      "cume": 0.85,
+      "showings": 3912,
+      "admissions": 18705,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "date": "31-07-2016",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 0.93,
+      "showings": 3538,
+      "admissions": 16362,
+      "days": 5,
+      "day": "1st Sun"
+    },
+    {
+      "date": "01-08-2016",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.97,
+      "showings": 3354,
+      "admissions": 8646,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-08-2016",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.99,
+      "showings": 1998,
+      "admissions": 5198,
+      "days": 7,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-08-2016",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 1.01,
+      "showings": 1808,
+      "admissions": 4324,
+      "days": 8,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "04-08-2016",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 1.03,
+      "showings": 1565,
+      "admissions": 3470,
+      "days": 9,
+      "day": "2nd Thu"
+    }
+  ]
+}

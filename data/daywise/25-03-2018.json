@@ -1,0 +1,225 @@
+{
+  "date": "25-03-2018",
+  "data": [
+    {
+      "movie_id": 657865,
+      "title": "",
+      "gross": 15.28,
+      "cume": 60.73,
+      "showings": 138020,
+      "admissions": 2883924,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 565987,
+      "title": "Tomb Raider",
+      "gross": 3.76,
+      "cume": 64.95,
+      "showings": 44163,
+      "admissions": 733867,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 655823,
+      "title": "Operation Red Sea",
+      "gross": 2.01,
+      "cume": 526.57,
+      "showings": 26157,
+      "admissions": 416220,
+      "rank": 3,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 635963,
+      "title": "Bajrangi Bhaijaan",
+      "gross": 1.23,
+      "cume": 39.4,
+      "showings": 12141,
+      "admissions": 267390,
+      "rank": 4,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 644135,
+      "title": "Black Panther",
+      "gross": 0.86,
+      "cume": 96.26,
+      "showings": 15045,
+      "admissions": 161808,
+      "rank": 5,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 663419,
+      "title": "Detective Chinatown Vol 2",
+      "gross": 0.78,
+      "cume": 499.43,
+      "showings": 8843,
+      "admissions": 144102,
+      "rank": 6,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 675239,
+      "title": "Amazing China",
+      "gross": 0.72,
+      "cume": 58.78,
+      "showings": 8097,
+      "admissions": 152680,
+      "rank": 7,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 674815,
+      "title": "Peter Rabbit",
+      "gross": 0.59,
+      "cume": 22.71,
+      "showings": 6896,
+      "admissions": 133175,
+      "rank": 8,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 671663,
+      "title": "The Shape of Water",
+      "gross": 0.51,
+      "cume": 14.71,
+      "showings": 9349,
+      "admissions": 102642,
+      "rank": 9,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 674989,
+      "title": "Pup Star",
+      "gross": 0.42,
+      "cume": 1.11,
+      "showings": 16878,
+      "admissions": 96419,
+      "rank": 10,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 641843,
+      "title": "Shed Skin Papa",
+      "gross": 0.21,
+      "cume": 0.95,
+      "showings": 10526,
+      "admissions": 48306,
+      "rank": 11,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 666740,
+      "title": "The Big Bad Fox and other tales",
+      "gross": 0.15,
+      "cume": 2.15,
+      "showings": 3545,
+      "admissions": 34279,
+      "rank": 12,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 670573,
+      "title": "Boonie Bears：The Big Shrink",
+      "gross": 0.15,
+      "cume": 88.78,
+      "showings": 2567,
+      "admissions": 32257,
+      "rank": 13,
+      "days": 38,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 671224,
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "gross": 0.15,
+      "cume": 9.25,
+      "showings": 1514,
+      "admissions": 26490,
+      "rank": 14,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 667846,
+      "title": "The Jungle Bunch",
+      "gross": 0.09,
+      "cume": 1.17,
+      "showings": 2785,
+      "admissions": 19358,
+      "rank": 15,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 643594,
+      "title": "Alibaba Solomons Seal",
+      "gross": 0.08,
+      "cume": 2.94,
+      "showings": 96,
+      "admissions": 13832,
+      "rank": 16,
+      "days": 695,
+      "day": "100th Sun"
+    },
+    {
+      "movie_id": 656875,
+      "title": "Monster Hunt 2",
+      "gross": 0.07,
+      "cume": 329.91,
+      "showings": 1619,
+      "admissions": 13936,
+      "rank": 17,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 641422,
+      "title": "The Winner",
+      "gross": 0.07,
+      "cume": 4.91,
+      "showings": 103,
+      "admissions": 12144,
+      "rank": 18,
+      "days": 835,
+      "day": "120th Sun"
+    },
+    {
+      "movie_id": 656491,
+      "title": "The Door",
+      "gross": 0.06,
+      "cume": 2.75,
+      "showings": 85,
+      "admissions": 11192,
+      "rank": 19,
+      "days": 402,
+      "day": "59th Sun"
+    },
+    {
+      "movie_id": 670904,
+      "title": "Duck Duck Goose",
+      "gross": 0.06,
+      "cume": 5.36,
+      "showings": 1457,
+      "admissions": 12936,
+      "rank": 20,
+      "days": 17,
+      "day": "12th Sun"
+    }
+  ]
+}

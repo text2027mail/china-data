@@ -1,0 +1,37 @@
+{
+  "movie_id": 737340,
+  "title": "RED RADIO OVER SHANGHAI",
+  "releaseDate": "18-06-2024",
+  "entries": [
+    {
+      "date": "18-06-2024",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 4072,
+      "admissions": 3656,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-07-2024",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 645,
+      "admissions": 2996,
+      "days": 14,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "12-07-2024",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 133,
+      "admissions": 3342,
+      "days": 25,
+      "day": "4th Fri"
+    }
+  ]
+}

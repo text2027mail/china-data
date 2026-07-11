@@ -1,0 +1,77 @@
+{
+  "movie_id": 643368,
+  "title": "Midnight Sun",
+  "releaseDate": "30-12-2016",
+  "entries": [
+    {
+      "date": "30-12-2016",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 1816,
+      "admissions": 14552,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "31-12-2016",
+      "rank": 17,
+      "gross": 0.07,
+      "cume": 0.13,
+      "showings": 1154,
+      "admissions": 16406,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-01-2017",
+      "rank": 16,
+      "gross": 0.08,
+      "cume": 0.21,
+      "showings": 1075,
+      "admissions": 16471,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-01-2017",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.26,
+      "showings": 982,
+      "admissions": 11526,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-01-2017",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 898,
+      "admissions": 2619,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-01-2017",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.29,
+      "showings": 890,
+      "admissions": 2459,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "05-01-2017",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 857,
+      "admissions": 2527,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

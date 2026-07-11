@@ -1,0 +1,225 @@
+{
+  "date": "20-06-2021",
+  "data": [
+    {
+      "movie_id": 706449,
+      "title": "",
+      "gross": 3.22,
+      "cume": 8.31,
+      "showings": 76591,
+      "admissions": 599925,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 706713,
+      "title": "Man In Love",
+      "gross": 2.18,
+      "cume": 15.27,
+      "showings": 51599,
+      "admissions": 453263,
+      "rank": 2,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 695809,
+      "title": "Peter Rabbit 2: The Runaway",
+      "gross": 1.49,
+      "cume": 16.3,
+      "showings": 41349,
+      "admissions": 307901,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 707737,
+      "title": "Island Keeper",
+      "gross": 1.03,
+      "cume": 4.49,
+      "showings": 31785,
+      "admissions": 176012,
+      "rank": 4,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 692580,
+      "title": "Cruella",
+      "gross": 0.87,
+      "cume": 16.23,
+      "showings": 19569,
+      "admissions": 156547,
+      "rank": 5,
+      "days": 15,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 695549,
+      "title": "Hello World",
+      "gross": 0.81,
+      "cume": 11.99,
+      "showings": 30209,
+      "admissions": 176126,
+      "rank": 6,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 695422,
+      "title": "Never Stop",
+      "gross": 0.7,
+      "cume": 18.38,
+      "showings": 35254,
+      "admissions": 137891,
+      "rank": 7,
+      "days": 9,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 706639,
+      "title": "The Father",
+      "gross": 0.57,
+      "cume": 1.16,
+      "showings": 7297,
+      "admissions": 100056,
+      "rank": 8,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 682199,
+      "title": "F9: The Fast Saga",
+      "gross": 0.56,
+      "cume": 205.45,
+      "showings": 15687,
+      "admissions": 96753,
+      "rank": 9,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 707185,
+      "title": "Sunny Sisters",
+      "gross": 0.47,
+      "cume": 11.51,
+      "showings": 20861,
+      "admissions": 88075,
+      "rank": 10,
+      "days": 10,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 707742,
+      "title": "The 24th Shanghai International Film Festival",
+      "gross": 0.46,
+      "cume": 3.51,
+      "showings": 164,
+      "admissions": 81847,
+      "rank": 11,
+      "days": 17,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 696991,
+      "title": "A Quiet Place Part Ⅱ",
+      "gross": 0.32,
+      "cume": 34.87,
+      "showings": 10905,
+      "admissions": 61174,
+      "rank": 12,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 695516,
+      "title": "Cliff Walkers",
+      "gross": 0.32,
+      "cume": 173.82,
+      "showings": 7748,
+      "admissions": 59594,
+      "rank": 13,
+      "days": 52,
+      "day": "10th Sun"
+    },
+    {
+      "movie_id": 704464,
+      "title": "Stand by Me Doraemon 2",
+      "gross": 0.17,
+      "cume": 39.38,
+      "showings": 7893,
+      "admissions": 36628,
+      "rank": 14,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 679340,
+      "title": "Are You Lonesome Tonight ?",
+      "gross": 0.1,
+      "cume": 9.03,
+      "showings": 8523,
+      "admissions": 17564,
+      "rank": 15,
+      "days": 9,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 674137,
+      "title": "White Snake",
+      "gross": 0.1,
+      "cume": 2.64,
+      "showings": 2406,
+      "admissions": 17424,
+      "rank": 16,
+      "days": 32,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 566287,
+      "title": "Nuovo Cinema Paradiso",
+      "gross": 0.09,
+      "cume": 2.23,
+      "showings": 3381,
+      "admissions": 15769,
+      "rank": 17,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 693270,
+      "title": "Promare",
+      "gross": 0.07,
+      "cume": 2.12,
+      "showings": 1803,
+      "admissions": 12443,
+      "rank": 18,
+      "days": 16,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 697409,
+      "title": "Journey To The Center Of The Deep Ocean",
+      "gross": 0.05,
+      "cume": 3.59,
+      "showings": 3325,
+      "admissions": 11607,
+      "rank": 19,
+      "days": 9,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 692062,
+      "title": "Love Will Tear Us Apart",
+      "gross": 0.04,
+      "cume": 47.96,
+      "showings": 2471,
+      "admissions": 8137,
+      "rank": 20,
+      "days": 32,
+      "day": "6th Sun"
+    }
+  ]
+}

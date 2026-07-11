@@ -1,0 +1,127 @@
+{
+  "movie_id": 644496,
+  "title": "Ben-Hur",
+  "releaseDate": "09-10-2016",
+  "entries": [
+    {
+      "date": "09-10-2016",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 510,
+      "admissions": 3192,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-10-2016",
+      "rank": 3,
+      "gross": 0.72,
+      "cume": 0.73,
+      "showings": 36617,
+      "admissions": 146852,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "11-10-2016",
+      "rank": 4,
+      "gross": 0.53,
+      "cume": 1.27,
+      "showings": 31516,
+      "admissions": 106778,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "date": "12-10-2016",
+      "rank": 5,
+      "gross": 0.42,
+      "cume": 1.69,
+      "showings": 27588,
+      "admissions": 83449,
+      "days": 3,
+      "day": "1st Wed"
+    },
+    {
+      "date": "13-10-2016",
+      "rank": 5,
+      "gross": 0.35,
+      "cume": 2.03,
+      "showings": 24736,
+      "admissions": 67384,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "date": "14-10-2016",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 2.13,
+      "showings": 4804,
+      "admissions": 17013,
+      "days": 5,
+      "day": "1st Fri"
+    },
+    {
+      "date": "15-10-2016",
+      "rank": 10,
+      "gross": 0.15,
+      "cume": 2.28,
+      "showings": 4188,
+      "admissions": 27228,
+      "days": 6,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-10-2016",
+      "rank": 10,
+      "gross": 0.12,
+      "cume": 2.4,
+      "showings": 3914,
+      "admissions": 20994,
+      "days": 7,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "17-10-2016",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 2.45,
+      "showings": 3895,
+      "admissions": 8966,
+      "days": 8,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "18-10-2016",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 2.5,
+      "showings": 3746,
+      "admissions": 8638,
+      "days": 9,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "19-10-2016",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 2.54,
+      "showings": 3705,
+      "admissions": 8350,
+      "days": 10,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "20-10-2016",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 2.57,
+      "showings": 2809,
+      "admissions": 4317,
+      "days": 11,
+      "day": "2nd Thu"
+    }
+  ]
+}

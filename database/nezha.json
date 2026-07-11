@@ -1,0 +1,47 @@
+{
+  "movie_id": 637794,
+  "title": "Nezha",
+  "releaseDate": "11-07-2015",
+  "entries": [
+    {
+      "date": "11-07-2015",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 199,
+      "admissions": 3541,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-07-2015",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 160,
+      "admissions": 2892,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "13-07-2015",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 204,
+      "admissions": 1677,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "14-07-2015",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 187,
+      "admissions": 1276,
+      "days": 4,
+      "day": "1st Tue"
+    }
+  ]
+}

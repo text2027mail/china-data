@@ -1,0 +1,225 @@
+{
+  "date": "19-01-2023",
+  "data": [
+    {
+      "movie_id": 612244,
+      "title": "",
+      "gross": 3.5,
+      "cume": 228.55,
+      "showings": 92474,
+      "admissions": 551009,
+      "rank": 1,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 714823,
+      "title": "Better Man",
+      "gross": 1.27,
+      "cume": 44.67,
+      "showings": 66247,
+      "admissions": 210389,
+      "rank": 2,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 0.83,
+      "cume": 58.2,
+      "showings": 58919,
+      "admissions": 137446,
+      "rank": 3,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.33,
+      "cume": 5.99,
+      "showings": 15167,
+      "admissions": 62301,
+      "rank": 4,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 0.23,
+      "cume": 0.23,
+      "showings": 105,
+      "admissions": 20279,
+      "rank": 5,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 714092,
+      "title": "Detective Conan: The Bride of Halloween",
+      "gross": 0.19,
+      "cume": 29.45,
+      "showings": 9687,
+      "admissions": 43046,
+      "rank": 6,
+      "days": 63,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 716214,
+      "title": "One Piece Film Red",
+      "gross": 0.16,
+      "cume": 27.06,
+      "showings": 14953,
+      "admissions": 35798,
+      "rank": 7,
+      "days": 50,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 715838,
+      "title": "Dragon Ball Super: Super Hero",
+      "gross": 0.04,
+      "cume": 1.58,
+      "showings": 12042,
+      "admissions": 9377,
+      "rank": 8,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 734591,
+      "title": "A WIZ NAMED WUKONG",
+      "gross": 0.04,
+      "cume": 1.15,
+      "showings": 4568,
+      "admissions": 8197,
+      "rank": 9,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 734572,
+      "title": "The Man from Toronto",
+      "gross": 0.01,
+      "cume": 0.45,
+      "showings": 1516,
+      "admissions": 2707,
+      "rank": 10,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 699944,
+      "title": "Love Makes Me Strong",
+      "gross": 0.01,
+      "cume": 0.45,
+      "showings": 226,
+      "admissions": 2355,
+      "rank": 11,
+      "days": 56,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 656356,
+      "title": "Pink",
+      "gross": 0.01,
+      "cume": 0.37,
+      "showings": 3485,
+      "admissions": 2228,
+      "rank": 12,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 703781,
+      "title": "Ready to go",
+      "gross": 0.0,
+      "cume": 0.28,
+      "showings": 45,
+      "admissions": 892,
+      "rank": 13,
+      "days": 175,
+      "day": "16th Thu"
+    },
+    {
+      "movie_id": 630610,
+      "title": "Chuan Yue Xiao Yan De Ge Sheng",
+      "gross": 0.0,
+      "cume": 1.13,
+      "showings": 11,
+      "admissions": 455,
+      "rank": 14,
+      "days": 2758,
+      "day": "384th Thu"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.0,
+      "cume": 31.82,
+      "showings": 262,
+      "admissions": 497,
+      "rank": 15,
+      "days": 112,
+      "day": "17th Thu"
+    },
+    {
+      "movie_id": 426671,
+      "title": "Les choristes",
+      "gross": 0.0,
+      "cume": 1.16,
+      "showings": 189,
+      "admissions": 434,
+      "rank": 16,
+      "days": 6545,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 715147,
+      "title": "The Light Of Belief",
+      "gross": 0.0,
+      "cume": 0.21,
+      "showings": 124,
+      "admissions": 412,
+      "rank": 17,
+      "days": 199,
+      "day": "20th Thu"
+    },
+    {
+      "movie_id": 700699,
+      "title": "Frog Prince Adventures 2",
+      "gross": 0.0,
+      "cume": 0.57,
+      "showings": 278,
+      "admissions": 274,
+      "rank": 18,
+      "days": 69,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 733973,
+      "title": "Dream Never Die",
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 10,
+      "admissions": 255,
+      "rank": 19,
+      "days": 56,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 680011,
+      "title": "Vanishing days",
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 20,
+      "admissions": 208,
+      "rank": 20,
+      "days": 63,
+      "day": "8th Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "11-11-2014",
+  "data": [
+    {
+      "movie_id": 617708,
+      "title": "",
+      "gross": 6.63,
+      "cume": 9.47,
+      "showings": 38699,
+      "admissions": 1384064,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 396577,
+      "title": "Teenage Mutant Ninja Turtles",
+      "gross": 2.0,
+      "cume": 51.47,
+      "showings": 24950,
+      "admissions": 362026,
+      "rank": 2,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 626573,
+      "title": "For Love Or Money",
+      "gross": 1.0,
+      "cume": 7.16,
+      "showings": 17157,
+      "admissions": 222723,
+      "rank": 3,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 621389,
+      "title": "The Maze Runner",
+      "gross": 0.57,
+      "cume": 21.17,
+      "showings": 6574,
+      "admissions": 117587,
+      "rank": 4,
+      "days": 15,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 616526,
+      "title": "Kung Fu Jungle",
+      "gross": 0.51,
+      "cume": 16.64,
+      "showings": 9746,
+      "admissions": 97711,
+      "rank": 5,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 627468,
+      "title": "Lucy",
+      "gross": 0.36,
+      "cume": 40.3,
+      "showings": 4313,
+      "admissions": 61884,
+      "rank": 6,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 346481,
+      "title": "Interstellar",
+      "gross": 0.33,
+      "cume": 0.33,
+      "showings": 1220,
+      "admissions": 51090,
+      "rank": 7,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 626950,
+      "title": "The Boundary",
+      "gross": 0.28,
+      "cume": 4.83,
+      "showings": 7715,
+      "admissions": 61636,
+      "rank": 8,
+      "days": 6,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 613011,
+      "title": "Women who Flirt",
+      "gross": 0.11,
+      "cume": 0.11,
+      "showings": 316,
+      "admissions": 21305,
+      "rank": 9,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 611212,
+      "title": "The Nightingale",
+      "gross": 0.09,
+      "cume": 0.94,
+      "showings": 721,
+      "admissions": 20118,
+      "rank": 10,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 627466,
+      "title": "African Safari",
+      "gross": 0.07,
+      "cume": 1.0,
+      "showings": 1535,
+      "admissions": 12367,
+      "rank": 11,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 629878,
+      "title": "The Best Plan Is No Plan",
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 5358,
+      "admissions": 13532,
+      "rank": 12,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 618101,
+      "title": "Nature Law",
+      "gross": 0.04,
+      "cume": 0.57,
+      "showings": 2377,
+      "admissions": 8750,
+      "rank": 13,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 627006,
+      "title": "The Haunted Cinema",
+      "gross": 0.02,
+      "cume": 1.78,
+      "showings": 795,
+      "admissions": 4771,
+      "rank": 14,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 629753,
+      "title": "She And She",
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 1020,
+      "admissions": 3810,
+      "rank": 15,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 629441,
+      "title": "Ice Age: The Meltdown",
+      "gross": 0.01,
+      "cume": 6.51,
+      "showings": 196,
+      "admissions": 2123,
+      "rank": 16,
+      "days": 30,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 589812,
+      "title": "All",
+      "gross": 0.01,
+      "cume": 24.45,
+      "showings": 16,
+      "admissions": 3060,
+      "rank": 17,
+      "days": 1381,
+      "day": "94th Tue"
+    },
+    {
+      "movie_id": 587766,
+      "title": "The Detective 2",
+      "gross": 0.01,
+      "cume": 3.51,
+      "showings": 18,
+      "admissions": 2805,
+      "rank": 18,
+      "days": 1293,
+      "day": "50th Tue"
+    },
+    {
+      "movie_id": 340951,
+      "title": "Hercules",
+      "gross": 0.01,
+      "cume": 12.2,
+      "showings": 288,
+      "admissions": 1894,
+      "rank": 19,
+      "days": 22,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 573396,
+      "title": "The Four",
+      "gross": 0.01,
+      "cume": 28.64,
+      "showings": 11,
+      "admissions": 2110,
+      "rank": 20,
+      "days": 853,
+      "day": "59th Tue"
+    }
+  ]
+}

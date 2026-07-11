@@ -1,0 +1,77 @@
+{
+  "movie_id": 737442,
+  "title": "NO ONE IS CLOSER THAN WE",
+  "releaseDate": "01-05-2026",
+  "entries": [
+    {
+      "date": "01-05-2026",
+      "rank": 5,
+      "gross": 1.08,
+      "cume": 1.08,
+      "showings": 9638,
+      "admissions": 124697,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "02-05-2026",
+      "rank": 5,
+      "gross": 1.18,
+      "cume": 2.26,
+      "showings": 11483,
+      "admissions": 161154,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-05-2026",
+      "rank": 5,
+      "gross": 1.49,
+      "cume": 3.75,
+      "showings": 12258,
+      "admissions": 209492,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-05-2026",
+      "rank": 6,
+      "gross": 1.07,
+      "cume": 4.82,
+      "showings": 11357,
+      "admissions": 154721,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "05-05-2026",
+      "rank": 5,
+      "gross": 0.76,
+      "cume": 5.58,
+      "showings": 10761,
+      "admissions": 110381,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "06-05-2026",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 5.62,
+      "showings": 5824,
+      "admissions": 7008,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "07-05-2026",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 5.64,
+      "showings": 5687,
+      "admissions": 3140,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

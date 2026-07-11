@@ -1,0 +1,57 @@
+{
+  "movie_id": 680846,
+  "title": "Bleach",
+  "releaseDate": "19-04-2019",
+  "entries": [
+    {
+      "date": "19-04-2019",
+      "rank": 9,
+      "gross": 0.26,
+      "cume": 0.27,
+      "showings": 38682,
+      "admissions": 58084,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-04-2019",
+      "rank": 11,
+      "gross": 0.13,
+      "cume": 0.4,
+      "showings": 19551,
+      "admissions": 28065,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-04-2019",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.48,
+      "showings": 13603,
+      "admissions": 17671,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-04-2019",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.5,
+      "showings": 10224,
+      "admissions": 5483,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-04-2019",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.53,
+      "showings": 8769,
+      "admissions": 4710,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

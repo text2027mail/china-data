@@ -1,0 +1,225 @@
+{
+  "date": "18-11-2016",
+  "data": [
+    {
+      "movie_id": 640103,
+      "title": "",
+      "gross": 10.39,
+      "cume": 10.7,
+      "showings": 81875,
+      "admissions": 2260605,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 325408,
+      "title": "Doctor Strange",
+      "gross": 2.19,
+      "cume": 94.78,
+      "showings": 22525,
+      "admissions": 409934,
+      "rank": 2,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 626571,
+      "title": "The Warriors Gate",
+      "gross": 0.93,
+      "cume": 0.94,
+      "showings": 36224,
+      "admissions": 204826,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 656548,
+      "title": "Deepwater Horizon",
+      "gross": 0.82,
+      "cume": 5.03,
+      "showings": 14450,
+      "admissions": 192434,
+      "rank": 4,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 625158,
+      "title": "Billy Lynn's Long Halftime Walk",
+      "gross": 0.81,
+      "cume": 17.26,
+      "showings": 7670,
+      "admissions": 105327,
+      "rank": 5,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 633157,
+      "title": "The New Adventures of Aladdin",
+      "gross": 0.54,
+      "cume": 0.55,
+      "showings": 21571,
+      "admissions": 152333,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 653289,
+      "title": "One Piece Film Gold",
+      "gross": 0.34,
+      "cume": 13.24,
+      "showings": 7602,
+      "admissions": 82152,
+      "rank": 7,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 627597,
+      "title": "Sweet Sixteen",
+      "gross": 0.14,
+      "cume": 22.75,
+      "showings": 225,
+      "admissions": 23590,
+      "rank": 8,
+      "days": 106,
+      "day": "16th Fri"
+    },
+    {
+      "movie_id": 627541,
+      "title": "Scandal Maker",
+      "gross": 0.13,
+      "cume": 7.8,
+      "showings": 5148,
+      "admissions": 33643,
+      "rank": 9,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 638956,
+      "title": "Someone to Talk to",
+      "gross": 0.09,
+      "cume": 2.87,
+      "showings": 524,
+      "admissions": 17793,
+      "rank": 10,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 641874,
+      "title": "Bridge In Clouds",
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 2862,
+      "admissions": 16434,
+      "rank": 11,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 628324,
+      "title": "Mr. Donkey",
+      "gross": 0.06,
+      "cume": 24.97,
+      "showings": 1184,
+      "admissions": 12357,
+      "rank": 12,
+      "days": 22,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 639445,
+      "title": "Operation Mekong",
+      "gross": 0.05,
+      "cume": 174.17,
+      "showings": 729,
+      "admissions": 12578,
+      "rank": 13,
+      "days": 50,
+      "day": "8th Fri"
+    },
+    {
+      "movie_id": 656473,
+      "title": "Special Female Force",
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 2108,
+      "admissions": 8512,
+      "rank": 14,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 644455,
+      "title": "Hide and Seek",
+      "gross": 0.02,
+      "cume": 10.38,
+      "showings": 726,
+      "admissions": 4981,
+      "rank": 15,
+      "days": 15,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 628208,
+      "title": "Poor Rich Dad",
+      "gross": 0.02,
+      "cume": 0.61,
+      "showings": 280,
+      "admissions": 4903,
+      "rank": 16,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 626520,
+      "title": "Scary Notes",
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 70,
+      "admissions": 2908,
+      "rank": 17,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 656586,
+      "title": "Trolls",
+      "gross": 0.01,
+      "cume": 7.6,
+      "showings": 448,
+      "admissions": 3078,
+      "rank": 18,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 656434,
+      "title": "The Warriors",
+      "gross": 0.01,
+      "cume": 4.55,
+      "showings": 70,
+      "admissions": 2707,
+      "rank": 19,
+      "days": 36,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 640982,
+      "title": "The Bride With Painted Skin",
+      "gross": 0.01,
+      "cume": 0.57,
+      "showings": 729,
+      "admissions": 2719,
+      "rank": 20,
+      "days": 8,
+      "day": "2nd Fri"
+    }
+  ]
+}

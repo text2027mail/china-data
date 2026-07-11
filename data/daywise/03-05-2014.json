@@ -1,0 +1,225 @@
+{
+  "date": "03-05-2014",
+  "data": [
+    {
+      "movie_id": 609338,
+      "title": "",
+      "gross": 4.61,
+      "cume": 46.14,
+      "showings": 34722,
+      "admissions": 934629,
+      "rank": 1,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 616332,
+      "title": "The Great Hypnotist",
+      "gross": 3.89,
+      "cume": 18.93,
+      "showings": 28258,
+      "admissions": 825566,
+      "rank": 2,
+      "days": 5,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 609017,
+      "title": "Ice Man 3D",
+      "gross": 1.21,
+      "cume": 19.98,
+      "showings": 16036,
+      "admissions": 223438,
+      "rank": 3,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 618406,
+      "title": "Rio 2",
+      "gross": 1.18,
+      "cume": 34.4,
+      "showings": 6923,
+      "admissions": 215184,
+      "rank": 4,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 622647,
+      "title": "Captain America: The Winter Soldier",
+      "gross": 1.15,
+      "cume": 105.96,
+      "showings": 6961,
+      "admissions": 187282,
+      "rank": 5,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 626867,
+      "title": "The Outback",
+      "gross": 0.7,
+      "cume": 2.61,
+      "showings": 8660,
+      "admissions": 143476,
+      "rank": 6,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 619279,
+      "title": "The Amazing Spider-Man 2",
+      "gross": 0.61,
+      "cume": 0.61,
+      "showings": 1624,
+      "admissions": 97912,
+      "rank": 7,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 626002,
+      "title": "Zambezia",
+      "gross": 0.27,
+      "cume": 1.28,
+      "showings": 4737,
+      "admissions": 51076,
+      "rank": 8,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 626109,
+      "title": "Transcendence",
+      "gross": 0.24,
+      "cume": 18.46,
+      "showings": 2342,
+      "admissions": 35609,
+      "rank": 9,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 604335,
+      "title": "Ikky? san",
+      "gross": 0.22,
+      "cume": 0.88,
+      "showings": 4157,
+      "admissions": 47989,
+      "rank": 10,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 626697,
+      "title": "That Demon Within",
+      "gross": 0.14,
+      "cume": 15.87,
+      "showings": 2435,
+      "admissions": 27589,
+      "rank": 11,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 615131,
+      "title": "Let Go for love",
+      "gross": 0.04,
+      "cume": 0.24,
+      "showings": 2987,
+      "admissions": 7919,
+      "rank": 12,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.02,
+      "cume": 0.42,
+      "showings": 83,
+      "admissions": 3507,
+      "rank": 13,
+      "days": 19,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 626353,
+      "title": "Death is Here 3",
+      "gross": 0.01,
+      "cume": 5.21,
+      "showings": 575,
+      "admissions": 3002,
+      "rank": 14,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 618179,
+      "title": "Best Suspects",
+      "gross": 0.01,
+      "cume": 1.29,
+      "showings": 396,
+      "admissions": 1287,
+      "rank": 15,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 385555,
+      "title": "The Amazing Spider-Man",
+      "gross": 0.01,
+      "cume": 45.82,
+      "showings": 33,
+      "admissions": 1103,
+      "rank": 16,
+      "days": 615,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 613091,
+      "title": "The Truth about Beauty",
+      "gross": 0.0,
+      "cume": 12.45,
+      "showings": 228,
+      "admissions": 787,
+      "rank": 17,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 332101,
+      "title": "The First Avenger: Captain America",
+      "gross": 0.0,
+      "cume": 12.5,
+      "showings": 36,
+      "admissions": 661,
+      "rank": 18,
+      "days": 968,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 590369,
+      "title": "Rio",
+      "gross": 0.0,
+      "cume": 20.63,
+      "showings": 39,
+      "admissions": 454,
+      "rank": 19,
+      "days": 1122,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 626612,
+      "title": "Delete My Love",
+      "gross": 0.0,
+      "cume": 3.56,
+      "showings": 135,
+      "admissions": 404,
+      "rank": 20,
+      "days": 23,
+      "day": "5th Sat"
+    }
+  ]
+}

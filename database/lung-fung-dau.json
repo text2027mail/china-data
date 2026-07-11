@@ -1,0 +1,27 @@
+{
+  "movie_id": 4966,
+  "title": "Lung fung dau",
+  "releaseDate": "10-02-2018",
+  "entries": [
+    {
+      "date": "10-02-2018",
+      "rank": 20,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 5175,
+      "admissions": 10720,
+      "days": 4868,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-02-2018",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 1717,
+      "admissions": 3955,
+      "days": 4872,
+      "day": "1st Wed"
+    }
+  ]
+}

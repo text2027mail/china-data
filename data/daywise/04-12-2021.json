@@ -1,0 +1,225 @@
+{
+  "date": "04-12-2021",
+  "data": [
+    {
+      "movie_id": 677896,
+      "title": "",
+      "gross": 10.06,
+      "cume": 16.23,
+      "showings": 126682,
+      "admissions": 1776166,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 706189,
+      "title": "Be Somebody",
+      "gross": 5.71,
+      "cume": 106.31,
+      "showings": 76239,
+      "admissions": 1008270,
+      "rank": 2,
+      "days": 24,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 694817,
+      "title": "You World,Without Me",
+      "gross": 1.03,
+      "cume": 2.29,
+      "showings": 42403,
+      "admissions": 203301,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 702566,
+      "title": "Door Lock",
+      "gross": 0.76,
+      "cume": 33.59,
+      "showings": 24706,
+      "admissions": 150649,
+      "rank": 4,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 0.74,
+      "cume": 846.72,
+      "showings": 13809,
+      "admissions": 160938,
+      "rank": 5,
+      "days": 66,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 684490,
+      "title": "Mini Force:Saving Dino King",
+      "gross": 0.4,
+      "cume": 1.74,
+      "showings": 12196,
+      "admissions": 89145,
+      "rank": 6,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 704791,
+      "title": "Railway Heros",
+      "gross": 0.39,
+      "cume": 18.82,
+      "showings": 12729,
+      "admissions": 68109,
+      "rank": 7,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 696608,
+      "title": "No Time to Die",
+      "gross": 0.23,
+      "cume": 59.96,
+      "showings": 3404,
+      "admissions": 33401,
+      "rank": 8,
+      "days": 37,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 694257,
+      "title": "A Bird's Journey",
+      "gross": 0.23,
+      "cume": 0.23,
+      "showings": 11486,
+      "admissions": 52521,
+      "rank": 9,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 693966,
+      "title": "Anita",
+      "gross": 0.19,
+      "cume": 15.76,
+      "showings": 5439,
+      "admissions": 38017,
+      "rank": 10,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 703807,
+      "title": "My Son",
+      "gross": 0.15,
+      "cume": 0.46,
+      "showings": 14942,
+      "admissions": 30543,
+      "rank": 11,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 696843,
+      "title": "Lion Dance Boy",
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 440,
+      "admissions": 17658,
+      "rank": 12,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 709339,
+      "title": "The Banker",
+      "gross": 0.1,
+      "cume": 2.39,
+      "showings": 2110,
+      "admissions": 16169,
+      "rank": 13,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 704325,
+      "title": "OH! My Gran",
+      "gross": 0.09,
+      "cume": 0.1,
+      "showings": 6092,
+      "admissions": 17996,
+      "rank": 14,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 472294,
+      "title": "Jungle Cruise",
+      "gross": 0.09,
+      "cume": 6.38,
+      "showings": 2071,
+      "admissions": 14726,
+      "rank": 15,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.06,
+      "cume": 4.57,
+      "showings": 144,
+      "admissions": 12069,
+      "rank": 16,
+      "days": 139,
+      "day": "21st Sat"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.06,
+      "cume": 37.21,
+      "showings": 700,
+      "admissions": 7728,
+      "rank": 17,
+      "days": 44,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 702083,
+      "title": "Confusion",
+      "gross": 0.05,
+      "cume": 0.36,
+      "showings": 134,
+      "admissions": 9294,
+      "rank": 18,
+      "days": 7,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 707531,
+      "title": "The Legend of Sealed Book",
+      "gross": 0.05,
+      "cume": 3.95,
+      "showings": 1205,
+      "admissions": 8454,
+      "rank": 19,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 710317,
+      "title": "To The Summit",
+      "gross": 0.04,
+      "cume": 0.13,
+      "showings": 2746,
+      "admissions": 6975,
+      "rank": 20,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

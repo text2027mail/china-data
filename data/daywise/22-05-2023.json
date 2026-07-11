@@ -1,0 +1,225 @@
+{
+  "date": "22-05-2023",
+  "data": [
+    {
+      "movie_id": 682200,
+      "title": "",
+      "gross": 4.82,
+      "cume": 85.08,
+      "showings": 140378,
+      "admissions": 870252,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 710253,
+      "title": "GODSPEED",
+      "gross": 1.2,
+      "cume": 140.11,
+      "showings": 47570,
+      "admissions": 197431,
+      "rank": 2,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 736126,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "gross": 0.84,
+      "cume": 75.08,
+      "showings": 37328,
+      "admissions": 153972,
+      "rank": 3,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 707476,
+      "title": "Born To Fly",
+      "gross": 0.38,
+      "cume": 115.8,
+      "showings": 22419,
+      "admissions": 63470,
+      "rank": 4,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 699947,
+      "title": "Too Beautiful To Lie",
+      "gross": 0.26,
+      "cume": 6.69,
+      "showings": 32373,
+      "admissions": 42863,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 735967,
+      "title": "The Last 10 Years",
+      "gross": 0.12,
+      "cume": 2.64,
+      "showings": 17110,
+      "admissions": 24905,
+      "rank": 6,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 709077,
+      "title": "All These Years",
+      "gross": 0.08,
+      "cume": 43.64,
+      "showings": 6360,
+      "admissions": 12915,
+      "rank": 7,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 734942,
+      "title": "The First Slam Dunk",
+      "gross": 0.05,
+      "cume": 94.93,
+      "showings": 4081,
+      "admissions": 9113,
+      "rank": 8,
+      "days": 33,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 703744,
+      "title": "Manifesto",
+      "gross": 0.05,
+      "cume": 8.99,
+      "showings": 229,
+      "admissions": 7822,
+      "rank": 9,
+      "days": 60,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 675045,
+      "title": "MID-NIGHT TWO",
+      "gross": 0.05,
+      "cume": 0.65,
+      "showings": 6550,
+      "admissions": 9920,
+      "rank": 10,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 713176,
+      "title": "Racing 72H",
+      "gross": 0.05,
+      "cume": 7.39,
+      "showings": 2384,
+      "admissions": 6002,
+      "rank": 11,
+      "days": 24,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 699972,
+      "title": "Tale of the Night",
+      "gross": 0.02,
+      "cume": 2.68,
+      "showings": 836,
+      "admissions": 4138,
+      "rank": 12,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 710882,
+      "title": "SPARKS OF FIRE IN JINGGANGSHAN",
+      "gross": 0.02,
+      "cume": 1.46,
+      "showings": 107,
+      "admissions": 3708,
+      "rank": 13,
+      "days": 25,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 710043,
+      "title": "Go With The Times",
+      "gross": 0.01,
+      "cume": 0.33,
+      "showings": 20,
+      "admissions": 2541,
+      "rank": 14,
+      "days": 67,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 696727,
+      "title": "The Procurator",
+      "gross": 0.01,
+      "cume": 8.95,
+      "showings": 1211,
+      "admissions": 1751,
+      "rank": 15,
+      "days": 24,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 705431,
+      "title": "Awaken2",
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 54,
+      "admissions": 1906,
+      "rank": 16,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 735685,
+      "title": "Suzume no Tojimari",
+      "gross": 0.01,
+      "cume": 118.76,
+      "showings": 935,
+      "admissions": 1762,
+      "rank": 17,
+      "days": 60,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 712045,
+      "title": "Zhou Yongkai",
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 92,
+      "admissions": 1520,
+      "rank": 18,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 737061,
+      "title": "Beijing 2022",
+      "gross": 0.01,
+      "cume": 0.43,
+      "showings": 1152,
+      "admissions": 1427,
+      "rank": 19,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 736579,
+      "title": "A Summer Trip",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 6,
+      "admissions": 815,
+      "rank": 20,
+      "days": null,
+      "day": "1st Mon"
+    }
+  ]
+}

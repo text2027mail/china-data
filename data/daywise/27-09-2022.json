@@ -1,0 +1,225 @@
+{
+  "date": "27-09-2022",
+  "data": [
+    {
+      "movie_id": 701893,
+      "title": "",
+      "gross": 0.82,
+      "cume": 48.85,
+      "showings": 76581,
+      "admissions": 133679,
+      "rank": 1,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 702906,
+      "title": "Moonman",
+      "gross": 0.29,
+      "cume": 450.56,
+      "showings": 37020,
+      "admissions": 47239,
+      "rank": 2,
+      "days": 61,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 715732,
+      "title": "Table for Six",
+      "gross": 0.26,
+      "cume": 12.13,
+      "showings": 28389,
+      "admissions": 53347,
+      "rank": 3,
+      "days": 19,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 706969,
+      "title": "New Gods: Yang Jian",
+      "gross": 0.2,
+      "cume": 71.68,
+      "showings": 32842,
+      "admissions": 31368,
+      "rank": 4,
+      "days": 40,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 708410,
+      "title": "Song of Spring",
+      "gross": 0.16,
+      "cume": 10.24,
+      "showings": 26821,
+      "admissions": 25869,
+      "rank": 5,
+      "days": 18,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 696825,
+      "title": "Septet: The Story of Hong Kong",
+      "gross": 0.08,
+      "cume": 2.15,
+      "showings": 280,
+      "admissions": 13066,
+      "rank": 6,
+      "days": 61,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 702457,
+      "title": "Hero",
+      "gross": 0.07,
+      "cume": 8.01,
+      "showings": 15067,
+      "admissions": 11881,
+      "rank": 7,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 683536,
+      "title": "Warriors of Future",
+      "gross": 0.06,
+      "cume": 99.13,
+      "showings": 10442,
+      "admissions": 10518,
+      "rank": 8,
+      "days": 54,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 678652,
+      "title": "Wolf Pack",
+      "gross": 0.06,
+      "cume": 4.03,
+      "showings": 13174,
+      "admissions": 12796,
+      "rank": 9,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 705775,
+      "title": "Steel Will",
+      "gross": 0.06,
+      "cume": 0.22,
+      "showings": 122,
+      "admissions": 8313,
+      "rank": 10,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 702055,
+      "title": "In Search of Lost Time",
+      "gross": 0.05,
+      "cume": 4.96,
+      "showings": 11005,
+      "admissions": 10230,
+      "rank": 11,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 691422,
+      "title": "The Frog Kindoom",
+      "gross": 0.02,
+      "cume": 2.22,
+      "showings": 3369,
+      "admissions": 2253,
+      "rank": 12,
+      "days": 18,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 693873,
+      "title": "I Love You",
+      "gross": 0.01,
+      "cume": 0.74,
+      "showings": 6903,
+      "admissions": 2726,
+      "rank": 13,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 694660,
+      "title": "IN PURSUIT OF LIGHT",
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 184,
+      "admissions": 2125,
+      "rank": 14,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 696911,
+      "title": "Nine orcids",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 61,
+      "admissions": 1196,
+      "rank": 15,
+      "days": 12,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 716641,
+      "title": "Persuit Of Light",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 176,
+      "admissions": 1385,
+      "rank": 16,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.01,
+      "cume": 89.59,
+      "showings": 2975,
+      "admissions": 1371,
+      "rank": 17,
+      "days": 239,
+      "day": "35th Tue"
+    },
+    {
+      "movie_id": 709649,
+      "title": "The Battle At Lake Changjin II",
+      "gross": 0.0,
+      "cume": 600.41,
+      "showings": 398,
+      "admissions": 442,
+      "rank": 18,
+      "days": 239,
+      "day": "35th Tue"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 1.06,
+      "showings": 4,
+      "admissions": 350,
+      "rank": 19,
+      "days": 1183,
+      "day": "60th Tue"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.0,
+      "cume": 5.16,
+      "showings": 12,
+      "admissions": 536,
+      "rank": 20,
+      "days": 418,
+      "day": "62nd Tue"
+    }
+  ]
+}

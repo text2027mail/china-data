@@ -1,0 +1,77 @@
+{
+  "movie_id": 660330,
+  "title": "Raid dingue",
+  "releaseDate": "08-12-2017",
+  "entries": [
+    {
+      "date": "08-12-2017",
+      "rank": 9,
+      "gross": 0.18,
+      "cume": 0.18,
+      "showings": 9156,
+      "admissions": 41021,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-12-2017",
+      "rank": 13,
+      "gross": 0.14,
+      "cume": 0.31,
+      "showings": 5364,
+      "admissions": 30206,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-12-2017",
+      "rank": 12,
+      "gross": 0.13,
+      "cume": 0.44,
+      "showings": 4990,
+      "admissions": 28643,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-12-2017",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.49,
+      "showings": 4892,
+      "admissions": 12140,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-12-2017",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.54,
+      "showings": 4243,
+      "admissions": 10962,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-12-2017",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.59,
+      "showings": 4235,
+      "admissions": 11295,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-12-2017",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.63,
+      "showings": 3475,
+      "admissions": 8773,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

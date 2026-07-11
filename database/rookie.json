@@ -1,0 +1,107 @@
+{
+  "movie_id": 625912,
+  "title": "Rookie",
+  "releaseDate": "27-03-2015",
+  "entries": [
+    {
+      "date": "27-03-2015",
+      "rank": 10,
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 4406,
+      "admissions": 15257,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-03-2015",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 0.14,
+      "showings": 3581,
+      "admissions": 15455,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-03-2015",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.2,
+      "showings": 3215,
+      "admissions": 14644,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-03-2015",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.22,
+      "showings": 2855,
+      "admissions": 3532,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "31-03-2015",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.23,
+      "showings": 2734,
+      "admissions": 3591,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-04-2015",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.25,
+      "showings": 2559,
+      "admissions": 3518,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "04-04-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.26,
+      "showings": 330,
+      "admissions": 995,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "05-04-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.26,
+      "showings": 341,
+      "admissions": 1084,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "12-04-2015",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.27,
+      "showings": 327,
+      "admissions": 679,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "14-04-2015",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.28,
+      "showings": 534,
+      "admissions": 526,
+      "days": 19,
+      "day": "3rd Tue"
+    }
+  ]
+}

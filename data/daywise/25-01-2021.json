@@ -1,0 +1,225 @@
+{
+  "date": "25-01-2021",
+  "data": [
+    {
+      "movie_id": 693030,
+      "title": "",
+      "gross": 1.49,
+      "cume": 9.14,
+      "showings": 64736,
+      "admissions": 304893,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 701874,
+      "title": "A Little Red Flower",
+      "gross": 1.2,
+      "cume": 190.02,
+      "showings": 57978,
+      "admissions": 224109,
+      "rank": 2,
+      "days": 26,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 691902,
+      "title": "Shock Wave 2",
+      "gross": 1.16,
+      "cume": 169.27,
+      "showings": 43590,
+      "admissions": 208638,
+      "rank": 3,
+      "days": 33,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 695877,
+      "title": "Warm Hug",
+      "gross": 0.62,
+      "cume": 117.16,
+      "showings": 29433,
+      "admissions": 115688,
+      "rank": 4,
+      "days": 26,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 676098,
+      "title": "Wish Dragon",
+      "gross": 0.57,
+      "cume": 13.07,
+      "showings": 26219,
+      "admissions": 111606,
+      "rank": 5,
+      "days": 11,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 703448,
+      "title": "Soul",
+      "gross": 0.43,
+      "cume": 46.55,
+      "showings": 18780,
+      "admissions": 82297,
+      "rank": 6,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 698687,
+      "title": "The Soul",
+      "gross": 0.23,
+      "cume": 13.95,
+      "showings": 14789,
+      "admissions": 42647,
+      "rank": 7,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 684420,
+      "title": "A Hustle Bustle New Year",
+      "gross": 0.22,
+      "cume": 3.98,
+      "showings": 1572,
+      "admissions": 39069,
+      "rank": 8,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 702283,
+      "title": "Days and Nights in Wuhan",
+      "gross": 0.19,
+      "cume": 2.54,
+      "showings": 22929,
+      "admissions": 43962,
+      "rank": 9,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 704681,
+      "title": "Love Over The World",
+      "gross": 0.09,
+      "cume": 0.34,
+      "showings": 250,
+      "admissions": 19505,
+      "rank": 10,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 673155,
+      "title": "The Rescue",
+      "gross": 0.08,
+      "cume": 70.02,
+      "showings": 3162,
+      "admissions": 15291,
+      "rank": 11,
+      "days": 39,
+      "day": "53rd Mon"
+    },
+    {
+      "movie_id": 700662,
+      "title": "Octonauts: The Ring of Fire",
+      "gross": 0.05,
+      "cume": 6.84,
+      "showings": 4179,
+      "admissions": 9861,
+      "rank": 12,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 643623,
+      "title": "The Croods: A New Age",
+      "gross": 0.02,
+      "cume": 51.39,
+      "showings": 1433,
+      "admissions": 5210,
+      "rank": 13,
+      "days": 60,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 686418,
+      "title": "Starry Road",
+      "gross": 0.02,
+      "cume": 0.57,
+      "showings": 761,
+      "admissions": 4278,
+      "rank": 14,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 459128,
+      "title": "Ponyo on the Cliff by the Sea",
+      "gross": 0.02,
+      "cume": 3.89,
+      "showings": 1608,
+      "admissions": 4150,
+      "rank": 15,
+      "days": 26,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 673808,
+      "title": "The Song Brings You Home",
+      "gross": 0.01,
+      "cume": 0.38,
+      "showings": 51,
+      "admissions": 2815,
+      "rank": 16,
+      "days": 15,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 638273,
+      "title": "The Bugle from Gutian",
+      "gross": 0.01,
+      "cume": 8.65,
+      "showings": 12,
+      "admissions": 2292,
+      "rank": 17,
+      "days": 544,
+      "day": "78th Mon"
+    },
+    {
+      "movie_id": 694376,
+      "title": "The Conductor",
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 1676,
+      "admissions": 1949,
+      "rank": 18,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 675841,
+      "title": "Magic Mouse Paradise",
+      "gross": 0.01,
+      "cume": 0.35,
+      "showings": 3485,
+      "admissions": 2266,
+      "rank": 19,
+      "days": null,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 643146,
+      "title": "All About ING",
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 628,
+      "admissions": 1668,
+      "rank": 20,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

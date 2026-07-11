@@ -1,0 +1,225 @@
+{
+  "date": "29-02-2024",
+  "data": [
+    {
+      "movie_id": 735035,
+      "title": "",
+      "gross": 3.45,
+      "cume": 315.96,
+      "showings": 101056,
+      "admissions": 552887,
+      "rank": 1,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 737452,
+      "title": "Pegasus 2",
+      "gross": 2.81,
+      "cume": 459.78,
+      "showings": 99515,
+      "admissions": 444492,
+      "rank": 2,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 716595,
+      "title": "Yolo",
+      "gross": 1.81,
+      "cume": 487.49,
+      "showings": 85567,
+      "admissions": 291653,
+      "rank": 3,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 596852,
+      "title": "The Pig, the Snake and the Pigeon",
+      "gross": 1.45,
+      "cume": 2.58,
+      "showings": 10903,
+      "admissions": 247128,
+      "rank": 4,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 739598,
+      "title": "Boonie Bears:Time Twist",
+      "gross": 0.55,
+      "cume": 268.97,
+      "showings": 33504,
+      "admissions": 91009,
+      "rank": 5,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 745628,
+      "title": "Table For Six 2",
+      "gross": 0.11,
+      "cume": 2.06,
+      "showings": 9459,
+      "admissions": 20015,
+      "rank": 6,
+      "days": 6,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 745627,
+      "title": "Argylle",
+      "gross": 0.11,
+      "cume": 2.05,
+      "showings": 9876,
+      "admissions": 17824,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 745267,
+      "title": "Room 6 At Midnight",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 711,
+      "admissions": 3180,
+      "rank": 8,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 745532,
+      "title": "Taylor Swift: The Eras Tour",
+      "gross": 0.01,
+      "cume": 14.45,
+      "showings": 250,
+      "admissions": 2129,
+      "rank": 9,
+      "days": 61,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 736579,
+      "title": "A Summer Trip",
+      "gross": 0.01,
+      "cume": 0.46,
+      "showings": 7,
+      "admissions": 2000,
+      "rank": 10,
+      "days": 280,
+      "day": "41st Thu"
+    },
+    {
+      "movie_id": 708416,
+      "title": "PATHFINDERS",
+      "gross": 0.01,
+      "cume": 3.91,
+      "showings": 34,
+      "admissions": 1194,
+      "rank": 11,
+      "days": 186,
+      "day": "25th Thu"
+    },
+    {
+      "movie_id": 713398,
+      "title": "Turning Point",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 100,
+      "admissions": 1479,
+      "rank": 12,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 686787,
+      "title": "Aquaman and the Lost Kingdom",
+      "gross": 0.0,
+      "cume": 68.62,
+      "showings": 408,
+      "admissions": 832,
+      "rank": 13,
+      "days": 72,
+      "day": "11th Thu"
+    },
+    {
+      "movie_id": 708662,
+      "title": "Follow bear to adventure",
+      "gross": 0.0,
+      "cume": 15.99,
+      "showings": 91,
+      "admissions": 731,
+      "rank": 14,
+      "days": 49,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 711333,
+      "title": "Johnny Keep Walking!",
+      "gross": 0.0,
+      "cume": 190.33,
+      "showings": 550,
+      "admissions": 692,
+      "rank": 15,
+      "days": 63,
+      "day": "11th Thu"
+    },
+    {
+      "movie_id": 710288,
+      "title": "I Miss You",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 3,
+      "admissions": 584,
+      "rank": 16,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 658378,
+      "title": "La La Land",
+      "gross": 0.0,
+      "cume": 41.26,
+      "showings": 77,
+      "admissions": 688,
+      "rank": 17,
+      "days": 2572,
+      "day": "368th Thu"
+    },
+    {
+      "movie_id": 701997,
+      "title": "Rob N Roll",
+      "gross": 0.0,
+      "cume": 34.96,
+      "showings": 361,
+      "admissions": 621,
+      "rank": 18,
+      "days": 42,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 3.0,
+      "showings": 5,
+      "admissions": 513,
+      "rank": 19,
+      "days": 1703,
+      "day": "135th Thu"
+    },
+    {
+      "movie_id": 745623,
+      "title": "The Beekeeper",
+      "gross": 0.0,
+      "cume": 16.8,
+      "showings": 171,
+      "admissions": 514,
+      "rank": 20,
+      "days": 49,
+      "day": "7th Thu"
+    }
+  ]
+}

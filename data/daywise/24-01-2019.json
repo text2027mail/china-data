@@ -1,0 +1,225 @@
+{
+  "date": "24-01-2019",
+  "data": [
+    {
+      "movie_id": 678494,
+      "title": "",
+      "gross": 2.54,
+      "cume": 149.55,
+      "showings": 74623,
+      "admissions": 498133,
+      "rank": 1,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 682701,
+      "title": "White Snake",
+      "gross": 2.42,
+      "cume": 34.43,
+      "showings": 60050,
+      "admissions": 486050,
+      "rank": 2,
+      "days": 14,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 685233,
+      "title": "Escape Room",
+      "gross": 1.88,
+      "cume": 16.23,
+      "showings": 51799,
+      "admissions": 405653,
+      "rank": 3,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 675107,
+      "title": "The Big Shot",
+      "gross": 1.42,
+      "cume": 46.33,
+      "showings": 43890,
+      "admissions": 271166,
+      "rank": 4,
+      "days": 15,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 684800,
+      "title": "Mortal Engines",
+      "gross": 0.43,
+      "cume": 6.36,
+      "showings": 21379,
+      "admissions": 82547,
+      "rank": 5,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 657841,
+      "title": "Once upon a Deadpool",
+      "gross": 0.36,
+      "cume": 0.36,
+      "showings": 3254,
+      "admissions": 68159,
+      "rank": 6,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 685259,
+      "title": "A Home with a View",
+      "gross": 0.29,
+      "cume": 3.12,
+      "showings": 5839,
+      "admissions": 44718,
+      "rank": 7,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 685290,
+      "title": "A Dog's Way Home",
+      "gross": 0.27,
+      "cume": 4.3,
+      "showings": 15113,
+      "admissions": 61158,
+      "rank": 8,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 684774,
+      "title": "I Want to Eat Your Pancreas",
+      "gross": 0.2,
+      "cume": 2.89,
+      "showings": 12000,
+      "admissions": 44731,
+      "rank": 9,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 676520,
+      "title": "Dragon Force-Rise of Ultraman",
+      "gross": 0.19,
+      "cume": 2.82,
+      "showings": 11285,
+      "admissions": 34176,
+      "rank": 10,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 684192,
+      "title": "Kill Mobile",
+      "gross": 0.18,
+      "cume": 93.84,
+      "showings": 7871,
+      "admissions": 36693,
+      "rank": 11,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 684504,
+      "title": "How I Became Russian",
+      "gross": 0.16,
+      "cume": 0.28,
+      "showings": 10679,
+      "admissions": 34577,
+      "rank": 12,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 665526,
+      "title": "Aquaman",
+      "gross": 0.15,
+      "cume": 295.54,
+      "showings": 5537,
+      "admissions": 30985,
+      "rank": 13,
+      "days": 49,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 684593,
+      "title": "Battle of Tortoise and Rabbit",
+      "gross": 0.09,
+      "cume": 0.72,
+      "showings": 75,
+      "admissions": 7308,
+      "rank": 14,
+      "days": 26,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 676874,
+      "title": "Alibaba TheThree Golden Hair",
+      "gross": 0.08,
+      "cume": 1.32,
+      "showings": 262,
+      "admissions": 10502,
+      "rank": 15,
+      "days": 26,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 674436,
+      "title": "Sky Stream",
+      "gross": 0.06,
+      "cume": 2.15,
+      "showings": 83,
+      "admissions": 9679,
+      "rank": 16,
+      "days": 56,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 684559,
+      "title": "The Stolen Princess",
+      "gross": 0.05,
+      "cume": 0.75,
+      "showings": 3288,
+      "admissions": 11448,
+      "rank": 17,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 673489,
+      "title": "Startups",
+      "gross": 0.04,
+      "cume": 0.99,
+      "showings": 710,
+      "admissions": 7334,
+      "rank": 18,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 675139,
+      "title": "The Photographer",
+      "gross": 0.04,
+      "cume": 1.38,
+      "showings": 268,
+      "admissions": 6937,
+      "rank": 19,
+      "days": 44,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 638977,
+      "title": "Brave Rabbit 3：The Creazy Time Machine",
+      "gross": 0.03,
+      "cume": 0.56,
+      "showings": 2657,
+      "admissions": 6926,
+      "rank": 20,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

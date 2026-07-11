@@ -1,0 +1,67 @@
+{
+  "movie_id": 674780,
+  "title": "Love Only",
+  "releaseDate": "02-03-2018",
+  "entries": [
+    {
+      "date": "02-03-2018",
+      "rank": 13,
+      "gross": 0.14,
+      "cume": 0.14,
+      "showings": 2779,
+      "admissions": 28955,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "03-03-2018",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.18,
+      "showings": 1154,
+      "admissions": 8989,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "04-03-2018",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.2,
+      "showings": 849,
+      "admissions": 5322,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "05-03-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 670,
+      "admissions": 1959,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "06-03-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.21,
+      "showings": 600,
+      "admissions": 1276,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "07-03-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 587,
+      "admissions": 1488,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

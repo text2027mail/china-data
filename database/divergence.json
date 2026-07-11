@@ -1,0 +1,37 @@
+{
+  "movie_id": 5985,
+  "title": "Divergence",
+  "releaseDate": "28-12-2013",
+  "entries": [
+    {
+      "date": "28-12-2013",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 18,
+      "admissions": 1865,
+      "days": 3167,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-12-2013",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 17,
+      "admissions": 1940,
+      "days": 3168,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-12-2013",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.08,
+      "showings": 16,
+      "admissions": 4559,
+      "days": 3169,
+      "day": "1st Mon"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "17-11-2015",
+  "data": [
+    {
+      "movie_id": 640997,
+      "title": "",
+      "gross": 4.26,
+      "cume": 54.7,
+      "showings": 60386,
+      "admissions": 938355,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 637665,
+      "title": "Qian Ren2：Bei Tai Fan Ji Zhan",
+      "gross": 0.97,
+      "cume": 34.39,
+      "showings": 19571,
+      "admissions": 220687,
+      "rank": 2,
+      "days": 12,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 629335,
+      "title": "Les Aventures d'Anthony",
+      "gross": 0.77,
+      "cume": 7.63,
+      "showings": 21787,
+      "admissions": 169560,
+      "rank": 3,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 634293,
+      "title": "Maze Runner: The Scorch Trials",
+      "gross": 0.28,
+      "cume": 28.44,
+      "showings": 8803,
+      "admissions": 54557,
+      "rank": 4,
+      "days": 14,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 631359,
+      "title": "This is me",
+      "gross": 0.14,
+      "cume": 1.72,
+      "showings": 10359,
+      "admissions": 32497,
+      "rank": 5,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 640867,
+      "title": "Everest",
+      "gross": 0.12,
+      "cume": 14.77,
+      "showings": 2752,
+      "admissions": 22344,
+      "rank": 6,
+      "days": 15,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 631325,
+      "title": "The Witness",
+      "gross": 0.07,
+      "cume": 31.61,
+      "showings": 2930,
+      "admissions": 14706,
+      "rank": 7,
+      "days": 19,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 588292,
+      "title": "Yao Yuan  De Yong Bao",
+      "gross": 0.06,
+      "cume": 0.68,
+      "showings": 74,
+      "admissions": 10350,
+      "rank": 8,
+      "days": 54,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 630741,
+      "title": "Jian Xi Jing Yuan Bai Yi Nan Zhi Chu Lai Za Dao",
+      "gross": 0.06,
+      "cume": 0.68,
+      "showings": 71,
+      "admissions": 9979,
+      "rank": 9,
+      "days": 239,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 618352,
+      "title": "The Last Woman Standing",
+      "gross": 0.05,
+      "cume": 8.99,
+      "showings": 2080,
+      "admissions": 10635,
+      "rank": 10,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 640998,
+      "title": "Hotel Transylvania 2",
+      "gross": 0.05,
+      "cume": 16.81,
+      "showings": 1779,
+      "admissions": 10179,
+      "rank": 11,
+      "days": 22,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 625944,
+      "title": "My Original Dream",
+      "gross": 0.04,
+      "cume": 1.74,
+      "showings": 3302,
+      "admissions": 8175,
+      "rank": 12,
+      "days": 7,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 628183,
+      "title": "Goodbye Mr. Loser",
+      "gross": 0.04,
+      "cume": 212.55,
+      "showings": 977,
+      "admissions": 7451,
+      "rank": 13,
+      "days": 49,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 634689,
+      "title": "The Peanuts Movie",
+      "gross": 0.02,
+      "cume": 4.36,
+      "showings": 2163,
+      "admissions": 5059,
+      "rank": 14,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 627766,
+      "title": "Mountains May Depart",
+      "gross": 0.01,
+      "cume": 4.37,
+      "showings": 440,
+      "admissions": 2549,
+      "rank": 15,
+      "days": 19,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 629068,
+      "title": "The Stormy Night",
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 682,
+      "admissions": 2517,
+      "rank": 16,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 641095,
+      "title": "My Virgin Land",
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 78,
+      "admissions": 2125,
+      "rank": 17,
+      "days": 15,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 631109,
+      "title": "Midnight Whisper",
+      "gross": 0.01,
+      "cume": 1.21,
+      "showings": 936,
+      "admissions": 2392,
+      "rank": 18,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 637803,
+      "title": "Wang Hua Mai Fu",
+      "gross": 0.0,
+      "cume": 0.45,
+      "showings": 28,
+      "admissions": 940,
+      "rank": 19,
+      "days": 416,
+      "day": "17th Tue"
+    },
+    {
+      "movie_id": 626297,
+      "title": "Li San Niang（Hua Gu Xi）",
+      "gross": 0.0,
+      "cume": 0.39,
+      "showings": 28,
+      "admissions": 688,
+      "rank": 20,
+      "days": 341,
+      "day": "6th Tue"
+    }
+  ]
+}

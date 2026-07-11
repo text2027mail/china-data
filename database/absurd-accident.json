@@ -1,0 +1,97 @@
+{
+  "movie_id": 631232,
+  "title": "Absurd Accident",
+  "releaseDate": "01-05-2017",
+  "entries": [
+    {
+      "date": "01-05-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 5,
+      "admissions": 427,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "06-05-2017",
+      "rank": 10,
+      "gross": 0.09,
+      "cume": 0.1,
+      "showings": 286,
+      "admissions": 18061,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-05-2017",
+      "rank": 7,
+      "gross": 0.53,
+      "cume": 0.63,
+      "showings": 9792,
+      "admissions": 115016,
+      "days": 1,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "13-05-2017",
+      "rank": 8,
+      "gross": 0.5,
+      "cume": 1.13,
+      "showings": 9208,
+      "admissions": 105532,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "14-05-2017",
+      "rank": 9,
+      "gross": 0.38,
+      "cume": 1.51,
+      "showings": 8803,
+      "admissions": 79891,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "15-05-2017",
+      "rank": 9,
+      "gross": 0.15,
+      "cume": 1.66,
+      "showings": 8168,
+      "admissions": 31290,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "16-05-2017",
+      "rank": 9,
+      "gross": 0.12,
+      "cume": 1.78,
+      "showings": 7695,
+      "admissions": 24523,
+      "days": 5,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "17-05-2017",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 1.87,
+      "showings": 7243,
+      "admissions": 19820,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "18-05-2017",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 1.94,
+      "showings": 6510,
+      "admissions": 15739,
+      "days": 7,
+      "day": "3rd Thu"
+    }
+  ]
+}

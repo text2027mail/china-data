@@ -1,0 +1,67 @@
+{
+  "movie_id": 705144,
+  "title": "The Wild Blade Of Strangers",
+  "releaseDate": "02-03-2024",
+  "entries": [
+    {
+      "date": "02-03-2024",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 5784,
+      "admissions": 4335,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-03-2024",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 5497,
+      "admissions": 4079,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-03-2024",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 1836,
+      "admissions": 798,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "05-03-2024",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 1665,
+      "admissions": 825,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "06-03-2024",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 1581,
+      "admissions": 671,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "07-03-2024",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 1509,
+      "admissions": 1237,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

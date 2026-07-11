@@ -1,0 +1,225 @@
+{
+  "date": "01-07-2017",
+  "data": [
+    {
+      "movie_id": 656946,
+      "title": "",
+      "gross": 12.16,
+      "cume": 189.07,
+      "showings": 84904,
+      "admissions": 2203642,
+      "rank": 1,
+      "days": 9,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 640505,
+      "title": "Reset",
+      "gross": 5.35,
+      "cume": 13.04,
+      "showings": 53518,
+      "admissions": 1027024,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 642915,
+      "title": "Our Time Will Come",
+      "gross": 2.84,
+      "cume": 2.87,
+      "showings": 41719,
+      "admissions": 615611,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 617733,
+      "title": "Wished",
+      "gross": 1.6,
+      "cume": 5.27,
+      "showings": 26458,
+      "admissions": 366765,
+      "rank": 4,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 642783,
+      "title": "Paths of the Soul",
+      "gross": 1.2,
+      "cume": 7.72,
+      "showings": 7534,
+      "admissions": 235155,
+      "rank": 5,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 666103,
+      "title": "77 Heartbreaks",
+      "gross": 0.89,
+      "cume": 7.13,
+      "showings": 6959,
+      "admissions": 181938,
+      "rank": 6,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 641878,
+      "title": "The One",
+      "gross": 0.77,
+      "cume": 0.79,
+      "showings": 4358,
+      "admissions": 173778,
+      "rank": 7,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 661453,
+      "title": "Battle Of Xiangjiang River",
+      "gross": 0.64,
+      "cume": 1.51,
+      "showings": 3638,
+      "admissions": 120355,
+      "rank": 8,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 644666,
+      "title": "Despicable Me 3",
+      "gross": 0.32,
+      "cume": 0.32,
+      "showings": 261,
+      "admissions": 46989,
+      "rank": 9,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 657849,
+      "title": "Alien: Covenant",
+      "gross": 0.26,
+      "cume": 44.94,
+      "showings": 2640,
+      "admissions": 48301,
+      "rank": 10,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 659327,
+      "title": "Dangal",
+      "gross": 0.25,
+      "cume": 191.07,
+      "showings": 2719,
+      "admissions": 57626,
+      "rank": 11,
+      "days": 58,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 658903,
+      "title": "Soccer Killer",
+      "gross": 0.23,
+      "cume": 0.8,
+      "showings": 12284,
+      "admissions": 55818,
+      "rank": 12,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 640499,
+      "title": "Strangers",
+      "gross": 0.12,
+      "cume": 1.66,
+      "showings": 583,
+      "admissions": 29057,
+      "rank": 13,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 659758,
+      "title": "The Mummy",
+      "gross": 0.11,
+      "cume": 91.82,
+      "showings": 1836,
+      "admissions": 21499,
+      "rank": 14,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 401891,
+      "title": "Wonder Woman",
+      "gross": 0.09,
+      "cume": 89.69,
+      "showings": 795,
+      "admissions": 15232,
+      "rank": 15,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 613847,
+      "title": "Return To The Wolves",
+      "gross": 0.07,
+      "cume": 3.97,
+      "showings": 723,
+      "admissions": 14717,
+      "rank": 16,
+      "days": 16,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 666110,
+      "title": "Encounter Evil",
+      "gross": 0.06,
+      "cume": 0.16,
+      "showings": 2090,
+      "admissions": 15850,
+      "rank": 17,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 658495,
+      "title": "Lion",
+      "gross": 0.04,
+      "cume": 2.35,
+      "showings": 776,
+      "admissions": 8802,
+      "rank": 18,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 657277,
+      "title": "Feng Meng Long's Legend",
+      "gross": 0.04,
+      "cume": 0.14,
+      "showings": 538,
+      "admissions": 9050,
+      "rank": 19,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 664833,
+      "title": "The Three Little Pigs",
+      "gross": 0.02,
+      "cume": 3.56,
+      "showings": 694,
+      "admissions": 5521,
+      "rank": 20,
+      "days": 36,
+      "day": "7th Sat"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "02-12-2016",
+  "data": [
+    {
+      "movie_id": 655647,
+      "title": "",
+      "gross": 11.27,
+      "cume": 11.6,
+      "showings": 68116,
+      "admissions": 2828593,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 643984,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "gross": 3.41,
+      "cume": 61.47,
+      "showings": 23743,
+      "admissions": 625707,
+      "rank": 2,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 643913,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "gross": 2.83,
+      "cume": 2.86,
+      "showings": 39058,
+      "admissions": 604987,
+      "rank": 3,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 573488,
+      "title": "Sword Master",
+      "gross": 2.75,
+      "cume": 2.8,
+      "showings": 37268,
+      "admissions": 558376,
+      "rank": 4,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 637633,
+      "title": "Super Express",
+      "gross": 1.24,
+      "cume": 1.28,
+      "showings": 20118,
+      "admissions": 297082,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 640103,
+      "title": "I Am Not Madame Bovary",
+      "gross": 0.72,
+      "cume": 54.88,
+      "showings": 4227,
+      "admissions": 118457,
+      "rank": 6,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 653051,
+      "title": "Autobahn (Collide)",
+      "gross": 0.69,
+      "cume": 0.69,
+      "showings": 10439,
+      "admissions": 140497,
+      "rank": 7,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 644926,
+      "title": "Moana",
+      "gross": 0.54,
+      "cume": 16.84,
+      "showings": 7331,
+      "admissions": 116720,
+      "rank": 8,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 657031,
+      "title": "Allied",
+      "gross": 0.36,
+      "cume": 2.84,
+      "showings": 6400,
+      "admissions": 75627,
+      "rank": 9,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 618587,
+      "title": "Sentence Me Guilty",
+      "gross": 0.24,
+      "cume": 0.51,
+      "showings": 413,
+      "admissions": 54692,
+      "rank": 10,
+      "days": 211,
+      "day": "31st Fri"
+    },
+    {
+      "movie_id": 625158,
+      "title": "Billy Lynn's Long Halftime Walk",
+      "gross": 0.12,
+      "cume": 23.63,
+      "showings": 194,
+      "admissions": 6529,
+      "rank": 11,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 640662,
+      "title": "Suddenly Seventeen",
+      "gross": 0.1,
+      "cume": 0.3,
+      "showings": 2328,
+      "admissions": 22888,
+      "rank": 12,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 653080,
+      "title": "Ghost",
+      "gross": 0.09,
+      "cume": 0.09,
+      "showings": 4060,
+      "admissions": 23472,
+      "rank": 13,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 639445,
+      "title": "Operation Mekong",
+      "gross": 0.03,
+      "cume": 174.66,
+      "showings": 146,
+      "admissions": 8727,
+      "rank": 14,
+      "days": 64,
+      "day": "10th Fri"
+    },
+    {
+      "movie_id": 643007,
+      "title": "People who Love you",
+      "gross": 0.03,
+      "cume": 0.13,
+      "showings": 457,
+      "admissions": 6549,
+      "rank": 15,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 325408,
+      "title": "Doctor Strange",
+      "gross": 0.02,
+      "cume": 110.88,
+      "showings": 480,
+      "admissions": 3934,
+      "rank": 16,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 644062,
+      "title": "Detective Conan: The Darkest Nightmare",
+      "gross": 0.02,
+      "cume": 4.35,
+      "showings": 503,
+      "admissions": 4496,
+      "rank": 17,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 626534,
+      "title": "The Nursery",
+      "gross": 0.01,
+      "cume": 1.15,
+      "showings": 12,
+      "admissions": 2207,
+      "rank": 18,
+      "days": 36,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 627914,
+      "title": "Min & Max",
+      "gross": 0.01,
+      "cume": 0.82,
+      "showings": 180,
+      "admissions": 1273,
+      "rank": 19,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 656434,
+      "title": "The Warriors",
+      "gross": 0.01,
+      "cume": 4.65,
+      "showings": 57,
+      "admissions": 2081,
+      "rank": 20,
+      "days": 50,
+      "day": "8th Fri"
+    }
+  ]
+}

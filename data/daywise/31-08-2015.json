@@ -1,0 +1,225 @@
+{
+  "date": "31-08-2015",
+  "data": [
+    {
+      "movie_id": 639056,
+      "title": "",
+      "gross": 7.66,
+      "cume": 28.84,
+      "showings": 20539,
+      "admissions": 1188581,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 631839,
+      "title": "Terminator: Genisys",
+      "gross": 3.06,
+      "cume": 81.12,
+      "showings": 42267,
+      "admissions": 564928,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 617356,
+      "title": "The Dead End",
+      "gross": 2.77,
+      "cume": 21.61,
+      "showings": 32201,
+      "admissions": 608250,
+      "rank": 3,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 627896,
+      "title": "Monster Hunt",
+      "gross": 0.72,
+      "cume": 353.08,
+      "showings": 7064,
+      "admissions": 98034,
+      "rank": 4,
+      "days": 47,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 637578,
+      "title": "Go Away Mr. Tumour",
+      "gross": 0.58,
+      "cume": 72.18,
+      "showings": 9910,
+      "admissions": 117609,
+      "rank": 5,
+      "days": 19,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 7954,
+      "title": "The Assassin",
+      "gross": 0.58,
+      "cume": 6.42,
+      "showings": 12737,
+      "admissions": 118957,
+      "rank": 6,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 639859,
+      "title": "Ballet in the Flames of War",
+      "gross": 0.2,
+      "cume": 1.61,
+      "showings": 296,
+      "admissions": 40529,
+      "rank": 7,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 638444,
+      "title": "Roco Kingdom 4",
+      "gross": 0.15,
+      "cume": 10.96,
+      "showings": 3103,
+      "admissions": 28381,
+      "rank": 8,
+      "days": 19,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 630887,
+      "title": "Monkey King：Hero is Back",
+      "gross": 0.14,
+      "cume": 140.36,
+      "showings": 3698,
+      "admissions": 31127,
+      "rank": 9,
+      "days": 53,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 617154,
+      "title": "Tale of Three Cities",
+      "gross": 0.13,
+      "cume": 1.53,
+      "showings": 6435,
+      "admissions": 28043,
+      "rank": 10,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 626778,
+      "title": "Bride Wars",
+      "gross": 0.08,
+      "cume": 25.41,
+      "showings": 3277,
+      "admissions": 17286,
+      "rank": 11,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 594616,
+      "title": "A Story Behind the Mountain",
+      "gross": 0.06,
+      "cume": 0.28,
+      "showings": 93,
+      "admissions": 10999,
+      "rank": 12,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 591859,
+      "title": "Xiao Gui Zhi Duo Xing",
+      "gross": 0.06,
+      "cume": 0.28,
+      "showings": 87,
+      "admissions": 10989,
+      "rank": 13,
+      "days": 1339,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 640214,
+      "title": "Doomed Disaster",
+      "gross": 0.04,
+      "cume": 0.25,
+      "showings": 2219,
+      "admissions": 10159,
+      "rank": 14,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 637829,
+      "title": "Entrapment",
+      "gross": 0.04,
+      "cume": 0.43,
+      "showings": 190,
+      "admissions": 6967,
+      "rank": 15,
+      "days": 7,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 638759,
+      "title": "The Dawns Here Are Quiet",
+      "gross": 0.04,
+      "cume": 0.81,
+      "showings": 1119,
+      "admissions": 7224,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 639256,
+      "title": "Mr. Black: Green Star",
+      "gross": 0.02,
+      "cume": 9.71,
+      "showings": 859,
+      "admissions": 5358,
+      "rank": 17,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 637786,
+      "title": "Kwai Boo",
+      "gross": 0.02,
+      "cume": 9.45,
+      "showings": 539,
+      "admissions": 3789,
+      "rank": 18,
+      "days": 26,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 639518,
+      "title": "Wei Le Zhe Pian Tu Di",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 14,
+      "admissions": 2885,
+      "rank": 19,
+      "days": 62,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 638409,
+      "title": "Snow White: The Mysterious Father",
+      "gross": 0.01,
+      "cume": 1.6,
+      "showings": 760,
+      "admissions": 3061,
+      "rank": 20,
+      "days": 18,
+      "day": "3rd Mon"
+    }
+  ]
+}

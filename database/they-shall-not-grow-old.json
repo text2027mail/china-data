@@ -1,0 +1,67 @@
+{
+  "movie_id": 684364,
+  "title": "They Shall Not Grow Old",
+  "releaseDate": "11-11-2019",
+  "entries": [
+    {
+      "date": "11-11-2019",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.1,
+      "showings": 3815,
+      "admissions": 13412,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-11-2019",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.16,
+      "showings": 3766,
+      "admissions": 11097,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-11-2019",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.21,
+      "showings": 3735,
+      "admissions": 10096,
+      "days": 3,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-11-2019",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.26,
+      "showings": 3634,
+      "admissions": 8594,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "date": "16-11-2019",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.34,
+      "showings": 1262,
+      "admissions": 9253,
+      "days": 6,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-11-2019",
+      "rank": 17,
+      "gross": 0.05,
+      "cume": 0.39,
+      "showings": 1312,
+      "admissions": 7771,
+      "days": 7,
+      "day": "1st Sun"
+    }
+  ]
+}

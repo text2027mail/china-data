@@ -1,0 +1,47 @@
+{
+  "movie_id": 704309,
+  "title": "Captain Sabertooth And The Magic Diamond",
+  "releaseDate": "29-05-2021",
+  "entries": [
+    {
+      "date": "29-05-2021",
+      "rank": 10,
+      "gross": 0.11,
+      "cume": 0.11,
+      "showings": 6386,
+      "admissions": 22769,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "30-05-2021",
+      "rank": 10,
+      "gross": 0.09,
+      "cume": 0.2,
+      "showings": 4610,
+      "admissions": 20667,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "31-05-2021",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.22,
+      "showings": 1760,
+      "admissions": 3409,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-06-2021",
+      "rank": 9,
+      "gross": 0.26,
+      "cume": 0.47,
+      "showings": 5160,
+      "admissions": 53922,
+      "days": 4,
+      "day": "1st Tue"
+    }
+  ]
+}

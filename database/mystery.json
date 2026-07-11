@@ -1,0 +1,107 @@
+{
+  "movie_id": 629449,
+  "title": "Mystery",
+  "releaseDate": "14-11-2014",
+  "entries": [
+    {
+      "date": "14-11-2014",
+      "rank": 7,
+      "gross": 0.16,
+      "cume": 0.16,
+      "showings": 5978,
+      "admissions": 38335,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "15-11-2014",
+      "rank": 8,
+      "gross": 0.16,
+      "cume": 0.32,
+      "showings": 5279,
+      "admissions": 38103,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-11-2014",
+      "rank": 8,
+      "gross": 0.13,
+      "cume": 0.45,
+      "showings": 5032,
+      "admissions": 31037,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "17-11-2014",
+      "rank": 8,
+      "gross": 0.07,
+      "cume": 0.52,
+      "showings": 4906,
+      "admissions": 15511,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-11-2014",
+      "rank": 9,
+      "gross": 0.06,
+      "cume": 0.58,
+      "showings": 4599,
+      "admissions": 15518,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-11-2014",
+      "rank": 10,
+      "gross": 0.05,
+      "cume": 0.64,
+      "showings": 4429,
+      "admissions": 13078,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "20-11-2014",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.68,
+      "showings": 4296,
+      "admissions": 11426,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "21-11-2014",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.69,
+      "showings": 856,
+      "admissions": 1936,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "22-11-2014",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.7,
+      "showings": 828,
+      "admissions": 2625,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "24-11-2014",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.72,
+      "showings": 853,
+      "admissions": 1469,
+      "days": 11,
+      "day": "2nd Mon"
+    }
+  ]
+}

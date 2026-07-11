@@ -1,0 +1,225 @@
+{
+  "date": "24-04-2022",
+  "data": [
+    {
+      "movie_id": 710883,
+      "title": "",
+      "gross": 0.37,
+      "cume": 16.37,
+      "showings": 32571,
+      "admissions": 70614,
+      "rank": 1,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 710612,
+      "title": "MAN ON THE EDGE",
+      "gross": 0.35,
+      "cume": 8.92,
+      "showings": 31336,
+      "admissions": 64378,
+      "rank": 2,
+      "days": 10,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 712404,
+      "title": "Ambulance",
+      "gross": 0.25,
+      "cume": 1.22,
+      "showings": 32286,
+      "admissions": 48825,
+      "rank": 3,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 632721,
+      "title": "Drishyam",
+      "gross": 0.16,
+      "cume": 1.5,
+      "showings": 12107,
+      "admissions": 33642,
+      "rank": 4,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 707673,
+      "title": "Hotel Transylvania 4: Transformania",
+      "gross": 0.15,
+      "cume": 8.58,
+      "showings": 18297,
+      "admissions": 32371,
+      "rank": 5,
+      "days": 22,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 708491,
+      "title": "Escape Room: Tournament of Champions",
+      "gross": 0.1,
+      "cume": 6.76,
+      "showings": 13469,
+      "admissions": 20974,
+      "rank": 6,
+      "days": 23,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 702458,
+      "title": "The Batman",
+      "gross": 0.09,
+      "cume": 21.67,
+      "showings": 5871,
+      "admissions": 17066,
+      "rank": 7,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 712140,
+      "title": "Moonfall",
+      "gross": 0.09,
+      "cume": 19.74,
+      "showings": 9372,
+      "admissions": 18278,
+      "rank": 8,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 711120,
+      "title": "Uncharted",
+      "gross": 0.08,
+      "cume": 17.2,
+      "showings": 5143,
+      "admissions": 16202,
+      "rank": 9,
+      "days": 42,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 692015,
+      "title": "Love at Second Sight",
+      "gross": 0.06,
+      "cume": 0.89,
+      "showings": 5673,
+      "admissions": 11908,
+      "rank": 10,
+      "days": 11,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 709649,
+      "title": "The Battle At Lake Changjin II",
+      "gross": 0.05,
+      "cume": 599.07,
+      "showings": 3390,
+      "admissions": 8911,
+      "rank": 11,
+      "days": 83,
+      "day": "12th Sun"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.02,
+      "cume": 2.23,
+      "showings": 3805,
+      "admissions": 3723,
+      "rank": 12,
+      "days": 3,
+      "day": "23rd Sun"
+    },
+    {
+      "movie_id": 708179,
+      "title": "Too Cool To Kill",
+      "gross": 0.02,
+      "cume": 387.01,
+      "showings": 1981,
+      "admissions": 3433,
+      "rank": 13,
+      "days": 83,
+      "day": "12th Sun"
+    },
+    {
+      "movie_id": 710039,
+      "title": "Why Are The Flower So Red",
+      "gross": 0.02,
+      "cume": 0.8,
+      "showings": 171,
+      "admissions": 2655,
+      "rank": 14,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 706338,
+      "title": "Nice View",
+      "gross": 0.01,
+      "cume": 203.16,
+      "showings": 1194,
+      "admissions": 2027,
+      "rank": 15,
+      "days": 83,
+      "day": "12th Sun"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 0.01,
+      "cume": 142.4,
+      "showings": 1717,
+      "admissions": 1364,
+      "rank": 16,
+      "days": 83,
+      "day": "15th Sun"
+    },
+    {
+      "movie_id": 706422,
+      "title": "I Fell in Love Like A Flower Bouquet",
+      "gross": 0.01,
+      "cume": 13.34,
+      "showings": 512,
+      "admissions": 1318,
+      "rank": 17,
+      "days": 62,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 700620,
+      "title": "CURLING HAPPINESS",
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 1205,
+      "admissions": 1039,
+      "rank": 18,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 691889,
+      "title": "HUNTER'S EQUINOX FLOWER",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 26,
+      "admissions": 556,
+      "rank": 19,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.0,
+      "cume": 88.79,
+      "showings": 419,
+      "admissions": 643,
+      "rank": 20,
+      "days": 83,
+      "day": "12th Sun"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 661392,
+  "title": "Fate Express",
+  "releaseDate": "25-05-2018",
+  "entries": [
+    {
+      "date": "25-05-2018",
+      "rank": 8,
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 9286,
+      "admissions": 15572,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-05-2018",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.13,
+      "showings": 4951,
+      "admissions": 9996,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-05-2018",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.15,
+      "showings": 3635,
+      "admissions": 5462,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-05-2018",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 3062,
+      "admissions": 3813,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "29-05-2018",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 2312,
+      "admissions": 3182,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "30-05-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 2217,
+      "admissions": 1746,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

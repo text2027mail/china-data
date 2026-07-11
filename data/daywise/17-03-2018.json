@@ -1,0 +1,225 @@
+{
+  "date": "17-03-2018",
+  "data": [
+    {
+      "movie_id": 565987,
+      "title": "",
+      "gross": 15.48,
+      "cume": 27.25,
+      "showings": 94796,
+      "admissions": 2964767,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 644135,
+      "title": "Black Panther",
+      "gross": 5.19,
+      "cume": 86.36,
+      "showings": 42034,
+      "admissions": 978791,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 655823,
+      "title": "Operation Red Sea",
+      "gross": 4.53,
+      "cume": 511.6,
+      "showings": 34177,
+      "admissions": 844223,
+      "rank": 3,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 671663,
+      "title": "The Shape of Water",
+      "gross": 3.97,
+      "cume": 7.24,
+      "showings": 50739,
+      "admissions": 859062,
+      "rank": 4,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 635963,
+      "title": "Bajrangi Bhaijaan",
+      "gross": 1.9,
+      "cume": 31.85,
+      "showings": 13885,
+      "admissions": 419898,
+      "rank": 5,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 663419,
+      "title": "Detective Chinatown Vol 2",
+      "gross": 1.55,
+      "cume": 493.82,
+      "showings": 13173,
+      "admissions": 297074,
+      "rank": 6,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 675239,
+      "title": "Amazing China",
+      "gross": 1.54,
+      "cume": 47.29,
+      "showings": 11864,
+      "admissions": 327619,
+      "rank": 7,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 674815,
+      "title": "Peter Rabbit",
+      "gross": 0.82,
+      "cume": 20.23,
+      "showings": 6809,
+      "admissions": 182349,
+      "rank": 8,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 666740,
+      "title": "The Big Bad Fox and other tales",
+      "gross": 0.69,
+      "cume": 0.98,
+      "showings": 13512,
+      "admissions": 157712,
+      "rank": 9,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 667846,
+      "title": "The Jungle Bunch",
+      "gross": 0.44,
+      "cume": 0.54,
+      "showings": 7713,
+      "admissions": 87098,
+      "rank": 10,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 671224,
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "gross": 0.36,
+      "cume": 8.09,
+      "showings": 2661,
+      "admissions": 65112,
+      "rank": 11,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 670904,
+      "title": "Duck Duck Goose",
+      "gross": 0.23,
+      "cume": 4.94,
+      "showings": 3762,
+      "admissions": 48906,
+      "rank": 12,
+      "days": 9,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 656875,
+      "title": "Monster Hunt 2",
+      "gross": 0.18,
+      "cume": 329.37,
+      "showings": 2599,
+      "admissions": 34481,
+      "rank": 13,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 670573,
+      "title": "Boonie Bears：The Big Shrink",
+      "gross": 0.18,
+      "cume": 88.26,
+      "showings": 2271,
+      "admissions": 39349,
+      "rank": 14,
+      "days": 30,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 670465,
+      "title": "Mix",
+      "gross": 0.08,
+      "cume": 2.51,
+      "showings": 876,
+      "admissions": 15956,
+      "rank": 15,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 656491,
+      "title": "The Door",
+      "gross": 0.06,
+      "cume": 2.35,
+      "showings": 94,
+      "admissions": 10544,
+      "rank": 16,
+      "days": 394,
+      "day": "58th Sat"
+    },
+    {
+      "movie_id": 639470,
+      "title": "Delusion",
+      "gross": 0.05,
+      "cume": 1.56,
+      "showings": 69,
+      "admissions": 9619,
+      "rank": 17,
+      "days": 681,
+      "day": "98th Sat"
+    },
+    {
+      "movie_id": 664921,
+      "title": "LingLong Wells",
+      "gross": 0.05,
+      "cume": 0.13,
+      "showings": 2414,
+      "admissions": 11632,
+      "rank": 18,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 670442,
+      "title": "The Faces of My Gene",
+      "gross": 0.04,
+      "cume": 24.88,
+      "showings": 725,
+      "admissions": 8035,
+      "rank": 19,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 641061,
+      "title": "Bangzi Melody",
+      "gross": 0.04,
+      "cume": 0.06,
+      "showings": 75,
+      "admissions": 7270,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sat"
+    }
+  ]
+}

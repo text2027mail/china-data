@@ -1,0 +1,87 @@
+{
+  "movie_id": 640694,
+  "title": "Crying Out In Love",
+  "releaseDate": "15-08-2016",
+  "entries": [
+    {
+      "date": "15-08-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 6,
+      "admissions": 719,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-08-2016",
+      "rank": 5,
+      "gross": 0.54,
+      "cume": 0.56,
+      "showings": 10793,
+      "admissions": 122147,
+      "days": 1,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "27-08-2016",
+      "rank": 8,
+      "gross": 0.39,
+      "cume": 0.95,
+      "showings": 11250,
+      "admissions": 86750,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "28-08-2016",
+      "rank": 9,
+      "gross": 0.28,
+      "cume": 1.22,
+      "showings": 10021,
+      "admissions": 61344,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "29-08-2016",
+      "rank": 9,
+      "gross": 0.14,
+      "cume": 1.37,
+      "showings": 8891,
+      "admissions": 32429,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "30-08-2016",
+      "rank": 9,
+      "gross": 0.11,
+      "cume": 1.48,
+      "showings": 8030,
+      "admissions": 24729,
+      "days": 5,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "31-08-2016",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 1.56,
+      "showings": 7383,
+      "admissions": 19302,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "01-09-2016",
+      "rank": 9,
+      "gross": 0.06,
+      "cume": 1.62,
+      "showings": 6875,
+      "admissions": 13350,
+      "days": 7,
+      "day": "3rd Thu"
+    }
+  ]
+}

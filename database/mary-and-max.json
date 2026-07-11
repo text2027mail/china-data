@@ -1,0 +1,47 @@
+{
+  "movie_id": 423195,
+  "title": "Mary and Max",
+  "releaseDate": "08-08-2025",
+  "entries": [
+    {
+      "date": "08-08-2025",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 1171,
+      "admissions": 3517,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-08-2025",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 984,
+      "admissions": 3853,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-08-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 1124,
+      "admissions": 4105,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "13-08-2025",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 508,
+      "admissions": 1623,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

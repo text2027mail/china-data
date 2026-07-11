@@ -1,0 +1,97 @@
+{
+  "movie_id": 643850,
+  "title": "Mid-July Days 2",
+  "releaseDate": "17-08-2016",
+  "entries": [
+    {
+      "date": "17-08-2016",
+      "rank": 10,
+      "gross": 0.13,
+      "cume": 0.13,
+      "showings": 4017,
+      "admissions": 34061,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "18-08-2016",
+      "rank": 11,
+      "gross": 0.1,
+      "cume": 0.22,
+      "showings": 3642,
+      "admissions": 26458,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "19-08-2016",
+      "rank": 12,
+      "gross": 0.2,
+      "cume": 0.42,
+      "showings": 5525,
+      "admissions": 53421,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-08-2016",
+      "rank": 11,
+      "gross": 0.17,
+      "cume": 0.59,
+      "showings": 5216,
+      "admissions": 45782,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-08-2016",
+      "rank": 11,
+      "gross": 0.14,
+      "cume": 0.73,
+      "showings": 5137,
+      "admissions": 37228,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-08-2016",
+      "rank": 13,
+      "gross": 0.1,
+      "cume": 0.83,
+      "showings": 4748,
+      "admissions": 27420,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-08-2016",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.89,
+      "showings": 2360,
+      "admissions": 14805,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "24-08-2016",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.94,
+      "showings": 2397,
+      "admissions": 13934,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "25-08-2016",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.98,
+      "showings": 2374,
+      "admissions": 12111,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

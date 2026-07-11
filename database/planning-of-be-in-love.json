@@ -1,0 +1,37 @@
+{
+  "movie_id": 638219,
+  "title": "Planning of be in Love",
+  "releaseDate": "14-03-2017",
+  "entries": [
+    {
+      "date": "14-03-2017",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1742,
+      "admissions": 2143,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "15-03-2017",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 1532,
+      "admissions": 1541,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "16-03-2017",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 1391,
+      "admissions": 1304,
+      "days": 3,
+      "day": "1st Thu"
+    }
+  ]
+}

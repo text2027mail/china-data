@@ -1,0 +1,37 @@
+{
+  "movie_id": 662673,
+  "title": "The Red Flag Thrown into West Wind",
+  "releaseDate": "23-10-2020",
+  "entries": [
+    {
+      "date": "23-10-2020",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 18,
+      "admissions": 2495,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-10-2020",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 17,
+      "admissions": 1964,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-10-2020",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 23,
+      "admissions": 2462,
+      "days": null,
+      "day": "2nd Fri"
+    }
+  ]
+}

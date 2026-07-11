@@ -1,0 +1,225 @@
+{
+  "date": "10-10-2021",
+  "data": [
+    {
+      "movie_id": 703496,
+      "title": "",
+      "gross": 44.57,
+      "cume": 607.66,
+      "showings": 168395,
+      "admissions": 6383602,
+      "rank": 1,
+      "days": 11,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 706356,
+      "title": "My country,My parents",
+      "gross": 8.49,
+      "cume": 174.73,
+      "showings": 78231,
+      "admissions": 1337002,
+      "rank": 2,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 703028,
+      "title": "Water Boys",
+      "gross": 0.66,
+      "cume": 6.86,
+      "showings": 16082,
+      "admissions": 119705,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 691302,
+      "title": "Dear Tutu: Operation T-Rex",
+      "gross": 0.47,
+      "cume": 6.82,
+      "showings": 9936,
+      "admissions": 87136,
+      "rank": 4,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 695333,
+      "title": "Little Canned Man",
+      "gross": 0.46,
+      "cume": 7.24,
+      "showings": 9630,
+      "admissions": 83234,
+      "rank": 5,
+      "days": 11,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 707736,
+      "title": "Extinct",
+      "gross": 0.41,
+      "cume": 4.24,
+      "showings": 6881,
+      "admissions": 74296,
+      "rank": 6,
+      "days": 8,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 684843,
+      "title": "Goldbeak",
+      "gross": 0.17,
+      "cume": 4.4,
+      "showings": 5306,
+      "admissions": 35178,
+      "rank": 7,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 699450,
+      "title": "Cloudy Mountain",
+      "gross": 0.17,
+      "cume": 63.65,
+      "showings": 5573,
+      "admissions": 30231,
+      "rank": 8,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 701532,
+      "title": "All About My Mother",
+      "gross": 0.09,
+      "cume": 21.84,
+      "showings": 4099,
+      "admissions": 18584,
+      "rank": 9,
+      "days": 22,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 709324,
+      "title": "The Guardian of Youth",
+      "gross": 0.06,
+      "cume": 1.14,
+      "showings": 304,
+      "admissions": 12580,
+      "rank": 10,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 704739,
+      "title": "Pokémon the Movie: Secrets of the Jungle",
+      "gross": 0.05,
+      "cume": 7.44,
+      "showings": 841,
+      "admissions": 8708,
+      "rank": 11,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 1824,
+      "title": "The Eternal Wave",
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 1512,
+      "admissions": 5244,
+      "rank": 12,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 691465,
+      "title": "Raging Fire",
+      "gross": 0.02,
+      "cume": 195.99,
+      "showings": 646,
+      "admissions": 3462,
+      "rank": 13,
+      "days": 73,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 693230,
+      "title": "Swimming Out Till The Sea Turns Blue",
+      "gross": 0.02,
+      "cume": 1.0,
+      "showings": 281,
+      "admissions": 4470,
+      "rank": 14,
+      "days": 22,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 708513,
+      "title": "Our treasures",
+      "gross": 0.01,
+      "cume": 1.92,
+      "showings": 42,
+      "admissions": 2183,
+      "rank": 15,
+      "days": 71,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 700875,
+      "title": "TAN TAN MEOW:THE MERMAID PRINCESS",
+      "gross": 0.01,
+      "cume": 0.79,
+      "showings": 821,
+      "admissions": 2759,
+      "rank": 16,
+      "days": 10,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 695476,
+      "title": "Knock Knock",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 15,
+      "admissions": 1851,
+      "rank": 17,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 678586,
+      "title": "Crazy Gamer",
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 65,
+      "admissions": 1622,
+      "rank": 18,
+      "days": 17,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 642229,
+      "title": "The Room",
+      "gross": 0.01,
+      "cume": 2.12,
+      "showings": 393,
+      "admissions": 1980,
+      "rank": 19,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.01,
+      "cume": 3.39,
+      "showings": 14,
+      "admissions": 1259,
+      "rank": 20,
+      "days": 66,
+      "day": "12th Sun"
+    }
+  ]
+}

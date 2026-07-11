@@ -1,0 +1,225 @@
+{
+  "date": "19-10-2021",
+  "data": [
+    {
+      "movie_id": 703496,
+      "title": "",
+      "gross": 6.75,
+      "cume": 739.75,
+      "showings": 136011,
+      "admissions": 993414,
+      "rank": 1,
+      "days": 20,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 706356,
+      "title": "My country,My parents",
+      "gross": 1.53,
+      "cume": 201.44,
+      "showings": 58143,
+      "admissions": 246151,
+      "rank": 2,
+      "days": 20,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 695476,
+      "title": "Knock Knock",
+      "gross": 0.2,
+      "cume": 1.34,
+      "showings": 5251,
+      "admissions": 35358,
+      "rank": 3,
+      "days": null,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 673641,
+      "title": "Saturday Fiction",
+      "gross": 0.17,
+      "cume": 2.53,
+      "showings": 19639,
+      "admissions": 30661,
+      "rank": 4,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 703028,
+      "title": "Water Boys",
+      "gross": 0.11,
+      "cume": 8.83,
+      "showings": 9437,
+      "admissions": 19950,
+      "rank": 5,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 639931,
+      "title": "The Curse of Turandot",
+      "gross": 0.11,
+      "cume": 2.44,
+      "showings": 19948,
+      "admissions": 19578,
+      "rank": 6,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 702037,
+      "title": "Mystery Case Of Deep House",
+      "gross": 0.06,
+      "cume": 0.55,
+      "showings": 5873,
+      "admissions": 12309,
+      "rank": 7,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.05,
+      "cume": 3.72,
+      "showings": 72,
+      "admissions": 6657,
+      "rank": 8,
+      "days": 75,
+      "day": "13th Tue"
+    },
+    {
+      "movie_id": 699450,
+      "title": "Cloudy Mountain",
+      "gross": 0.04,
+      "cume": 64.34,
+      "showings": 2519,
+      "admissions": 7505,
+      "rank": 9,
+      "days": 33,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 709324,
+      "title": "The Guardian of Youth",
+      "gross": 0.02,
+      "cume": 1.76,
+      "showings": 100,
+      "admissions": 3946,
+      "rank": 10,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 701532,
+      "title": "All About My Mother",
+      "gross": 0.01,
+      "cume": 22.1,
+      "showings": 1935,
+      "admissions": 2951,
+      "rank": 11,
+      "days": 31,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 708513,
+      "title": "Our treasures",
+      "gross": 0.01,
+      "cume": 2.02,
+      "showings": 78,
+      "admissions": 1882,
+      "rank": 12,
+      "days": 80,
+      "day": "12th Tue"
+    },
+    {
+      "movie_id": 703155,
+      "title": "Ox King",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 520,
+      "admissions": 2197,
+      "rank": 13,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.01,
+      "cume": 4.01,
+      "showings": 81,
+      "admissions": 2997,
+      "rank": 14,
+      "days": 93,
+      "day": "14th Tue"
+    },
+    {
+      "movie_id": 1824,
+      "title": "The Eternal Wave",
+      "gross": 0.01,
+      "cume": 0.22,
+      "showings": 2109,
+      "admissions": 2847,
+      "rank": 15,
+      "days": null,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 691465,
+      "title": "Raging Fire",
+      "gross": 0.01,
+      "cume": 196.08,
+      "showings": 612,
+      "admissions": 1560,
+      "rank": 16,
+      "days": 82,
+      "day": "12th Tue"
+    },
+    {
+      "movie_id": 707736,
+      "title": "Extinct",
+      "gross": 0.01,
+      "cume": 4.88,
+      "showings": 1910,
+      "admissions": 1409,
+      "rank": 17,
+      "days": 17,
+      "day": "12th Tue"
+    },
+    {
+      "movie_id": 695333,
+      "title": "Little Canned Man",
+      "gross": 0.01,
+      "cume": 7.96,
+      "showings": 2680,
+      "admissions": 1281,
+      "rank": 18,
+      "days": 20,
+      "day": "12th Tue"
+    },
+    {
+      "movie_id": 691302,
+      "title": "Dear Tutu: Operation T-Rex",
+      "gross": 0.01,
+      "cume": 7.6,
+      "showings": 2541,
+      "admissions": 1232,
+      "rank": 19,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 705651,
+      "title": "Commander Wang Liang",
+      "gross": 0.01,
+      "cume": 0.36,
+      "showings": 134,
+      "admissions": 1257,
+      "rank": 20,
+      "days": 26,
+      "day": "4th Tue"
+    }
+  ]
+}

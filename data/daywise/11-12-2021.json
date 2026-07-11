@@ -1,0 +1,225 @@
+{
+  "date": "11-12-2021",
+  "data": [
+    {
+      "movie_id": 677896,
+      "title": "",
+      "gross": 5.98,
+      "cume": 44.08,
+      "showings": 105223,
+      "admissions": 1055999,
+      "rank": 1,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 706189,
+      "title": "Be Somebody",
+      "gross": 4.23,
+      "cume": 121.84,
+      "showings": 73909,
+      "admissions": 749485,
+      "rank": 2,
+      "days": 31,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 611240,
+      "title": "Good Night Beijing",
+      "gross": 1.31,
+      "cume": 2.38,
+      "showings": 64065,
+      "admissions": 259074,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 696843,
+      "title": "Lion Dance Boy",
+      "gross": 1.08,
+      "cume": 1.52,
+      "showings": 29925,
+      "admissions": 193814,
+      "rank": 4,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 0.6,
+      "cume": 848.94,
+      "showings": 13822,
+      "admissions": 132092,
+      "rank": 5,
+      "days": 73,
+      "day": "12th Sat"
+    },
+    {
+      "movie_id": 684490,
+      "title": "Mini Force:Saving Dino King",
+      "gross": 0.26,
+      "cume": 2.5,
+      "showings": 7853,
+      "admissions": 57632,
+      "rank": 6,
+      "days": 15,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 704791,
+      "title": "Railway Heros",
+      "gross": 0.25,
+      "cume": 20.14,
+      "showings": 8310,
+      "admissions": 43968,
+      "rank": 7,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 702566,
+      "title": "Door Lock",
+      "gross": 0.24,
+      "cume": 35.09,
+      "showings": 11191,
+      "admissions": 49268,
+      "rank": 8,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 696608,
+      "title": "No Time to Die",
+      "gross": 0.18,
+      "cume": 60.62,
+      "showings": 2989,
+      "admissions": 25117,
+      "rank": 9,
+      "days": 44,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.13,
+      "cume": 5.1,
+      "showings": 281,
+      "admissions": 26187,
+      "rank": 10,
+      "days": 146,
+      "day": "22nd Sat"
+    },
+    {
+      "movie_id": 691828,
+      "title": "Rock Dog 2",
+      "gross": 0.12,
+      "cume": 0.18,
+      "showings": 13239,
+      "admissions": 25321,
+      "rank": 11,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 693966,
+      "title": "Anita",
+      "gross": 0.1,
+      "cume": 16.36,
+      "showings": 3638,
+      "admissions": 19692,
+      "rank": 12,
+      "days": 30,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 694257,
+      "title": "A Bird's Journey",
+      "gross": 0.06,
+      "cume": 0.54,
+      "showings": 3269,
+      "admissions": 14967,
+      "rank": 13,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 472294,
+      "title": "Jungle Cruise",
+      "gross": 0.06,
+      "cume": 6.62,
+      "showings": 1411,
+      "admissions": 9882,
+      "rank": 14,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 694817,
+      "title": "You World,Without Me",
+      "gross": 0.06,
+      "cume": 3.86,
+      "showings": 7003,
+      "admissions": 12770,
+      "rank": 15,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 709339,
+      "title": "The Banker",
+      "gross": 0.06,
+      "cume": 2.68,
+      "showings": 1100,
+      "admissions": 8434,
+      "rank": 16,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 679936,
+      "title": "The Fourth Wall",
+      "gross": 0.05,
+      "cume": 0.15,
+      "showings": 862,
+      "admissions": 6864,
+      "rank": 17,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.04,
+      "cume": 37.36,
+      "showings": 606,
+      "admissions": 5442,
+      "rank": 18,
+      "days": 51,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 672711,
+      "title": "Secret",
+      "gross": 0.04,
+      "cume": 0.12,
+      "showings": 6669,
+      "admissions": 9289,
+      "rank": 19,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 702083,
+      "title": "Confusion",
+      "gross": 0.04,
+      "cume": 0.71,
+      "showings": 117,
+      "admissions": 7468,
+      "rank": 20,
+      "days": 14,
+      "day": "2nd Sat"
+    }
+  ]
+}

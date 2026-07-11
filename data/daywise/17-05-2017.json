@@ -1,0 +1,225 @@
+{
+  "date": "17-05-2017",
+  "data": [
+    {
+      "movie_id": 659327,
+      "title": "",
+      "gross": 4.33,
+      "cume": 76.89,
+      "showings": 68824,
+      "admissions": 961933,
+      "rank": 1,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 644133,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "gross": 1.5,
+      "cume": 87.39,
+      "showings": 39692,
+      "admissions": 274819,
+      "rank": 2,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 657876,
+      "title": "King Arthur: Legend of the Sword",
+      "gross": 0.51,
+      "cume": 7.18,
+      "showings": 25051,
+      "admissions": 97214,
+      "rank": 3,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 639686,
+      "title": "Dealer Healer",
+      "gross": 0.35,
+      "cume": 5.46,
+      "showings": 19909,
+      "admissions": 72823,
+      "rank": 4,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 659757,
+      "title": "The Fate of the Furious",
+      "gross": 0.22,
+      "cume": 391.83,
+      "showings": 6810,
+      "admissions": 43541,
+      "rank": 5,
+      "days": 34,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 660393,
+      "title": "Shock Wave",
+      "gross": 0.17,
+      "cume": 57.41,
+      "showings": 6057,
+      "admissions": 39521,
+      "rank": 6,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 658346,
+      "title": "What A Wonderful Family",
+      "gross": 0.16,
+      "cume": 4.56,
+      "showings": 13652,
+      "admissions": 32530,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 661849,
+      "title": "Power Rangers",
+      "gross": 0.15,
+      "cume": 4.18,
+      "showings": 17545,
+      "admissions": 28685,
+      "rank": 8,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 631232,
+      "title": "Absurd Accident",
+      "gross": 0.09,
+      "cume": 1.87,
+      "showings": 7243,
+      "admissions": 19820,
+      "rank": 9,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 644001,
+      "title": "Battle Of Memories",
+      "gross": 0.07,
+      "cume": 42.86,
+      "showings": 2402,
+      "admissions": 13048,
+      "rank": 10,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 628157,
+      "title": "This Is Not What I Excepted",
+      "gross": 0.05,
+      "cume": 30.67,
+      "showings": 1891,
+      "admissions": 9783,
+      "rank": 11,
+      "days": 21,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 644667,
+      "title": "Love Off the Cuff",
+      "gross": 0.04,
+      "cume": 25.64,
+      "showings": 1336,
+      "admissions": 7904,
+      "rank": 12,
+      "days": 20,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 662297,
+      "title": "I Am a Doctor",
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 46,
+      "admissions": 5095,
+      "rank": 13,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 641042,
+      "title": "Disc Fairy",
+      "gross": 0.03,
+      "cume": 0.32,
+      "showings": 2387,
+      "admissions": 6766,
+      "rank": 14,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 659760,
+      "title": "Smurfs: The Lost Village",
+      "gross": 0.01,
+      "cume": 24.9,
+      "showings": 1884,
+      "admissions": 2643,
+      "rank": 15,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 642970,
+      "title": "Hetian Jade Legend",
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 40,
+      "admissions": 2514,
+      "rank": 16,
+      "days": 23,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 638811,
+      "title": "Mr. Pride vs Miss Prejudice",
+      "gross": 0.01,
+      "cume": 18.32,
+      "showings": 640,
+      "admissions": 2838,
+      "rank": 17,
+      "days": 28,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 628794,
+      "title": "Falling in love",
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 175,
+      "admissions": 1654,
+      "rank": 18,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 659616,
+      "title": "Puppy Love",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 3,
+      "admissions": 518,
+      "rank": 19,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 657339,
+      "title": "The Missing",
+      "gross": 0.01,
+      "cume": 14.12,
+      "showings": 4,
+      "admissions": 1310,
+      "rank": 20,
+      "days": 48,
+      "day": "8th Wed"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "20-04-2017",
+  "data": [
+    {
+      "movie_id": 659757,
+      "title": "",
+      "gross": 11.34,
+      "cume": 266.58,
+      "showings": 137066,
+      "admissions": 2083950,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 638811,
+      "title": "Mr. Pride vs Miss Prejudice",
+      "gross": 1.56,
+      "cume": 1.79,
+      "showings": 35933,
+      "admissions": 363395,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 629871,
+      "title": "A Chinese Odyssey Part Two: Cinderella",
+      "gross": 0.9,
+      "cume": 22.89,
+      "showings": 29775,
+      "admissions": 214749,
+      "rank": 3,
+      "days": 910,
+      "day": "130th Thu"
+    },
+    {
+      "movie_id": 657877,
+      "title": "Kong: Skull Island",
+      "gross": 0.1,
+      "cume": 170.87,
+      "showings": 4431,
+      "admissions": 20043,
+      "rank": 4,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 657795,
+      "title": "Ghost in the Shell",
+      "gross": 0.08,
+      "cume": 29.4,
+      "showings": 3548,
+      "admissions": 14556,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 641155,
+      "title": "The Devotion of Suspect X",
+      "gross": 0.05,
+      "cume": 59.07,
+      "showings": 2378,
+      "admissions": 9201,
+      "rank": 6,
+      "days": 21,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 660460,
+      "title": "A Nail Clipper Romance",
+      "gross": 0.02,
+      "cume": 0.63,
+      "showings": 3335,
+      "admissions": 3154,
+      "rank": 7,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 655350,
+      "title": "Extraordinary Mission",
+      "gross": 0.02,
+      "cume": 23.02,
+      "showings": 684,
+      "admissions": 3181,
+      "rank": 8,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 662059,
+      "title": "Mad World",
+      "gross": 0.01,
+      "cume": 1.28,
+      "showings": 477,
+      "admissions": 2675,
+      "rank": 9,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 654821,
+      "title": "Haunted Dormitory: Marionette Teacher",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 1134,
+      "admissions": 3157,
+      "rank": 10,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 657339,
+      "title": "The Missing",
+      "gross": 0.01,
+      "cume": 14.09,
+      "showings": 432,
+      "admissions": 1101,
+      "rank": 11,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 659760,
+      "title": "Smurfs: The Lost Village",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 399,
+      "admissions": 1198,
+      "rank": 12,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 644667,
+      "title": "Love Off the Cuff",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 15,
+      "admissions": 716,
+      "rank": 13,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 637803,
+      "title": "Wang Hua Mai Fu",
+      "gross": 0.0,
+      "cume": 0.99,
+      "showings": 7,
+      "admissions": 662,
+      "rank": 14,
+      "days": 936,
+      "day": "92nd Thu"
+    },
+    {
+      "movie_id": 652766,
+      "title": "The Legend of 1935",
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 32,
+      "admissions": 693,
+      "rank": 15,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 658999,
+      "title": "Snowtime!",
+      "gross": 0.0,
+      "cume": 6.36,
+      "showings": 951,
+      "admissions": 917,
+      "rank": 16,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 653966,
+      "title": "You Wan Mei Wan",
+      "gross": 0.0,
+      "cume": 5.51,
+      "showings": 262,
+      "admissions": 753,
+      "rank": 17,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 631024,
+      "title": "The Mysterious Family",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 85,
+      "admissions": 673,
+      "rank": 18,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 654668,
+      "title": "Top Funny Comedian: The Movie",
+      "gross": 0.0,
+      "cume": 9.88,
+      "showings": 62,
+      "admissions": 515,
+      "rank": 19,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 660278,
+      "title": "A Dog's Purpose",
+      "gross": 0.0,
+      "cume": 89.68,
+      "showings": 203,
+      "admissions": 625,
+      "rank": 20,
+      "days": 49,
+      "day": "9th Thu"
+    }
+  ]
+}

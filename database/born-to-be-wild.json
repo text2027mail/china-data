@@ -1,0 +1,77 @@
+{
+  "movie_id": 642601,
+  "title": "Born To Be Wild",
+  "releaseDate": "14-09-2018",
+  "entries": [
+    {
+      "date": "14-09-2018",
+      "rank": 4,
+      "gross": 0.39,
+      "cume": 0.4,
+      "showings": 19817,
+      "admissions": 89890,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "15-09-2018",
+      "rank": 6,
+      "gross": 0.39,
+      "cume": 0.79,
+      "showings": 11441,
+      "admissions": 87391,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-09-2018",
+      "rank": 7,
+      "gross": 0.26,
+      "cume": 1.05,
+      "showings": 10794,
+      "admissions": 59044,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "17-09-2018",
+      "rank": 6,
+      "gross": 0.11,
+      "cume": 1.16,
+      "showings": 10537,
+      "admissions": 25129,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-09-2018",
+      "rank": 6,
+      "gross": 0.09,
+      "cume": 1.25,
+      "showings": 10272,
+      "admissions": 21346,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-09-2018",
+      "rank": 6,
+      "gross": 0.08,
+      "cume": 1.33,
+      "showings": 9938,
+      "admissions": 19011,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "20-09-2018",
+      "rank": 6,
+      "gross": 0.07,
+      "cume": 1.41,
+      "showings": 9700,
+      "admissions": 16597,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

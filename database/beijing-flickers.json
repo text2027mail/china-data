@@ -1,0 +1,37 @@
+{
+  "movie_id": 589970,
+  "title": "Beijing Flickers",
+  "releaseDate": "08-11-2013",
+  "entries": [
+    {
+      "date": "08-11-2013",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1213,
+      "admissions": 2017,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-11-2013",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 973,
+      "admissions": 2239,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-11-2013",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 845,
+      "admissions": 1792,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

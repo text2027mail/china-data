@@ -1,0 +1,47 @@
+{
+  "movie_id": 709462,
+  "title": "100 Yards",
+  "releaseDate": "13-09-2024",
+  "entries": [
+    {
+      "date": "13-09-2024",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 6,
+      "admissions": 777,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-09-2024",
+      "rank": 9,
+      "gross": 0.1,
+      "cume": 0.11,
+      "showings": 22535,
+      "admissions": 18093,
+      "days": 1,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "21-09-2024",
+      "rank": 20,
+      "gross": 0.04,
+      "cume": 0.15,
+      "showings": 5346,
+      "admissions": 7151,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "22-09-2024",
+      "rank": 20,
+      "gross": 0.04,
+      "cume": 0.19,
+      "showings": 3977,
+      "admissions": 6098,
+      "days": 3,
+      "day": "2nd Sun"
+    }
+  ]
+}

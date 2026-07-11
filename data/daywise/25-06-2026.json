@@ -1,0 +1,225 @@
+{
+  "date": "25-06-2026",
+  "data": [
+    {
+      "movie_id": 746664,
+      "title": "",
+      "gross": 1.06,
+      "cume": 278.25,
+      "showings": 80255,
+      "admissions": 210424,
+      "rank": 1,
+      "days": 57,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 1144068,
+      "title": "Toy Story 5",
+      "gross": 1.04,
+      "cume": 22.32,
+      "showings": 77662,
+      "admissions": 175679,
+      "rank": 2,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 750109,
+      "title": "I Know Who You Are",
+      "gross": 0.69,
+      "cume": 11.99,
+      "showings": 61038,
+      "admissions": 128173,
+      "rank": 3,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 3189,
+      "title": "The furious",
+      "gross": 0.43,
+      "cume": 27.44,
+      "showings": 48252,
+      "admissions": 86355,
+      "rank": 4,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 783157,
+      "title": "Crossing",
+      "gross": 0.39,
+      "cume": 1.18,
+      "showings": 1530,
+      "admissions": 96719,
+      "rank": 5,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 912469,
+      "title": "Vanishing Point",
+      "gross": 0.16,
+      "cume": 83.42,
+      "showings": 12579,
+      "admissions": 31519,
+      "rank": 6,
+      "days": 56,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 788850,
+      "title": "Invictus",
+      "gross": 0.16,
+      "cume": 5.05,
+      "showings": 29425,
+      "admissions": 29357,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 708646,
+      "title": "The Boy Who Counted Cars",
+      "gross": 0.13,
+      "cume": 6.58,
+      "showings": 26853,
+      "admissions": 25427,
+      "rank": 8,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 737278,
+      "title": "IT'S MY TIME",
+      "gross": 0.08,
+      "cume": 0.45,
+      "showings": 5323,
+      "admissions": 12775,
+      "rank": 9,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 1173257,
+      "title": "Disclosure Day",
+      "gross": 0.05,
+      "cume": 4.59,
+      "showings": 3453,
+      "admissions": 8024,
+      "rank": 10,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 1167037,
+      "title": "The 28th Shanghai International Film Festival",
+      "gross": 0.04,
+      "cume": 4.94,
+      "showings": 3,
+      "admissions": 3303,
+      "rank": 11,
+      "days": 35,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 1124996,
+      "title": "Pressure",
+      "gross": 0.04,
+      "cume": 3.13,
+      "showings": 2621,
+      "admissions": 6040,
+      "rank": 12,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 746763,
+      "title": "YIN WIND SHADOW",
+      "gross": 0.02,
+      "cume": 0.38,
+      "showings": 5943,
+      "admissions": 4511,
+      "rank": 13,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 681895,
+      "title": "The TunPu",
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 7423,
+      "admissions": 4204,
+      "rank": 14,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 744885,
+      "title": "Wan TongShu",
+      "gross": 0.02,
+      "cume": 1.86,
+      "showings": 123,
+      "admissions": 3250,
+      "rank": 15,
+      "days": 67,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 683430,
+      "title": "Operation Black-ops",
+      "gross": 0.02,
+      "cume": 0.63,
+      "showings": 6765,
+      "admissions": 3390,
+      "rank": 16,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 769714,
+      "title": "THE REUNION JOURNEY",
+      "gross": 0.01,
+      "cume": 2.16,
+      "showings": 21,
+      "admissions": 2226,
+      "rank": 17,
+      "days": 118,
+      "day": "17th Thu"
+    },
+    {
+      "movie_id": 629002,
+      "title": "The Kingdom Of Saber·Tooth",
+      "gross": 0.01,
+      "cume": 0.93,
+      "showings": 1,
+      "admissions": 2467,
+      "rank": 18,
+      "days": 5049,
+      "day": "19th Thu"
+    },
+    {
+      "movie_id": 628997,
+      "title": "The Actions Inside",
+      "gross": 0.01,
+      "cume": 3.88,
+      "showings": 4,
+      "admissions": 2345,
+      "rank": 19,
+      "days": 4328,
+      "day": "230th Thu"
+    },
+    {
+      "movie_id": 1204824,
+      "title": "Gohan",
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 2059,
+      "admissions": 2167,
+      "rank": 20,
+      "days": null,
+      "day": "1st Thu"
+    }
+  ]
+}

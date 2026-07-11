@@ -1,0 +1,47 @@
+{
+  "movie_id": 565299,
+  "title": "Pleasant Goat And Big Big Wolf",
+  "releaseDate": "19-06-2017",
+  "entries": [
+    {
+      "date": "19-06-2017",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.06,
+      "showings": 156,
+      "admissions": 11670,
+      "days": 3077,
+      "day": "1st Mon"
+    },
+    {
+      "date": "20-06-2017",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.11,
+      "showings": 156,
+      "admissions": 11160,
+      "days": 3078,
+      "day": "1st Tue"
+    },
+    {
+      "date": "21-06-2017",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.16,
+      "showings": 156,
+      "admissions": 11670,
+      "days": 3079,
+      "day": "1st Wed"
+    },
+    {
+      "date": "22-06-2017",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.22,
+      "showings": 203,
+      "admissions": 14545,
+      "days": 3080,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 673322,
+  "title": "Informal Love",
+  "releaseDate": "26-03-2021",
+  "entries": [
+    {
+      "date": "26-03-2021",
+      "rank": 8,
+      "gross": 0.12,
+      "cume": 0.13,
+      "showings": 19249,
+      "admissions": 23414,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-03-2021",
+      "rank": 13,
+      "gross": 0.07,
+      "cume": 0.2,
+      "showings": 11704,
+      "admissions": 14674,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-03-2021",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.24,
+      "showings": 9986,
+      "admissions": 8065,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-03-2021",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 5067,
+      "admissions": 2299,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-03-2021",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.26,
+      "showings": 4236,
+      "admissions": 1967,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "31-03-2021",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 3976,
+      "admissions": 1567,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "movie_id": 631011,
+  "title": "Replicas",
+  "releaseDate": "23-11-2018",
+  "entries": [
+    {
+      "date": "23-11-2018",
+      "rank": 7,
+      "gross": 0.16,
+      "cume": 0.16,
+      "showings": 13456,
+      "admissions": 36720,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "24-11-2018",
+      "rank": 8,
+      "gross": 0.14,
+      "cume": 0.3,
+      "showings": 6478,
+      "admissions": 32500,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "25-11-2018",
+      "rank": 8,
+      "gross": 0.13,
+      "cume": 0.43,
+      "showings": 5348,
+      "admissions": 28388,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "26-11-2018",
+      "rank": 7,
+      "gross": 0.07,
+      "cume": 0.5,
+      "showings": 5505,
+      "admissions": 16763,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "27-11-2018",
+      "rank": 7,
+      "gross": 0.07,
+      "cume": 0.57,
+      "showings": 5562,
+      "admissions": 16121,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "28-11-2018",
+      "rank": 7,
+      "gross": 0.07,
+      "cume": 0.64,
+      "showings": 5733,
+      "admissions": 15869,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "29-11-2018",
+      "rank": 8,
+      "gross": 0.06,
+      "cume": 0.71,
+      "showings": 5769,
+      "admissions": 14328,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "03-12-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.75,
+      "showings": 777,
+      "admissions": 1751,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "04-12-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.76,
+      "showings": 800,
+      "admissions": 1787,
+      "days": 12,
+      "day": "2nd Tue"
+    }
+  ]
+}

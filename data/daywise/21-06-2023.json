@@ -1,0 +1,225 @@
+{
+  "date": "21-06-2023",
+  "data": [
+    {
+      "movie_id": 733914,
+      "title": "",
+      "gross": 5.41,
+      "cume": 5.44,
+      "showings": 49153,
+      "admissions": 858872,
+      "rank": 1,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 707131,
+      "title": "Love Never Ends",
+      "gross": 4.07,
+      "cume": 5.94,
+      "showings": 38709,
+      "admissions": 670925,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 708181,
+      "title": "Transformers: Rise of the Beasts",
+      "gross": 1.99,
+      "cume": 69.62,
+      "showings": 61061,
+      "admissions": 366495,
+      "rank": 3,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 332495,
+      "title": "The Flash",
+      "gross": 1.51,
+      "cume": 18.93,
+      "showings": 53635,
+      "admissions": 270868,
+      "rank": 4,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 686203,
+      "title": "Don't Call Me God of Gamblers",
+      "gross": 1.1,
+      "cume": 1.11,
+      "showings": 25303,
+      "admissions": 213585,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 734680,
+      "title": "Spider-Man: Across The Spider-Verse",
+      "gross": 0.65,
+      "cume": 45.25,
+      "showings": 24065,
+      "admissions": 126852,
+      "rank": 6,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 710253,
+      "title": "GODSPEED",
+      "gross": 0.56,
+      "cume": 173.21,
+      "showings": 22279,
+      "admissions": 90810,
+      "rank": 7,
+      "days": 55,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 737030,
+      "title": "Elemental",
+      "gross": 0.55,
+      "cume": 7.07,
+      "showings": 27265,
+      "admissions": 101409,
+      "rank": 8,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 682200,
+      "title": "Fast X",
+      "gross": 0.21,
+      "cume": 143.74,
+      "showings": 13249,
+      "admissions": 40829,
+      "rank": 9,
+      "days": 36,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 657116,
+      "title": "Laputa: Castle in the Sky",
+      "gross": 0.15,
+      "cume": 18.84,
+      "showings": 9780,
+      "admissions": 32634,
+      "rank": 10,
+      "days": 21,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 707476,
+      "title": "Born To Fly",
+      "gross": 0.08,
+      "cume": 123.86,
+      "showings": 2404,
+      "admissions": 13747,
+      "rank": 11,
+      "days": 55,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 737061,
+      "title": "Beijing 2022",
+      "gross": 0.06,
+      "cume": 1.85,
+      "showings": 261,
+      "admissions": 11875,
+      "rank": 12,
+      "days": 34,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 703744,
+      "title": "Manifesto",
+      "gross": 0.05,
+      "cume": 9.65,
+      "showings": 170,
+      "admissions": 7989,
+      "rank": 13,
+      "days": 90,
+      "day": "15th Wed"
+    },
+    {
+      "movie_id": 736126,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "gross": 0.04,
+      "cume": 89.24,
+      "showings": 2103,
+      "admissions": 6501,
+      "rank": 14,
+      "days": 48,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 737136,
+      "title": "Doraemon the Movie: Nobita's Sky Utopia",
+      "gross": 0.03,
+      "cume": 14.36,
+      "showings": 4030,
+      "admissions": 7805,
+      "rank": 15,
+      "days": 21,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 708802,
+      "title": "Crush Actually",
+      "gross": 0.02,
+      "cume": 0.52,
+      "showings": 3072,
+      "admissions": 2820,
+      "rank": 16,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 701872,
+      "title": "Lost in midnight",
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 1602,
+      "admissions": 3571,
+      "rank": 17,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 710799,
+      "title": "yiluxingfu",
+      "gross": 0.01,
+      "cume": 0.82,
+      "showings": 22,
+      "admissions": 2001,
+      "rank": 18,
+      "days": 33,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 735685,
+      "title": "Suzume no Tojimari",
+      "gross": 0.01,
+      "cume": 119.1,
+      "showings": 732,
+      "admissions": 3115,
+      "rank": 19,
+      "days": 90,
+      "day": "14th Wed"
+    },
+    {
+      "movie_id": 710882,
+      "title": "SPARKS OF FIRE IN JINGGANGSHAN",
+      "gross": 0.01,
+      "cume": 2.01,
+      "showings": 51,
+      "admissions": 1917,
+      "rank": 20,
+      "days": 55,
+      "day": "12th Wed"
+    }
+  ]
+}

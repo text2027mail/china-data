@@ -1,0 +1,67 @@
+{
+  "movie_id": 597026,
+  "title": "Evil Calls",
+  "releaseDate": "16-09-2015",
+  "entries": [
+    {
+      "date": "16-09-2015",
+      "rank": 6,
+      "gross": 0.17,
+      "cume": 0.17,
+      "showings": 225,
+      "admissions": 32967,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-09-2015",
+      "rank": 8,
+      "gross": 0.11,
+      "cume": 0.28,
+      "showings": 157,
+      "admissions": 21978,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "date": "18-09-2015",
+      "rank": 8,
+      "gross": 0.11,
+      "cume": 0.4,
+      "showings": 154,
+      "admissions": 22043,
+      "days": 3,
+      "day": "1st Fri"
+    },
+    {
+      "date": "19-09-2015",
+      "rank": 10,
+      "gross": 0.11,
+      "cume": 0.51,
+      "showings": 151,
+      "admissions": 21913,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "date": "20-09-2015",
+      "rank": 7,
+      "gross": 0.11,
+      "cume": 0.62,
+      "showings": 154,
+      "admissions": 21712,
+      "days": 5,
+      "day": "1st Sun"
+    },
+    {
+      "date": "21-09-2015",
+      "rank": 6,
+      "gross": 0.11,
+      "cume": 0.74,
+      "showings": 157,
+      "admissions": 22244,
+      "days": 6,
+      "day": "1st Mon"
+    }
+  ]
+}

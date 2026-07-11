@@ -1,0 +1,225 @@
+{
+  "date": "17-01-2021",
+  "data": [
+    {
+      "movie_id": 701874,
+      "title": "",
+      "gross": 3.73,
+      "cume": 175.38,
+      "showings": 78220,
+      "admissions": 678157,
+      "rank": 1,
+      "days": 18,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 691902,
+      "title": "Shock Wave 2",
+      "gross": 2.74,
+      "cume": 156.65,
+      "showings": 50429,
+      "admissions": 472023,
+      "rank": 2,
+      "days": 25,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 698687,
+      "title": "The Soul",
+      "gross": 2.03,
+      "cume": 9.21,
+      "showings": 62349,
+      "admissions": 379120,
+      "rank": 3,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 676098,
+      "title": "Wish Dragon",
+      "gross": 1.78,
+      "cume": 6.86,
+      "showings": 43612,
+      "admissions": 337228,
+      "rank": 4,
+      "days": 3,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 695877,
+      "title": "Warm Hug",
+      "gross": 1.7,
+      "cume": 109.88,
+      "showings": 39111,
+      "admissions": 311342,
+      "rank": 5,
+      "days": 18,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 703448,
+      "title": "Soul",
+      "gross": 1.45,
+      "cume": 41.18,
+      "showings": 22567,
+      "admissions": 255141,
+      "rank": 6,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 684420,
+      "title": "A Hustle Bustle New Year",
+      "gross": 0.81,
+      "cume": 2.09,
+      "showings": 17713,
+      "admissions": 143661,
+      "rank": 7,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 700662,
+      "title": "Octonauts: The Ring of Fire",
+      "gross": 0.38,
+      "cume": 6.14,
+      "showings": 11086,
+      "admissions": 78112,
+      "rank": 8,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 673155,
+      "title": "The Rescue",
+      "gross": 0.17,
+      "cume": 69.23,
+      "showings": 3852,
+      "admissions": 30526,
+      "rank": 9,
+      "days": 31,
+      "day": "52nd Sun"
+    },
+    {
+      "movie_id": 691949,
+      "title": "NEZHA",
+      "gross": 0.12,
+      "cume": 0.53,
+      "showings": 10717,
+      "admissions": 25430,
+      "rank": 10,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 686418,
+      "title": "Starry Road",
+      "gross": 0.11,
+      "cume": 0.28,
+      "showings": 1034,
+      "admissions": 27116,
+      "rank": 11,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 459128,
+      "title": "Ponyo on the Cliff by the Sea",
+      "gross": 0.08,
+      "cume": 3.65,
+      "showings": 2134,
+      "admissions": 16331,
+      "rank": 12,
+      "days": 18,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 673808,
+      "title": "The Song Brings You Home",
+      "gross": 0.06,
+      "cume": 0.26,
+      "showings": 261,
+      "admissions": 15237,
+      "rank": 13,
+      "days": 7,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 675841,
+      "title": "Magic Mouse Paradise",
+      "gross": 0.06,
+      "cume": 0.19,
+      "showings": 6287,
+      "admissions": 13634,
+      "rank": 14,
+      "days": null,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 694918,
+      "title": "Heaven's Beat",
+      "gross": 0.05,
+      "cume": 0.21,
+      "showings": 1120,
+      "admissions": 10801,
+      "rank": 15,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 643623,
+      "title": "The Croods: A New Age",
+      "gross": 0.05,
+      "cume": 51.16,
+      "showings": 1410,
+      "admissions": 10098,
+      "rank": 16,
+      "days": 52,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 682062,
+      "title": "Three Adventures of Brooke",
+      "gross": 0.02,
+      "cume": 0.95,
+      "showings": 142,
+      "admissions": 3718,
+      "rank": 17,
+      "days": 52,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 678807,
+      "title": "Wonder Woman 1984",
+      "gross": 0.02,
+      "cume": 24.52,
+      "showings": 498,
+      "admissions": 2578,
+      "rank": 18,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 685551,
+      "title": "T-34",
+      "gross": 0.01,
+      "cume": 3.12,
+      "showings": 309,
+      "admissions": 2564,
+      "rank": 19,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 704664,
+      "title": "Woman Without A Man",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 30,
+      "admissions": 1731,
+      "rank": 20,
+      "days": 24,
+      "day": "2nd Sun"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 733774,
+  "title": "2022 Austrian Classical Art Video Exhibition",
+  "releaseDate": "19-03-2022",
+  "entries": [
+    {
+      "date": "19-03-2022",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 951,
+      "days": 31,
+      "day": "1st Sat"
+    },
+    {
+      "date": "20-03-2022",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 1031,
+      "days": 32,
+      "day": "1st Sun"
+    },
+    {
+      "date": "27-03-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 5,
+      "admissions": 1163,
+      "days": 39,
+      "day": "2nd Sun"
+    }
+  ]
+}

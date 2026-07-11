@@ -1,0 +1,47 @@
+{
+  "movie_id": 605831,
+  "title": "Hamilton: I Nationens Intresse",
+  "releaseDate": "18-04-2016",
+  "entries": [
+    {
+      "date": "18-04-2016",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 3074,
+      "admissions": 5537,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "19-04-2016",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 3078,
+      "admissions": 5266,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "date": "20-04-2016",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 2708,
+      "admissions": 4257,
+      "days": 3,
+      "day": "1st Wed"
+    },
+    {
+      "date": "21-04-2016",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 2536,
+      "admissions": 3763,
+      "days": 4,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "07-06-2016",
+  "data": [
+    {
+      "movie_id": 402117,
+      "title": "",
+      "gross": 7.4,
+      "cume": 7.4,
+      "showings": 13657,
+      "admissions": 1272924,
+      "rank": 1,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 642020,
+      "title": "X-Men: Apocalypse",
+      "gross": 6.2,
+      "cume": 70.45,
+      "showings": 83344,
+      "admissions": 1221624,
+      "rank": 2,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 643383,
+      "title": "Alice Through the Looking Glass",
+      "gross": 0.88,
+      "cume": 49.64,
+      "showings": 31696,
+      "admissions": 190597,
+      "rank": 3,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 643995,
+      "title": "The Angry Birds Movie",
+      "gross": 0.43,
+      "cume": 70.39,
+      "showings": 24572,
+      "admissions": 91350,
+      "rank": 4,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 639261,
+      "title": "Book Of Love",
+      "gross": 0.08,
+      "cume": 115.41,
+      "showings": 2119,
+      "admissions": 14110,
+      "rank": 5,
+      "days": 40,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 643852,
+      "title": "The Death Game",
+      "gross": 0.06,
+      "cume": 0.45,
+      "showings": 5095,
+      "admissions": 16902,
+      "rank": 6,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 643740,
+      "title": "The Divergent Series: Allegiant",
+      "gross": 0.06,
+      "cume": 17.82,
+      "showings": 5009,
+      "admissions": 14623,
+      "rank": 7,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 643572,
+      "title": "Memento Mori",
+      "gross": 0.05,
+      "cume": 0.43,
+      "showings": 6812,
+      "admissions": 12571,
+      "rank": 8,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 611464,
+      "title": "Song of the Phoenix",
+      "gross": 0.04,
+      "cume": 12.44,
+      "showings": 1577,
+      "admissions": 9029,
+      "rank": 9,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 627639,
+      "title": "Witch Doctor",
+      "gross": 0.02,
+      "cume": 1.23,
+      "showings": 1319,
+      "admissions": 3771,
+      "rank": 10,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 628257,
+      "title": "Merder At Honeymoon Hotel",
+      "gross": 0.01,
+      "cume": 1.09,
+      "showings": 1215,
+      "admissions": 2257,
+      "rank": 11,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 643848,
+      "title": "Criminal",
+      "gross": 0.01,
+      "cume": 15.27,
+      "showings": 564,
+      "admissions": 1613,
+      "rank": 12,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 642530,
+      "title": "The White-haired Girl",
+      "gross": 0.01,
+      "cume": 0.78,
+      "showings": 21,
+      "admissions": 1182,
+      "rank": 13,
+      "days": 75,
+      "day": "14th Tue"
+    },
+    {
+      "movie_id": 615789,
+      "title": "Peacook",
+      "gross": 0.0,
+      "cume": 4.88,
+      "showings": 718,
+      "admissions": 1090,
+      "rank": 14,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 640092,
+      "title": "Compass",
+      "gross": 0.0,
+      "cume": 0.84,
+      "showings": 1550,
+      "admissions": 937,
+      "rank": 15,
+      "days": 7,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 644395,
+      "title": "Floraand Fauna’s War",
+      "gross": 0.0,
+      "cume": 0.18,
+      "showings": 341,
+      "admissions": 794,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 626997,
+      "title": "Fruit Story",
+      "gross": 0.0,
+      "cume": 0.54,
+      "showings": 1164,
+      "admissions": 518,
+      "rank": 17,
+      "days": 7,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 640869,
+      "title": "Bloody House",
+      "gross": 0.0,
+      "cume": 1.07,
+      "showings": 202,
+      "admissions": 515,
+      "rank": 18,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 644428,
+      "title": "ATM",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 222,
+      "admissions": 430,
+      "rank": 19,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 630869,
+      "title": "Distance",
+      "gross": 0.0,
+      "cume": 1.69,
+      "showings": 81,
+      "admissions": 321,
+      "rank": 20,
+      "days": 26,
+      "day": "5th Tue"
+    }
+  ]
+}

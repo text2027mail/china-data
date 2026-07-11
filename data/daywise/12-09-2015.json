@@ -1,0 +1,225 @@
+{
+  "date": "12-09-2015",
+  "data": [
+    {
+      "movie_id": 636000,
+      "title": "",
+      "gross": 18.85,
+      "cume": 68.57,
+      "showings": 78788,
+      "admissions": 3799367,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 617356,
+      "title": "The Dead End",
+      "gross": 0.93,
+      "cume": 43.57,
+      "showings": 13660,
+      "admissions": 200306,
+      "rank": 2,
+      "days": 17,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 631839,
+      "title": "Terminator: Genisys",
+      "gross": 0.8,
+      "cume": 106.27,
+      "showings": 13620,
+      "admissions": 151885,
+      "rank": 3,
+      "days": 21,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 631837,
+      "title": "Minions",
+      "gross": 0.67,
+      "cume": 0.67,
+      "showings": 2614,
+      "admissions": 120560,
+      "rank": 4,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 627896,
+      "title": "Monster Hunt",
+      "gross": 0.46,
+      "cume": 359.16,
+      "showings": 2286,
+      "admissions": 56053,
+      "rank": 5,
+      "days": 59,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 552015,
+      "title": "Amazonia",
+      "gross": 0.36,
+      "cume": 2.15,
+      "showings": 5197,
+      "admissions": 73436,
+      "rank": 6,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 612022,
+      "title": "Fly To The Venus",
+      "gross": 0.23,
+      "cume": 0.43,
+      "showings": 8847,
+      "admissions": 49342,
+      "rank": 7,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 639404,
+      "title": "Enchanted Mirror Romance",
+      "gross": 0.18,
+      "cume": 2.27,
+      "showings": 4939,
+      "admissions": 41087,
+      "rank": 8,
+      "days": 10,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 639056,
+      "title": "The Hundred Regiments Offensive",
+      "gross": 0.12,
+      "cume": 58.63,
+      "showings": 2324,
+      "admissions": 26977,
+      "rank": 9,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 596436,
+      "title": "Fang Fei Li Xiang",
+      "gross": 0.11,
+      "cume": 0.57,
+      "showings": 169,
+      "admissions": 22264,
+      "rank": 10,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 593416,
+      "title": "Chi Lang Yi",
+      "gross": 0.11,
+      "cume": 0.4,
+      "showings": 165,
+      "admissions": 22055,
+      "rank": 11,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 637578,
+      "title": "Go Away Mr. Tumour",
+      "gross": 0.11,
+      "cume": 75.3,
+      "showings": 1601,
+      "admissions": 22100,
+      "rank": 12,
+      "days": 31,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 638757,
+      "title": "All You Need Is Love",
+      "gross": 0.07,
+      "cume": 1.85,
+      "showings": 2288,
+      "admissions": 14103,
+      "rank": 13,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 615796,
+      "title": "Office",
+      "gross": 0.06,
+      "cume": 6.96,
+      "showings": 2387,
+      "admissions": 11462,
+      "rank": 14,
+      "days": 11,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 7954,
+      "title": "The Assassin",
+      "gross": 0.06,
+      "cume": 8.95,
+      "showings": 707,
+      "admissions": 10163,
+      "rank": 15,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 628362,
+      "title": "Love in the 1980s",
+      "gross": 0.06,
+      "cume": 0.11,
+      "showings": 1370,
+      "admissions": 12658,
+      "rank": 16,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 630112,
+      "title": "Bedside Cry",
+      "gross": 0.04,
+      "cume": 0.5,
+      "showings": 1544,
+      "admissions": 10550,
+      "rank": 17,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 618331,
+      "title": "Fight Against Landlords",
+      "gross": 0.04,
+      "cume": 0.07,
+      "showings": 3676,
+      "admissions": 8293,
+      "rank": 18,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 638444,
+      "title": "Roco Kingdom 4",
+      "gross": 0.04,
+      "cume": 11.32,
+      "showings": 575,
+      "admissions": 7594,
+      "rank": 19,
+      "days": 31,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 639256,
+      "title": "Mr. Black: Green Star",
+      "gross": 0.02,
+      "cume": 9.9,
+      "showings": 215,
+      "admissions": 3718,
+      "rank": 20,
+      "days": 37,
+      "day": "7th Sat"
+    }
+  ]
+}

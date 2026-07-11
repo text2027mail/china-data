@@ -1,0 +1,67 @@
+{
+  "movie_id": 676566,
+  "title": "It’s March 3Rd Again",
+  "releaseDate": "20-12-2018",
+  "entries": [
+    {
+      "date": "20-12-2018",
+      "rank": 5,
+      "gross": 0.25,
+      "cume": 0.25,
+      "showings": 956,
+      "admissions": 38719,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "21-12-2018",
+      "rank": 7,
+      "gross": 0.18,
+      "cume": 0.44,
+      "showings": 585,
+      "admissions": 28521,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-12-2018",
+      "rank": 8,
+      "gross": 0.2,
+      "cume": 0.64,
+      "showings": 651,
+      "admissions": 31609,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-12-2018",
+      "rank": 9,
+      "gross": 0.18,
+      "cume": 0.82,
+      "showings": 606,
+      "admissions": 29174,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "24-12-2018",
+      "rank": 8,
+      "gross": 0.2,
+      "cume": 1.02,
+      "showings": 746,
+      "admissions": 31385,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "25-12-2018",
+      "rank": 8,
+      "gross": 0.16,
+      "cume": 1.18,
+      "showings": 642,
+      "admissions": 25032,
+      "days": 6,
+      "day": "1st Tue"
+    }
+  ]
+}

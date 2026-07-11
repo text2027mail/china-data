@@ -1,0 +1,225 @@
+{
+  "date": "23-09-2023",
+  "data": [
+    {
+      "movie_id": 691388,
+      "title": "",
+      "gross": 3.54,
+      "cume": 58.08,
+      "showings": 88019,
+      "admissions": 571102,
+      "rank": 1,
+      "days": 15,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 740962,
+      "title": "Expend4bles",
+      "gross": 1.9,
+      "cume": 19.27,
+      "showings": 88398,
+      "admissions": 372108,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 704384,
+      "title": "No More Bets",
+      "gross": 1.26,
+      "cume": 564.37,
+      "showings": 43790,
+      "admissions": 210797,
+      "rank": 3,
+      "days": 47,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 737593,
+      "title": "Oppenheimer",
+      "gross": 1.23,
+      "cume": 60.83,
+      "showings": 24384,
+      "admissions": 194037,
+      "rank": 4,
+      "days": 25,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 673139,
+      "title": "Fengshen Trilogy",
+      "gross": 0.82,
+      "cume": 386.03,
+      "showings": 24048,
+      "admissions": 129885,
+      "rank": 5,
+      "days": 66,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 740277,
+      "title": "A Haunting in Venice",
+      "gross": 0.75,
+      "cume": 4.75,
+      "showings": 20879,
+      "admissions": 131904,
+      "rank": 6,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 695038,
+      "title": "Papa",
+      "gross": 0.52,
+      "cume": 89.93,
+      "showings": 15240,
+      "admissions": 87707,
+      "rank": 7,
+      "days": 37,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 710736,
+      "title": "Dancing Green",
+      "gross": 0.32,
+      "cume": 5.21,
+      "showings": 27935,
+      "admissions": 53000,
+      "rank": 8,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 716119,
+      "title": "CHANG AN",
+      "gross": 0.27,
+      "cume": 268.68,
+      "showings": 6466,
+      "admissions": 44443,
+      "rank": 9,
+      "days": 78,
+      "day": "12th Sat"
+    },
+    {
+      "movie_id": 708791,
+      "title": "One And Only",
+      "gross": 0.13,
+      "cume": 134.34,
+      "showings": 2402,
+      "admissions": 21859,
+      "rank": 10,
+      "days": 58,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 703564,
+      "title": "Meg 2: The Trench",
+      "gross": 0.12,
+      "cume": 125.5,
+      "showings": 5015,
+      "admissions": 19079,
+      "rank": 11,
+      "days": 51,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 712790,
+      "title": "All Ears",
+      "gross": 0.09,
+      "cume": 3.81,
+      "showings": 5016,
+      "admissions": 15086,
+      "rank": 12,
+      "days": 15,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 705157,
+      "title": "Around The World In 80 Days",
+      "gross": 0.09,
+      "cume": 3.91,
+      "showings": 911,
+      "admissions": 11861,
+      "rank": 13,
+      "days": 43,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 708416,
+      "title": "PATHFINDERS",
+      "gross": 0.09,
+      "cume": 1.26,
+      "showings": 225,
+      "admissions": 14955,
+      "rank": 14,
+      "days": 27,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 708124,
+      "title": "The Woman in the Storm",
+      "gross": 0.07,
+      "cume": 26.5,
+      "showings": 5118,
+      "admissions": 12052,
+      "rank": 15,
+      "days": 38,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 708001,
+      "title": "Oh My School ！",
+      "gross": 0.07,
+      "cume": 56.6,
+      "showings": 2958,
+      "admissions": 11703,
+      "rank": 16,
+      "days": 72,
+      "day": "15th Sat"
+    },
+    {
+      "movie_id": 713130,
+      "title": "Lose To Win",
+      "gross": 0.05,
+      "cume": 0.48,
+      "showings": 440,
+      "admissions": 8710,
+      "rank": 17,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 740891,
+      "title": "Hello! Tapir",
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 3068,
+      "admissions": 5075,
+      "rank": 18,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 738834,
+      "title": "Gran Turismo",
+      "gross": 0.02,
+      "cume": 1.94,
+      "showings": 1053,
+      "admissions": 3856,
+      "rank": 19,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 670775,
+      "title": "Warrio King",
+      "gross": 0.02,
+      "cume": 0.77,
+      "showings": 53,
+      "admissions": 3188,
+      "rank": 20,
+      "days": 36,
+      "day": "6th Sat"
+    }
+  ]
+}

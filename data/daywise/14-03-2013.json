@@ -1,0 +1,225 @@
+{
+  "date": "14-03-2013",
+  "data": [
+    {
+      "movie_id": 615250,
+      "title": "",
+      "gross": 3.16,
+      "cume": 3.25,
+      "showings": 27006,
+      "admissions": 671698,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 608215,
+      "title": "Princess and Seven Kung Fu Masters",
+      "gross": 0.42,
+      "cume": 6.84,
+      "showings": 8180,
+      "admissions": 93656,
+      "rank": 2,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 566700,
+      "title": "Upside Down",
+      "gross": 0.34,
+      "cume": 8.82,
+      "showings": 7168,
+      "admissions": 60992,
+      "rank": 3,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 589797,
+      "title": "Journey to the West: Conquering the Demons",
+      "gross": 0.33,
+      "cume": 181.4,
+      "showings": 5984,
+      "admissions": 57566,
+      "rank": 4,
+      "days": 33,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 341723,
+      "title": "The Hobbit: An Unexpected Journey",
+      "gross": 0.23,
+      "cume": 44.41,
+      "showings": 3404,
+      "admissions": 34262,
+      "rank": 5,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 590327,
+      "title": "Love Bank",
+      "gross": 0.15,
+      "cume": 0.16,
+      "showings": 5720,
+      "admissions": 34427,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 555111,
+      "title": "Les Miserables",
+      "gross": 0.12,
+      "cume": 7.98,
+      "showings": 1560,
+      "admissions": 22304,
+      "rank": 7,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 610888,
+      "title": "Silent Code",
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 5122,
+      "admissions": 16282,
+      "rank": 8,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 615231,
+      "title": "Fall In Love",
+      "gross": 0.05,
+      "cume": 1.56,
+      "showings": 1761,
+      "admissions": 10651,
+      "rank": 9,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 604129,
+      "title": "Stolen",
+      "gross": 0.04,
+      "cume": 6.25,
+      "showings": 1699,
+      "admissions": 8382,
+      "rank": 10,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 595235,
+      "title": "Midnight Train",
+      "gross": 0.03,
+      "cume": 0.77,
+      "showings": 1066,
+      "admissions": 6402,
+      "rank": 11,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 615497,
+      "title": "Scandals",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1443,
+      "admissions": 3511,
+      "rank": 12,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 566117,
+      "title": "Dredd",
+      "gross": 0.01,
+      "cume": 4.36,
+      "showings": 917,
+      "admissions": 2421,
+      "rank": 13,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 592544,
+      "title": "Say Yes",
+      "gross": 0.01,
+      "cume": 29.43,
+      "showings": 316,
+      "admissions": 2357,
+      "rank": 14,
+      "days": 31,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 595213,
+      "title": "Falling Flowers",
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 158,
+      "admissions": 2300,
+      "rank": 15,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 592550,
+      "title": "The Iron Lady",
+      "gross": 0.01,
+      "cume": 0.74,
+      "showings": 410,
+      "admissions": 1996,
+      "rank": 16,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 609363,
+      "title": "Youthful Days",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 80,
+      "admissions": 2578,
+      "rank": 17,
+      "days": 11,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 611576,
+      "title": "Lift to Hell",
+      "gross": 0.01,
+      "cume": 3.19,
+      "showings": 225,
+      "admissions": 1255,
+      "rank": 18,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 614864,
+      "title": "Jack Reacher",
+      "gross": 0.0,
+      "cume": 14.32,
+      "showings": 85,
+      "admissions": 514,
+      "rank": 19,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 353894,
+      "title": "Live FreeDie Hard",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 59,
+      "admissions": 470,
+      "rank": 20,
+      "days": 1947,
+      "day": "1st Thu"
+    }
+  ]
+}

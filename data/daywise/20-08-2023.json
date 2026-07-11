@@ -1,0 +1,225 @@
+{
+  "date": "20-08-2023",
+  "data": [
+    {
+      "movie_id": 704384,
+      "title": "",
+      "gross": 24.17,
+      "cume": 404.74,
+      "showings": 138350,
+      "admissions": 3917286,
+      "rank": 1,
+      "days": 13,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 695038,
+      "title": "Papa",
+      "gross": 8.62,
+      "cume": 25.17,
+      "showings": 76929,
+      "admissions": 1428935,
+      "rank": 2,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 673139,
+      "title": "Fengshen Trilogy",
+      "gross": 6.7,
+      "cume": 333.5,
+      "showings": 47101,
+      "admissions": 1025148,
+      "rank": 3,
+      "days": 32,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 703564,
+      "title": "Meg 2: The Trench",
+      "gross": 2.32,
+      "cume": 112.54,
+      "showings": 24231,
+      "admissions": 365686,
+      "rank": 4,
+      "days": 17,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 708124,
+      "title": "The Woman in the Storm",
+      "gross": 1.92,
+      "cume": 8.3,
+      "showings": 23104,
+      "admissions": 317634,
+      "rank": 5,
+      "days": 4,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 693416,
+      "title": "Death Notice",
+      "gross": 1.78,
+      "cume": 7.94,
+      "showings": 30725,
+      "admissions": 285200,
+      "rank": 6,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 716119,
+      "title": "CHANG AN",
+      "gross": 1.39,
+      "cume": 259.75,
+      "showings": 11325,
+      "admissions": 227379,
+      "rank": 7,
+      "days": 44,
+      "day": "8th Sun"
+    },
+    {
+      "movie_id": 708791,
+      "title": "One And Only",
+      "gross": 1.04,
+      "cume": 128.79,
+      "showings": 18639,
+      "admissions": 167685,
+      "rank": 8,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 706149,
+      "title": "Never Say Never",
+      "gross": 0.37,
+      "cume": 323.88,
+      "showings": 5233,
+      "admissions": 62560,
+      "rank": 9,
+      "days": 46,
+      "day": "10th Sun"
+    },
+    {
+      "movie_id": 739987,
+      "title": "Miraculous: Ladybug and Cat Noir The Movie",
+      "gross": 0.31,
+      "cume": 1.19,
+      "showings": 8183,
+      "admissions": 67713,
+      "rank": 10,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 708001,
+      "title": "Oh My School ！",
+      "gross": 0.3,
+      "cume": 54.2,
+      "showings": 5063,
+      "admissions": 50956,
+      "rank": 11,
+      "days": 38,
+      "day": "10th Sun"
+    },
+    {
+      "movie_id": 738512,
+      "title": "Barbie",
+      "gross": 0.13,
+      "cume": 36.6,
+      "showings": 1697,
+      "admissions": 23297,
+      "rank": 12,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 715367,
+      "title": "Fire of Love",
+      "gross": 0.1,
+      "cume": 0.27,
+      "showings": 2062,
+      "admissions": 17170,
+      "rank": 13,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 679485,
+      "title": "Kings Husky",
+      "gross": 0.09,
+      "cume": 0.35,
+      "showings": 5188,
+      "admissions": 17248,
+      "rank": 14,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 670775,
+      "title": "Warrio King",
+      "gross": 0.09,
+      "cume": 0.22,
+      "showings": 3628,
+      "admissions": 13012,
+      "rank": 15,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 706295,
+      "title": "You Must Get It",
+      "gross": 0.08,
+      "cume": 0.4,
+      "showings": 71,
+      "admissions": 10484,
+      "rank": 16,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 705151,
+      "title": "Heart's Motive",
+      "gross": 0.07,
+      "cume": 0.14,
+      "showings": 913,
+      "admissions": 11099,
+      "rank": 17,
+      "days": null,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 737856,
+      "title": "Mission: Impossible – Dead Reckoning Part One",
+      "gross": 0.05,
+      "cume": 51.25,
+      "showings": 477,
+      "admissions": 8117,
+      "rank": 18,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 733914,
+      "title": "Lost in the stars",
+      "gross": 0.05,
+      "cume": 520.14,
+      "showings": 955,
+      "admissions": 8067,
+      "rank": 19,
+      "days": 60,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 705157,
+      "title": "Around The World In 80 Days",
+      "gross": 0.04,
+      "cume": 1.13,
+      "showings": 1429,
+      "admissions": 8605,
+      "rank": 20,
+      "days": 9,
+      "day": "6th Sun"
+    }
+  ]
+}

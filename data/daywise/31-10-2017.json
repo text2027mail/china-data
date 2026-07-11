@@ -1,0 +1,225 @@
+{
+  "date": "31-10-2017",
+  "data": [
+    {
+      "movie_id": 657860,
+      "title": "",
+      "gross": 4.19,
+      "cume": 42.03,
+      "showings": 87831,
+      "admissions": 827300,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 643849,
+      "title": "Kingsman: The Golden Circle",
+      "gross": 1.15,
+      "cume": 64.22,
+      "showings": 34502,
+      "admissions": 227736,
+      "rank": 2,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 661004,
+      "title": "Never Say Die",
+      "gross": 0.97,
+      "cume": 315.71,
+      "showings": 30549,
+      "admissions": 199545,
+      "rank": 3,
+      "days": 32,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 657793,
+      "title": "Blade Runner 2049/Blade Runner 2",
+      "gross": 0.69,
+      "cume": 8.92,
+      "showings": 31396,
+      "admissions": 134147,
+      "rank": 4,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 662474,
+      "title": "Always Be with You",
+      "gross": 0.6,
+      "cume": 5.48,
+      "showings": 24322,
+      "admissions": 131162,
+      "rank": 5,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 669716,
+      "title": "Hold Your Hands",
+      "gross": 0.32,
+      "cume": 12.15,
+      "showings": 2297,
+      "admissions": 56473,
+      "rank": 6,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 660009,
+      "title": "City of Rock",
+      "gross": 0.31,
+      "cume": 65.29,
+      "showings": 9114,
+      "admissions": 65313,
+      "rank": 7,
+      "days": 33,
+      "day": "9th Tue"
+    },
+    {
+      "movie_id": 667490,
+      "title": "Bad Genius",
+      "gross": 0.3,
+      "cume": 38.31,
+      "showings": 11952,
+      "admissions": 66288,
+      "rank": 8,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 612013,
+      "title": "Under A Confessor",
+      "gross": 0.15,
+      "cume": 0.61,
+      "showings": 238,
+      "admissions": 27472,
+      "rank": 9,
+      "days": 1881,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 658278,
+      "title": "Chasing The Dragon",
+      "gross": 0.13,
+      "cume": 84.18,
+      "showings": 4703,
+      "admissions": 36828,
+      "rank": 10,
+      "days": 32,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 668674,
+      "title": "Doctor's Mind",
+      "gross": 0.08,
+      "cume": 0.72,
+      "showings": 194,
+      "admissions": 12544,
+      "rank": 11,
+      "days": 15,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 669198,
+      "title": "Six Years, 6 Days",
+      "gross": 0.08,
+      "cume": 0.73,
+      "showings": 179,
+      "admissions": 12039,
+      "rank": 12,
+      "days": 15,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 667847,
+      "title": "The Son of Bigfoot",
+      "gross": 0.04,
+      "cume": 6.33,
+      "showings": 3300,
+      "admissions": 9437,
+      "rank": 13,
+      "days": 18,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 661432,
+      "title": "The Foreigner",
+      "gross": 0.04,
+      "cume": 78.91,
+      "showings": 659,
+      "admissions": 5842,
+      "rank": 14,
+      "days": 32,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 642177,
+      "title": "Haunted Road 2",
+      "gross": 0.02,
+      "cume": 1.53,
+      "showings": 894,
+      "admissions": 5222,
+      "rank": 15,
+      "days": 20,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 669515,
+      "title": "Eternal Wave",
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 13,
+      "admissions": 1691,
+      "rank": 16,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 652615,
+      "title": "Sky Hunter",
+      "gross": 0.02,
+      "cume": 46.8,
+      "showings": 180,
+      "admissions": 1862,
+      "rank": 17,
+      "days": 33,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 618581,
+      "title": "Seventy-seven Days",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 11,
+      "admissions": 1457,
+      "rank": 18,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 617533,
+      "title": "Fight for Love",
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 2500,
+      "admissions": 2129,
+      "rank": 19,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 642415,
+      "title": "The Founding of an Army",
+      "gross": 0.01,
+      "cume": 59.48,
+      "showings": 19,
+      "admissions": 1938,
+      "rank": 20,
+      "days": 97,
+      "day": "15th Tue"
+    }
+  ]
+}

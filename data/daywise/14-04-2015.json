@@ -1,0 +1,225 @@
+{
+  "date": "14-04-2015",
+  "data": [
+    {
+      "movie_id": 629625,
+      "title": "",
+      "gross": 24.7,
+      "cume": 111.18,
+      "showings": 84196,
+      "admissions": 4393951,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 617165,
+      "title": "Wolf Warriors",
+      "gross": 1.26,
+      "cume": 67.2,
+      "showings": 17797,
+      "admissions": 260577,
+      "rank": 2,
+      "days": 13,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 627393,
+      "title": "Let's Get Married",
+      "gross": 0.4,
+      "cume": 41.01,
+      "showings": 10456,
+      "admissions": 84649,
+      "rank": 3,
+      "days": 13,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 631381,
+      "title": "Kingsman: The Secret Service",
+      "gross": 0.31,
+      "cume": 69.93,
+      "showings": 6352,
+      "admissions": 64515,
+      "rank": 4,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 630484,
+      "title": "Legend of Rabbit：The Martial of Fire",
+      "gross": 0.06,
+      "cume": 3.8,
+      "showings": 122,
+      "admissions": 9474,
+      "rank": 5,
+      "days": 53,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 637763,
+      "title": "The House of Magic",
+      "gross": 0.02,
+      "cume": 5.9,
+      "showings": 1420,
+      "admissions": 3691,
+      "rank": 6,
+      "days": 11,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 613404,
+      "title": "Insanity",
+      "gross": 0.01,
+      "cume": 6.59,
+      "showings": 1449,
+      "admissions": 3099,
+      "rank": 7,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 617807,
+      "title": "Two Thumbs Up",
+      "gross": 0.01,
+      "cume": 3.05,
+      "showings": 1185,
+      "admissions": 2888,
+      "rank": 8,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 616185,
+      "title": "Midnight Garage",
+      "gross": 0.01,
+      "cume": 1.13,
+      "showings": 955,
+      "admissions": 2433,
+      "rank": 9,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 626126,
+      "title": "The Queens",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 14,
+      "admissions": 1257,
+      "rank": 10,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 627482,
+      "title": "Lost and Love",
+      "gross": 0.0,
+      "cume": 31.89,
+      "showings": 176,
+      "admissions": 1135,
+      "rank": 11,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 614395,
+      "title": "Outcast",
+      "gross": 0.0,
+      "cume": 3.57,
+      "showings": 434,
+      "admissions": 831,
+      "rank": 12,
+      "days": 12,
+      "day": "30th Tue"
+    },
+    {
+      "movie_id": 612432,
+      "title": "Wolf Totem",
+      "gross": 0.0,
+      "cume": 102.92,
+      "showings": 60,
+      "admissions": 557,
+      "rank": 13,
+      "days": 55,
+      "day": "11th Tue"
+    },
+    {
+      "movie_id": 626279,
+      "title": "Kungfu Style",
+      "gross": 0.0,
+      "cume": 0.34,
+      "showings": 1274,
+      "admissions": 772,
+      "rank": 14,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 625912,
+      "title": "Rookie",
+      "gross": 0.0,
+      "cume": 0.28,
+      "showings": 534,
+      "admissions": 526,
+      "rank": 15,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 2.15,
+      "showings": 7,
+      "admissions": 444,
+      "rank": 16,
+      "days": 1324,
+      "day": "119th Tue"
+    },
+    {
+      "movie_id": 615868,
+      "title": "Nowhere To Run",
+      "gross": 0.0,
+      "cume": 3.79,
+      "showings": 307,
+      "admissions": 451,
+      "rank": 17,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 637833,
+      "title": "Village Diary",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 35,
+      "admissions": 382,
+      "rank": 18,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 631316,
+      "title": "Mortdecai",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 3,
+      "admissions": 192,
+      "rank": 19,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 631010,
+      "title": "Taken 3",
+      "gross": 0.0,
+      "cume": 30.16,
+      "showings": 117,
+      "admissions": 210,
+      "rank": 20,
+      "days": 26,
+      "day": "4th Tue"
+    }
+  ]
+}

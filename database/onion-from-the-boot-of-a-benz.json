@@ -1,0 +1,37 @@
+{
+  "movie_id": 618595,
+  "title": "Onion from the boot of a Benz",
+  "releaseDate": "27-01-2015",
+  "entries": [
+    {
+      "date": "27-01-2015",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1517,
+      "admissions": 2762,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "28-01-2015",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 1400,
+      "admissions": 2383,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "29-01-2015",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1022,
+      "admissions": 1357,
+      "days": 3,
+      "day": "1st Thu"
+    }
+  ]
+}

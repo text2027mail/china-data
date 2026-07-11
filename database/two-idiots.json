@@ -1,0 +1,47 @@
+{
+  "movie_id": 655151,
+  "title": "Two Idiots",
+  "releaseDate": "09-09-2016",
+  "entries": [
+    {
+      "date": "09-09-2016",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1467,
+      "admissions": 4628,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "10-09-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1006,
+      "admissions": 4068,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-09-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 869,
+      "admissions": 1594,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-09-2016",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 831,
+      "admissions": 4786,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 613149,
+  "title": "Spy Eyes",
+  "releaseDate": "10-03-2017",
+  "entries": [
+    {
+      "date": "10-03-2017",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 1998,
+      "admissions": 12248,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "11-03-2017",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.1,
+      "showings": 1492,
+      "admissions": 12660,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-03-2017",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.14,
+      "showings": 1351,
+      "admissions": 8736,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "13-03-2017",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 1224,
+      "admissions": 3841,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "14-03-2017",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 1168,
+      "admissions": 3115,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "15-03-2017",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 1152,
+      "admissions": 2971,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "16-03-2017",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 1106,
+      "admissions": 2637,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

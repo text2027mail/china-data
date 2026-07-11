@@ -1,0 +1,47 @@
+{
+  "movie_id": 1199679,
+  "title": "Dog Day Evening",
+  "releaseDate": "27-06-2026",
+  "entries": [
+    {
+      "date": "27-06-2026",
+      "rank": 20,
+      "gross": 0.04,
+      "cume": 0.08,
+      "showings": 1777,
+      "admissions": 7330,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-06-2026",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.12,
+      "showings": 2140,
+      "admissions": 7451,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-06-2026",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 1960,
+      "admissions": 2755,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-06-2026",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 2121,
+      "admissions": 2813,
+      "days": 4,
+      "day": "1st Tue"
+    }
+  ]
+}

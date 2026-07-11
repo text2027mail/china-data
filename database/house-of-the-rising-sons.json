@@ -1,0 +1,87 @@
+{
+  "movie_id": 668225,
+  "title": "House of The Rising Sons",
+  "releaseDate": "19-07-2018",
+  "entries": [
+    {
+      "date": "19-07-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 50,
+      "admissions": 2037,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "20-07-2018",
+      "rank": 9,
+      "gross": 0.13,
+      "cume": 0.14,
+      "showings": 7333,
+      "admissions": 26902,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-07-2018",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.19,
+      "showings": 1950,
+      "admissions": 7818,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-07-2018",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.22,
+      "showings": 1557,
+      "admissions": 5700,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-07-2018",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 1279,
+      "admissions": 2964,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-07-2018",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 1107,
+      "admissions": 2810,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-07-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.26,
+      "showings": 937,
+      "admissions": 1664,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "26-07-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 823,
+      "admissions": 1270,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "21-03-2024",
+  "data": [
+    {
+      "movie_id": 596852,
+      "title": "",
+      "gross": 1.05,
+      "cume": 81.71,
+      "showings": 73587,
+      "admissions": 183358,
+      "rank": 1,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 739312,
+      "title": "Dune: Part Two",
+      "gross": 0.72,
+      "cume": 41.65,
+      "showings": 40113,
+      "admissions": 103198,
+      "rank": 2,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 745229,
+      "title": "Remember Me",
+      "gross": 0.59,
+      "cume": 10.48,
+      "showings": 56189,
+      "admissions": 104877,
+      "rank": 3,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 710288,
+      "title": "I Miss You",
+      "gross": 0.46,
+      "cume": 27.18,
+      "showings": 46127,
+      "admissions": 75045,
+      "rank": 4,
+      "days": 14,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 735035,
+      "title": "Article 20",
+      "gross": 0.39,
+      "cume": 355.41,
+      "showings": 29645,
+      "admissions": 63805,
+      "rank": 5,
+      "days": 41,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 737452,
+      "title": "Pegasus 2",
+      "gross": 0.3,
+      "cume": 493.6,
+      "showings": 26408,
+      "admissions": 47823,
+      "rank": 6,
+      "days": 41,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 716595,
+      "title": "Yolo",
+      "gross": 0.1,
+      "cume": 504.57,
+      "showings": 14185,
+      "admissions": 16036,
+      "rank": 7,
+      "days": 41,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 707951,
+      "title": "THE MOVIE EMPEROR",
+      "gross": 0.08,
+      "cume": 13.65,
+      "showings": 14711,
+      "admissions": 13148,
+      "rank": 8,
+      "days": 7,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 739598,
+      "title": "Boonie Bears:Time Twist",
+      "gross": 0.05,
+      "cume": 286.74,
+      "showings": 8876,
+      "admissions": 8001,
+      "rank": 9,
+      "days": 41,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 713398,
+      "title": "Turning Point",
+      "gross": 0.03,
+      "cume": 0.34,
+      "showings": 491,
+      "admissions": 7077,
+      "rank": 10,
+      "days": 8,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 713368,
+      "title": "The Lone Warriors",
+      "gross": 0.03,
+      "cume": 4.62,
+      "showings": 52,
+      "admissions": 5401,
+      "rank": 11,
+      "days": 85,
+      "day": "13th Thu"
+    },
+    {
+      "movie_id": 708416,
+      "title": "PATHFINDERS",
+      "gross": 0.02,
+      "cume": 4.37,
+      "showings": 40,
+      "admissions": 2702,
+      "rank": 12,
+      "days": 207,
+      "day": "28th Thu"
+    },
+    {
+      "movie_id": 748663,
+      "title": "Challenge",
+      "gross": 0.02,
+      "cume": 0.42,
+      "showings": 4651,
+      "admissions": 3427,
+      "rank": 13,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 747074,
+      "title": "Kung Fu Panda 4",
+      "gross": 0.01,
+      "cume": 11.91,
+      "showings": 188,
+      "admissions": 1361,
+      "rank": 14,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 745267,
+      "title": "Room 6 At Midnight",
+      "gross": 0.01,
+      "cume": 0.62,
+      "showings": 1308,
+      "admissions": 1551,
+      "rank": 15,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 746311,
+      "title": "Search For The Vengeance",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 1723,
+      "admissions": 1640,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 710176,
+      "title": "A woman",
+      "gross": 0.01,
+      "cume": 0.32,
+      "showings": 72,
+      "admissions": 759,
+      "rank": 17,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 735516,
+      "title": "WHEN WE BLOOM",
+      "gross": 0.0,
+      "cume": 0.17,
+      "showings": 174,
+      "admissions": 1001,
+      "rank": 18,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 3.08,
+      "showings": 5,
+      "admissions": 640,
+      "rank": 19,
+      "days": 1724,
+      "day": "138th Thu"
+    },
+    {
+      "movie_id": 704936,
+      "title": "EIGHT HUNDRED MINERS",
+      "gross": 0.0,
+      "cume": 1.02,
+      "showings": 10,
+      "admissions": 775,
+      "rank": 20,
+      "days": 265,
+      "day": "34th Thu"
+    }
+  ]
+}

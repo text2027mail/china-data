@@ -1,0 +1,27 @@
+{
+  "movie_id": 681081,
+  "title": "Zhen Jia Mei Hou Wang",
+  "releaseDate": "05-12-2020",
+  "entries": [
+    {
+      "date": "05-12-2020",
+      "rank": 11,
+      "gross": 0.12,
+      "cume": 0.12,
+      "showings": 12359,
+      "admissions": 22317,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "06-12-2020",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.16,
+      "showings": 3280,
+      "admissions": 7832,
+      "days": 2,
+      "day": "1st Sun"
+    }
+  ]
+}

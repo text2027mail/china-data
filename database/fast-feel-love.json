@@ -1,0 +1,27 @@
+{
+  "movie_id": 740957,
+  "title": "Fast & Feel Love",
+  "releaseDate": "13-10-2023",
+  "entries": [
+    {
+      "date": "13-10-2023",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 8643,
+      "admissions": 3299,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-10-2023",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.06,
+      "showings": 2808,
+      "admissions": 6078,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

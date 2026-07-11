@@ -1,0 +1,77 @@
+{
+  "movie_id": 617790,
+  "title": "Love In 50 Meters",
+  "releaseDate": "12-02-2019",
+  "entries": [
+    {
+      "date": "12-02-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 9,
+      "admissions": 1040,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-02-2019",
+      "rank": 13,
+      "gross": 0.13,
+      "cume": 0.14,
+      "showings": 7377,
+      "admissions": 24990,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "15-02-2019",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 1229,
+      "admissions": 3283,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "16-02-2019",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 817,
+      "admissions": 1598,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-02-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 616,
+      "admissions": 2397,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "06-03-2019",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.19,
+      "showings": 54,
+      "admissions": 523,
+      "days": 21,
+      "day": "4th Wed"
+    },
+    {
+      "date": "09-03-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 78,
+      "admissions": 1881,
+      "days": 24,
+      "day": "4th Sat"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "movie_id": 679403,
+  "title": "Jane Eyre",
+  "releaseDate": "02-02-2019",
+  "entries": [
+    {
+      "date": "02-02-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 52,
+      "admissions": 2565,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-02-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 50,
+      "admissions": 1610,
+      "days": 4,
+      "day": "1st Sun"
+    }
+  ]
+}

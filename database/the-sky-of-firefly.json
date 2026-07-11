@@ -1,0 +1,27 @@
+{
+  "movie_id": 710679,
+  "title": "The sky of Firefly",
+  "releaseDate": "01-10-2023",
+  "entries": [
+    {
+      "date": "01-10-2023",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 29,
+      "admissions": 4048,
+      "days": 51,
+      "day": "1st Sun"
+    },
+    {
+      "date": "07-10-2023",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.17,
+      "showings": 18,
+      "admissions": 779,
+      "days": 57,
+      "day": "1st Sat"
+    }
+  ]
+}

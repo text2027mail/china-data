@@ -1,0 +1,225 @@
+{
+  "date": "01-07-2013",
+  "data": [
+    {
+      "movie_id": 614305,
+      "title": "",
+      "gross": 4.18,
+      "cume": 43.8,
+      "showings": 36165,
+      "admissions": 885650,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 610950,
+      "title": "Badges of Fury",
+      "gross": 1.53,
+      "cume": 32.25,
+      "showings": 15395,
+      "admissions": 326091,
+      "rank": 2,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 388774,
+      "title": "Man of Steel",
+      "gross": 1.51,
+      "cume": 44.92,
+      "showings": 12209,
+      "admissions": 249790,
+      "rank": 3,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 616186,
+      "title": "Happy Heroes",
+      "gross": 0.23,
+      "cume": 2.2,
+      "showings": 5136,
+      "admissions": 56122,
+      "rank": 4,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 612880,
+      "title": "Sammy's Adventures 2",
+      "gross": 0.09,
+      "cume": 0.94,
+      "showings": 3054,
+      "admissions": 17526,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 612278,
+      "title": "Mysterious Face",
+      "gross": 0.04,
+      "cume": 3.33,
+      "showings": 1869,
+      "admissions": 9193,
+      "rank": 6,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 615994,
+      "title": "Mao Ze Dong Yu Qi Bai Shi",
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 49,
+      "admissions": 3689,
+      "rank": 7,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 613423,
+      "title": "Oriental China Dream",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 64,
+      "admissions": 4740,
+      "rank": 8,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 610867,
+      "title": "American Dreams in China",
+      "gross": 0.01,
+      "cume": 79.42,
+      "showings": 157,
+      "admissions": 2164,
+      "rank": 9,
+      "days": 46,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 593283,
+      "title": "Switch",
+      "gross": 0.01,
+      "cume": 43.05,
+      "showings": 352,
+      "admissions": 1644,
+      "rank": 10,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 608197,
+      "title": "Blind Detective",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 5,
+      "admissions": 699,
+      "rank": 11,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 612772,
+      "title": "Touch of the Light",
+      "gross": 0.01,
+      "cume": 1.25,
+      "showings": 367,
+      "admissions": 1860,
+      "rank": 12,
+      "days": 24,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 592927,
+      "title": "Colombiana",
+      "gross": 0.0,
+      "cume": 7.38,
+      "showings": 147,
+      "admissions": 770,
+      "rank": 13,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 615767,
+      "title": "The Deadly Strands",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 4,
+      "admissions": 661,
+      "rank": 14,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 594393,
+      "title": "7 Assassins",
+      "gross": 0.0,
+      "cume": 0.55,
+      "showings": 285,
+      "admissions": 702,
+      "rank": 15,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 595767,
+      "title": "A Style of Men in Beijing",
+      "gross": 0.0,
+      "cume": 0.48,
+      "showings": 646,
+      "admissions": 669,
+      "rank": 16,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 592909,
+      "title": "Thrilling Eve",
+      "gross": 0.0,
+      "cume": 0.48,
+      "showings": 296,
+      "admissions": 581,
+      "rank": 17,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 614547,
+      "title": "I Love Hong Kong 2013",
+      "gross": 0.0,
+      "cume": 1.72,
+      "showings": 189,
+      "admissions": 401,
+      "rank": 18,
+      "days": 28,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 596088,
+      "title": "The Adventures of Sinbad 2013",
+      "gross": 0.0,
+      "cume": 5.74,
+      "showings": 242,
+      "admissions": 432,
+      "rank": 19,
+      "days": 32,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 615831,
+      "title": "Block Buster",
+      "gross": 0.0,
+      "cume": 0.52,
+      "showings": 243,
+      "admissions": 408,
+      "rank": 20,
+      "days": 21,
+      "day": "3rd Mon"
+    }
+  ]
+}

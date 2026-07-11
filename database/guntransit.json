@@ -1,0 +1,37 @@
+{
+  "movie_id": 631360,
+  "title": "GunTransit",
+  "releaseDate": "16-04-2015",
+  "entries": [
+    {
+      "date": "16-04-2015",
+      "rank": 6,
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 5512,
+      "admissions": 26319,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "17-04-2015",
+      "rank": 6,
+      "gross": 0.09,
+      "cume": 0.19,
+      "showings": 1507,
+      "admissions": 24179,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "18-04-2015",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 221,
+      "admissions": 1499,
+      "days": 3,
+      "day": "1st Sat"
+    }
+  ]
+}

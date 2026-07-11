@@ -1,0 +1,87 @@
+{
+  "movie_id": 703460,
+  "title": "Guang",
+  "releaseDate": "01-11-2020",
+  "entries": [
+    {
+      "date": "01-11-2020",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 88,
+      "admissions": 3196,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-11-2020",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 9,
+      "admissions": 989,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "06-11-2020",
+      "rank": 6,
+      "gross": 0.2,
+      "cume": 0.24,
+      "showings": 26813,
+      "admissions": 41370,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "07-11-2020",
+      "rank": 10,
+      "gross": 0.11,
+      "cume": 0.35,
+      "showings": 14471,
+      "admissions": 24084,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-11-2020",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 0.43,
+      "showings": 11664,
+      "admissions": 16410,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "09-11-2020",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.44,
+      "showings": 4964,
+      "admissions": 3083,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "10-11-2020",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.45,
+      "showings": 4299,
+      "admissions": 2593,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "12-11-2020",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.47,
+      "showings": 3417,
+      "admissions": 2501,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

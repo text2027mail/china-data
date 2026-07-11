@@ -1,0 +1,27 @@
+{
+  "movie_id": 643337,
+  "title": "Leather Shoes",
+  "releaseDate": "17-10-2018",
+  "entries": [
+    {
+      "date": "17-10-2018",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 283,
+      "admissions": 3081,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "23-10-2018",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 106,
+      "admissions": 3495,
+      "days": 7,
+      "day": "1st Tue"
+    }
+  ]
+}

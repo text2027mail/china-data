@@ -1,0 +1,77 @@
+{
+  "movie_id": 703168,
+  "title": "Ripples of Life",
+  "releaseDate": "08-09-2023",
+  "entries": [
+    {
+      "date": "08-09-2023",
+      "rank": 7,
+      "gross": 0.16,
+      "cume": 0.19,
+      "showings": 11635,
+      "admissions": 24162,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-09-2023",
+      "rank": 12,
+      "gross": 0.09,
+      "cume": 0.27,
+      "showings": 11399,
+      "admissions": 13629,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-09-2023",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.32,
+      "showings": 4074,
+      "admissions": 6926,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-09-2023",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.34,
+      "showings": 3123,
+      "admissions": 3183,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-09-2023",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.36,
+      "showings": 2691,
+      "admissions": 2510,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-09-2023",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.37,
+      "showings": 2461,
+      "admissions": 2484,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-09-2023",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.39,
+      "showings": 2387,
+      "admissions": 2460,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

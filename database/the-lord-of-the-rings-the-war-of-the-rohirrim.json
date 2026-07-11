@@ -1,0 +1,27 @@
+{
+  "movie_id": 771233,
+  "title": "The Lord of the Rings: The War of the Rohirrim",
+  "releaseDate": "14-12-2024",
+  "entries": [
+    {
+      "date": "14-12-2024",
+      "rank": 15,
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 6130,
+      "admissions": 12339,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-12-2024",
+      "rank": 18,
+      "gross": 0.05,
+      "cume": 0.12,
+      "showings": 5241,
+      "admissions": 7810,
+      "days": 2,
+      "day": "1st Sun"
+    }
+  ]
+}

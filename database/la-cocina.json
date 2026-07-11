@@ -1,0 +1,87 @@
+{
+  "movie_id": 785993,
+  "title": "La Cocina",
+  "releaseDate": "22-02-2025",
+  "entries": [
+    {
+      "date": "22-02-2025",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 66,
+      "admissions": 1141,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-02-2025",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 66,
+      "admissions": 1263,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-02-2025",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 812,
+      "admissions": 2098,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-03-2025",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 835,
+      "admissions": 2525,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "02-03-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 796,
+      "admissions": 2305,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "03-03-2025",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 473,
+      "admissions": 803,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "04-03-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 432,
+      "admissions": 810,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "05-03-2025",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 452,
+      "admissions": 953,
+      "days": 6,
+      "day": "2nd Wed"
+    }
+  ]
+}

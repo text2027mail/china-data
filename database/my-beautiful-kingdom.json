@@ -1,0 +1,97 @@
+{
+  "movie_id": 612696,
+  "title": "My Beautiful Kingdom",
+  "releaseDate": "13-12-2013",
+  "entries": [
+    {
+      "date": "13-12-2013",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1610,
+      "admissions": 3420,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-12-2013",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 1433,
+      "admissions": 5382,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-12-2013",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 1315,
+      "admissions": 3620,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-12-2013",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 1261,
+      "admissions": 1576,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "17-12-2013",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 1209,
+      "admissions": 1754,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "18-12-2013",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 1025,
+      "admissions": 1579,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "19-12-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 253,
+      "admissions": 184,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "21-12-2013",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 201,
+      "admissions": 333,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "24-12-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 166,
+      "admissions": 318,
+      "days": 12,
+      "day": "2nd Tue"
+    }
+  ]
+}

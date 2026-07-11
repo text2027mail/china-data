@@ -1,0 +1,47 @@
+{
+  "movie_id": 664868,
+  "title": "Pretty Princess",
+  "releaseDate": "10-11-2018",
+  "entries": [
+    {
+      "date": "10-11-2018",
+      "rank": 8,
+      "gross": 0.17,
+      "cume": 0.17,
+      "showings": 7140,
+      "admissions": 41732,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-11-2018",
+      "rank": 10,
+      "gross": 0.08,
+      "cume": 0.25,
+      "showings": 3978,
+      "admissions": 19177,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "17-11-2018",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 1037,
+      "admissions": 4901,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "18-11-2018",
+      "rank": 12,
+      "gross": 0.03,
+      "cume": 0.32,
+      "showings": 956,
+      "admissions": 6327,
+      "days": 9,
+      "day": "2nd Sun"
+    }
+  ]
+}

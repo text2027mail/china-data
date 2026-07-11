@@ -1,0 +1,47 @@
+{
+  "movie_id": 785321,
+  "title": "THE SACRIFICIAL HOUSE",
+  "releaseDate": "17-04-2026",
+  "entries": [
+    {
+      "date": "17-04-2026",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 11702,
+      "admissions": 10654,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "18-04-2026",
+      "rank": 17,
+      "gross": 0.05,
+      "cume": 0.11,
+      "showings": 8377,
+      "admissions": 10389,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "20-04-2026",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 5811,
+      "admissions": 2097,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "21-04-2026",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 5427,
+      "admissions": 1652,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

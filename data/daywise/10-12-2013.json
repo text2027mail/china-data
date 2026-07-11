@@ -1,0 +1,225 @@
+{
+  "date": "10-12-2013",
+  "data": [
+    {
+      "movie_id": 614346,
+      "title": "",
+      "gross": 1.68,
+      "cume": 1.71,
+      "showings": 7329,
+      "admissions": 309333,
+      "rank": 1,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 566774,
+      "title": "No Man's Land",
+      "gross": 1.65,
+      "cume": 23.58,
+      "showings": 21812,
+      "admissions": 367632,
+      "rank": 2,
+      "days": 8,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 610952,
+      "title": "The Four 2",
+      "gross": 1.55,
+      "cume": 16.56,
+      "showings": 22210,
+      "admissions": 289523,
+      "rank": 3,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 612120,
+      "title": "The White Storm",
+      "gross": 0.98,
+      "cume": 27.6,
+      "showings": 13759,
+      "admissions": 210598,
+      "rank": 4,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 602981,
+      "title": "Gravity",
+      "gross": 0.36,
+      "cume": 61.79,
+      "showings": 5504,
+      "admissions": 51943,
+      "rank": 5,
+      "days": 22,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 612538,
+      "title": "The Hunger Games: Catching Fire",
+      "gross": 0.09,
+      "cume": 24.71,
+      "showings": 1916,
+      "admissions": 16869,
+      "rank": 6,
+      "days": 20,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 604366,
+      "title": "Welcome to the Punch",
+      "gross": 0.06,
+      "cume": 0.6,
+      "showings": 4910,
+      "admissions": 13945,
+      "rank": 7,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 616731,
+      "title": "Epic",
+      "gross": 0.04,
+      "cume": 5.61,
+      "showings": 1616,
+      "admissions": 7436,
+      "rank": 8,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.01,
+      "cume": 8.02,
+      "showings": 21,
+      "admissions": 1337,
+      "rank": 9,
+      "days": 148,
+      "day": "22nd Tue"
+    },
+    {
+      "movie_id": 589509,
+      "title": "Amazing",
+      "gross": 0.01,
+      "cume": 6.77,
+      "showings": 2,
+      "admissions": 556,
+      "rank": 10,
+      "days": 72,
+      "day": "11th Tue"
+    },
+    {
+      "movie_id": 610046,
+      "title": "KungFu Fighter",
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 84,
+      "admissions": 1331,
+      "rank": 11,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 609005,
+      "title": "Control",
+      "gross": 0.0,
+      "cume": 6.42,
+      "showings": 489,
+      "admissions": 902,
+      "rank": 12,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 612758,
+      "title": "Soul Rhythm",
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 6,
+      "admissions": 1790,
+      "rank": 13,
+      "days": null,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 617484,
+      "title": "Farm House 81",
+      "gross": 0.0,
+      "cume": 3.65,
+      "showings": 7,
+      "admissions": 1067,
+      "rank": 14,
+      "days": 74,
+      "day": "11th Tue"
+    },
+    {
+      "movie_id": 4964,
+      "title": "Dragon Tiger Gate",
+      "gross": 0.0,
+      "cume": 0.21,
+      "showings": 8,
+      "admissions": 1096,
+      "rank": 15,
+      "days": 2693,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 611200,
+      "title": "The Land is So Rich in Beauty",
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 15,
+      "admissions": 2117,
+      "rank": 16,
+      "days": null,
+      "day": "9th Tue"
+    },
+    {
+      "movie_id": 573396,
+      "title": "The Four",
+      "gross": 0.0,
+      "cume": 28.47,
+      "showings": 16,
+      "admissions": 892,
+      "rank": 17,
+      "days": 517,
+      "day": "11th Tue"
+    },
+    {
+      "movie_id": 816,
+      "title": "An Empress and The Warriors",
+      "gross": 0.0,
+      "cume": 5.67,
+      "showings": 6,
+      "admissions": 879,
+      "rank": 18,
+      "days": 2105,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 587766,
+      "title": "The Detective 2",
+      "gross": 0.0,
+      "cume": 3.48,
+      "showings": 6,
+      "admissions": 791,
+      "rank": 19,
+      "days": 957,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 609111,
+      "title": "An Inaccurate Memoir",
+      "gross": 0.0,
+      "cume": 3.62,
+      "showings": 3,
+      "admissions": 771,
+      "rank": 20,
+      "days": 597,
+      "day": "1st Tue"
+    }
+  ]
+}

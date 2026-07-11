@@ -1,0 +1,57 @@
+{
+  "movie_id": 628754,
+  "title": "Once Upon a Time in the Old Bridge",
+  "releaseDate": "05-09-2014",
+  "entries": [
+    {
+      "date": "05-09-2014",
+      "rank": 8,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2108,
+      "admissions": 4508,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "06-09-2014",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1217,
+      "admissions": 3279,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "07-09-2014",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 907,
+      "admissions": 2181,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "08-09-2014",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 321,
+      "admissions": 832,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "09-09-2014",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 335,
+      "admissions": 1120,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

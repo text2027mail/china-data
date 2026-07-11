@@ -1,0 +1,225 @@
+{
+  "date": "13-10-2022",
+  "data": [
+    {
+      "movie_id": 702020,
+      "title": "",
+      "gross": 2.05,
+      "cume": 181.05,
+      "showings": 106153,
+      "admissions": 337204,
+      "rank": 1,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.35,
+      "cume": 22.19,
+      "showings": 31648,
+      "admissions": 62484,
+      "rank": 2,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 701893,
+      "title": "Give Me Five",
+      "gross": 0.27,
+      "cume": 64.95,
+      "showings": 25227,
+      "admissions": 44636,
+      "rank": 3,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 705775,
+      "title": "Steel Will",
+      "gross": 0.16,
+      "cume": 10.4,
+      "showings": 8236,
+      "admissions": 25635,
+      "rank": 4,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 702906,
+      "title": "Moonman",
+      "gross": 0.05,
+      "cume": 456.67,
+      "showings": 11194,
+      "admissions": 8553,
+      "rank": 5,
+      "days": 77,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 706969,
+      "title": "New Gods: Yang Jian",
+      "gross": 0.05,
+      "cume": 79.8,
+      "showings": 11387,
+      "admissions": 8210,
+      "rank": 6,
+      "days": 56,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 715732,
+      "title": "Table for Six",
+      "gross": 0.04,
+      "cume": 14.41,
+      "showings": 4487,
+      "admissions": 7583,
+      "rank": 7,
+      "days": 35,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 730455,
+      "title": "Come Back Home",
+      "gross": 0.02,
+      "cume": 2.42,
+      "showings": 10053,
+      "admissions": 4497,
+      "rank": 8,
+      "days": 11,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 715985,
+      "title": "New Happy Dad and Son 5: My Alien Friend",
+      "gross": 0.01,
+      "cume": 10.03,
+      "showings": 8430,
+      "admissions": 2285,
+      "rank": 9,
+      "days": 13,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 683536,
+      "title": "Warriors of Future",
+      "gross": 0.01,
+      "cume": 99.68,
+      "showings": 1973,
+      "admissions": 1422,
+      "rank": 10,
+      "days": 70,
+      "day": "11th Thu"
+    },
+    {
+      "movie_id": 708410,
+      "title": "Song of Spring",
+      "gross": 0.01,
+      "cume": 11.15,
+      "showings": 1662,
+      "admissions": 1260,
+      "rank": 11,
+      "days": 34,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 699006,
+      "title": "The Tyrannosaurus Rex",
+      "gross": 0.0,
+      "cume": 3.82,
+      "showings": 3855,
+      "admissions": 1055,
+      "rank": 12,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 696911,
+      "title": "Nine orcids",
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 30,
+      "admissions": 804,
+      "rank": 13,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 712413,
+      "title": "Cinderella and the Spellbinder",
+      "gross": 0.0,
+      "cume": 3.69,
+      "showings": 3342,
+      "admissions": 838,
+      "rank": 14,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.0,
+      "cume": 5.17,
+      "showings": 10,
+      "admissions": 615,
+      "rank": 15,
+      "days": 434,
+      "day": "64th Thu"
+    },
+    {
+      "movie_id": 702055,
+      "title": "In Search of Lost Time",
+      "gross": 0.0,
+      "cume": 5.2,
+      "showings": 681,
+      "admissions": 377,
+      "rank": 16,
+      "days": 35,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.0,
+      "cume": 89.63,
+      "showings": 1461,
+      "admissions": 475,
+      "rank": 17,
+      "days": 255,
+      "day": "37th Thu"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 1.1,
+      "showings": 4,
+      "admissions": 302,
+      "rank": 18,
+      "days": 1199,
+      "day": "63rd Thu"
+    },
+    {
+      "movie_id": 703192,
+      "title": "The Magic Bowl Of Wang Huayin",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 30,
+      "admissions": 495,
+      "rank": 19,
+      "days": 42,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 702457,
+      "title": "Hero",
+      "gross": 0.0,
+      "cume": 8.21,
+      "showings": 339,
+      "admissions": 270,
+      "rank": 20,
+      "days": 35,
+      "day": "6th Thu"
+    }
+  ]
+}

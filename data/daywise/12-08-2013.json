@@ -1,0 +1,225 @@
+{
+  "date": "12-08-2013",
+  "data": [
+    {
+      "movie_id": 616735,
+      "title": "",
+      "gross": 2.89,
+      "cume": 28.09,
+      "showings": 28344,
+      "admissions": 628389,
+      "rank": 1,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 616436,
+      "title": "Pacific Rim",
+      "gross": 2.61,
+      "cume": 75.9,
+      "showings": 15618,
+      "admissions": 441502,
+      "rank": 2,
+      "days": 13,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 613854,
+      "title": "One Night Surprise",
+      "gross": 1.74,
+      "cume": 8.65,
+      "showings": 16760,
+      "admissions": 382918,
+      "rank": 3,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 615668,
+      "title": "Fast & Furious 6",
+      "gross": 0.46,
+      "cume": 58.36,
+      "showings": 4649,
+      "admissions": 89319,
+      "rank": 4,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 589743,
+      "title": "Crimes of Passion",
+      "gross": 0.28,
+      "cume": 2.36,
+      "showings": 5860,
+      "admissions": 60845,
+      "rank": 5,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 617190,
+      "title": "I Love Wolffy 2",
+      "gross": 0.2,
+      "cume": 9.84,
+      "showings": 4339,
+      "admissions": 44435,
+      "rank": 6,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 617258,
+      "title": "White House Down",
+      "gross": 0.07,
+      "cume": 25.7,
+      "showings": 679,
+      "admissions": 13139,
+      "rank": 7,
+      "days": 22,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 617176,
+      "title": "Young Style",
+      "gross": 0.05,
+      "cume": 3.92,
+      "showings": 1733,
+      "admissions": 12140,
+      "rank": 8,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.04,
+      "cume": 0.43,
+      "showings": 111,
+      "admissions": 9584,
+      "rank": 9,
+      "days": 28,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 617257,
+      "title": "Kunta",
+      "gross": 0.04,
+      "cume": 1.83,
+      "showings": 1138,
+      "admissions": 8708,
+      "rank": 10,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 612621,
+      "title": "The Palace",
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 229,
+      "admissions": 5140,
+      "rank": 11,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 617278,
+      "title": "Saving Mother Robot",
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 1573,
+      "admissions": 3733,
+      "rank": 12,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 593283,
+      "title": "Switch",
+      "gross": 0.01,
+      "cume": 44.07,
+      "showings": 21,
+      "admissions": 2147,
+      "rank": 13,
+      "days": 65,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 613961,
+      "title": "Bunshinsaba 2",
+      "gross": 0.01,
+      "cume": 12.08,
+      "showings": 297,
+      "admissions": 1520,
+      "rank": 14,
+      "days": 28,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 616427,
+      "title": "The Stolen Years",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 4,
+      "admissions": 1068,
+      "rank": 15,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 0.73,
+      "showings": 6,
+      "admissions": 562,
+      "rank": 16,
+      "days": 714,
+      "day": "31st Mon"
+    },
+    {
+      "movie_id": 614305,
+      "title": "Tiny Times",
+      "gross": 0.0,
+      "cume": 71.45,
+      "showings": 36,
+      "admissions": 580,
+      "rank": 17,
+      "days": 47,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 611718,
+      "title": "Love Story",
+      "gross": 0.0,
+      "cume": 0.29,
+      "showings": 265,
+      "admissions": 608,
+      "rank": 18,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 592255,
+      "title": "Mr.GO",
+      "gross": 0.0,
+      "cume": 16.63,
+      "showings": 100,
+      "admissions": 443,
+      "rank": 19,
+      "days": 26,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 615635,
+      "title": "Seer3:Heroes Alliance",
+      "gross": 0.0,
+      "cume": 11.25,
+      "showings": 37,
+      "admissions": 280,
+      "rank": 20,
+      "days": 32,
+      "day": "5th Mon"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "movie_id": 617319,
+  "title": "Live With A Thief",
+  "releaseDate": "29-08-2014",
+  "entries": [
+    {
+      "date": "29-08-2014",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1671,
+      "admissions": 5205,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-08-2014",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 1367,
+      "admissions": 5397,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "31-08-2014",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 1281,
+      "admissions": 4766,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-09-2014",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 439,
+      "admissions": 644,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

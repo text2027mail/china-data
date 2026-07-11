@@ -1,0 +1,225 @@
+{
+  "date": "05-09-2018",
+  "data": [
+    {
+      "movie_id": 657756,
+      "title": "",
+      "gross": 6.37,
+      "cume": 101.03,
+      "showings": 121949,
+      "admissions": 1193959,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 676247,
+      "title": "Ant-Man and the Wasp",
+      "gross": 1.02,
+      "cume": 112.79,
+      "showings": 42960,
+      "admissions": 199223,
+      "rank": 2,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 654239,
+      "title": "Go Brother",
+      "gross": 0.45,
+      "cume": 51.52,
+      "showings": 20486,
+      "admissions": 95970,
+      "rank": 3,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 646917,
+      "title": "Sultan",
+      "gross": 0.37,
+      "cume": 4.26,
+      "showings": 17451,
+      "admissions": 83960,
+      "rank": 4,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 677028,
+      "title": "The Island",
+      "gross": 0.31,
+      "cume": 197.65,
+      "showings": 12643,
+      "admissions": 62258,
+      "rank": 5,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 644333,
+      "title": "The Meg",
+      "gross": 0.24,
+      "cume": 153.64,
+      "showings": 11844,
+      "admissions": 45502,
+      "rank": 6,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 672442,
+      "title": "Blood-Soaked GuangChang",
+      "gross": 0.22,
+      "cume": 12.57,
+      "showings": 389,
+      "admissions": 29972,
+      "rank": 7,
+      "days": 36,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 671983,
+      "title": "Hello Mr. Billionaire",
+      "gross": 0.18,
+      "cume": 373.25,
+      "showings": 7502,
+      "admissions": 37074,
+      "rank": 8,
+      "days": 41,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 674343,
+      "title": "Proud of Me",
+      "gross": 0.1,
+      "cume": 6.28,
+      "showings": 2675,
+      "admissions": 19994,
+      "rank": 9,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 642989,
+      "title": "Goddness In The Flames Of War",
+      "gross": 0.09,
+      "cume": 0.61,
+      "showings": 3640,
+      "admissions": 14139,
+      "rank": 10,
+      "days": 3,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 674426,
+      "title": "Big Brother",
+      "gross": 0.08,
+      "cume": 21.26,
+      "showings": 6420,
+      "admissions": 17565,
+      "rank": 11,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 673593,
+      "title": "Hidden Land In Northern Tibet",
+      "gross": 0.06,
+      "cume": 0.82,
+      "showings": 4049,
+      "admissions": 13641,
+      "rank": 12,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 679654,
+      "title": "Hotel Transylvania 3: Summer Vacation",
+      "gross": 0.06,
+      "cume": 30.87,
+      "showings": 6232,
+      "admissions": 12118,
+      "rank": 13,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 677432,
+      "title": "Li Xue Sheng",
+      "gross": 0.03,
+      "cume": 0.23,
+      "showings": 224,
+      "admissions": 6110,
+      "rank": 14,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 676763,
+      "title": "The Faithful",
+      "gross": 0.02,
+      "cume": 0.9,
+      "showings": 390,
+      "admissions": 5033,
+      "rank": 15,
+      "days": 13,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 679762,
+      "title": "Inside the Boys",
+      "gross": 0.02,
+      "cume": 0.22,
+      "showings": 1453,
+      "admissions": 5142,
+      "rank": 16,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 668657,
+      "title": "L Storm",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 5,
+      "admissions": 1089,
+      "rank": 17,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 638262,
+      "title": "Great Cold",
+      "gross": 0.01,
+      "cume": 0.26,
+      "showings": 20,
+      "admissions": 1898,
+      "rank": 18,
+      "days": 237,
+      "day": "34th Wed"
+    },
+    {
+      "movie_id": 637873,
+      "title": "Oolong Contryard",
+      "gross": 0.01,
+      "cume": 19.26,
+      "showings": 1115,
+      "admissions": 2458,
+      "rank": 19,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 680504,
+      "title": "The Taste of Apple",
+      "gross": 0.01,
+      "cume": 0.55,
+      "showings": 227,
+      "admissions": 1961,
+      "rank": 20,
+      "days": 29,
+      "day": "5th Wed"
+    }
+  ]
+}

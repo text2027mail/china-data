@@ -1,0 +1,67 @@
+{
+  "movie_id": 673137,
+  "title": "Chasing Dream",
+  "releaseDate": "08-11-2019",
+  "entries": [
+    {
+      "date": "08-11-2019",
+      "rank": 6,
+      "gross": 1.07,
+      "cume": 1.09,
+      "showings": 42531,
+      "admissions": 153231,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-11-2019",
+      "rank": 7,
+      "gross": 1.06,
+      "cume": 2.15,
+      "showings": 17031,
+      "admissions": 118568,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-11-2019",
+      "rank": 7,
+      "gross": 0.94,
+      "cume": 3.08,
+      "showings": 13840,
+      "admissions": 108834,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-11-2019",
+      "rank": 7,
+      "gross": 0.45,
+      "cume": 3.53,
+      "showings": 6970,
+      "admissions": 48403,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-11-2019",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 3.58,
+      "showings": 5542,
+      "admissions": 6023,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-11-2019",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 3.6,
+      "showings": 5003,
+      "admissions": 3392,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

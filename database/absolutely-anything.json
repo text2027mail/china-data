@@ -1,0 +1,67 @@
+{
+  "movie_id": 636336,
+  "title": "Absolutely Anything",
+  "releaseDate": "09-09-2016",
+  "entries": [
+    {
+      "date": "09-09-2016",
+      "rank": 5,
+      "gross": 0.3,
+      "cume": 0.3,
+      "showings": 22605,
+      "admissions": 79255,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "10-09-2016",
+      "rank": 6,
+      "gross": 0.39,
+      "cume": 0.69,
+      "showings": 18966,
+      "admissions": 100091,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-09-2016",
+      "rank": 7,
+      "gross": 0.28,
+      "cume": 0.97,
+      "showings": 17447,
+      "admissions": 71673,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "12-09-2016",
+      "rank": 8,
+      "gross": 0.1,
+      "cume": 1.07,
+      "showings": 16594,
+      "admissions": 25200,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-09-2016",
+      "rank": 8,
+      "gross": 0.09,
+      "cume": 1.17,
+      "showings": 16063,
+      "admissions": 24068,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-09-2016",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 1.18,
+      "showings": 2839,
+      "admissions": 4026,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

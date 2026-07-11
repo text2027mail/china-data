@@ -1,0 +1,67 @@
+{
+  "movie_id": 709051,
+  "title": "LAWMAN'S WIT",
+  "releaseDate": "15-10-2021",
+  "entries": [
+    {
+      "date": "15-10-2021",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 2690,
+      "admissions": 2904,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "16-10-2021",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 986,
+      "admissions": 3360,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-11-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 67,
+      "admissions": 1562,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "date": "16-11-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 30,
+      "admissions": 1463,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "date": "20-11-2021",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.17,
+      "showings": 61,
+      "admissions": 4410,
+      "days": 37,
+      "day": "6th Sat"
+    },
+    {
+      "date": "21-11-2021",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.19,
+      "showings": 59,
+      "admissions": 3282,
+      "days": 38,
+      "day": "6th Sun"
+    }
+  ]
+}

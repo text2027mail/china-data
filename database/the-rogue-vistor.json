@@ -1,0 +1,47 @@
+{
+  "movie_id": 707314,
+  "title": "THE ROGUE VISTOR",
+  "releaseDate": "17-07-2024",
+  "entries": [
+    {
+      "date": "17-07-2024",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 14,
+      "admissions": 1467,
+      "days": 64,
+      "day": "1st Wed"
+    },
+    {
+      "date": "19-07-2024",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 18,
+      "admissions": 2151,
+      "days": 66,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-07-2024",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.15,
+      "showings": 22,
+      "admissions": 3353,
+      "days": 67,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-10-2024",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.48,
+      "showings": 22,
+      "admissions": 415,
+      "days": 147,
+      "day": "12th Tue"
+    }
+  ]
+}

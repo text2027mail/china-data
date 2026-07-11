@@ -1,0 +1,225 @@
+{
+  "date": "19-02-2015",
+  "data": [
+    {
+      "movie_id": 626314,
+      "title": "",
+      "gross": 17.8,
+      "cume": 17.99,
+      "showings": 38596,
+      "admissions": 2918990,
+      "rank": 1,
+      "days": 1,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 627594,
+      "title": "The Man From Macau Ⅱ",
+      "gross": 9.54,
+      "cume": 9.79,
+      "showings": 23766,
+      "admissions": 1572799,
+      "rank": 2,
+      "days": 1,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 614827,
+      "title": "Zhong Kui: Snow Girl and the Dark Crystal",
+      "gross": 9.47,
+      "cume": 9.67,
+      "showings": 24678,
+      "admissions": 1549645,
+      "rank": 3,
+      "days": 1,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 630414,
+      "title": "Where Are We Going? Dad 2",
+      "gross": 6.6,
+      "cume": 7.01,
+      "showings": 22736,
+      "admissions": 1368176,
+      "rank": 4,
+      "days": 1,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 612432,
+      "title": "Wolf Totem",
+      "gross": 4.92,
+      "cume": 13.12,
+      "showings": 15656,
+      "admissions": 838231,
+      "rank": 5,
+      "days": 1,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 627643,
+      "title": "Triumph In The Skies",
+      "gross": 3.43,
+      "cume": 3.54,
+      "showings": 12787,
+      "admissions": 625909,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 628143,
+      "title": "Emperor",
+      "gross": 2.86,
+      "cume": 2.89,
+      "showings": 11895,
+      "admissions": 559997,
+      "rank": 7,
+      "days": 1,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 629949,
+      "title": "Boonie Bears: Mystical Winter",
+      "gross": 0.17,
+      "cume": 39.39,
+      "showings": 700,
+      "admissions": 30119,
+      "rank": 8,
+      "days": 21,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 627004,
+      "title": "Somewhere Only We Know",
+      "gross": 0.06,
+      "cume": 40.58,
+      "showings": 483,
+      "admissions": 11214,
+      "rank": 9,
+      "days": 10,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 629953,
+      "title": "Pleasant Goat and Big Big Wolf – Amazing Pleasant Goat",
+      "gross": 0.05,
+      "cume": 9.53,
+      "showings": 674,
+      "admissions": 10809,
+      "rank": 10,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 630697,
+      "title": "Xinnian is Coming Uproar of Chuxi",
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 1514,
+      "admissions": 7284,
+      "rank": 11,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 616397,
+      "title": "One Night Stud",
+      "gross": 0.02,
+      "cume": 9.77,
+      "showings": 526,
+      "admissions": 5384,
+      "rank": 12,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 622970,
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "gross": 0.02,
+      "cume": 32.95,
+      "showings": 145,
+      "admissions": 3507,
+      "rank": 13,
+      "days": 12,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 625819,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "gross": 0.02,
+      "cume": 112.95,
+      "showings": 107,
+      "admissions": 3057,
+      "rank": 14,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 619293,
+      "title": "Dad, Where are We Going",
+      "gross": 0.02,
+      "cume": 102.76,
+      "showings": 81,
+      "admissions": 3389,
+      "rank": 15,
+      "days": 385,
+      "day": "56th Thu"
+    },
+    {
+      "movie_id": 618156,
+      "title": "Legend Of The Moles-The Magic Train Adventure",
+      "gross": 0.01,
+      "cume": 1.18,
+      "showings": 306,
+      "admissions": 2556,
+      "rank": 16,
+      "days": null,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 629936,
+      "title": "Happy New Year",
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 392,
+      "admissions": 1486,
+      "rank": 17,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 630178,
+      "title": "Running Man",
+      "gross": 0.01,
+      "cume": 63.94,
+      "showings": 112,
+      "admissions": 1332,
+      "rank": 18,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 630771,
+      "title": "Unbroken",
+      "gross": 0.01,
+      "cume": 5.42,
+      "showings": 22,
+      "admissions": 1168,
+      "rank": 19,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 630923,
+      "title": "The Hero of Color City",
+      "gross": 0.01,
+      "cume": 0.94,
+      "showings": 207,
+      "admissions": 1308,
+      "rank": 20,
+      "days": 14,
+      "day": "2nd Thu"
+    }
+  ]
+}

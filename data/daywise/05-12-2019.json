@@ -1,0 +1,225 @@
+{
+  "date": "05-12-2019",
+  "data": [
+    {
+      "movie_id": 696120,
+      "title": "",
+      "gross": 2.1,
+      "cume": 2.61,
+      "showings": 3189,
+      "admissions": 195902,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 678649,
+      "title": "Two Tigers",
+      "gross": 1.69,
+      "cume": 28.97,
+      "showings": 84628,
+      "admissions": 334277,
+      "rank": 2,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 695766,
+      "title": "Knives Out",
+      "gross": 1.28,
+      "cume": 20.65,
+      "showings": 62543,
+      "admissions": 268175,
+      "rank": 3,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 676432,
+      "title": "Frozen 2",
+      "gross": 0.87,
+      "cume": 98.89,
+      "showings": 68967,
+      "admissions": 170428,
+      "rank": 4,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 695387,
+      "title": "Ad Astra",
+      "gross": 0.78,
+      "cume": 0.79,
+      "showings": 30818,
+      "admissions": 159920,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 684441,
+      "title": "Somewhere Winter",
+      "gross": 0.17,
+      "cume": 33.33,
+      "showings": 12951,
+      "admissions": 32262,
+      "rank": 6,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 681457,
+      "title": "Midway",
+      "gross": 0.16,
+      "cume": 43.03,
+      "showings": 9728,
+      "admissions": 32347,
+      "rank": 7,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 681849,
+      "title": "Da Meng Nan Wang",
+      "gross": 0.15,
+      "cume": 1.42,
+      "showings": 375,
+      "admissions": 16405,
+      "rank": 8,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 630295,
+      "title": "Miss Forever",
+      "gross": 0.12,
+      "cume": 6.01,
+      "showings": 24300,
+      "admissions": 28033,
+      "rank": 9,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 691481,
+      "title": "My People, My Country",
+      "gross": 0.11,
+      "cume": 459.37,
+      "showings": 382,
+      "admissions": 15275,
+      "rank": 10,
+      "days": 67,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 693266,
+      "title": "Sheep Without A Shepherd",
+      "gross": 0.11,
+      "cume": 0.11,
+      "showings": 491,
+      "admissions": 22016,
+      "rank": 11,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 454034,
+      "title": "The Legend of 1900",
+      "gross": 0.1,
+      "cume": 20.99,
+      "showings": 6194,
+      "admissions": 18882,
+      "rank": 12,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 694774,
+      "title": "Song Of Love",
+      "gross": 0.09,
+      "cume": 1.97,
+      "showings": 261,
+      "admissions": 15293,
+      "rank": 13,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 682020,
+      "title": "Wild Goose Lake",
+      "gross": 0.07,
+      "cume": 0.12,
+      "showings": 11,
+      "admissions": 2291,
+      "rank": 14,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 680681,
+      "title": "Better Days",
+      "gross": 0.04,
+      "cume": 229.66,
+      "showings": 4280,
+      "admissions": 7496,
+      "rank": 15,
+      "days": 42,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 693412,
+      "title": "Bloody Daisy",
+      "gross": 0.04,
+      "cume": 0.68,
+      "showings": 229,
+      "admissions": 8068,
+      "rank": 16,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 695014,
+      "title": "Summer Detective",
+      "gross": 0.04,
+      "cume": 1.34,
+      "showings": 6088,
+      "admissions": 6629,
+      "rank": 17,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 671589,
+      "title": "Wings Over Everest",
+      "gross": 0.04,
+      "cume": 1.86,
+      "showings": 11100,
+      "admissions": 6846,
+      "rank": 18,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 691939,
+      "title": "Abominable",
+      "gross": 0.03,
+      "cume": 18.94,
+      "showings": 74,
+      "admissions": 7036,
+      "rank": 19,
+      "days": 66,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 638273,
+      "title": "The Bugle from Gutian",
+      "gross": 0.03,
+      "cume": 7.71,
+      "showings": 53,
+      "admissions": 3962,
+      "rank": 20,
+      "days": 127,
+      "day": "19th Thu"
+    }
+  ]
+}

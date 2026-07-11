@@ -1,0 +1,37 @@
+{
+  "movie_id": 708434,
+  "title": "Ways To School",
+  "releaseDate": "19-03-2026",
+  "entries": [
+    {
+      "date": "19-03-2026",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 186,
+      "admissions": 1011,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "23-03-2026",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 80,
+      "admissions": 1271,
+      "days": 10,
+      "day": "1st Mon"
+    },
+    {
+      "date": "27-03-2026",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 776,
+      "admissions": 2763,
+      "days": 14,
+      "day": "2nd Fri"
+    }
+  ]
+}

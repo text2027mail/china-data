@@ -1,0 +1,87 @@
+{
+  "movie_id": 674000,
+  "title": "A Road To Spring",
+  "releaseDate": "17-09-2020",
+  "entries": [
+    {
+      "date": "17-09-2020",
+      "rank": 6,
+      "gross": 0.18,
+      "cume": 0.18,
+      "showings": 23191,
+      "admissions": 36515,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "18-09-2020",
+      "rank": 8,
+      "gross": 0.11,
+      "cume": 0.29,
+      "showings": 19984,
+      "admissions": 21576,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "19-09-2020",
+      "rank": 10,
+      "gross": 0.08,
+      "cume": 0.36,
+      "showings": 12968,
+      "admissions": 16225,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "20-09-2020",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.41,
+      "showings": 9990,
+      "admissions": 9824,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "21-09-2020",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.43,
+      "showings": 7686,
+      "admissions": 3441,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "22-09-2020",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.44,
+      "showings": 6879,
+      "admissions": 2485,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "date": "23-09-2020",
+      "rank": 11,
+      "gross": 0.01,
+      "cume": 0.46,
+      "showings": 6456,
+      "admissions": 3080,
+      "days": 7,
+      "day": "1st Wed"
+    },
+    {
+      "date": "24-09-2020",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.47,
+      "showings": 6221,
+      "admissions": 2069,
+      "days": 8,
+      "day": "2nd Thu"
+    }
+  ]
+}

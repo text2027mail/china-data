@@ -1,0 +1,225 @@
+{
+  "date": "29-12-2021",
+  "data": [
+    {
+      "movie_id": 709879,
+      "title": "",
+      "gross": 3.1,
+      "cume": 117.36,
+      "showings": 126464,
+      "admissions": 541752,
+      "rank": 1,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 705084,
+      "title": "B for Busy",
+      "gross": 1.76,
+      "cume": 14.43,
+      "showings": 61728,
+      "admissions": 305061,
+      "rank": 2,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 696843,
+      "title": "Lion Dance Boy",
+      "gross": 0.55,
+      "cume": 23.07,
+      "showings": 44808,
+      "admissions": 96787,
+      "rank": 3,
+      "days": 13,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 709926,
+      "title": "Crossing the Yalu River",
+      "gross": 0.54,
+      "cume": 9.72,
+      "showings": 15101,
+      "admissions": 103398,
+      "rank": 4,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 706189,
+      "title": "Be Somebody",
+      "gross": 0.31,
+      "cume": 135.16,
+      "showings": 17115,
+      "admissions": 56761,
+      "rank": 5,
+      "days": 49,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 677896,
+      "title": "Schemes In Antiques",
+      "gross": 0.28,
+      "cume": 62.95,
+      "showings": 23441,
+      "admissions": 51823,
+      "rank": 6,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 702083,
+      "title": "Confusion",
+      "gross": 0.1,
+      "cume": 1.12,
+      "showings": 141,
+      "admissions": 17279,
+      "rank": 7,
+      "days": 32,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 0.09,
+      "cume": 851.67,
+      "showings": 5573,
+      "admissions": 20149,
+      "rank": 8,
+      "days": 91,
+      "day": "14th Wed"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.08,
+      "cume": 6.35,
+      "showings": 258,
+      "admissions": 20326,
+      "rank": 9,
+      "days": 164,
+      "day": "25th Wed"
+    },
+    {
+      "movie_id": 705642,
+      "title": "Another Me",
+      "gross": 0.04,
+      "cume": 0.05,
+      "showings": 43,
+      "admissions": 4832,
+      "rank": 10,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 674137,
+      "title": "White Snake",
+      "gross": 0.01,
+      "cume": 3.28,
+      "showings": 40,
+      "admissions": 2254,
+      "rank": 11,
+      "days": 224,
+      "day": "32nd Wed"
+    },
+    {
+      "movie_id": 684053,
+      "title": "The Phantom In Lost Mountain",
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 2712,
+      "admissions": 2764,
+      "rank": 12,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 708925,
+      "title": "Patio of Illusion",
+      "gross": 0.01,
+      "cume": 0.43,
+      "showings": 91,
+      "admissions": 1089,
+      "rank": 13,
+      "days": 111,
+      "day": "16th Wed"
+    },
+    {
+      "movie_id": 702945,
+      "title": "The Past Time",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 93,
+      "admissions": 1576,
+      "rank": 14,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 695826,
+      "title": "Nineteen, everything will be better",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 12,
+      "admissions": 1954,
+      "rank": 15,
+      "days": 801,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 696309,
+      "title": "High-speed Railway Witness",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 68,
+      "admissions": 2005,
+      "rank": 16,
+      "days": 9,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 703909,
+      "title": "KEEPER OF THE MOUNTAIN",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 74,
+      "admissions": 2100,
+      "rank": 17,
+      "days": 8,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 611240,
+      "title": "Good Night Beijing",
+      "gross": 0.01,
+      "cume": 5.31,
+      "showings": 2164,
+      "admissions": 1632,
+      "rank": 18,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 697410,
+      "title": "Magic Elf",
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 17,
+      "admissions": 2555,
+      "rank": 19,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 704791,
+      "title": "Railway Heros",
+      "gross": 0.01,
+      "cume": 20.99,
+      "showings": 610,
+      "admissions": 1399,
+      "rank": 20,
+      "days": 41,
+      "day": "7th Wed"
+    }
+  ]
+}

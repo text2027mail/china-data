@@ -1,0 +1,47 @@
+{
+  "movie_id": 641994,
+  "title": "Seven Days",
+  "releaseDate": "10-07-2016",
+  "entries": [
+    {
+      "date": "10-07-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 57,
+      "admissions": 780,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-07-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 71,
+      "admissions": 846,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-07-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 90,
+      "admissions": 702,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "17-07-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 34,
+      "admissions": 1234,
+      "days": 10,
+      "day": "2nd Sun"
+    }
+  ]
+}

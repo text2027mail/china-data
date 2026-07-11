@@ -1,0 +1,225 @@
+{
+  "date": "15-06-2025",
+  "data": [
+    {
+      "movie_id": 772984,
+      "title": "",
+      "gross": 4.33,
+      "cume": 11.77,
+      "showings": 121936,
+      "admissions": 711207,
+      "rank": 1,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 797407,
+      "title": "Mission: Impossible – The Final Reckoning",
+      "gross": 1.76,
+      "cume": 59.47,
+      "showings": 55055,
+      "admissions": 288369,
+      "rank": 2,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 736319,
+      "title": "Endless Journey of Love",
+      "gross": 0.93,
+      "cume": 22.72,
+      "showings": 48866,
+      "admissions": 176998,
+      "rank": 3,
+      "days": 17,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 643258,
+      "title": "Break Up List",
+      "gross": 0.71,
+      "cume": 1.56,
+      "showings": 56645,
+      "admissions": 128857,
+      "rank": 4,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 835261,
+      "title": "The 27th Shanghai International Film Festival",
+      "gross": 0.56,
+      "cume": 1.55,
+      "showings": 150,
+      "admissions": 47771,
+      "rank": 5,
+      "days": 18,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 796715,
+      "title": "Doraemon the Movie: Nobita's Art World Tales",
+      "gross": 0.56,
+      "cume": 14.78,
+      "showings": 26167,
+      "admissions": 103056,
+      "rank": 6,
+      "days": 16,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 797377,
+      "title": "Ballerina",
+      "gross": 0.5,
+      "cume": 6.28,
+      "showings": 20161,
+      "admissions": 83250,
+      "rank": 7,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 730783,
+      "title": "SHE'S GOT NO NAME",
+      "gross": 0.4,
+      "cume": 0.66,
+      "showings": 287,
+      "admissions": 38323,
+      "rank": 8,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 796126,
+      "title": "Lilo & Stitch",
+      "gross": 0.36,
+      "cume": 25.57,
+      "showings": 17722,
+      "admissions": 62147,
+      "rank": 9,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 714271,
+      "title": "Ne Zha 2",
+      "gross": 0.18,
+      "cume": 2280.65,
+      "showings": 8101,
+      "admissions": 30258,
+      "rank": 10,
+      "days": 138,
+      "day": "20th Sun"
+    },
+    {
+      "movie_id": 744227,
+      "title": "Behind The Shadows",
+      "gross": 0.17,
+      "cume": 10.16,
+      "showings": 13893,
+      "admissions": 32293,
+      "rank": 11,
+      "days": 16,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 769715,
+      "title": "Adventure Island",
+      "gross": 0.12,
+      "cume": 1.25,
+      "showings": 2200,
+      "admissions": 18042,
+      "rank": 12,
+      "days": 16,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 755394,
+      "title": "Red wedding dress",
+      "gross": 0.1,
+      "cume": 2.73,
+      "showings": 8941,
+      "admissions": 21302,
+      "rank": 13,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 6476,
+      "title": "Moonlight Express",
+      "gross": 0.07,
+      "cume": 0.27,
+      "showings": 10131,
+      "admissions": 12435,
+      "rank": 14,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 692112,
+      "title": "The Dumpling Queen",
+      "gross": 0.06,
+      "cume": 61.72,
+      "showings": 4711,
+      "admissions": 11431,
+      "rank": 15,
+      "days": 47,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 655929,
+      "title": "A Gilded Game",
+      "gross": 0.02,
+      "cume": 44.03,
+      "showings": 1510,
+      "admissions": 3299,
+      "rank": 16,
+      "days": 46,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 787079,
+      "title": "Minecraft",
+      "gross": 0.02,
+      "cume": 31.36,
+      "showings": 1031,
+      "admissions": 3386,
+      "rank": 17,
+      "days": 73,
+      "day": "11th Sun"
+    },
+    {
+      "movie_id": 460925,
+      "title": "Love Letter",
+      "gross": 0.02,
+      "cume": 13.24,
+      "showings": 873,
+      "admissions": 3059,
+      "rank": 18,
+      "days": 9604,
+      "day": "213th Sun"
+    },
+    {
+      "movie_id": 461332,
+      "title": "Princess Mononoke",
+      "gross": 0.02,
+      "cume": 16.38,
+      "showings": 912,
+      "admissions": 2790,
+      "rank": 19,
+      "days": 46,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 797729,
+      "title": "2025 National Art Federation \"Mirror of Time · Classic Film Exhibition from China and Abroad\"",
+      "gross": 0.01,
+      "cume": 0.47,
+      "showings": 52,
+      "admissions": 1690,
+      "rank": 20,
+      "days": 24,
+      "day": "3rd Sun"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 627877,
+  "title": "Feng Yu Ri Sheng Chang",
+  "releaseDate": "28-10-2020",
+  "entries": [
+    {
+      "date": "28-10-2020",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 58,
+      "admissions": 2803,
+      "days": 30,
+      "day": "1st Wed"
+    },
+    {
+      "date": "29-10-2020",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 73,
+      "admissions": 3144,
+      "days": 31,
+      "day": "1st Thu"
+    },
+    {
+      "date": "30-10-2020",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 118,
+      "admissions": 2295,
+      "days": 32,
+      "day": "1st Fri"
+    }
+  ]
+}

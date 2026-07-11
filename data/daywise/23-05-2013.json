@@ -1,0 +1,225 @@
+{
+  "date": "23-05-2013",
+  "data": [
+    {
+      "movie_id": 610867,
+      "title": "",
+      "gross": 3.3,
+      "cume": 31.21,
+      "showings": 26598,
+      "admissions": 702023,
+      "rank": 1,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 346818,
+      "title": "Iron Man 3",
+      "gross": 0.59,
+      "cume": 105.49,
+      "showings": 11125,
+      "admissions": 94677,
+      "rank": 2,
+      "days": 23,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 615765,
+      "title": "Oblivion",
+      "gross": 0.41,
+      "cume": 18.57,
+      "showings": 8771,
+      "admissions": 82815,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 596973,
+      "title": "So Young",
+      "gross": 0.38,
+      "cume": 103.5,
+      "showings": 9590,
+      "admissions": 77842,
+      "rank": 4,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 615499,
+      "title": "The Croods",
+      "gross": 0.3,
+      "cume": 48.94,
+      "showings": 5132,
+      "admissions": 54584,
+      "rank": 5,
+      "days": 34,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 605809,
+      "title": "Django Unchained",
+      "gross": 0.06,
+      "cume": 2.26,
+      "showings": 1510,
+      "admissions": 11707,
+      "rank": 6,
+      "days": 12,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 616145,
+      "title": "Mortician",
+      "gross": 0.06,
+      "cume": 0.83,
+      "showings": 3563,
+      "admissions": 13562,
+      "rank": 7,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 608234,
+      "title": "Xi Bai Po 2:Wang Er Xiao",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 18,
+      "admissions": 4294,
+      "rank": 8,
+      "days": 26,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 609644,
+      "title": "Conspirators",
+      "gross": 0.0,
+      "cume": 3.32,
+      "showings": 479,
+      "admissions": 854,
+      "rank": 9,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 610627,
+      "title": "Christmas Rose",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 73,
+      "admissions": 810,
+      "rank": 10,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 589499,
+      "title": "Piano Trojan",
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 489,
+      "admissions": 638,
+      "rank": 11,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 0.57,
+      "showings": 19,
+      "admissions": 508,
+      "rank": 12,
+      "days": 633,
+      "day": "20th Thu"
+    },
+    {
+      "movie_id": 614757,
+      "title": "The Incredible Truth",
+      "gross": 0.0,
+      "cume": 0.63,
+      "showings": 353,
+      "admissions": 504,
+      "rank": 13,
+      "days": 26,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 614660,
+      "title": "Happy Little Submarine 3：Rainbow Treasure",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 1,
+      "admissions": 298,
+      "rank": 14,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 615792,
+      "title": "Mr. & Mrs. Gambler",
+      "gross": 0.0,
+      "cume": 0.32,
+      "showings": 285,
+      "admissions": 398,
+      "rank": 15,
+      "days": 26,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 573137,
+      "title": "Fallen City",
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 279,
+      "admissions": 316,
+      "rank": 16,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 614859,
+      "title": "Bai Fang Li",
+      "gross": 0.0,
+      "cume": 0.26,
+      "showings": 4,
+      "admissions": 267,
+      "rank": 17,
+      "days": 1654,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 589153,
+      "title": "The Family of Kongfu",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 7,
+      "admissions": 188,
+      "rank": 18,
+      "days": 26,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 616435,
+      "title": "Indomitable Soldiers",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 83,
+      "admissions": 186,
+      "rank": 19,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 593120,
+      "title": "When A Wolf Falls In Love With A Sheep",
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 119,
+      "admissions": 173,
+      "rank": 20,
+      "days": 26,
+      "day": "4th Thu"
+    }
+  ]
+}

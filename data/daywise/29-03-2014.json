@@ -1,0 +1,225 @@
+{
+  "date": "29-03-2014",
+  "data": [
+    {
+      "movie_id": 625416,
+      "title": "",
+      "gross": 3.23,
+      "cume": 4.35,
+      "showings": 19513,
+      "admissions": 623683,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 618964,
+      "title": "Need for Speed",
+      "gross": 2.74,
+      "cume": 52.05,
+      "showings": 13864,
+      "admissions": 469504,
+      "rank": 2,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 624972,
+      "title": "The Monuments Men",
+      "gross": 1.85,
+      "cume": 3.22,
+      "showings": 21571,
+      "admissions": 398855,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 626108,
+      "title": "Fighting",
+      "gross": 1.24,
+      "cume": 8.53,
+      "showings": 6078,
+      "admissions": 257176,
+      "rank": 4,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 597089,
+      "title": "Black Coal, Thin Ice",
+      "gross": 1.09,
+      "cume": 11.28,
+      "showings": 9320,
+      "admissions": 232201,
+      "rank": 5,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 593948,
+      "title": "On the Road",
+      "gross": 0.66,
+      "cume": 1.15,
+      "showings": 10485,
+      "admissions": 138391,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 619662,
+      "title": "Justin and the Knights of Valour",
+      "gross": 0.58,
+      "cume": 0.8,
+      "showings": 9548,
+      "admissions": 111723,
+      "rank": 7,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 626377,
+      "title": "Horseplay",
+      "gross": 0.51,
+      "cume": 7.66,
+      "showings": 6948,
+      "admissions": 111239,
+      "rank": 8,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 457429,
+      "title": "Snowpiercer",
+      "gross": 0.51,
+      "cume": 9.7,
+      "showings": 3915,
+      "admissions": 102717,
+      "rank": 9,
+      "days": 13,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 621970,
+      "title": "Last Flight",
+      "gross": 0.21,
+      "cume": 4.78,
+      "showings": 2605,
+      "admissions": 37701,
+      "rank": 10,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 596563,
+      "title": "Hua Zhuang Shi",
+      "gross": 0.05,
+      "cume": 0.83,
+      "showings": 1639,
+      "admissions": 10878,
+      "rank": 11,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 619261,
+      "title": "Homefront",
+      "gross": 0.02,
+      "cume": 4.74,
+      "showings": 542,
+      "admissions": 3875,
+      "rank": 12,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 573959,
+      "title": "Fist of Fury: The Legend of Chen Zhen",
+      "gross": 0.01,
+      "cume": 19.85,
+      "showings": 26,
+      "admissions": 3906,
+      "rank": 13,
+      "days": 1286,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 587844,
+      "title": "Its Love",
+      "gross": 0.01,
+      "cume": 25.23,
+      "showings": 19,
+      "admissions": 3427,
+      "rank": 14,
+      "days": 914,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 626696,
+      "title": "Happiness Inn",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 585,
+      "admissions": 2535,
+      "rank": 15,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 619597,
+      "title": "A Gold Medal Winning Tramp Dog",
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 41,
+      "admissions": 2783,
+      "rank": 16,
+      "days": 68,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 618267,
+      "title": "Malavita",
+      "gross": 0.01,
+      "cume": 8.3,
+      "showings": 446,
+      "admissions": 2128,
+      "rank": 17,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 619201,
+      "title": "Sweet Alibis",
+      "gross": 0.01,
+      "cume": 5.47,
+      "showings": 628,
+      "admissions": 1755,
+      "rank": 18,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 131,
+      "title": "Connected",
+      "gross": 0.01,
+      "cume": 6.01,
+      "showings": 14,
+      "admissions": 1718,
+      "rank": 19,
+      "days": 2010,
+      "day": "25th Sat"
+    },
+    {
+      "movie_id": 618848,
+      "title": "Free Birds",
+      "gross": 0.01,
+      "cume": 7.36,
+      "showings": 178,
+      "admissions": 1126,
+      "rank": 20,
+      "days": 23,
+      "day": "4th Sat"
+    }
+  ]
+}

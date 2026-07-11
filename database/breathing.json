@@ -1,0 +1,27 @@
+{
+  "movie_id": 641093,
+  "title": "Breathing",
+  "releaseDate": "30-11-2017",
+  "entries": [
+    {
+      "date": "30-11-2017",
+      "rank": 9,
+      "gross": 0.1,
+      "cume": 0.11,
+      "showings": 5442,
+      "admissions": 16668,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "01-12-2017",
+      "rank": 11,
+      "gross": 0.1,
+      "cume": 0.21,
+      "showings": 432,
+      "admissions": 14214,
+      "days": 2,
+      "day": "1st Fri"
+    }
+  ]
+}

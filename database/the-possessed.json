@@ -1,0 +1,27 @@
+{
+  "movie_id": 660754,
+  "title": "The Possessed",
+  "releaseDate": "28-03-2018",
+  "entries": [
+    {
+      "date": "28-03-2018",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 40,
+      "admissions": 3516,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "29-03-2018",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 55,
+      "admissions": 3530,
+      "days": null,
+      "day": "1st Thu"
+    }
+  ]
+}

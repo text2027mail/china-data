@@ -1,0 +1,277 @@
+{
+  "movie_id": 615451,
+  "title": "Love Speaks",
+  "releaseDate": "05-11-2013",
+  "entries": [
+    {
+      "date": "05-11-2013",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 33,
+      "admissions": 1998,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "08-11-2013",
+      "rank": 3,
+      "gross": 0.41,
+      "cume": 0.43,
+      "showings": 9515,
+      "admissions": 87821,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-11-2013",
+      "rank": 5,
+      "gross": 0.55,
+      "cume": 0.98,
+      "showings": 10094,
+      "admissions": 118114,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-11-2013",
+      "rank": 5,
+      "gross": 0.49,
+      "cume": 1.47,
+      "showings": 10016,
+      "admissions": 105044,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-11-2013",
+      "rank": 4,
+      "gross": 0.52,
+      "cume": 2.0,
+      "showings": 10660,
+      "admissions": 114497,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-11-2013",
+      "rank": 4,
+      "gross": 0.26,
+      "cume": 2.25,
+      "showings": 9589,
+      "admissions": 58485,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "13-11-2013",
+      "rank": 4,
+      "gross": 0.24,
+      "cume": 2.49,
+      "showings": 9374,
+      "admissions": 52507,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "14-11-2013",
+      "rank": 4,
+      "gross": 0.23,
+      "cume": 2.72,
+      "showings": 9233,
+      "admissions": 50092,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "15-11-2013",
+      "rank": 8,
+      "gross": 0.11,
+      "cume": 2.83,
+      "showings": 3688,
+      "admissions": 22547,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "16-11-2013",
+      "rank": 7,
+      "gross": 0.2,
+      "cume": 3.02,
+      "showings": 3793,
+      "admissions": 40534,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "17-11-2013",
+      "rank": 7,
+      "gross": 0.16,
+      "cume": 3.19,
+      "showings": 3778,
+      "admissions": 33566,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "18-11-2013",
+      "rank": 8,
+      "gross": 0.08,
+      "cume": 3.26,
+      "showings": 3604,
+      "admissions": 15115,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "19-11-2013",
+      "rank": 7,
+      "gross": 0.04,
+      "cume": 3.3,
+      "showings": 2158,
+      "admissions": 7780,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "20-11-2013",
+      "rank": 8,
+      "gross": 0.04,
+      "cume": 3.34,
+      "showings": 2128,
+      "admissions": 7140,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "21-11-2013",
+      "rank": 9,
+      "gross": 0.02,
+      "cume": 3.36,
+      "showings": 1390,
+      "admissions": 3396,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "22-11-2013",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 3.37,
+      "showings": 824,
+      "admissions": 2113,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "23-11-2013",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 3.39,
+      "showings": 931,
+      "admissions": 4039,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "24-11-2013",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 3.41,
+      "showings": 949,
+      "admissions": 3483,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "25-11-2013",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 3.41,
+      "showings": 879,
+      "admissions": 1927,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "26-11-2013",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 3.42,
+      "showings": 877,
+      "admissions": 2390,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "date": "27-11-2013",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 3.43,
+      "showings": 863,
+      "admissions": 1787,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "date": "28-11-2013",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 3.44,
+      "showings": 861,
+      "admissions": 2122,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "date": "29-11-2013",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 3.44,
+      "showings": 340,
+      "admissions": 1030,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "date": "30-11-2013",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 3.45,
+      "showings": 362,
+      "admissions": 2150,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "date": "01-12-2013",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 3.46,
+      "showings": 379,
+      "admissions": 1240,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "date": "02-12-2013",
+      "rank": 11,
+      "gross": 0.01,
+      "cume": 3.47,
+      "showings": 353,
+      "admissions": 1126,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "date": "03-12-2013",
+      "rank": 10,
+      "gross": 0.01,
+      "cume": 3.48,
+      "showings": 355,
+      "admissions": 1091,
+      "days": 26,
+      "day": "5th Tue"
+    }
+  ]
+}

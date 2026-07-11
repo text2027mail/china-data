@@ -1,0 +1,67 @@
+{
+  "movie_id": 640021,
+  "title": "Cupid Arrow",
+  "releaseDate": "14-10-2016",
+  "entries": [
+    {
+      "date": "14-10-2016",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 746,
+      "admissions": 5613,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "15-10-2016",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 457,
+      "admissions": 4737,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-10-2016",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 458,
+      "admissions": 5465,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "17-10-2016",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 502,
+      "admissions": 2342,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-10-2016",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 452,
+      "admissions": 1847,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-10-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 347,
+      "admissions": 884,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

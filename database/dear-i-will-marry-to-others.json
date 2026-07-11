@@ -1,0 +1,67 @@
+{
+  "movie_id": 677556,
+  "title": "Dear, I Will Marry To Others",
+  "releaseDate": "12-05-2018",
+  "entries": [
+    {
+      "date": "12-05-2018",
+      "rank": 9,
+      "gross": 0.09,
+      "cume": 0.09,
+      "showings": 4624,
+      "admissions": 22518,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-05-2018",
+      "rank": 13,
+      "gross": 0.06,
+      "cume": 0.15,
+      "showings": 3618,
+      "admissions": 14034,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-05-2018",
+      "rank": 10,
+      "gross": 0.03,
+      "cume": 0.18,
+      "showings": 2579,
+      "admissions": 6645,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-05-2018",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.2,
+      "showings": 2608,
+      "admissions": 5852,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-05-2018",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.22,
+      "showings": 2643,
+      "admissions": 5271,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-05-2018",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 2577,
+      "admissions": 5910,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

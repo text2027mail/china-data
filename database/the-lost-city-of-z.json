@@ -1,0 +1,77 @@
+{
+  "movie_id": 354716,
+  "title": "The Lost City of Z",
+  "releaseDate": "02-06-2017",
+  "entries": [
+    {
+      "date": "02-06-2017",
+      "rank": 6,
+      "gross": 0.27,
+      "cume": 0.27,
+      "showings": 18114,
+      "admissions": 65928,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "03-06-2017",
+      "rank": 6,
+      "gross": 0.22,
+      "cume": 0.49,
+      "showings": 11863,
+      "admissions": 50983,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "04-06-2017",
+      "rank": 7,
+      "gross": 0.19,
+      "cume": 0.68,
+      "showings": 10234,
+      "admissions": 45824,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "05-06-2017",
+      "rank": 8,
+      "gross": 0.09,
+      "cume": 0.76,
+      "showings": 10157,
+      "admissions": 21068,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "06-06-2017",
+      "rank": 8,
+      "gross": 0.09,
+      "cume": 0.85,
+      "showings": 9605,
+      "admissions": 21577,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "07-06-2017",
+      "rank": 8,
+      "gross": 0.08,
+      "cume": 0.93,
+      "showings": 9006,
+      "admissions": 18409,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "08-06-2017",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 0.99,
+      "showings": 8633,
+      "admissions": 16010,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

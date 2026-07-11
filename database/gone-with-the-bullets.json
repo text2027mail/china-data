@@ -1,0 +1,307 @@
+{
+  "movie_id": 625695,
+  "title": "Gone With The Bullets",
+  "releaseDate": "17-12-2014",
+  "entries": [
+    {
+      "date": "17-12-2014",
+      "rank": 3,
+      "gross": 1.1,
+      "cume": 1.11,
+      "showings": 3002,
+      "admissions": 169058,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "18-12-2014",
+      "rank": 1,
+      "gross": 12.05,
+      "cume": 13.16,
+      "showings": 56658,
+      "admissions": 1994271,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "19-12-2014",
+      "rank": 1,
+      "gross": 10.8,
+      "cume": 23.96,
+      "showings": 57598,
+      "admissions": 1751620,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-12-2014",
+      "rank": 1,
+      "gross": 15.33,
+      "cume": 39.29,
+      "showings": 58367,
+      "admissions": 2456900,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-12-2014",
+      "rank": 1,
+      "gross": 11.53,
+      "cume": 50.82,
+      "showings": 56498,
+      "admissions": 1832936,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-12-2014",
+      "rank": 1,
+      "gross": 3.49,
+      "cume": 54.31,
+      "showings": 50588,
+      "admissions": 594095,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-12-2014",
+      "rank": 1,
+      "gross": 2.93,
+      "cume": 57.24,
+      "showings": 38190,
+      "admissions": 494531,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "date": "24-12-2014",
+      "rank": 3,
+      "gross": 3.63,
+      "cume": 60.87,
+      "showings": 22852,
+      "admissions": 520160,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "25-12-2014",
+      "rank": 3,
+      "gross": 2.38,
+      "cume": 63.26,
+      "showings": 21242,
+      "admissions": 366918,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "26-12-2014",
+      "rank": 3,
+      "gross": 1.76,
+      "cume": 65.01,
+      "showings": 17432,
+      "admissions": 285626,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "27-12-2014",
+      "rank": 3,
+      "gross": 2.5,
+      "cume": 67.51,
+      "showings": 16118,
+      "admissions": 397743,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "28-12-2014",
+      "rank": 3,
+      "gross": 1.94,
+      "cume": 69.45,
+      "showings": 15460,
+      "admissions": 310458,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "29-12-2014",
+      "rank": 3,
+      "gross": 0.92,
+      "cume": 70.37,
+      "showings": 15543,
+      "admissions": 152516,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "30-12-2014",
+      "rank": 3,
+      "gross": 1.06,
+      "cume": 71.43,
+      "showings": 15273,
+      "admissions": 175541,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "31-12-2014",
+      "rank": 5,
+      "gross": 1.16,
+      "cume": 72.59,
+      "showings": 8071,
+      "admissions": 184843,
+      "days": 14,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "01-01-2015",
+      "rank": 6,
+      "gross": 1.25,
+      "cume": 73.84,
+      "showings": 6343,
+      "admissions": 192855,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "02-01-2015",
+      "rank": 5,
+      "gross": 0.98,
+      "cume": 74.83,
+      "showings": 5932,
+      "admissions": 150356,
+      "days": 16,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "03-01-2015",
+      "rank": 5,
+      "gross": 0.56,
+      "cume": 75.39,
+      "showings": 5673,
+      "admissions": 85994,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "04-01-2015",
+      "rank": 7,
+      "gross": 0.14,
+      "cume": 75.53,
+      "showings": 3017,
+      "admissions": 22582,
+      "days": 18,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "05-01-2015",
+      "rank": 7,
+      "gross": 0.1,
+      "cume": 75.63,
+      "showings": 2882,
+      "admissions": 16678,
+      "days": 19,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "06-01-2015",
+      "rank": 7,
+      "gross": 0.1,
+      "cume": 75.73,
+      "showings": 2809,
+      "admissions": 17255,
+      "days": 20,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "07-01-2015",
+      "rank": 7,
+      "gross": 0.09,
+      "cume": 75.83,
+      "showings": 2776,
+      "admissions": 15022,
+      "days": 21,
+      "day": "4th Wed"
+    },
+    {
+      "date": "08-01-2015",
+      "rank": 8,
+      "gross": 0.03,
+      "cume": 75.86,
+      "showings": 799,
+      "admissions": 4871,
+      "days": 22,
+      "day": "4th Thu"
+    },
+    {
+      "date": "09-01-2015",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 75.87,
+      "showings": 428,
+      "admissions": 2612,
+      "days": 23,
+      "day": "4th Fri"
+    },
+    {
+      "date": "10-01-2015",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 75.9,
+      "showings": 342,
+      "admissions": 4301,
+      "days": 24,
+      "day": "4th Sat"
+    },
+    {
+      "date": "11-01-2015",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 75.93,
+      "showings": 321,
+      "admissions": 3597,
+      "days": 25,
+      "day": "4th Sun"
+    },
+    {
+      "date": "12-01-2015",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 75.94,
+      "showings": 324,
+      "admissions": 1480,
+      "days": 26,
+      "day": "4th Mon"
+    },
+    {
+      "date": "13-01-2015",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 75.95,
+      "showings": 322,
+      "admissions": 1588,
+      "days": 27,
+      "day": "4th Tue"
+    },
+    {
+      "date": "14-01-2015",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 75.95,
+      "showings": 303,
+      "admissions": 1658,
+      "days": 28,
+      "day": "5th Wed"
+    },
+    {
+      "date": "15-01-2015",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 75.96,
+      "showings": 193,
+      "admissions": 761,
+      "days": 29,
+      "day": "5th Thu"
+    }
+  ]
+}

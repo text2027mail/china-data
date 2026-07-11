@@ -1,0 +1,217 @@
+{
+  "movie_id": 643227,
+  "title": "The Boy",
+  "releaseDate": "01-04-2016",
+  "entries": [
+    {
+      "date": "01-04-2016",
+      "rank": 6,
+      "gross": 0.29,
+      "cume": 0.29,
+      "showings": 7478,
+      "admissions": 70831,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "02-04-2016",
+      "rank": 7,
+      "gross": 0.34,
+      "cume": 0.63,
+      "showings": 6409,
+      "admissions": 83070,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-04-2016",
+      "rank": 7,
+      "gross": 0.37,
+      "cume": 1.0,
+      "showings": 6361,
+      "admissions": 90767,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-04-2016",
+      "rank": 7,
+      "gross": 0.26,
+      "cume": 1.27,
+      "showings": 6341,
+      "admissions": 64228,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "05-04-2016",
+      "rank": 6,
+      "gross": 0.17,
+      "cume": 1.43,
+      "showings": 6600,
+      "admissions": 41107,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "06-04-2016",
+      "rank": 6,
+      "gross": 0.17,
+      "cume": 1.6,
+      "showings": 6707,
+      "admissions": 40952,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "07-04-2016",
+      "rank": 6,
+      "gross": 0.16,
+      "cume": 1.75,
+      "showings": 6828,
+      "admissions": 38495,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "08-04-2016",
+      "rank": 8,
+      "gross": 0.11,
+      "cume": 1.86,
+      "showings": 3008,
+      "admissions": 26319,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "09-04-2016",
+      "rank": 8,
+      "gross": 0.16,
+      "cume": 2.02,
+      "showings": 2980,
+      "admissions": 39017,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "10-04-2016",
+      "rank": 8,
+      "gross": 0.12,
+      "cume": 2.14,
+      "showings": 3124,
+      "admissions": 29243,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "11-04-2016",
+      "rank": 7,
+      "gross": 0.07,
+      "cume": 2.21,
+      "showings": 3306,
+      "admissions": 17407,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "12-04-2016",
+      "rank": 7,
+      "gross": 0.07,
+      "cume": 2.28,
+      "showings": 3459,
+      "admissions": 17577,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "13-04-2016",
+      "rank": 7,
+      "gross": 0.07,
+      "cume": 2.34,
+      "showings": 3523,
+      "admissions": 17072,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "14-04-2016",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 2.4,
+      "showings": 2708,
+      "admissions": 12929,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "15-04-2016",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 2.41,
+      "showings": 393,
+      "admissions": 2617,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "16-04-2016",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 2.42,
+      "showings": 422,
+      "admissions": 4433,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "17-04-2016",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 2.44,
+      "showings": 462,
+      "admissions": 3146,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "18-04-2016",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 2.44,
+      "showings": 492,
+      "admissions": 2111,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "19-04-2016",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 2.45,
+      "showings": 525,
+      "admissions": 2097,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "20-04-2016",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 2.46,
+      "showings": 523,
+      "admissions": 2086,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "21-04-2016",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 2.47,
+      "showings": 539,
+      "admissions": 2207,
+      "days": 21,
+      "day": "3rd Thu"
+    }
+  ]
+}

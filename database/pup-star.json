@@ -1,0 +1,87 @@
+{
+  "movie_id": 674989,
+  "title": "Pup Star",
+  "releaseDate": "24-03-2018",
+  "entries": [
+    {
+      "date": "24-03-2018",
+      "rank": 8,
+      "gross": 0.69,
+      "cume": 0.69,
+      "showings": 23283,
+      "admissions": 159430,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "25-03-2018",
+      "rank": 10,
+      "gross": 0.42,
+      "cume": 1.11,
+      "showings": 16878,
+      "admissions": 96419,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "26-03-2018",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 1.14,
+      "showings": 7794,
+      "admissions": 7989,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "27-03-2018",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 1.17,
+      "showings": 6386,
+      "admissions": 5982,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "28-03-2018",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 1.19,
+      "showings": 5788,
+      "admissions": 5070,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "29-03-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 1.2,
+      "showings": 3468,
+      "admissions": 3082,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "31-03-2018",
+      "rank": 14,
+      "gross": 0.12,
+      "cume": 1.34,
+      "showings": 4799,
+      "admissions": 30057,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "01-04-2018",
+      "rank": 15,
+      "gross": 0.07,
+      "cume": 1.41,
+      "showings": 4212,
+      "admissions": 16950,
+      "days": 9,
+      "day": "2nd Sun"
+    }
+  ]
+}

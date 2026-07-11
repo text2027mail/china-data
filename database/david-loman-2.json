@@ -1,0 +1,77 @@
+{
+  "movie_id": 665899,
+  "title": "David Loman 2",
+  "releaseDate": "23-06-2017",
+  "entries": [
+    {
+      "date": "23-06-2017",
+      "rank": 4,
+      "gross": 0.36,
+      "cume": 0.36,
+      "showings": 9509,
+      "admissions": 89294,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "24-06-2017",
+      "rank": 9,
+      "gross": 0.23,
+      "cume": 0.6,
+      "showings": 7417,
+      "admissions": 58876,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "25-06-2017",
+      "rank": 12,
+      "gross": 0.19,
+      "cume": 0.79,
+      "showings": 6738,
+      "admissions": 47138,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "26-06-2017",
+      "rank": 11,
+      "gross": 0.11,
+      "cume": 0.89,
+      "showings": 6490,
+      "admissions": 26350,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "27-06-2017",
+      "rank": 10,
+      "gross": 0.09,
+      "cume": 0.99,
+      "showings": 6103,
+      "admissions": 23506,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "28-06-2017",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 1.07,
+      "showings": 5707,
+      "admissions": 20347,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "29-06-2017",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 1.11,
+      "showings": 3894,
+      "admissions": 9657,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

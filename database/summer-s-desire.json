@@ -1,0 +1,97 @@
+{
+  "movie_id": 628123,
+  "title": "Summer's Desire",
+  "releaseDate": "20-07-2016",
+  "entries": [
+    {
+      "date": "20-07-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 109,
+      "admissions": 1140,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "21-07-2016",
+      "rank": 6,
+      "gross": 0.54,
+      "cume": 0.55,
+      "showings": 18583,
+      "admissions": 134276,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "22-07-2016",
+      "rank": 10,
+      "gross": 0.21,
+      "cume": 0.76,
+      "showings": 7398,
+      "admissions": 48840,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-07-2016",
+      "rank": 11,
+      "gross": 0.2,
+      "cume": 0.95,
+      "showings": 5644,
+      "admissions": 45347,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-07-2016",
+      "rank": 12,
+      "gross": 0.11,
+      "cume": 1.07,
+      "showings": 5069,
+      "admissions": 26759,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-07-2016",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 1.12,
+      "showings": 4334,
+      "admissions": 12087,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-07-2016",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 1.15,
+      "showings": 3818,
+      "admissions": 6962,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-07-2016",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 1.16,
+      "showings": 2205,
+      "admissions": 3923,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "28-07-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 1.17,
+      "showings": 1524,
+      "admissions": 2384,
+      "days": 8,
+      "day": "2nd Thu"
+    }
+  ]
+}

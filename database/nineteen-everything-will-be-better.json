@@ -1,0 +1,27 @@
+{
+  "movie_id": 695826,
+  "title": "Nineteen, everything will be better",
+  "releaseDate": "29-12-2021",
+  "entries": [
+    {
+      "date": "29-12-2021",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 12,
+      "admissions": 1954,
+      "days": 801,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-12-2021",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 10,
+      "admissions": 2129,
+      "days": 802,
+      "day": "1st Thu"
+    }
+  ]
+}

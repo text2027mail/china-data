@@ -1,0 +1,57 @@
+{
+  "movie_id": 653840,
+  "title": "Seven Fright Ngihts",
+  "releaseDate": "23-12-2017",
+  "entries": [
+    {
+      "date": "23-12-2017",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 526,
+      "admissions": 2527,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-12-2017",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 537,
+      "admissions": 3367,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-12-2017",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 415,
+      "admissions": 2870,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-01-2018",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 104,
+      "admissions": 860,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "02-01-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 130,
+      "admissions": 601,
+      "days": 13,
+      "day": "2nd Tue"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "13-01-2022",
+  "data": [
+    {
+      "movie_id": 705150,
+      "title": "",
+      "gross": 1.59,
+      "cume": 113.12,
+      "showings": 66293,
+      "admissions": 260906,
+      "rank": 1,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 698510,
+      "title": "G Storm",
+      "gross": 1.17,
+      "cume": 76.3,
+      "showings": 59122,
+      "admissions": 197943,
+      "rank": 2,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 705642,
+      "title": "Another Me",
+      "gross": 1.04,
+      "cume": 52.14,
+      "showings": 55704,
+      "admissions": 185364,
+      "rank": 3,
+      "days": 13,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 709879,
+      "title": "Fireflies in the Sun",
+      "gross": 0.84,
+      "cume": 146.22,
+      "showings": 32762,
+      "admissions": 148861,
+      "rank": 4,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 707289,
+      "title": "Lost And Found",
+      "gross": 0.5,
+      "cume": 28.05,
+      "showings": 27762,
+      "admissions": 91982,
+      "rank": 5,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 710426,
+      "title": "Encanto",
+      "gross": 0.43,
+      "cume": 4.46,
+      "showings": 18040,
+      "admissions": 77006,
+      "rank": 6,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 705084,
+      "title": "B for Busy",
+      "gross": 0.41,
+      "cume": 33.0,
+      "showings": 16756,
+      "admissions": 66831,
+      "rank": 7,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 709926,
+      "title": "Crossing the Yalu River",
+      "gross": 0.27,
+      "cume": 13.19,
+      "showings": 4093,
+      "admissions": 55353,
+      "rank": 8,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 696843,
+      "title": "Lion Dance Boy",
+      "gross": 0.21,
+      "cume": 32.71,
+      "showings": 8740,
+      "admissions": 35560,
+      "rank": 9,
+      "days": 28,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 702084,
+      "title": "BACK TO LOVE",
+      "gross": 0.12,
+      "cume": 1.49,
+      "showings": 3945,
+      "admissions": 24817,
+      "rank": 10,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 695172,
+      "title": "Chhichhore",
+      "gross": 0.11,
+      "cume": 1.94,
+      "showings": 10053,
+      "admissions": 22184,
+      "rank": 11,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 701984,
+      "title": "mengjixiaodui：mengchenxinshijie",
+      "gross": 0.08,
+      "cume": 4.41,
+      "showings": 8673,
+      "admissions": 16824,
+      "rank": 12,
+      "days": 6,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.05,
+      "cume": 6.98,
+      "showings": 174,
+      "admissions": 10713,
+      "rank": 13,
+      "days": 179,
+      "day": "27th Thu"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.04,
+      "cume": 0.89,
+      "showings": 138,
+      "admissions": 7121,
+      "rank": 14,
+      "days": null,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 694680,
+      "title": "Someone In The Room",
+      "gross": 0.02,
+      "cume": 0.25,
+      "showings": 3234,
+      "admissions": 4027,
+      "rank": 15,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 683194,
+      "title": "River of Salvation",
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 242,
+      "admissions": 2355,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 706189,
+      "title": "Be Somebody",
+      "gross": 0.01,
+      "cume": 136.25,
+      "showings": 480,
+      "admissions": 2237,
+      "rank": 17,
+      "days": 64,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 681909,
+      "title": "FIERCE FIGHTING BIE SHAN",
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 518,
+      "admissions": 2570,
+      "rank": 18,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 0.01,
+      "cume": 852.16,
+      "showings": 807,
+      "admissions": 2293,
+      "rank": 19,
+      "days": 106,
+      "day": "16th Thu"
+    },
+    {
+      "movie_id": 696309,
+      "title": "High-speed Railway Witness",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 57,
+      "admissions": 1780,
+      "rank": 20,
+      "days": 24,
+      "day": "4th Thu"
+    }
+  ]
+}

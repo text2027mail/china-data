@@ -1,0 +1,225 @@
+{
+  "date": "24-03-2016",
+  "data": [
+    {
+      "movie_id": 642886,
+      "title": "",
+      "gross": 2.34,
+      "cume": 42.89,
+      "showings": 50707,
+      "admissions": 519489,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 643235,
+      "title": "Zootopia",
+      "gross": 2.08,
+      "cume": 175.16,
+      "showings": 47790,
+      "admissions": 425889,
+      "rank": 2,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 643388,
+      "title": "Batman v Superman: Dawn of Justice",
+      "gross": 1.29,
+      "cume": 1.29,
+      "showings": 4106,
+      "admissions": 232277,
+      "rank": 3,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 637664,
+      "title": "The Rise of A Tomboy",
+      "gross": 0.67,
+      "cume": 7.82,
+      "showings": 22173,
+      "admissions": 160673,
+      "rank": 4,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 643426,
+      "title": "Gods of Egypt",
+      "gross": 0.54,
+      "cume": 33.76,
+      "showings": 15306,
+      "admissions": 108513,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 610219,
+      "title": "Ip Man 3",
+      "gross": 0.26,
+      "cume": 113.1,
+      "showings": 10190,
+      "admissions": 48411,
+      "rank": 6,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 626153,
+      "title": "The Mermaid",
+      "gross": 0.12,
+      "cume": 499.77,
+      "showings": 4664,
+      "admissions": 23775,
+      "rank": 7,
+      "days": 46,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 639351,
+      "title": "Kung Fu Panda 3",
+      "gross": 0.08,
+      "cume": 146.99,
+      "showings": 501,
+      "admissions": 18121,
+      "rank": 8,
+      "days": 56,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 643570,
+      "title": "PAPA",
+      "gross": 0.07,
+      "cume": 1.25,
+      "showings": 6552,
+      "admissions": 18359,
+      "rank": 9,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 327746,
+      "title": "Eddie the Eagle",
+      "gross": 0.07,
+      "cume": 0.66,
+      "showings": 4449,
+      "admissions": 14456,
+      "rank": 10,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 637884,
+      "title": "Shui Mo Da Bie Shan",
+      "gross": 0.05,
+      "cume": 0.46,
+      "showings": 57,
+      "admissions": 8879,
+      "rank": 11,
+      "days": 218,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 616345,
+      "title": "Wo He Wo Men",
+      "gross": 0.05,
+      "cume": 0.46,
+      "showings": 59,
+      "admissions": 8605,
+      "rank": 12,
+      "days": 675,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 639810,
+      "title": "Red Cheongsam",
+      "gross": 0.04,
+      "cume": 0.52,
+      "showings": 2970,
+      "admissions": 11079,
+      "rank": 13,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 639743,
+      "title": "Under the Bed",
+      "gross": 0.02,
+      "cume": 1.33,
+      "showings": 1094,
+      "admissions": 3808,
+      "rank": 14,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 626346,
+      "title": "The Monkey King 2",
+      "gross": 0.01,
+      "cume": 177.02,
+      "showings": 322,
+      "admissions": 2822,
+      "rank": 15,
+      "days": 46,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 628796,
+      "title": "Wong Ka Yan",
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 831,
+      "admissions": 1093,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 620685,
+      "title": "The November Man",
+      "gross": 0.0,
+      "cume": 4.35,
+      "showings": 354,
+      "admissions": 1424,
+      "rank": 17,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 629547,
+      "title": "The Guest",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 6,
+      "admissions": 721,
+      "rank": 18,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 596554,
+      "title": "Judge Archer",
+      "gross": 0.0,
+      "cume": 0.48,
+      "showings": 196,
+      "admissions": 479,
+      "rank": 19,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 642958,
+      "title": "Da Shan De Nv Er",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 2,
+      "admissions": 1094,
+      "rank": 20,
+      "days": 59,
+      "day": "7th Thu"
+    }
+  ]
+}

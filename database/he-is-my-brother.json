@@ -1,0 +1,27 @@
+{
+  "movie_id": 704826,
+  "title": "He Is My Brother",
+  "releaseDate": "03-03-2023",
+  "entries": [
+    {
+      "date": "03-03-2023",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 4705,
+      "admissions": 5621,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "04-03-2023",
+      "rank": 18,
+      "gross": 0.03,
+      "cume": 0.07,
+      "showings": 6972,
+      "admissions": 5554,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

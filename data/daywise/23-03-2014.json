@@ -1,0 +1,225 @@
+{
+  "date": "23-03-2014",
+  "data": [
+    {
+      "movie_id": 618964,
+      "title": "",
+      "gross": 3.82,
+      "cume": 41.64,
+      "showings": 21051,
+      "admissions": 664623,
+      "rank": 1,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 597089,
+      "title": "Black Coal, Thin Ice",
+      "gross": 2.15,
+      "cume": 6.12,
+      "showings": 18463,
+      "admissions": 469617,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 626108,
+      "title": "Fighting",
+      "gross": 1.69,
+      "cume": 5.89,
+      "showings": 13816,
+      "admissions": 345241,
+      "rank": 3,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 626377,
+      "title": "Horseplay",
+      "gross": 1.4,
+      "cume": 4.37,
+      "showings": 17586,
+      "admissions": 308746,
+      "rank": 4,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 457429,
+      "title": "Snowpiercer",
+      "gross": 1.1,
+      "cume": 7.17,
+      "showings": 9545,
+      "admissions": 235095,
+      "rank": 5,
+      "days": 7,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 621970,
+      "title": "Last Flight",
+      "gross": 0.87,
+      "cume": 2.78,
+      "showings": 10915,
+      "admissions": 153158,
+      "rank": 6,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 618848,
+      "title": "Free Birds",
+      "gross": 0.38,
+      "cume": 7.31,
+      "showings": 5866,
+      "admissions": 79183,
+      "rank": 7,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 596563,
+      "title": "Hua Zhuang Shi",
+      "gross": 0.1,
+      "cume": 0.52,
+      "showings": 3076,
+      "admissions": 23472,
+      "rank": 8,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 619261,
+      "title": "Homefront",
+      "gross": 0.09,
+      "cume": 4.53,
+      "showings": 2059,
+      "admissions": 18808,
+      "rank": 9,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 377124,
+      "title": "RoboCop",
+      "gross": 0.08,
+      "cume": 46.34,
+      "showings": 1217,
+      "admissions": 15327,
+      "rank": 10,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 618267,
+      "title": "Malavita",
+      "gross": 0.04,
+      "cume": 8.21,
+      "showings": 635,
+      "admissions": 5967,
+      "rank": 11,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 609606,
+      "title": "Police Diary",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 2436,
+      "admissions": 5581,
+      "rank": 12,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 587844,
+      "title": "Its Love",
+      "gross": 0.02,
+      "cume": 25.14,
+      "showings": 20,
+      "admissions": 4076,
+      "rank": 13,
+      "days": 908,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 573959,
+      "title": "Fist of Fury: The Legend of Chen Zhen",
+      "gross": 0.01,
+      "cume": 19.77,
+      "showings": 26,
+      "admissions": 3906,
+      "rank": 14,
+      "days": 1280,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 597207,
+      "title": "The Old Cinderella",
+      "gross": 0.01,
+      "cume": 8.05,
+      "showings": 374,
+      "admissions": 1988,
+      "rank": 15,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 619201,
+      "title": "Sweet Alibis",
+      "gross": 0.01,
+      "cume": 5.44,
+      "showings": 690,
+      "admissions": 2551,
+      "rank": 16,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 131,
+      "title": "Connected",
+      "gross": 0.01,
+      "cume": 5.97,
+      "showings": 14,
+      "admissions": 1718,
+      "rank": 17,
+      "days": 2004,
+      "day": "24th Sun"
+    },
+    {
+      "movie_id": 596062,
+      "title": "The Extreme Fox",
+      "gross": 0.0,
+      "cume": 0.86,
+      "showings": 263,
+      "admissions": 1103,
+      "rank": 18,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 610009,
+      "title": "Lost In Thailand",
+      "gross": 0.0,
+      "cume": 186.96,
+      "showings": 15,
+      "admissions": 1041,
+      "rank": 19,
+      "days": 467,
+      "day": "64th Sun"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.0,
+      "cume": 8.38,
+      "showings": 9,
+      "admissions": 580,
+      "rank": 20,
+      "days": 251,
+      "day": "37th Sun"
+    }
+  ]
+}

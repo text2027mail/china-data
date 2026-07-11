@@ -1,0 +1,57 @@
+{
+  "movie_id": 657331,
+  "title": "Super Bear",
+  "releaseDate": "04-10-2018",
+  "entries": [
+    {
+      "date": "04-10-2018",
+      "rank": 9,
+      "gross": 0.2,
+      "cume": 0.2,
+      "showings": 5560,
+      "admissions": 47990,
+      "days": 495,
+      "day": "1st Thu"
+    },
+    {
+      "date": "05-10-2018",
+      "rank": 10,
+      "gross": 0.11,
+      "cume": 0.31,
+      "showings": 3125,
+      "admissions": 26364,
+      "days": 496,
+      "day": "1st Fri"
+    },
+    {
+      "date": "06-10-2018",
+      "rank": 10,
+      "gross": 0.11,
+      "cume": 0.41,
+      "showings": 3014,
+      "admissions": 26064,
+      "days": 497,
+      "day": "1st Sat"
+    },
+    {
+      "date": "07-10-2018",
+      "rank": 9,
+      "gross": 0.11,
+      "cume": 0.52,
+      "showings": 2585,
+      "admissions": 26221,
+      "days": 498,
+      "day": "1st Sun"
+    },
+    {
+      "date": "08-10-2018",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.52,
+      "showings": 967,
+      "admissions": 957,
+      "days": 499,
+      "day": "1st Mon"
+    }
+  ]
+}

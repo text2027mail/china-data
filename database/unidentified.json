@@ -1,0 +1,57 @@
+{
+  "movie_id": 590109,
+  "title": "Unidentified",
+  "releaseDate": "23-08-2013",
+  "entries": [
+    {
+      "date": "23-08-2013",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 895,
+      "admissions": 1624,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "24-08-2013",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 711,
+      "admissions": 1523,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "25-08-2013",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 582,
+      "admissions": 1068,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "26-08-2013",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 495,
+      "admissions": 789,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "27-08-2013",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 475,
+      "admissions": 1033,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "movie_id": 685929,
+  "title": "MY ALIEN FRIEND",
+  "releaseDate": "20-01-2023",
+  "entries": [
+    {
+      "date": "20-01-2023",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 2685,
+      "admissions": 353,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-01-2023",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 122,
+      "admissions": 68,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

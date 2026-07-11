@@ -1,0 +1,37 @@
+{
+  "movie_id": 675969,
+  "title": "To Live To Sing",
+  "releaseDate": "03-09-2020",
+  "entries": [
+    {
+      "date": "03-09-2020",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 245,
+      "admissions": 884,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "09-09-2020",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 113,
+      "admissions": 2014,
+      "days": 13,
+      "day": "1st Wed"
+    },
+    {
+      "date": "10-09-2020",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 132,
+      "admissions": 3069,
+      "days": 14,
+      "day": "2nd Thu"
+    }
+  ]
+}

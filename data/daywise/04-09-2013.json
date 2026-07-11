@@ -1,0 +1,225 @@
+{
+  "date": "04-09-2013",
+  "data": [
+    {
+      "movie_id": 616427,
+      "title": "",
+      "gross": 1.18,
+      "cume": 13.63,
+      "showings": 18472,
+      "admissions": 255858,
+      "rank": 1,
+      "days": 7,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 602828,
+      "title": "The Great Gatsby",
+      "gross": 0.66,
+      "cume": 6.12,
+      "showings": 8906,
+      "admissions": 114783,
+      "rank": 2,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 348955,
+      "title": "Jurassic Park 3D",
+      "gross": 0.61,
+      "cume": 47.59,
+      "showings": 12392,
+      "admissions": 106278,
+      "rank": 3,
+      "days": 16,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 614979,
+      "title": "The Impossible",
+      "gross": 0.53,
+      "cume": 6.02,
+      "showings": 10836,
+      "admissions": 117530,
+      "rank": 4,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 593849,
+      "title": "Monsters University",
+      "gross": 0.38,
+      "cume": 27.51,
+      "showings": 10025,
+      "admissions": 68484,
+      "rank": 5,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 616113,
+      "title": "Fake Fiction",
+      "gross": 0.12,
+      "cume": 9.95,
+      "showings": 5209,
+      "admissions": 26803,
+      "rank": 6,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.11,
+      "cume": 2.57,
+      "showings": 367,
+      "admissions": 26098,
+      "rank": 7,
+      "days": 51,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 617719,
+      "title": "Elysium",
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 680,
+      "admissions": 14500,
+      "rank": 8,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 614568,
+      "title": "Unbeatable",
+      "gross": 0.07,
+      "cume": 17.22,
+      "showings": 1432,
+      "admissions": 13967,
+      "rank": 9,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 617712,
+      "title": "I am Director",
+      "gross": 0.05,
+      "cume": 0.7,
+      "showings": 3183,
+      "admissions": 11436,
+      "rank": 10,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 611324,
+      "title": "Night  Blooming",
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 978,
+      "admissions": 3036,
+      "rank": 11,
+      "days": 8,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 612957,
+      "title": "A Moment Of Love",
+      "gross": 0.01,
+      "cume": 1.61,
+      "showings": 617,
+      "admissions": 2388,
+      "rank": 12,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 594678,
+      "title": "Flash Play",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 1043,
+      "admissions": 1991,
+      "rank": 13,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 617254,
+      "title": "Sweet Summer Love",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 1393,
+      "admissions": 1918,
+      "rank": 14,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 613854,
+      "title": "One Night Surprise",
+      "gross": 0.01,
+      "cume": 25.3,
+      "showings": 330,
+      "admissions": 1246,
+      "rank": 15,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 613462,
+      "title": "The Midas Touch",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 12,
+      "admissions": 895,
+      "rank": 16,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 612621,
+      "title": "The Palace",
+      "gross": 0.0,
+      "cume": 8.04,
+      "showings": 132,
+      "admissions": 659,
+      "rank": 17,
+      "days": 23,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 616735,
+      "title": "Tiny Times2",
+      "gross": 0.0,
+      "cume": 43.65,
+      "showings": 349,
+      "admissions": 871,
+      "rank": 18,
+      "days": 28,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 612672,
+      "title": "Silent Witness",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 2,
+      "admissions": 390,
+      "rank": 19,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 0.79,
+      "showings": 4,
+      "admissions": 285,
+      "rank": 20,
+      "days": 737,
+      "day": "35th Wed"
+    }
+  ]
+}

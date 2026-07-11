@@ -1,0 +1,47 @@
+{
+  "movie_id": 679485,
+  "title": "Kings Husky",
+  "releaseDate": "12-08-2023",
+  "entries": [
+    {
+      "date": "12-08-2023",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 1321,
+      "admissions": 7464,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-08-2023",
+      "rank": 12,
+      "gross": 0.15,
+      "cume": 0.19,
+      "showings": 4341,
+      "admissions": 27989,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "19-08-2023",
+      "rank": 17,
+      "gross": 0.07,
+      "cume": 0.26,
+      "showings": 2759,
+      "admissions": 12911,
+      "days": 1,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "20-08-2023",
+      "rank": 14,
+      "gross": 0.09,
+      "cume": 0.35,
+      "showings": 5188,
+      "admissions": 17248,
+      "days": 2,
+      "day": "2nd Sun"
+    }
+  ]
+}

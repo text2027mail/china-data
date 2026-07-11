@@ -1,0 +1,225 @@
+{
+  "date": "26-02-2016",
+  "data": [
+    {
+      "movie_id": 626153,
+      "title": "",
+      "gross": 7.08,
+      "cume": 445.11,
+      "showings": 59487,
+      "admissions": 1325927,
+      "rank": 1,
+      "days": 19,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 626346,
+      "title": "The Monkey King 2",
+      "gross": 2.16,
+      "cume": 164.68,
+      "showings": 23527,
+      "admissions": 406016,
+      "rank": 2,
+      "days": 19,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 618023,
+      "title": "Crouching Tiger Hidden Dragon II: The Green Destiny",
+      "gross": 1.53,
+      "cume": 30.92,
+      "showings": 23490,
+      "admissions": 288679,
+      "rank": 3,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 637759,
+      "title": "The Man From Macau 3",
+      "gross": 1.39,
+      "cume": 157.37,
+      "showings": 18404,
+      "admissions": 274979,
+      "rank": 4,
+      "days": 19,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 620150,
+      "title": "Saint Seiya: Legend of Sanctuary",
+      "gross": 1.37,
+      "cume": 1.38,
+      "showings": 27838,
+      "admissions": 338182,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 629613,
+      "title": "Left Behind",
+      "gross": 1.12,
+      "cume": 1.13,
+      "showings": 20749,
+      "admissions": 268259,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 639351,
+      "title": "Kung Fu Panda 3",
+      "gross": 0.61,
+      "cume": 140.66,
+      "showings": 7961,
+      "admissions": 119217,
+      "rank": 7,
+      "days": 29,
+      "day": "6th Fri"
+    },
+    {
+      "movie_id": 628676,
+      "title": "Mr. Highheel",
+      "gross": 0.53,
+      "cume": 15.77,
+      "showings": 6870,
+      "admissions": 128772,
+      "rank": 8,
+      "days": 13,
+      "day": "5th Fri"
+    },
+    {
+      "movie_id": 638423,
+      "title": "Boruto：Naruto the Movie",
+      "gross": 0.46,
+      "cume": 12.56,
+      "showings": 7525,
+      "admissions": 102740,
+      "rank": 9,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 641998,
+      "title": "The Weird Doll",
+      "gross": 0.12,
+      "cume": 0.22,
+      "showings": 3974,
+      "admissions": 32910,
+      "rank": 10,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 590292,
+      "title": "Tian Kong De Wei Xiao",
+      "gross": 0.06,
+      "cume": 0.41,
+      "showings": 67,
+      "admissions": 10039,
+      "rank": 11,
+      "days": 1763,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 594625,
+      "title": "Clues",
+      "gross": 0.06,
+      "cume": 0.41,
+      "showings": 71,
+      "admissions": 9927,
+      "rank": 12,
+      "days": 1346,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 636759,
+      "title": "Thomas & Friends: Sodor's Legend of the Lost Treasure",
+      "gross": 0.05,
+      "cume": 1.82,
+      "showings": 1605,
+      "admissions": 12009,
+      "rank": 13,
+      "days": 7,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 616626,
+      "title": "The Charge",
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 3,
+      "admissions": 1818,
+      "rank": 14,
+      "days": 1009,
+      "day": "145th Fri"
+    },
+    {
+      "movie_id": 640206,
+      "title": "Boonie Bears III",
+      "gross": 0.01,
+      "cume": 42.31,
+      "showings": 316,
+      "admissions": 2396,
+      "rank": 15,
+      "days": 42,
+      "day": "9th Fri"
+    },
+    {
+      "movie_id": 642563,
+      "title": "The Frog Kindoom 2",
+      "gross": 0.01,
+      "cume": 0.56,
+      "showings": 487,
+      "admissions": 2070,
+      "rank": 16,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 631748,
+      "title": "Run For Love",
+      "gross": 0.01,
+      "cume": 6.99,
+      "showings": 221,
+      "admissions": 1269,
+      "rank": 17,
+      "days": 13,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 607714,
+      "title": "Colt 45",
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 352,
+      "admissions": 1740,
+      "rank": 18,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 638720,
+      "title": "When We Were Young",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 718,
+      "admissions": 1467,
+      "rank": 19,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 643102,
+      "title": "The Game",
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 233,
+      "admissions": 828,
+      "rank": 20,
+      "days": 8,
+      "day": "2nd Fri"
+    }
+  ]
+}

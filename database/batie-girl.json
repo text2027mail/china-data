@@ -1,0 +1,37 @@
+{
+  "movie_id": 695535,
+  "title": "BaTie Girl",
+  "releaseDate": "23-12-2024",
+  "entries": [
+    {
+      "date": "23-12-2024",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 42,
+      "admissions": 1917,
+      "days": 1139,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-12-2024",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 59,
+      "admissions": 2296,
+      "days": 1140,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-12-2024",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 48,
+      "admissions": 2139,
+      "days": 1141,
+      "day": "1st Wed"
+    }
+  ]
+}

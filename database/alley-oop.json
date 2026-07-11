@@ -1,0 +1,37 @@
+{
+  "movie_id": 735197,
+  "title": "AllEY-OOP",
+  "releaseDate": "06-09-2024",
+  "entries": [
+    {
+      "date": "06-09-2024",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 81,
+      "admissions": 3034,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "07-09-2024",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.09,
+      "showings": 2342,
+      "admissions": 8799,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-09-2024",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 801,
+      "admissions": 2777,
+      "days": 3,
+      "day": "1st Mon"
+    }
+  ]
+}

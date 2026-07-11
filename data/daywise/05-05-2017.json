@@ -1,0 +1,225 @@
+{
+  "date": "05-05-2017",
+  "data": [
+    {
+      "movie_id": 644133,
+      "title": "",
+      "gross": 14.55,
+      "cume": 15.49,
+      "showings": 100352,
+      "admissions": 2714671,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 659327,
+      "title": "Dangal",
+      "gross": 2.33,
+      "cume": 2.39,
+      "showings": 30364,
+      "admissions": 549939,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 660393,
+      "title": "Shock Wave",
+      "gross": 2.16,
+      "cume": 47.54,
+      "showings": 28561,
+      "admissions": 442635,
+      "rank": 3,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 644001,
+      "title": "Battle Of Memories",
+      "gross": 1.19,
+      "cume": 37.24,
+      "showings": 17607,
+      "admissions": 222566,
+      "rank": 4,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 659757,
+      "title": "The Fate of the Furious",
+      "gross": 1.17,
+      "cume": 383.91,
+      "showings": 18221,
+      "admissions": 229064,
+      "rank": 5,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 628157,
+      "title": "This Is Not What I Excepted",
+      "gross": 0.78,
+      "cume": 26.85,
+      "showings": 11867,
+      "admissions": 146887,
+      "rank": 6,
+      "days": 9,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 644667,
+      "title": "Love Off the Cuff",
+      "gross": 0.7,
+      "cume": 22.44,
+      "showings": 9170,
+      "admissions": 128254,
+      "rank": 7,
+      "days": 8,
+      "day": "4th Fri"
+    },
+    {
+      "movie_id": 659760,
+      "title": "Smurfs: The Lost Village",
+      "gross": 0.11,
+      "cume": 21.76,
+      "showings": 4445,
+      "admissions": 21993,
+      "rank": 8,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 638811,
+      "title": "Mr. Pride vs Miss Prejudice",
+      "gross": 0.05,
+      "cume": 17.99,
+      "showings": 1891,
+      "admissions": 13770,
+      "rank": 9,
+      "days": 16,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 641928,
+      "title": "The Blood Hound",
+      "gross": 0.04,
+      "cume": 3.58,
+      "showings": 827,
+      "admissions": 11078,
+      "rank": 10,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 637401,
+      "title": "Savva: Heart of the Warrior",
+      "gross": 0.01,
+      "cume": 1.31,
+      "showings": 1242,
+      "admissions": 3334,
+      "rank": 11,
+      "days": 7,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 657278,
+      "title": "Taboo Terror Of Going Back",
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 857,
+      "admissions": 3730,
+      "rank": 12,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 679639,
+      "title": "dianyingdashizhanyinghuodong-yinleyudianying",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1,
+      "admissions": 987,
+      "rank": 13,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 655935,
+      "title": "Snow In Midsummer",
+      "gross": 0.01,
+      "cume": 0.62,
+      "showings": 130,
+      "admissions": 1673,
+      "rank": 14,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "movie_id": 629871,
+      "title": "A Chinese Odyssey Part Two: Cinderella",
+      "gross": 0.01,
+      "cume": 27.88,
+      "showings": 382,
+      "admissions": 1327,
+      "rank": 15,
+      "days": 925,
+      "day": "133rd Fri"
+    },
+    {
+      "movie_id": 625440,
+      "title": "Guardians of the Galaxy",
+      "gross": 0.0,
+      "cume": 87.95,
+      "showings": 179,
+      "admissions": 990,
+      "rank": 16,
+      "days": 939,
+      "day": "135th Fri"
+    },
+    {
+      "movie_id": 658306,
+      "title": "Myth Kill Joke",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 1245,
+      "admissions": 1207,
+      "rank": 17,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "movie_id": 618038,
+      "title": "Lost In Hong Kong",
+      "gross": 0.0,
+      "cume": 238.15,
+      "showings": 10,
+      "admissions": 810,
+      "rank": 18,
+      "days": 589,
+      "day": "86th Fri"
+    },
+    {
+      "movie_id": 638918,
+      "title": "Visit the Widow Village in the Night",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 331,
+      "admissions": 734,
+      "rank": 19,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "movie_id": 664814,
+      "title": "Taklimakan‘s Drum Beat",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 18,
+      "admissions": 720,
+      "rank": 20,
+      "days": null,
+      "day": "1st Fri"
+    }
+  ]
+}

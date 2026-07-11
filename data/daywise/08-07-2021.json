@@ -1,0 +1,225 @@
+{
+  "date": "08-07-2021",
+  "data": [
+    {
+      "movie_id": 701782,
+      "title": "",
+      "gross": 2.72,
+      "cume": 54.76,
+      "showings": 103661,
+      "admissions": 542690,
+      "rank": 1,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 704679,
+      "title": "The Pioneer",
+      "gross": 0.98,
+      "cume": 14.64,
+      "showings": 64747,
+      "admissions": 182327,
+      "rank": 2,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 706713,
+      "title": "Man In Love",
+      "gross": 0.59,
+      "cume": 36.62,
+      "showings": 39425,
+      "admissions": 123196,
+      "rank": 3,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 695809,
+      "title": "Peter Rabbit 2: The Runaway",
+      "gross": 0.54,
+      "cume": 28.49,
+      "showings": 29135,
+      "admissions": 115593,
+      "rank": 4,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 707737,
+      "title": "Island Keeper",
+      "gross": 0.35,
+      "cume": 12.98,
+      "showings": 12247,
+      "admissions": 60178,
+      "rank": 5,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 706449,
+      "title": "On Your Mark",
+      "gross": 0.31,
+      "cume": 21.47,
+      "showings": 21175,
+      "admissions": 57856,
+      "rank": 6,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 695549,
+      "title": "Hello World",
+      "gross": 0.26,
+      "cume": 18.66,
+      "showings": 16666,
+      "admissions": 56283,
+      "rank": 7,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 679491,
+      "title": "Bye！Mr.Wang",
+      "gross": 0.24,
+      "cume": 0.49,
+      "showings": 1675,
+      "admissions": 40414,
+      "rank": 8,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 612290,
+      "title": "Chinese Doctors",
+      "gross": 0.13,
+      "cume": 0.14,
+      "showings": 2142,
+      "admissions": 22488,
+      "rank": 9,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 704380,
+      "title": "Wolfwalkers",
+      "gross": 0.12,
+      "cume": 1.41,
+      "showings": 12008,
+      "admissions": 24242,
+      "rank": 10,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 706639,
+      "title": "The Father",
+      "gross": 0.06,
+      "cume": 3.73,
+      "showings": 2664,
+      "admissions": 10505,
+      "rank": 11,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 707206,
+      "title": "Between Us",
+      "gross": 0.06,
+      "cume": 6.76,
+      "showings": 8787,
+      "admissions": 12397,
+      "rank": 12,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 704464,
+      "title": "Stand by Me Doraemon 2",
+      "gross": 0.06,
+      "cume": 40.49,
+      "showings": 4313,
+      "admissions": 12637,
+      "rank": 13,
+      "days": 42,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 692841,
+      "title": "The perfect Victim",
+      "gross": 0.05,
+      "cume": 1.78,
+      "showings": 4877,
+      "admissions": 10714,
+      "rank": 14,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 707185,
+      "title": "Sunny Sisters",
+      "gross": 0.05,
+      "cume": 13.99,
+      "showings": 4034,
+      "admissions": 8832,
+      "rank": 15,
+      "days": 28,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 684463,
+      "title": "Zhou En Lai In His Childhood",
+      "gross": 0.04,
+      "cume": 0.6,
+      "showings": 534,
+      "admissions": 11955,
+      "rank": 16,
+      "days": 38,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 695422,
+      "title": "Never Stop",
+      "gross": 0.04,
+      "cume": 21.05,
+      "showings": 4754,
+      "admissions": 8178,
+      "rank": 17,
+      "days": 27,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 695516,
+      "title": "Cliff Walkers",
+      "gross": 0.02,
+      "cume": 175.56,
+      "showings": 1343,
+      "admissions": 4713,
+      "rank": 18,
+      "days": 70,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 701879,
+      "title": "Da Shi",
+      "gross": 0.02,
+      "cume": 1.29,
+      "showings": 45,
+      "admissions": 4107,
+      "rank": 19,
+      "days": 119,
+      "day": "17th Thu"
+    },
+    {
+      "movie_id": 708178,
+      "title": "THE RED BOAT",
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 85,
+      "admissions": 5529,
+      "rank": 20,
+      "days": null,
+      "day": "2nd Thu"
+    }
+  ]
+}

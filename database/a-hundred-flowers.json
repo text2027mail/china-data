@@ -1,0 +1,37 @@
+{
+  "movie_id": 736847,
+  "title": "A Hundred Flowers",
+  "releaseDate": "12-05-2023",
+  "entries": [
+    {
+      "date": "12-05-2023",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 10375,
+      "admissions": 10208,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-05-2023",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.08,
+      "showings": 5263,
+      "admissions": 8065,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-05-2023",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.12,
+      "showings": 5700,
+      "admissions": 8038,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

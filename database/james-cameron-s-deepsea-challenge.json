@@ -1,0 +1,87 @@
+{
+  "movie_id": 628574,
+  "title": "James Cameron's Deepsea Challenge",
+  "releaseDate": "12-02-2015",
+  "entries": [
+    {
+      "date": "12-02-2015",
+      "rank": 10,
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 3269,
+      "admissions": 15865,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "13-02-2015",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.13,
+      "showings": 1775,
+      "admissions": 9484,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-02-2015",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.2,
+      "showings": 867,
+      "admissions": 10160,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-02-2015",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.24,
+      "showings": 1046,
+      "admissions": 7230,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-02-2015",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.28,
+      "showings": 1011,
+      "admissions": 6749,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "date": "17-02-2015",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.31,
+      "showings": 945,
+      "admissions": 6766,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "date": "24-02-2015",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 21,
+      "admissions": 1297,
+      "days": 13,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "04-03-2015",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.35,
+      "showings": 18,
+      "admissions": 250,
+      "days": 21,
+      "day": "3rd Wed"
+    }
+  ]
+}

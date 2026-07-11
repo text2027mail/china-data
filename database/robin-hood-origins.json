@@ -1,0 +1,67 @@
+{
+  "movie_id": 682822,
+  "title": "Robin Hood: Origins",
+  "releaseDate": "24-12-2019",
+  "entries": [
+    {
+      "date": "24-12-2019",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 164,
+      "admissions": 3730,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-12-2019",
+      "rank": 8,
+      "gross": 0.27,
+      "cume": 0.29,
+      "showings": 23763,
+      "admissions": 53402,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-12-2019",
+      "rank": 13,
+      "gross": 0.16,
+      "cume": 0.45,
+      "showings": 9800,
+      "admissions": 30426,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-12-2019",
+      "rank": 13,
+      "gross": 0.11,
+      "cume": 0.55,
+      "showings": 7710,
+      "admissions": 21107,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-12-2019",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.61,
+      "showings": 7000,
+      "admissions": 10586,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-01-2020",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.67,
+      "showings": 21,
+      "admissions": 13,
+      "days": 31,
+      "day": "5th Sun"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "movie_id": 749241,
+  "title": "The Fall Guy",
+  "releaseDate": "07-05-2024",
+  "entries": [
+    {
+      "date": "07-05-2024",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 3,
+      "admissions": 451,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-05-2024",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 4,
+      "admissions": 1049,
+      "days": null,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "17-05-2024",
+      "rank": 7,
+      "gross": 0.26,
+      "cume": 0.3,
+      "showings": 30779,
+      "admissions": 41046,
+      "days": 1,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "18-05-2024",
+      "rank": 12,
+      "gross": 0.29,
+      "cume": 0.58,
+      "showings": 10178,
+      "admissions": 40747,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "19-05-2024",
+      "rank": 12,
+      "gross": 0.19,
+      "cume": 0.78,
+      "showings": 7559,
+      "admissions": 27487,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "20-05-2024",
+      "rank": 14,
+      "gross": 0.09,
+      "cume": 0.87,
+      "showings": 5712,
+      "admissions": 13333,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "21-05-2024",
+      "rank": 15,
+      "gross": 0.06,
+      "cume": 0.93,
+      "showings": 6116,
+      "admissions": 8698,
+      "days": 5,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "22-05-2024",
+      "rank": 16,
+      "gross": 0.05,
+      "cume": 0.98,
+      "showings": 6064,
+      "admissions": 8188,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "23-05-2024",
+      "rank": 17,
+      "gross": 0.05,
+      "cume": 1.03,
+      "showings": 5840,
+      "admissions": 6783,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "29-05-2024",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 1.23,
+      "showings": 2063,
+      "admissions": 2608,
+      "days": 13,
+      "day": "4th Wed"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "20-03-2013",
+  "data": [
+    {
+      "movie_id": 615250,
+      "title": "",
+      "gross": 1.42,
+      "cume": 19.68,
+      "showings": 23537,
+      "admissions": 303400,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 605823,
+      "title": "Resident Evil: Retribution",
+      "gross": 1.35,
+      "cume": 7.89,
+      "showings": 21500,
+      "admissions": 229792,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 608215,
+      "title": "Princess and Seven Kung Fu Masters",
+      "gross": 0.24,
+      "cume": 9.48,
+      "showings": 7438,
+      "admissions": 54186,
+      "rank": 3,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 589797,
+      "title": "Journey to the West: Conquering the Demons",
+      "gross": 0.15,
+      "cume": 183.51,
+      "showings": 3756,
+      "admissions": 26680,
+      "rank": 4,
+      "days": 39,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 566700,
+      "title": "Upside Down",
+      "gross": 0.11,
+      "cume": 10.62,
+      "showings": 3245,
+      "admissions": 19745,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 341723,
+      "title": "The Hobbit: An Unexpected Journey",
+      "gross": 0.11,
+      "cume": 46.02,
+      "showings": 1782,
+      "admissions": 14912,
+      "rank": 6,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 555111,
+      "title": "Les Miserables",
+      "gross": 0.08,
+      "cume": 8.93,
+      "showings": 1325,
+      "admissions": 13900,
+      "rank": 7,
+      "days": 21,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 590327,
+      "title": "Love Bank",
+      "gross": 0.05,
+      "cume": 0.72,
+      "showings": 3066,
+      "admissions": 10595,
+      "rank": 8,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 610888,
+      "title": "Silent Code",
+      "gross": 0.02,
+      "cume": 0.35,
+      "showings": 1546,
+      "admissions": 4288,
+      "rank": 9,
+      "days": 7,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 604129,
+      "title": "Stolen",
+      "gross": 0.02,
+      "cume": 6.49,
+      "showings": 1077,
+      "admissions": 4087,
+      "rank": 10,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 615231,
+      "title": "Fall In Love",
+      "gross": 0.02,
+      "cume": 1.76,
+      "showings": 1002,
+      "admissions": 3511,
+      "rank": 11,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 595235,
+      "title": "Midnight Train",
+      "gross": 0.01,
+      "cume": 0.93,
+      "showings": 837,
+      "admissions": 3441,
+      "rank": 12,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 592544,
+      "title": "Say Yes",
+      "gross": 0.01,
+      "cume": 29.5,
+      "showings": 289,
+      "admissions": 1692,
+      "rank": 13,
+      "days": 37,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 596800,
+      "title": "Finding Mr.Right",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 82,
+      "admissions": 1629,
+      "rank": 14,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 595213,
+      "title": "Falling Flowers",
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 117,
+      "admissions": 1669,
+      "rank": 15,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 615497,
+      "title": "Scandals",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 809,
+      "admissions": 1767,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 592550,
+      "title": "The Iron Lady",
+      "gross": 0.0,
+      "cume": 0.8,
+      "showings": 204,
+      "admissions": 819,
+      "rank": 17,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 611576,
+      "title": "Lift to Hell",
+      "gross": 0.0,
+      "cume": 3.22,
+      "showings": 172,
+      "admissions": 844,
+      "rank": 18,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 609363,
+      "title": "Youthful Days",
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 62,
+      "admissions": 1089,
+      "rank": 19,
+      "days": 17,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 566117,
+      "title": "Dredd",
+      "gross": 0.0,
+      "cume": 4.42,
+      "showings": 319,
+      "admissions": 541,
+      "rank": 20,
+      "days": 20,
+      "day": "3rd Wed"
+    }
+  ]
+}

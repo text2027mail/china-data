@@ -1,0 +1,225 @@
+{
+  "date": "03-12-2016",
+  "data": [
+    {
+      "movie_id": 655647,
+      "title": "",
+      "gross": 17.81,
+      "cume": 29.41,
+      "showings": 80789,
+      "admissions": 4371862,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 643984,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "gross": 6.99,
+      "cume": 68.46,
+      "showings": 27687,
+      "admissions": 1292346,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 643913,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "gross": 4.26,
+      "cume": 7.12,
+      "showings": 34900,
+      "admissions": 903528,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 573488,
+      "title": "Sword Master",
+      "gross": 2.82,
+      "cume": 5.62,
+      "showings": 33579,
+      "admissions": 562174,
+      "rank": 4,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 644926,
+      "title": "Moana",
+      "gross": 2.62,
+      "cume": 19.47,
+      "showings": 15384,
+      "admissions": 568484,
+      "rank": 5,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 637633,
+      "title": "Super Express",
+      "gross": 1.51,
+      "cume": 2.79,
+      "showings": 16727,
+      "admissions": 371966,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 640103,
+      "title": "I Am Not Madame Bovary",
+      "gross": 0.92,
+      "cume": 55.8,
+      "showings": 4292,
+      "admissions": 154163,
+      "rank": 7,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 653051,
+      "title": "Autobahn (Collide)",
+      "gross": 0.64,
+      "cume": 1.33,
+      "showings": 7592,
+      "admissions": 125043,
+      "rank": 8,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 657031,
+      "title": "Allied",
+      "gross": 0.44,
+      "cume": 3.29,
+      "showings": 4549,
+      "admissions": 92004,
+      "rank": 9,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 618587,
+      "title": "Sentence Me Guilty",
+      "gross": 0.27,
+      "cume": 0.78,
+      "showings": 471,
+      "admissions": 63355,
+      "rank": 10,
+      "days": 212,
+      "day": "31st Sat"
+    },
+    {
+      "movie_id": 625158,
+      "title": "Billy Lynn's Long Halftime Walk",
+      "gross": 0.17,
+      "cume": 23.8,
+      "showings": 203,
+      "admissions": 10125,
+      "rank": 11,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 653080,
+      "title": "Ghost",
+      "gross": 0.08,
+      "cume": 0.17,
+      "showings": 3125,
+      "admissions": 19215,
+      "rank": 12,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 644062,
+      "title": "Detective Conan: The Darkest Nightmare",
+      "gross": 0.08,
+      "cume": 4.42,
+      "showings": 925,
+      "admissions": 18236,
+      "rank": 13,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 325408,
+      "title": "Doctor Strange",
+      "gross": 0.04,
+      "cume": 110.91,
+      "showings": 436,
+      "admissions": 6833,
+      "rank": 14,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 626534,
+      "title": "The Nursery",
+      "gross": 0.01,
+      "cume": 1.16,
+      "showings": 13,
+      "admissions": 2207,
+      "rank": 15,
+      "days": 37,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 627914,
+      "title": "Min & Max",
+      "gross": 0.01,
+      "cume": 0.84,
+      "showings": 165,
+      "admissions": 1595,
+      "rank": 16,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 652864,
+      "title": "Sky on Fire",
+      "gross": 0.01,
+      "cume": 5.31,
+      "showings": 505,
+      "admissions": 2434,
+      "rank": 17,
+      "days": 9,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 612432,
+      "title": "Wolf Totem",
+      "gross": 0.01,
+      "cume": 103.62,
+      "showings": 15,
+      "admissions": 1593,
+      "rank": 18,
+      "days": 654,
+      "day": "96th Sat"
+    },
+    {
+      "movie_id": 657719,
+      "title": "The Heart Of Desert",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 302,
+      "admissions": 1857,
+      "rank": 19,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 639445,
+      "title": "Operation Mekong",
+      "gross": 0.01,
+      "cume": 174.66,
+      "showings": 98,
+      "admissions": 1737,
+      "rank": 20,
+      "days": 65,
+      "day": "10th Sat"
+    }
+  ]
+}

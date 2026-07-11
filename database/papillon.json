@@ -1,0 +1,67 @@
+{
+  "movie_id": 681811,
+  "title": "Papillon",
+  "releaseDate": "26-07-2019",
+  "entries": [
+    {
+      "date": "26-07-2019",
+      "rank": 10,
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 7720,
+      "admissions": 24301,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-07-2019",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 0.14,
+      "showings": 1615,
+      "admissions": 7564,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-07-2019",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 1061,
+      "admissions": 3604,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-07-2019",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 1103,
+      "admissions": 2409,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-07-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 973,
+      "admissions": 2412,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "31-07-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 875,
+      "admissions": 1891,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

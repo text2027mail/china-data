@@ -1,0 +1,47 @@
+{
+  "movie_id": 760955,
+  "title": "Out Of The Nest",
+  "releaseDate": "07-09-2024",
+  "entries": [
+    {
+      "date": "07-09-2024",
+      "rank": 9,
+      "gross": 0.37,
+      "cume": 0.38,
+      "showings": 22606,
+      "admissions": 68473,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-09-2024",
+      "rank": 10,
+      "gross": 0.27,
+      "cume": 0.65,
+      "showings": 17421,
+      "admissions": 49376,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "09-09-2024",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.66,
+      "showings": 6594,
+      "admissions": 1799,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "10-09-2024",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.67,
+      "showings": 5822,
+      "admissions": 2257,
+      "days": 4,
+      "day": "1st Tue"
+    }
+  ]
+}

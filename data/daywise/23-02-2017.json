@@ -1,0 +1,225 @@
+{
+  "date": "23-02-2017",
+  "data": [
+    {
+      "movie_id": 573814,
+      "title": "",
+      "gross": 2.79,
+      "cume": 152.75,
+      "showings": 70704,
+      "admissions": 531252,
+      "rank": 1,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 623100,
+      "title": "Resident Evil: The Final Chapter",
+      "gross": 2.4,
+      "cume": 2.4,
+      "showings": 6229,
+      "admissions": 490652,
+      "rank": 2,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 658818,
+      "title": "Sing",
+      "gross": 1.17,
+      "cume": 17.4,
+      "showings": 35451,
+      "admissions": 229655,
+      "rank": 3,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 643725,
+      "title": "The Game Changer",
+      "gross": 0.92,
+      "cume": 12.97,
+      "showings": 5930,
+      "admissions": 180289,
+      "rank": 4,
+      "days": 14,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 629898,
+      "title": "Kung Fu Yoga",
+      "gross": 0.88,
+      "cume": 255.67,
+      "showings": 25223,
+      "admissions": 162718,
+      "rank": 5,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 658378,
+      "title": "La La Land",
+      "gross": 0.84,
+      "cume": 29.24,
+      "showings": 27034,
+      "admissions": 171896,
+      "rank": 6,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 655798,
+      "title": "Duckweed",
+      "gross": 0.8,
+      "cume": 151.51,
+      "showings": 23895,
+      "admissions": 175660,
+      "rank": 7,
+      "days": 27,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 659054,
+      "title": "Assassin's Creed",
+      "gross": 0.26,
+      "cume": 0.35,
+      "showings": 3279,
+      "admissions": 47959,
+      "rank": 8,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 619719,
+      "title": "Journey to the West: Demon Chapter",
+      "gross": 0.23,
+      "cume": 243.96,
+      "showings": 9231,
+      "admissions": 43153,
+      "rank": 9,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 660155,
+      "title": "Revengre for Love",
+      "gross": 0.2,
+      "cume": 9.08,
+      "showings": 10284,
+      "admissions": 43449,
+      "rank": 10,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 654608,
+      "title": "Love Contractually",
+      "gross": 0.16,
+      "cume": 8.56,
+      "showings": 8265,
+      "admissions": 33504,
+      "rank": 11,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 640807,
+      "title": "Lord of Shanghai",
+      "gross": 0.11,
+      "cume": 1.73,
+      "showings": 5844,
+      "admissions": 24493,
+      "rank": 12,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 643191,
+      "title": "Cook Up a Storm",
+      "gross": 0.08,
+      "cume": 17.89,
+      "showings": 5145,
+      "admissions": 15884,
+      "rank": 13,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 655318,
+      "title": "Boonie Bears：Entangled  Worlds",
+      "gross": 0.06,
+      "cume": 75.08,
+      "showings": 3440,
+      "admissions": 12594,
+      "rank": 14,
+      "days": 27,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 637920,
+      "title": "Buddies in India",
+      "gross": 0.05,
+      "cume": 111.68,
+      "showings": 2645,
+      "admissions": 9551,
+      "rank": 15,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 618780,
+      "title": "North East Past:Po Ma Zhang Fei",
+      "gross": 0.05,
+      "cume": 15.5,
+      "showings": 1676,
+      "admissions": 13292,
+      "rank": 16,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 656491,
+      "title": "The Door",
+      "gross": 0.04,
+      "cume": 1.14,
+      "showings": 5595,
+      "admissions": 7447,
+      "rank": 17,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 595849,
+      "title": "The Great Wall",
+      "gross": 0.02,
+      "cume": 173.2,
+      "showings": 105,
+      "admissions": 3253,
+      "rank": 18,
+      "days": 70,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 639072,
+      "title": "Xue San Xiong Ling",
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 1327,
+      "admissions": 3281,
+      "rank": 19,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 628225,
+      "title": "See You Tomorrow",
+      "gross": 0.01,
+      "cume": 71.26,
+      "showings": 10,
+      "admissions": 1125,
+      "rank": 20,
+      "days": 63,
+      "day": "10th Thu"
+    }
+  ]
+}

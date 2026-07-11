@@ -1,0 +1,67 @@
+{
+  "movie_id": 613365,
+  "title": "You are the One",
+  "releaseDate": "07-03-2014",
+  "entries": [
+    {
+      "date": "07-03-2014",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 528,
+      "admissions": 3290,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-03-2014",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 395,
+      "admissions": 3783,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-03-2014",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 393,
+      "admissions": 1692,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-03-2014",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 340,
+      "admissions": 851,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "11-03-2014",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 321,
+      "admissions": 804,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "12-03-2014",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 315,
+      "admissions": 905,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

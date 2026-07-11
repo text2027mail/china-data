@@ -1,0 +1,47 @@
+{
+  "movie_id": 751240,
+  "title": "All Wishes Come True！",
+  "releaseDate": "08-07-2026",
+  "entries": [
+    {
+      "date": "08-07-2026",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 10,
+      "admissions": 1190,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "09-07-2026",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 8,
+      "admissions": 1715,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "10-07-2026",
+      "rank": 9,
+      "gross": 0.1,
+      "cume": 0.13,
+      "showings": 389,
+      "admissions": 13879,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "11-07-2026",
+      "rank": 10,
+      "gross": 0.27,
+      "cume": 0.39,
+      "showings": 1411,
+      "admissions": 43000,
+      "days": null,
+      "day": "1st Sat"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "23-07-2023",
+  "data": [
+    {
+      "movie_id": 673139,
+      "title": "",
+      "gross": 19.25,
+      "cume": 56.39,
+      "showings": 74943,
+      "admissions": 3005645,
+      "rank": 1,
+      "days": 4,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 716119,
+      "title": "CHANG AN",
+      "gross": 19.17,
+      "cume": 176.21,
+      "showings": 75002,
+      "admissions": 3123876,
+      "rank": 2,
+      "days": 16,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 706149,
+      "title": "Never Say Never",
+      "gross": 9.24,
+      "cume": 273.89,
+      "showings": 55872,
+      "admissions": 1541304,
+      "rank": 3,
+      "days": 18,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 703467,
+      "title": "Advancing of ZQ",
+      "gross": 7.95,
+      "cume": 32.86,
+      "showings": 75480,
+      "admissions": 1299173,
+      "rank": 4,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 738512,
+      "title": "Barbie",
+      "gross": 4.45,
+      "cume": 8.58,
+      "showings": 27249,
+      "admissions": 832676,
+      "rank": 5,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 708791,
+      "title": "One And Only",
+      "gross": 3.64,
+      "cume": 6.69,
+      "showings": 18704,
+      "admissions": 577463,
+      "rank": 6,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 708001,
+      "title": "Oh My School ！",
+      "gross": 3.11,
+      "cume": 35.76,
+      "showings": 25179,
+      "admissions": 524841,
+      "rank": 7,
+      "days": 10,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 737856,
+      "title": "Mission: Impossible – Dead Reckoning Part One",
+      "gross": 2.19,
+      "cume": 43.11,
+      "showings": 9899,
+      "admissions": 346085,
+      "rank": 8,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 733914,
+      "title": "Lost in the stars",
+      "gross": 1.78,
+      "cume": 511.94,
+      "showings": 17421,
+      "admissions": 293995,
+      "rank": 9,
+      "days": 32,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 710303,
+      "title": "Super Wings",
+      "gross": 0.28,
+      "cume": 8.89,
+      "showings": 3883,
+      "admissions": 51699,
+      "rank": 10,
+      "days": 16,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 709944,
+      "title": "The White Storm 3：Heaven or Hell",
+      "gross": 0.18,
+      "cume": 41.35,
+      "showings": 2103,
+      "admissions": 29618,
+      "rank": 11,
+      "days": 18,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 691303,
+      "title": "Magic Matin",
+      "gross": 0.17,
+      "cume": 0.79,
+      "showings": 5324,
+      "admissions": 31970,
+      "rank": 12,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 710777,
+      "title": "Hello Elien",
+      "gross": 0.09,
+      "cume": 0.47,
+      "showings": 2416,
+      "admissions": 18932,
+      "rank": 13,
+      "days": 9,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 708181,
+      "title": "Transformers: Rise of the Beasts",
+      "gross": 0.08,
+      "cume": 96.2,
+      "showings": 714,
+      "admissions": 15466,
+      "rank": 14,
+      "days": 45,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 707131,
+      "title": "Love Never Ends",
+      "gross": 0.05,
+      "cume": 63.0,
+      "showings": 755,
+      "admissions": 8092,
+      "rank": 15,
+      "days": 33,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 738212,
+      "title": "The Source Of Power",
+      "gross": 0.02,
+      "cume": 0.78,
+      "showings": 54,
+      "admissions": 4357,
+      "rank": 16,
+      "days": 23,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 737061,
+      "title": "Beijing 2022",
+      "gross": 0.02,
+      "cume": 3.25,
+      "showings": 45,
+      "admissions": 4520,
+      "rank": 17,
+      "days": 66,
+      "day": "10th Sun"
+    },
+    {
+      "movie_id": 737030,
+      "title": "Elemental",
+      "gross": 0.02,
+      "cume": 16.75,
+      "showings": 181,
+      "admissions": 2810,
+      "rank": 18,
+      "days": 38,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 695421,
+      "title": "FATHER’S BICYCLE",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 47,
+      "admissions": 3052,
+      "rank": 19,
+      "days": 20,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 703744,
+      "title": "Manifesto",
+      "gross": 0.01,
+      "cume": 10.75,
+      "showings": 42,
+      "admissions": 2133,
+      "rank": 20,
+      "days": 122,
+      "day": "19th Sun"
+    }
+  ]
+}

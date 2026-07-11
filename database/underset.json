@@ -1,0 +1,97 @@
+{
+  "movie_id": 666590,
+  "title": "Underset",
+  "releaseDate": "06-06-2018",
+  "entries": [
+    {
+      "date": "06-06-2018",
+      "rank": 9,
+      "gross": 0.06,
+      "cume": 0.08,
+      "showings": 6760,
+      "admissions": 15854,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "date": "07-06-2018",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.12,
+      "showings": 3094,
+      "admissions": 10722,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "date": "09-06-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 337,
+      "admissions": 3215,
+      "days": 4,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-06-2018",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.2,
+      "showings": 107,
+      "admissions": 8938,
+      "days": 21,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "27-06-2018",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.28,
+      "showings": 126,
+      "admissions": 9822,
+      "days": 22,
+      "day": "4th Wed"
+    },
+    {
+      "date": "28-06-2018",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.35,
+      "showings": 129,
+      "admissions": 9529,
+      "days": 23,
+      "day": "4th Thu"
+    },
+    {
+      "date": "29-06-2018",
+      "rank": 11,
+      "gross": 0.08,
+      "cume": 0.43,
+      "showings": 126,
+      "admissions": 10768,
+      "days": 24,
+      "day": "4th Fri"
+    },
+    {
+      "date": "30-06-2018",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 0.5,
+      "showings": 117,
+      "admissions": 10369,
+      "days": 25,
+      "day": "4th Sat"
+    },
+    {
+      "date": "01-07-2018",
+      "rank": 12,
+      "gross": 0.08,
+      "cume": 0.58,
+      "showings": 122,
+      "admissions": 10496,
+      "days": 26,
+      "day": "4th Sun"
+    }
+  ]
+}

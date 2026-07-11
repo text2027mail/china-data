@@ -1,0 +1,225 @@
+{
+  "date": "01-12-2016",
+  "data": [
+    {
+      "movie_id": 643984,
+      "title": "",
+      "gross": 3.34,
+      "cume": 58.06,
+      "showings": 62817,
+      "admissions": 666212,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 640103,
+      "title": "I Am Not Madame Bovary",
+      "gross": 1.2,
+      "cume": 54.16,
+      "showings": 20694,
+      "admissions": 226050,
+      "rank": 2,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 657031,
+      "title": "Allied",
+      "gross": 1.05,
+      "cume": 2.48,
+      "showings": 38828,
+      "admissions": 252667,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 644926,
+      "title": "Moana",
+      "gross": 0.77,
+      "cume": 16.3,
+      "showings": 26424,
+      "admissions": 166070,
+      "rank": 4,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 655647,
+      "title": "Your Name",
+      "gross": 0.33,
+      "cume": 0.33,
+      "showings": 2092,
+      "admissions": 82430,
+      "rank": 5,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 652864,
+      "title": "Sky on Fire",
+      "gross": 0.2,
+      "cume": 5.3,
+      "showings": 15113,
+      "admissions": 45931,
+      "rank": 6,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 644062,
+      "title": "Detective Conan: The Darkest Nightmare",
+      "gross": 0.16,
+      "cume": 4.33,
+      "showings": 10262,
+      "admissions": 39618,
+      "rank": 7,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 325408,
+      "title": "Doctor Strange",
+      "gross": 0.13,
+      "cume": 110.85,
+      "showings": 4955,
+      "admissions": 25124,
+      "rank": 8,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 643007,
+      "title": "People who Love you",
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 2120,
+      "admissions": 21647,
+      "rank": 9,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 625158,
+      "title": "Billy Lynn's Long Halftime Walk",
+      "gross": 0.1,
+      "cume": 23.52,
+      "showings": 1081,
+      "admissions": 9516,
+      "rank": 10,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 618587,
+      "title": "Sentence Me Guilty",
+      "gross": 0.1,
+      "cume": 0.27,
+      "showings": 241,
+      "admissions": 26025,
+      "rank": 11,
+      "days": 210,
+      "day": "30th Thu"
+    },
+    {
+      "movie_id": 573488,
+      "title": "Sword Master",
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 947,
+      "admissions": 11284,
+      "rank": 12,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 627914,
+      "title": "Min & Max",
+      "gross": 0.04,
+      "cume": 0.81,
+      "showings": 3561,
+      "admissions": 7988,
+      "rank": 13,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 643913,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "gross": 0.03,
+      "cume": 0.03,
+      "showings": 1225,
+      "admissions": 6952,
+      "rank": 14,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 640662,
+      "title": "Suddenly Seventeen",
+      "gross": 0.03,
+      "cume": 0.2,
+      "showings": 47,
+      "admissions": 2068,
+      "rank": 15,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 656204,
+      "title": "Soul House",
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 2095,
+      "admissions": 5852,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639445,
+      "title": "Operation Mekong",
+      "gross": 0.02,
+      "cume": 174.62,
+      "showings": 419,
+      "admissions": 5213,
+      "rank": 17,
+      "days": 63,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 656548,
+      "title": "Deepwater Horizon",
+      "gross": 0.02,
+      "cume": 10.68,
+      "showings": 1081,
+      "admissions": 3880,
+      "rank": 18,
+      "days": 17,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 626534,
+      "title": "The Nursery",
+      "gross": 0.01,
+      "cume": 1.13,
+      "showings": 18,
+      "admissions": 1959,
+      "rank": 19,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 628862,
+      "title": "Perfect Imperfection",
+      "gross": 0.01,
+      "cume": 0.68,
+      "showings": 1421,
+      "admissions": 2515,
+      "rank": 20,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

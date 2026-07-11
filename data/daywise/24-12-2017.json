@@ -1,0 +1,225 @@
+{
+  "date": "24-12-2017",
+  "data": [
+    {
+      "movie_id": 659453,
+      "title": "",
+      "gross": 15.92,
+      "cume": 122.17,
+      "showings": 65536,
+      "admissions": 3104325,
+      "rank": 1,
+      "days": 10,
+      "day": "14th Sun"
+    },
+    {
+      "movie_id": 643285,
+      "title": "Legend of the Demon Cat",
+      "gross": 12.04,
+      "cume": 35.89,
+      "showings": 69051,
+      "admissions": 2332322,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 643308,
+      "title": "Bleeding Steel",
+      "gross": 8.85,
+      "cume": 29.26,
+      "showings": 61464,
+      "admissions": 1737243,
+      "rank": 3,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 653101,
+      "title": "The Liquidator",
+      "gross": 6.19,
+      "cume": 21.45,
+      "showings": 48749,
+      "admissions": 1272033,
+      "rank": 4,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 670102,
+      "title": "Coco",
+      "gross": 3.08,
+      "cume": 162.19,
+      "showings": 19878,
+      "admissions": 618183,
+      "rank": 5,
+      "days": 31,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 641143,
+      "title": "Miracles of the Namiya General Store",
+      "gross": 1.13,
+      "cume": 1.27,
+      "showings": 7834,
+      "admissions": 241277,
+      "rank": 6,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 644856,
+      "title": "Paddington 2",
+      "gross": 0.65,
+      "cume": 27.93,
+      "showings": 5063,
+      "admissions": 141736,
+      "rank": 7,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 618517,
+      "title": "The Thousand Faces of Dunjia",
+      "gross": 0.32,
+      "cume": 43.57,
+      "showings": 5696,
+      "admissions": 60429,
+      "rank": 8,
+      "days": 11,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 670000,
+      "title": "Loving Vincent",
+      "gross": 0.17,
+      "cume": 9.3,
+      "showings": 1210,
+      "admissions": 33053,
+      "rank": 9,
+      "days": 17,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 618581,
+      "title": "Seventy-seven Days",
+      "gross": 0.11,
+      "cume": 14.92,
+      "showings": 171,
+      "admissions": 16854,
+      "rank": 10,
+      "days": 52,
+      "day": "9th Sun"
+    },
+    {
+      "movie_id": 616336,
+      "title": "The Door Of Happiness",
+      "gross": 0.09,
+      "cume": 0.72,
+      "showings": 141,
+      "admissions": 16602,
+      "rank": 11,
+      "days": 1090,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 626499,
+      "title": "Hui Ma Ting",
+      "gross": 0.09,
+      "cume": 1.16,
+      "showings": 124,
+      "admissions": 15367,
+      "rank": 12,
+      "days": 655,
+      "day": "93rd Sun"
+    },
+    {
+      "movie_id": 612268,
+      "title": "Pao Cai",
+      "gross": 0.08,
+      "cume": 0.72,
+      "showings": 135,
+      "admissions": 14663,
+      "rank": 13,
+      "days": 1218,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 671628,
+      "title": "Santa & Cie",
+      "gross": 0.05,
+      "cume": 0.66,
+      "showings": 1033,
+      "admissions": 11345,
+      "rank": 14,
+      "days": 10,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 670585,
+      "title": "Darkest Hour",
+      "gross": 0.03,
+      "cume": 5.31,
+      "showings": 125,
+      "admissions": 3782,
+      "rank": 15,
+      "days": 24,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 653548,
+      "title": "Hanson and the Beast",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 18,
+      "admissions": 1458,
+      "rank": 16,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 643909,
+      "title": "For A Few Bullets",
+      "gross": 0.02,
+      "cume": 7.94,
+      "showings": 15,
+      "admissions": 2120,
+      "rank": 17,
+      "days": 528,
+      "day": "77th Sun"
+    },
+    {
+      "movie_id": 672031,
+      "title": "Gui Yan",
+      "gross": 0.02,
+      "cume": 0.23,
+      "showings": 20,
+      "admissions": 1962,
+      "rank": 18,
+      "days": null,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 653840,
+      "title": "Seven Fright Ngihts",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 537,
+      "admissions": 3367,
+      "rank": 19,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 663359,
+      "title": "The Ex-File: The Return of the Exes",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 11,
+      "admissions": 1728,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

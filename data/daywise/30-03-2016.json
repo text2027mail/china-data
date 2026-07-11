@@ -1,0 +1,225 @@
+{
+  "date": "30-03-2016",
+  "data": [
+    {
+      "movie_id": 643388,
+      "title": "",
+      "gross": 3.3,
+      "cume": 66.76,
+      "showings": 67144,
+      "admissions": 632073,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 643235,
+      "title": "Zootopia",
+      "gross": 1.36,
+      "cume": 195.97,
+      "showings": 32315,
+      "admissions": 289860,
+      "rank": 2,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 642886,
+      "title": "The Revenant",
+      "gross": 0.88,
+      "cume": 51.78,
+      "showings": 21801,
+      "admissions": 196680,
+      "rank": 3,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 637664,
+      "title": "The Rise of A Tomboy",
+      "gross": 0.19,
+      "cume": 9.09,
+      "showings": 8521,
+      "admissions": 45389,
+      "rank": 4,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 7861,
+      "title": "Behind The Yellow Line",
+      "gross": 0.17,
+      "cume": 1.64,
+      "showings": 8444,
+      "admissions": 41744,
+      "rank": 5,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 643426,
+      "title": "Gods of Egypt",
+      "gross": 0.09,
+      "cume": 34.39,
+      "showings": 3430,
+      "admissions": 18484,
+      "rank": 6,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 642966,
+      "title": "Fear is coming",
+      "gross": 0.08,
+      "cume": 0.74,
+      "showings": 4147,
+      "admissions": 19807,
+      "rank": 7,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 610219,
+      "title": "Ip Man 3",
+      "gross": 0.07,
+      "cume": 113.56,
+      "showings": 2275,
+      "admissions": 11960,
+      "rank": 8,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 626346,
+      "title": "The Monkey King 2",
+      "gross": 0.05,
+      "cume": 177.16,
+      "showings": 195,
+      "admissions": 12129,
+      "rank": 9,
+      "days": 52,
+      "day": "11th Wed"
+    },
+    {
+      "movie_id": 626153,
+      "title": "The Mermaid",
+      "gross": 0.05,
+      "cume": 500.12,
+      "showings": 2045,
+      "admissions": 9323,
+      "rank": 10,
+      "days": 52,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 639351,
+      "title": "Kung Fu Panda 3",
+      "gross": 0.04,
+      "cume": 147.3,
+      "showings": 204,
+      "admissions": 9438,
+      "rank": 11,
+      "days": 62,
+      "day": "11th Wed"
+    },
+    {
+      "movie_id": 643407,
+      "title": "Girls' Generation",
+      "gross": 0.02,
+      "cume": 0.32,
+      "showings": 4009,
+      "admissions": 4959,
+      "rank": 12,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 642530,
+      "title": "The White-haired Girl",
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 2488,
+      "admissions": 3833,
+      "rank": 13,
+      "days": 6,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 616345,
+      "title": "Wo He Wo Men",
+      "gross": 0.02,
+      "cume": 0.62,
+      "showings": 14,
+      "admissions": 2567,
+      "rank": 14,
+      "days": 681,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 637884,
+      "title": "Shui Mo Da Bie Shan",
+      "gross": 0.01,
+      "cume": 0.62,
+      "showings": 13,
+      "admissions": 2499,
+      "rank": 15,
+      "days": 224,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 592975,
+      "title": "Easy Life",
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 2327,
+      "admissions": 2720,
+      "rank": 16,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 327746,
+      "title": "Eddie the Eagle",
+      "gross": 0.01,
+      "cume": 0.96,
+      "showings": 475,
+      "admissions": 1492,
+      "rank": 17,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 643570,
+      "title": "PAPA",
+      "gross": 0.01,
+      "cume": 1.3,
+      "showings": 760,
+      "admissions": 1423,
+      "rank": 18,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 639810,
+      "title": "Red Cheongsam",
+      "gross": 0.0,
+      "cume": 0.55,
+      "showings": 548,
+      "admissions": 1054,
+      "rank": 19,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 638604,
+      "title": "Go Home",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 300,
+      "admissions": 714,
+      "rank": 20,
+      "days": 6,
+      "day": "2nd Wed"
+    }
+  ]
+}

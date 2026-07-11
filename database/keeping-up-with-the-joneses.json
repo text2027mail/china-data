@@ -1,0 +1,107 @@
+{
+  "movie_id": 657017,
+  "title": "Keeping Up with the Joneses",
+  "releaseDate": "08-11-2016",
+  "entries": [
+    {
+      "date": "08-11-2016",
+      "rank": 4,
+      "gross": 0.5,
+      "cume": 0.5,
+      "showings": 28949,
+      "admissions": 125094,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "09-11-2016",
+      "rank": 4,
+      "gross": 0.42,
+      "cume": 0.91,
+      "showings": 27752,
+      "admissions": 103452,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "10-11-2016",
+      "rank": 4,
+      "gross": 0.33,
+      "cume": 1.25,
+      "showings": 23895,
+      "admissions": 80977,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "11-11-2016",
+      "rank": 9,
+      "gross": 0.11,
+      "cume": 1.36,
+      "showings": 4266,
+      "admissions": 24983,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-11-2016",
+      "rank": 10,
+      "gross": 0.15,
+      "cume": 1.5,
+      "showings": 3731,
+      "admissions": 32278,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-11-2016",
+      "rank": 10,
+      "gross": 0.12,
+      "cume": 1.63,
+      "showings": 3648,
+      "admissions": 27199,
+      "days": 6,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-11-2016",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 1.67,
+      "showings": 3868,
+      "admissions": 10427,
+      "days": 7,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-11-2016",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 1.7,
+      "showings": 2169,
+      "admissions": 5410,
+      "days": 8,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "16-11-2016",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 1.72,
+      "showings": 2104,
+      "admissions": 4541,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "17-11-2016",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 1.74,
+      "showings": 2054,
+      "admissions": 4312,
+      "days": 10,
+      "day": "2nd Thu"
+    }
+  ]
+}

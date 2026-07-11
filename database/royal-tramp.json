@@ -1,0 +1,67 @@
+{
+  "movie_id": 4927,
+  "title": "Royal Tramp",
+  "releaseDate": "05-12-2025",
+  "entries": [
+    {
+      "date": "05-12-2025",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 5021,
+      "admissions": 11921,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "06-12-2025",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 1264,
+      "admissions": 3996,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "07-12-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 1458,
+      "admissions": 3484,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "08-12-2025",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 2017,
+      "admissions": 2175,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "09-12-2025",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 1898,
+      "admissions": 1733,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "10-12-2025",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 1878,
+      "admissions": 2427,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

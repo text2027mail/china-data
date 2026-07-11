@@ -1,0 +1,57 @@
+{
+  "movie_id": 891689,
+  "title": "Hit N Fun",
+  "releaseDate": "19-09-2025",
+  "entries": [
+    {
+      "date": "19-09-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2453,
+      "admissions": 4054,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-09-2025",
+      "rank": 10,
+      "gross": 0.09,
+      "cume": 0.11,
+      "showings": 7215,
+      "admissions": 15797,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-09-2025",
+      "rank": 17,
+      "gross": 0.03,
+      "cume": 0.14,
+      "showings": 3257,
+      "admissions": 5684,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-09-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 2169,
+      "admissions": 2885,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-09-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.16,
+      "showings": 1787,
+      "admissions": 1528,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

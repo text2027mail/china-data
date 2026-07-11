@@ -1,0 +1,57 @@
+{
+  "movie_id": 646952,
+  "title": "The Song of Cotton",
+  "releaseDate": "30-10-2016",
+  "entries": [
+    {
+      "date": "30-10-2016",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 6,
+      "admissions": 935,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-11-2016",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 2772,
+      "admissions": 4760,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-11-2016",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 1401,
+      "admissions": 4092,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "06-11-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 1140,
+      "admissions": 3872,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "07-11-2016",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 970,
+      "admissions": 1621,
+      "days": 4,
+      "day": "2nd Mon"
+    }
+  ]
+}

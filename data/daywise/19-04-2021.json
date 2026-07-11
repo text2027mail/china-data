@@ -1,0 +1,225 @@
+{
+  "date": "19-04-2021",
+  "data": [
+    {
+      "movie_id": 706426,
+      "title": "",
+      "gross": 1.36,
+      "cume": 17.56,
+      "showings": 92596,
+      "admissions": 277698,
+      "rank": 1,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 678591,
+      "title": "SISTER",
+      "gross": 1.05,
+      "cume": 115.77,
+      "showings": 63218,
+      "admissions": 192420,
+      "rank": 2,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 354587,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "gross": 0.74,
+      "cume": 4.6,
+      "showings": 34159,
+      "admissions": 134894,
+      "rank": 3,
+      "days": 6952,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 696413,
+      "title": "Godzilla vs Kong",
+      "gross": 0.62,
+      "cume": 171.82,
+      "showings": 50010,
+      "admissions": 119701,
+      "rank": 4,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 638278,
+      "title": "August Never Ends",
+      "gross": 0.47,
+      "cume": 6.37,
+      "showings": 43249,
+      "admissions": 98744,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 696122,
+      "title": "Warrior of China",
+      "gross": 0.08,
+      "cume": 6.45,
+      "showings": 185,
+      "admissions": 11296,
+      "rank": 6,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 691763,
+      "title": "The Eleventh Chapter",
+      "gross": 0.07,
+      "cume": 10.2,
+      "showings": 4914,
+      "admissions": 12193,
+      "rank": 7,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 642381,
+      "title": "Monkey King Reborn",
+      "gross": 0.06,
+      "cume": 14.75,
+      "showings": 8027,
+      "admissions": 12360,
+      "rank": 8,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 662746,
+      "title": "Hi, Mom",
+      "gross": 0.05,
+      "cume": 797.99,
+      "showings": 3689,
+      "admissions": 9115,
+      "rank": 9,
+      "days": 67,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 704681,
+      "title": "Love Over The World",
+      "gross": 0.04,
+      "cume": 1.75,
+      "showings": 31,
+      "admissions": 6000,
+      "rank": 10,
+      "days": 88,
+      "day": "13th Mon"
+    },
+    {
+      "movie_id": 303851,
+      "title": "Avatar",
+      "gross": 0.03,
+      "cume": 252.83,
+      "showings": 2268,
+      "admissions": 6885,
+      "rank": 11,
+      "days": 4124,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 680579,
+      "title": "The Six",
+      "gross": 0.03,
+      "cume": 0.35,
+      "showings": 4101,
+      "admissions": 5912,
+      "rank": 12,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 695870,
+      "title": "The Wings of songs",
+      "gross": 0.02,
+      "cume": 2.13,
+      "showings": 175,
+      "admissions": 3153,
+      "rank": 13,
+      "days": 23,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 701879,
+      "title": "Da Shi",
+      "gross": 0.02,
+      "cume": 0.82,
+      "showings": 31,
+      "admissions": 3328,
+      "rank": 14,
+      "days": 39,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 703252,
+      "title": "Persian Lessons",
+      "gross": 0.02,
+      "cume": 5.11,
+      "showings": 892,
+      "admissions": 2720,
+      "rank": 15,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 701994,
+      "title": "The Sacrifice",
+      "gross": 0.01,
+      "cume": 165.93,
+      "showings": 3604,
+      "admissions": 3180,
+      "rank": 16,
+      "days": 179,
+      "day": "26th Mon"
+    },
+    {
+      "movie_id": 676314,
+      "title": "Detective Chinatown 3",
+      "gross": 0.01,
+      "cume": 667.18,
+      "showings": 762,
+      "admissions": 1899,
+      "rank": 17,
+      "days": 67,
+      "day": "65th Mon"
+    },
+    {
+      "movie_id": 696807,
+      "title": "Impermanence",
+      "gross": 0.01,
+      "cume": 0.58,
+      "showings": 881,
+      "admissions": 1981,
+      "rank": 18,
+      "days": 19,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 701866,
+      "title": "End Game",
+      "gross": 0.01,
+      "cume": 112.45,
+      "showings": 442,
+      "admissions": 1155,
+      "rank": 19,
+      "days": 67,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 699989,
+      "title": "Huang Wenxiu",
+      "gross": 0.01,
+      "cume": 8.12,
+      "showings": 10,
+      "admissions": 1274,
+      "rank": 20,
+      "days": 250,
+      "day": "33rd Mon"
+    }
+  ]
+}

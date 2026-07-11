@@ -1,0 +1,225 @@
+{
+  "date": "12-04-2017",
+  "data": [
+    {
+      "movie_id": 657795,
+      "title": "",
+      "gross": 1.46,
+      "cume": 27.19,
+      "showings": 72560,
+      "admissions": 273347,
+      "rank": 1,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 657877,
+      "title": "Kong: Skull Island",
+      "gross": 1.34,
+      "cume": 168.68,
+      "showings": 49403,
+      "admissions": 266240,
+      "rank": 2,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 641155,
+      "title": "The Devotion of Suspect X",
+      "gross": 1.08,
+      "cume": 57.49,
+      "showings": 42345,
+      "admissions": 216531,
+      "rank": 3,
+      "days": 13,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 655350,
+      "title": "Extraordinary Mission",
+      "gross": 0.51,
+      "cume": 22.57,
+      "showings": 21449,
+      "admissions": 98447,
+      "rank": 4,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 657339,
+      "title": "The Missing",
+      "gross": 0.22,
+      "cume": 13.89,
+      "showings": 12927,
+      "admissions": 44080,
+      "rank": 5,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 662059,
+      "title": "Mad World",
+      "gross": 0.14,
+      "cume": 0.99,
+      "showings": 6499,
+      "admissions": 27525,
+      "rank": 6,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 658099,
+      "title": "Beauty and the Beast (2017)",
+      "gross": 0.13,
+      "cume": 87.11,
+      "showings": 6450,
+      "admissions": 24022,
+      "rank": 7,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 653966,
+      "title": "You Wan Mei Wan",
+      "gross": 0.09,
+      "cume": 5.43,
+      "showings": 6458,
+      "admissions": 21456,
+      "rank": 8,
+      "days": 12,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 655877,
+      "title": "Weeds on Fire",
+      "gross": 0.05,
+      "cume": 0.43,
+      "showings": 1338,
+      "admissions": 11780,
+      "rank": 9,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 660278,
+      "title": "A Dog's Purpose",
+      "gross": 0.04,
+      "cume": 89.59,
+      "showings": 1999,
+      "admissions": 8445,
+      "rank": 10,
+      "days": 41,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 658999,
+      "title": "Snowtime!",
+      "gross": 0.02,
+      "cume": 5.93,
+      "showings": 4295,
+      "admissions": 4282,
+      "rank": 11,
+      "days": 12,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 654668,
+      "title": "Top Funny Comedian: The Movie",
+      "gross": 0.01,
+      "cume": 9.87,
+      "showings": 595,
+      "admissions": 3854,
+      "rank": 12,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 646950,
+      "title": "Unforgettable Times",
+      "gross": 0.01,
+      "cume": 0.35,
+      "showings": 29,
+      "admissions": 2445,
+      "rank": 13,
+      "days": 468,
+      "day": "22nd Wed"
+    },
+    {
+      "movie_id": 643219,
+      "title": "Haunted Dormitory: White Paper Girl",
+      "gross": 0.01,
+      "cume": 0.38,
+      "showings": 1020,
+      "admissions": 2311,
+      "rank": 14,
+      "days": 12,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 629079,
+      "title": "Inside",
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 1592,
+      "admissions": 1978,
+      "rank": 15,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 652766,
+      "title": "The Legend of 1935",
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 75,
+      "admissions": 1429,
+      "rank": 16,
+      "days": 16,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 656944,
+      "title": "Logan",
+      "gross": 0.0,
+      "cume": 107.94,
+      "showings": 418,
+      "admissions": 1001,
+      "rank": 17,
+      "days": 41,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 644667,
+      "title": "Love Off the Cuff",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 9,
+      "admissions": 749,
+      "rank": 18,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 611587,
+      "title": "McDull·Pork of Music",
+      "gross": 0.0,
+      "cume": 7.17,
+      "showings": 1339,
+      "admissions": 896,
+      "rank": 19,
+      "days": 1738,
+      "day": "61st Wed"
+    },
+    {
+      "movie_id": 626297,
+      "title": "Li San Niang（Hua Gu Xi）",
+      "gross": 0.0,
+      "cume": 1.0,
+      "showings": 11,
+      "admissions": 440,
+      "rank": 20,
+      "days": 853,
+      "day": "79th Wed"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 749864,
+  "title": "Mostly Sunny",
+  "releaseDate": "25-10-2025",
+  "entries": [
+    {
+      "date": "25-10-2025",
+      "rank": 10,
+      "gross": 0.29,
+      "cume": 0.32,
+      "showings": 34403,
+      "admissions": 56423,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-10-2025",
+      "rank": 8,
+      "gross": 0.3,
+      "cume": 0.61,
+      "showings": 18394,
+      "admissions": 56349,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "27-10-2025",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 0.67,
+      "showings": 12950,
+      "admissions": 10095,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "28-10-2025",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 0.72,
+      "showings": 11832,
+      "admissions": 9599,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "29-10-2025",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.76,
+      "showings": 11193,
+      "admissions": 8329,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "02-11-2025",
+      "rank": 18,
+      "gross": 0.06,
+      "cume": 0.85,
+      "showings": 1656,
+      "admissions": 10830,
+      "days": 9,
+      "day": "2nd Sun"
+    }
+  ]
+}

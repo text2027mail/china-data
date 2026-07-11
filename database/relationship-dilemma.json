@@ -1,0 +1,47 @@
+{
+  "movie_id": 629456,
+  "title": "Relationship dilemma",
+  "releaseDate": "08-05-2015",
+  "entries": [
+    {
+      "date": "08-05-2015",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 962,
+      "admissions": 919,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-05-2015",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 751,
+      "admissions": 1105,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-05-2015",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 430,
+      "admissions": 416,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-05-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 411,
+      "admissions": 485,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

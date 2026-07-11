@@ -1,0 +1,225 @@
+{
+  "date": "15-08-2018",
+  "data": [
+    {
+      "movie_id": 677028,
+      "title": "",
+      "gross": 10.36,
+      "cume": 115.88,
+      "showings": 108790,
+      "admissions": 2049670,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 644333,
+      "title": "The Meg",
+      "gross": 8.48,
+      "cume": 79.63,
+      "showings": 83545,
+      "admissions": 1532203,
+      "rank": 2,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 671983,
+      "title": "Hello Mr. Billionaire",
+      "gross": 2.56,
+      "cume": 353.47,
+      "showings": 35777,
+      "admissions": 504515,
+      "rank": 3,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 612645,
+      "title": "iPartment",
+      "gross": 1.59,
+      "cume": 79.26,
+      "showings": 43594,
+      "admissions": 309193,
+      "rank": 4,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 672442,
+      "title": "Blood-Soaked GuangChang",
+      "gross": 0.38,
+      "cume": 5.51,
+      "showings": 780,
+      "admissions": 55741,
+      "rank": 5,
+      "days": 15,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 673286,
+      "title": "Yugo&Lala 4",
+      "gross": 0.34,
+      "cume": 13.5,
+      "showings": 9670,
+      "admissions": 75256,
+      "rank": 6,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 678454,
+      "title": "Shoplifters",
+      "gross": 0.18,
+      "cume": 13.14,
+      "showings": 3496,
+      "admissions": 33834,
+      "rank": 7,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 660451,
+      "title": "Detective Dee：The Four Heavenly Kings",
+      "gross": 0.12,
+      "cume": 87.81,
+      "showings": 2517,
+      "admissions": 19981,
+      "rank": 8,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 677201,
+      "title": "Wind Guardians",
+      "gross": 0.1,
+      "cume": 16.3,
+      "showings": 3821,
+      "admissions": 20948,
+      "rank": 9,
+      "days": 13,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 677231,
+      "title": "Magical Circus",
+      "gross": 0.09,
+      "cume": 9.1,
+      "showings": 365,
+      "admissions": 14818,
+      "rank": 10,
+      "days": 26,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 676313,
+      "title": "Dying to Survive",
+      "gross": 0.06,
+      "cume": 456.85,
+      "showings": 1880,
+      "admissions": 14039,
+      "rank": 11,
+      "days": 42,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 662063,
+      "title": "Skyscraper",
+      "gross": 0.05,
+      "cume": 98.68,
+      "showings": 1681,
+      "admissions": 9834,
+      "rank": 12,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 677990,
+      "title": "Wen Chao Rong",
+      "gross": 0.03,
+      "cume": 0.37,
+      "showings": 115,
+      "admissions": 6157,
+      "rank": 13,
+      "days": 19,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 676763,
+      "title": "The Faithful",
+      "gross": 0.03,
+      "cume": 0.59,
+      "showings": 103,
+      "admissions": 5627,
+      "rank": 14,
+      "days": null,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 589526,
+      "title": "Xin Ling De Yang Guang",
+      "gross": 0.02,
+      "cume": 2.17,
+      "showings": 96,
+      "admissions": 5331,
+      "rank": 15,
+      "days": 3149,
+      "day": "26th Wed"
+    },
+    {
+      "movie_id": 680504,
+      "title": "The Taste of Apple",
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 558,
+      "admissions": 5703,
+      "rank": 16,
+      "days": 8,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 637824,
+      "title": "Europe Raiders",
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 7,
+      "admissions": 1473,
+      "rank": 17,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 642433,
+      "title": "Space Panda Hero Returns",
+      "gross": 0.02,
+      "cume": 2.9,
+      "showings": 46,
+      "admissions": 3858,
+      "rank": 18,
+      "days": 866,
+      "day": "126th Wed"
+    },
+    {
+      "movie_id": 559929,
+      "title": "I Love Yangge Dance",
+      "gross": 0.02,
+      "cume": 1.77,
+      "showings": 103,
+      "admissions": 3599,
+      "rank": 19,
+      "days": 3923,
+      "day": "26th Wed"
+    },
+    {
+      "movie_id": 641422,
+      "title": "The Winner",
+      "gross": 0.02,
+      "cume": 6.71,
+      "showings": 28,
+      "admissions": 2722,
+      "rank": 20,
+      "days": 978,
+      "day": "140th Wed"
+    }
+  ]
+}

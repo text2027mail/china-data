@@ -1,0 +1,225 @@
+{
+  "date": "30-04-2023",
+  "data": [
+    {
+      "movie_id": 707476,
+      "title": "",
+      "gross": 15.49,
+      "cume": 41.24,
+      "showings": 109500,
+      "admissions": 2484715,
+      "rank": 1,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 710253,
+      "title": "GODSPEED",
+      "gross": 15.32,
+      "cume": 32.24,
+      "showings": 93467,
+      "admissions": 2491120,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 709077,
+      "title": "All These Years",
+      "gross": 6.08,
+      "cume": 19.14,
+      "showings": 70381,
+      "admissions": 1003307,
+      "rank": 3,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 734942,
+      "title": "The First Slam Dunk",
+      "gross": 5.56,
+      "cume": 77.19,
+      "showings": 50091,
+      "admissions": 1065363,
+      "rank": 4,
+      "days": 11,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 696727,
+      "title": "The Procurator",
+      "gross": 1.21,
+      "cume": 4.37,
+      "showings": 22571,
+      "admissions": 219932,
+      "rank": 5,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 713176,
+      "title": "Racing 72H",
+      "gross": 1.13,
+      "cume": 2.49,
+      "showings": 26239,
+      "admissions": 231012,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 735685,
+      "title": "Suzume no Tojimari",
+      "gross": 0.84,
+      "cume": 115.74,
+      "showings": 7920,
+      "admissions": 181608,
+      "rank": 7,
+      "days": 38,
+      "day": "7th Sun"
+    },
+    {
+      "movie_id": 736003,
+      "title": "The Super Mario Bros. Movie",
+      "gross": 0.65,
+      "cume": 21.36,
+      "showings": 6463,
+      "admissions": 113067,
+      "rank": 8,
+      "days": 26,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 703278,
+      "title": "Flash Over",
+      "gross": 0.65,
+      "cume": 3.81,
+      "showings": 16843,
+      "admissions": 106472,
+      "rank": 9,
+      "days": 3,
+      "day": "3rd Sun"
+    },
+    {
+      "movie_id": 713144,
+      "title": "Yesterday Once More",
+      "gross": 0.44,
+      "cume": 2.41,
+      "showings": 16776,
+      "admissions": 80968,
+      "rank": 10,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 710776,
+      "title": "Cosmicrew: Storm Force",
+      "gross": 0.35,
+      "cume": 0.71,
+      "showings": 9825,
+      "admissions": 74755,
+      "rank": 11,
+      "days": 2,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 699972,
+      "title": "Tale of the Night",
+      "gross": 0.32,
+      "cume": 1.17,
+      "showings": 9459,
+      "admissions": 53779,
+      "rank": 12,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 735772,
+      "title": "Dragon Rider",
+      "gross": 0.18,
+      "cume": 0.21,
+      "showings": 7491,
+      "admissions": 39145,
+      "rank": 13,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 703721,
+      "title": "Magic Princess",
+      "gross": 0.15,
+      "cume": 0.22,
+      "showings": 4869,
+      "admissions": 32587,
+      "rank": 14,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "movie_id": 663220,
+      "title": "Hachiko",
+      "gross": 0.11,
+      "cume": 41.93,
+      "showings": 1435,
+      "admissions": 20195,
+      "rank": 15,
+      "days": 31,
+      "day": "6th Sun"
+    },
+    {
+      "movie_id": 392775,
+      "title": "Titanic",
+      "gross": 0.08,
+      "cume": 8.57,
+      "showings": 581,
+      "admissions": 12841,
+      "rank": 16,
+      "days": 9159,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 697450,
+      "title": "Journey To The West",
+      "gross": 0.08,
+      "cume": 9.46,
+      "showings": 637,
+      "admissions": 11142,
+      "rank": 17,
+      "days": 30,
+      "day": "5th Sun"
+    },
+    {
+      "movie_id": 461160,
+      "title": "Meitantei Konan: Bekâ Sutorîto no bôrei",
+      "gross": 0.08,
+      "cume": 8.05,
+      "showings": 811,
+      "admissions": 14772,
+      "rank": 18,
+      "days": 27,
+      "day": "4th Sun"
+    },
+    {
+      "movie_id": 736894,
+      "title": "The 13th Beijing International Film Festival",
+      "gross": 0.07,
+      "cume": 0.96,
+      "showings": 24,
+      "admissions": 4739,
+      "rank": 19,
+      "days": 18,
+      "day": "2nd Sun"
+    },
+    {
+      "movie_id": 716184,
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "gross": 0.05,
+      "cume": 11.95,
+      "showings": 449,
+      "admissions": 8522,
+      "rank": 20,
+      "days": 31,
+      "day": "5th Sun"
+    }
+  ]
+}

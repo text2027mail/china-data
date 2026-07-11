@@ -1,0 +1,37 @@
+{
+  "movie_id": 663343,
+  "title": "A Fishboy’s Story:Tortoise from the Sea",
+  "releaseDate": "16-03-2019",
+  "entries": [
+    {
+      "date": "16-03-2019",
+      "rank": 16,
+      "gross": 0.06,
+      "cume": 0.1,
+      "showings": 4374,
+      "admissions": 10875,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-03-2019",
+      "rank": 15,
+      "gross": 0.06,
+      "cume": 0.16,
+      "showings": 2687,
+      "admissions": 6959,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-04-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 9,
+      "admissions": 0,
+      "days": 27,
+      "day": "4th Thu"
+    }
+  ]
+}

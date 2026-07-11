@@ -1,0 +1,77 @@
+{
+  "movie_id": 641951,
+  "title": "Snow White And Three Pigs",
+  "releaseDate": "26-08-2016",
+  "entries": [
+    {
+      "date": "26-08-2016",
+      "rank": 16,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 3774,
+      "admissions": 13147,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-08-2016",
+      "rank": 13,
+      "gross": 0.07,
+      "cume": 0.12,
+      "showings": 3670,
+      "admissions": 16135,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-08-2016",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.18,
+      "showings": 3219,
+      "admissions": 14281,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-08-2016",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.21,
+      "showings": 2391,
+      "admissions": 5172,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-08-2016",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.22,
+      "showings": 2078,
+      "admissions": 4347,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-09-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 458,
+      "admissions": 1351,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "04-09-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 485,
+      "admissions": 1417,
+      "days": 10,
+      "day": "2nd Sun"
+    }
+  ]
+}

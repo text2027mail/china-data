@@ -1,0 +1,225 @@
+{
+  "date": "14-12-2023",
+  "data": [
+    {
+      "movie_id": 702018,
+      "title": "",
+      "gross": 1.3,
+      "cume": 20.22,
+      "showings": 64949,
+      "admissions": 208284,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 711997,
+      "title": "Endless Journey",
+      "gross": 1.27,
+      "cume": 14.8,
+      "showings": 25586,
+      "admissions": 201432,
+      "rank": 2,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 735034,
+      "title": "Love Life Light",
+      "gross": 1.19,
+      "cume": 21.3,
+      "showings": 61109,
+      "admissions": 196922,
+      "rank": 3,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 710613,
+      "title": "Wolf Hiding",
+      "gross": 1.02,
+      "cume": 1.03,
+      "showings": 17993,
+      "admissions": 165937,
+      "rank": 4,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 716094,
+      "title": "Bursting Point",
+      "gross": 0.57,
+      "cume": 11.28,
+      "showings": 32335,
+      "admissions": 91241,
+      "rank": 5,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 710184,
+      "title": "So Long for Love",
+      "gross": 0.56,
+      "cume": 31.38,
+      "showings": 43056,
+      "admissions": 93669,
+      "rank": 6,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 694586,
+      "title": "Across The Furious Sea",
+      "gross": 0.36,
+      "cume": 79.64,
+      "showings": 30684,
+      "admissions": 57460,
+      "rank": 7,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 743917,
+      "title": "Wonka",
+      "gross": 0.24,
+      "cume": 4.54,
+      "showings": 16844,
+      "admissions": 42593,
+      "rank": 8,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 707875,
+      "title": "THE VOLUNTEERS：TO THE WAR",
+      "gross": 0.18,
+      "cume": 122.92,
+      "showings": 515,
+      "admissions": 23698,
+      "rank": 9,
+      "days": 78,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 709609,
+      "title": "Struggle and Courage",
+      "gross": 0.13,
+      "cume": 2.58,
+      "showings": 420,
+      "admissions": 20871,
+      "rank": 10,
+      "days": 17,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 741165,
+      "title": "Beyond The Clouds",
+      "gross": 0.07,
+      "cume": 11.94,
+      "showings": 1972,
+      "admissions": 11811,
+      "rank": 11,
+      "days": 21,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 743317,
+      "title": "New Dimension! Crayon Shinchan the Movie: Battle of Supernatural Powers ~Flying Sushi~",
+      "gross": 0.06,
+      "cume": 15.48,
+      "showings": 11176,
+      "admissions": 12972,
+      "rank": 12,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 743915,
+      "title": "Migration",
+      "gross": 0.02,
+      "cume": 1.15,
+      "showings": 3777,
+      "admissions": 4143,
+      "rank": 13,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 744268,
+      "title": "Napoleon",
+      "gross": 0.02,
+      "cume": 3.99,
+      "showings": 1749,
+      "admissions": 2887,
+      "rank": 14,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 712028,
+      "title": "Personal Persistence",
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 4341,
+      "admissions": 3440,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 743320,
+      "title": "Seven Killings",
+      "gross": 0.02,
+      "cume": 7.51,
+      "showings": 838,
+      "admissions": 2705,
+      "rank": 16,
+      "days": 21,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 706788,
+      "title": "Trending Topic",
+      "gross": 0.02,
+      "cume": 9.29,
+      "showings": 3601,
+      "admissions": 2826,
+      "rank": 17,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 744663,
+      "title": "DogMan",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 9,
+      "admissions": 1520,
+      "rank": 18,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 691309,
+      "title": "Nation General",
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 162,
+      "admissions": 2029,
+      "rank": 19,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 681123,
+      "title": "HOME FIGHT FOR EARTH",
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 32,
+      "admissions": 1427,
+      "rank": 20,
+      "days": 42,
+      "day": "6th Thu"
+    }
+  ]
+}

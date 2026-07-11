@@ -1,0 +1,37 @@
+{
+  "movie_id": 639397,
+  "title": "Sword of hope",
+  "releaseDate": "04-08-2015",
+  "entries": [
+    {
+      "date": "04-08-2015",
+      "rank": 10,
+      "gross": 0.19,
+      "cume": 0.19,
+      "showings": 5725,
+      "admissions": 38069,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "05-08-2015",
+      "rank": 11,
+      "gross": 0.08,
+      "cume": 0.27,
+      "showings": 4896,
+      "admissions": 17138,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "06-08-2015",
+      "rank": 17,
+      "gross": 0.03,
+      "cume": 0.31,
+      "showings": 1733,
+      "admissions": 6810,
+      "days": null,
+      "day": "1st Thu"
+    }
+  ]
+}

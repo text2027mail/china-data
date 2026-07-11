@@ -1,0 +1,225 @@
+{
+  "date": "09-01-2018",
+  "data": [
+    {
+      "movie_id": 663359,
+      "title": "",
+      "gross": 11.53,
+      "cume": 218.33,
+      "showings": 115455,
+      "admissions": 2243268,
+      "rank": 1,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 659753,
+      "title": "Star Wars: The last Jedi",
+      "gross": 1.95,
+      "cume": 31.69,
+      "showings": 53904,
+      "admissions": 368085,
+      "rank": 2,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 659453,
+      "title": "Youth",
+      "gross": 1.23,
+      "cume": 202.93,
+      "showings": 26476,
+      "admissions": 250311,
+      "rank": 3,
+      "days": 26,
+      "day": "16th Tue"
+    },
+    {
+      "movie_id": 653548,
+      "title": "Hanson and the Beast",
+      "gross": 0.74,
+      "cume": 40.81,
+      "showings": 15039,
+      "admissions": 145872,
+      "rank": 4,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 669715,
+      "title": "Gold Buster",
+      "gross": 0.36,
+      "cume": 52.64,
+      "showings": 13848,
+      "admissions": 71366,
+      "rank": 5,
+      "days": 12,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 643285,
+      "title": "Legend of the Demon Cat",
+      "gross": 0.31,
+      "cume": 76.95,
+      "showings": 6868,
+      "admissions": 59368,
+      "rank": 6,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 641143,
+      "title": "Miracles of the Namiya General Store",
+      "gross": 0.25,
+      "cume": 32.27,
+      "showings": 8644,
+      "admissions": 50621,
+      "rank": 7,
+      "days": 12,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 670102,
+      "title": "Coco",
+      "gross": 0.19,
+      "cume": 176.74,
+      "showings": 5655,
+      "admissions": 38968,
+      "rank": 8,
+      "days": 47,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 589946,
+      "title": "Forever Young",
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 116,
+      "admissions": 12459,
+      "rank": 9,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 612268,
+      "title": "Pao Cai",
+      "gross": 0.05,
+      "cume": 1.12,
+      "showings": 102,
+      "admissions": 9749,
+      "rank": 10,
+      "days": 1234,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 643308,
+      "title": "Bleeding Steel",
+      "gross": 0.05,
+      "cume": 44.9,
+      "showings": 2149,
+      "admissions": 10687,
+      "rank": 11,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 653101,
+      "title": "The Liquidator",
+      "gross": 0.05,
+      "cume": 32.81,
+      "showings": 1532,
+      "admissions": 9853,
+      "rank": 12,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 641885,
+      "title": "Zou Bi Hua",
+      "gross": 0.05,
+      "cume": 0.73,
+      "showings": 72,
+      "admissions": 6412,
+      "rank": 13,
+      "days": 98,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 628276,
+      "title": "The Youth",
+      "gross": 0.04,
+      "cume": 0.68,
+      "showings": 58,
+      "admissions": 7190,
+      "rank": 14,
+      "days": 1184,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 644856,
+      "title": "Paddington 2",
+      "gross": 0.02,
+      "cume": 30.25,
+      "showings": 553,
+      "admissions": 3545,
+      "rank": 15,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 629777,
+      "title": "The Sound of a Dream",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 962,
+      "admissions": 3282,
+      "rank": 16,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 624185,
+      "title": "Nise da Silveira: Senhora das Imagens",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 570,
+      "admissions": 2339,
+      "rank": 17,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 668959,
+      "title": "Keep Calm And Be A Superstar",
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 3,
+      "admissions": 639,
+      "rank": 18,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 661435,
+      "title": "Coffee",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 20,
+      "admissions": 1647,
+      "rank": 19,
+      "days": 11,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 638980,
+      "title": "Barkley",
+      "gross": 0.01,
+      "cume": 1.67,
+      "showings": 878,
+      "admissions": 1920,
+      "rank": 20,
+      "days": 11,
+      "day": "2nd Tue"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "02-01-2023",
+  "data": [
+    {
+      "movie_id": 612244,
+      "title": "",
+      "gross": 9.46,
+      "cume": 166.49,
+      "showings": 111928,
+      "admissions": 1317694,
+      "rank": 1,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 714823,
+      "title": "Better Man",
+      "gross": 2.97,
+      "cume": 19.46,
+      "showings": 83577,
+      "admissions": 485788,
+      "rank": 2,
+      "days": 3,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 2.58,
+      "cume": 38.89,
+      "showings": 84972,
+      "admissions": 421094,
+      "rank": 3,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.35,
+      "cume": 1.81,
+      "showings": 10451,
+      "admissions": 64696,
+      "rank": 4,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 716214,
+      "title": "One Piece Film Red",
+      "gross": 0.25,
+      "cume": 24.64,
+      "showings": 14101,
+      "admissions": 52845,
+      "rank": 5,
+      "days": 33,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 714092,
+      "title": "Detective Conan: The Bride of Halloween",
+      "gross": 0.24,
+      "cume": 26.43,
+      "showings": 8409,
+      "admissions": 50994,
+      "rank": 6,
+      "days": 46,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 734591,
+      "title": "A WIZ NAMED WUKONG",
+      "gross": 0.13,
+      "cume": 0.52,
+      "showings": 9356,
+      "admissions": 26633,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 656356,
+      "title": "Pink",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 1428,
+      "admissions": 4293,
+      "rank": 8,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 734572,
+      "title": "The Man from Toronto",
+      "gross": 0.02,
+      "cume": 0.27,
+      "showings": 1310,
+      "admissions": 3201,
+      "rank": 9,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 699944,
+      "title": "Love Makes Me Strong",
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 240,
+      "admissions": 2861,
+      "rank": 10,
+      "days": 39,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 734075,
+      "title": "The 9th Silk Road International Film Festival",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 62,
+      "admissions": 1963,
+      "rank": 11,
+      "days": 48,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 733192,
+      "title": "The Tipping Point",
+      "gross": 0.01,
+      "cume": 25.73,
+      "showings": 979,
+      "admissions": 1471,
+      "rank": 12,
+      "days": 53,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 711464,
+      "title": "Clean River",
+      "gross": 0.01,
+      "cume": 0.17,
+      "showings": 21,
+      "admissions": 1705,
+      "rank": 13,
+      "days": 355,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 696270,
+      "title": "Restaurant in a tree",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 340,
+      "admissions": 1162,
+      "rank": 14,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 426671,
+      "title": "Les choristes",
+      "gross": 0.01,
+      "cume": 1.08,
+      "showings": 254,
+      "admissions": 1360,
+      "rank": 15,
+      "days": 6528,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 703781,
+      "title": "Ready to go",
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 53,
+      "admissions": 1589,
+      "rank": 16,
+      "days": 158,
+      "day": "14th Mon"
+    },
+    {
+      "movie_id": 700699,
+      "title": "Frog Prince Adventures 2",
+      "gross": 0.01,
+      "cume": 0.54,
+      "showings": 363,
+      "admissions": 1183,
+      "rank": 17,
+      "days": 52,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 715147,
+      "title": "The Light Of Belief",
+      "gross": 0.0,
+      "cume": 0.18,
+      "showings": 141,
+      "admissions": 951,
+      "rank": 18,
+      "days": 182,
+      "day": "17th Mon"
+    },
+    {
+      "movie_id": 681222,
+      "title": "MR. MOTOR",
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 30,
+      "admissions": 655,
+      "rank": 19,
+      "days": 40,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 680011,
+      "title": "Vanishing days",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 31,
+      "admissions": 637,
+      "rank": 20,
+      "days": 46,
+      "day": "5th Mon"
+    }
+  ]
+}

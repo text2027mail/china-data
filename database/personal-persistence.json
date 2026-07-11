@@ -1,0 +1,57 @@
+{
+  "movie_id": 712028,
+  "title": "Personal Persistence",
+  "releaseDate": "11-12-2023",
+  "entries": [
+    {
+      "date": "11-12-2023",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 3674,
+      "admissions": 3843,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-12-2023",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.05,
+      "showings": 4139,
+      "admissions": 3623,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-12-2023",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 4378,
+      "admissions": 3509,
+      "days": 3,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-12-2023",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 4341,
+      "admissions": 3440,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "date": "15-12-2023",
+      "rank": 15,
+      "gross": 0.08,
+      "cume": 0.16,
+      "showings": 3785,
+      "admissions": 13015,
+      "days": 5,
+      "day": "1st Fri"
+    }
+  ]
+}

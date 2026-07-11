@@ -1,0 +1,225 @@
+{
+  "date": "08-10-2013",
+  "data": [
+    {
+      "movie_id": 591779,
+      "title": "",
+      "gross": 2.16,
+      "cume": 71.75,
+      "showings": 23670,
+      "admissions": 383344,
+      "rank": 1,
+      "days": 11,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 617270,
+      "title": "The Lone Ranger",
+      "gross": 0.9,
+      "cume": 7.93,
+      "showings": 16280,
+      "admissions": 196953,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 612121,
+      "title": "Out of Inferno",
+      "gross": 0.76,
+      "cume": 15.27,
+      "showings": 11698,
+      "admissions": 144678,
+      "rank": 3,
+      "days": 9,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 589509,
+      "title": "Amazing",
+      "gross": 0.24,
+      "cume": 4.69,
+      "showings": 2499,
+      "admissions": 28171,
+      "rank": 4,
+      "days": 9,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 613553,
+      "title": "The Fox Lover",
+      "gross": 0.12,
+      "cume": 4.32,
+      "showings": 2664,
+      "admissions": 22346,
+      "rank": 5,
+      "days": 11,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 611580,
+      "title": "My Lucky Star",
+      "gross": 0.1,
+      "cume": 18.81,
+      "showings": 750,
+      "admissions": 16462,
+      "rank": 6,
+      "days": 22,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 612672,
+      "title": "Silent Witness",
+      "gross": 0.07,
+      "cume": 26.53,
+      "showings": 2005,
+      "admissions": 14881,
+      "rank": 7,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 589883,
+      "title": "Cross",
+      "gross": 0.07,
+      "cume": 1.4,
+      "showings": 4060,
+      "admissions": 15218,
+      "rank": 8,
+      "days": 6,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 617710,
+      "title": "Bump In The Road",
+      "gross": 0.07,
+      "cume": 1.81,
+      "showings": 3004,
+      "admissions": 16440,
+      "rank": 9,
+      "days": 10,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 617573,
+      "title": "Turbo",
+      "gross": 0.05,
+      "cume": 16.13,
+      "showings": 2871,
+      "admissions": 8932,
+      "rank": 10,
+      "days": 21,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.02,
+      "cume": 5.69,
+      "showings": 38,
+      "admissions": 3656,
+      "rank": 11,
+      "days": 85,
+      "day": "13th Tue"
+    },
+    {
+      "movie_id": 617191,
+      "title": "Jobs",
+      "gross": 0.02,
+      "cume": 1.75,
+      "showings": 645,
+      "admissions": 3431,
+      "rank": 12,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 614862,
+      "title": "The Smurfs 2",
+      "gross": 0.02,
+      "cume": 20.28,
+      "showings": 961,
+      "admissions": 3355,
+      "rank": 13,
+      "days": 27,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 617484,
+      "title": "Farm House 81",
+      "gross": 0.01,
+      "cume": 3.11,
+      "showings": 2238,
+      "admissions": 2764,
+      "rank": 14,
+      "days": 11,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 608116,
+      "title": "Murcielago",
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 1055,
+      "admissions": 2544,
+      "rank": 15,
+      "days": 9,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 595608,
+      "title": "The Bullet Vanishes",
+      "gross": 0.01,
+      "cume": 23.08,
+      "showings": 22,
+      "admissions": 3287,
+      "rank": 16,
+      "days": 421,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 573396,
+      "title": "The Four",
+      "gross": 0.01,
+      "cume": 28.38,
+      "showings": 22,
+      "admissions": 3301,
+      "rank": 17,
+      "days": 454,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 559983,
+      "title": "Shi Quan Jiu Mei",
+      "gross": 0.01,
+      "cume": 6.9,
+      "showings": 15,
+      "admissions": 2288,
+      "rank": 18,
+      "days": 1895,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 4964,
+      "title": "Dragon Tiger Gate",
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 12,
+      "admissions": 2194,
+      "rank": 19,
+      "days": 2630,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 131,
+      "title": "Connected",
+      "gross": 0.01,
+      "cume": 5.83,
+      "showings": 14,
+      "admissions": 1702,
+      "rank": 20,
+      "days": 1838,
+      "day": "1st Tue"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "movie_id": 637667,
+  "title": "Foolish Plan",
+  "releaseDate": "09-12-2016",
+  "entries": [
+    {
+      "date": "09-12-2016",
+      "rank": 12,
+      "gross": 0.13,
+      "cume": 0.13,
+      "showings": 6856,
+      "admissions": 30874,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "10-12-2016",
+      "rank": 12,
+      "gross": 0.12,
+      "cume": 0.25,
+      "showings": 4555,
+      "admissions": 25874,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-12-2016",
+      "rank": 12,
+      "gross": 0.1,
+      "cume": 0.36,
+      "showings": 3994,
+      "admissions": 23165,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "12-12-2016",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.41,
+      "showings": 3556,
+      "admissions": 10427,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-12-2016",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.45,
+      "showings": 3146,
+      "admissions": 6977,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-12-2016",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.49,
+      "showings": 2996,
+      "admissions": 7482,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-12-2016",
+      "rank": 14,
+      "gross": 0.03,
+      "cume": 0.52,
+      "showings": 1985,
+      "admissions": 4215,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "21-12-2016",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.62,
+      "showings": 170,
+      "admissions": 2086,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "29-12-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.65,
+      "showings": 30,
+      "admissions": 707,
+      "days": 21,
+      "day": "3rd Thu"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 757694,
+  "title": "It Ends with Us",
+  "releaseDate": "30-08-2024",
+  "entries": [
+    {
+      "date": "30-08-2024",
+      "rank": 15,
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 10093,
+      "admissions": 14487,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "31-08-2024",
+      "rank": 19,
+      "gross": 0.05,
+      "cume": 0.13,
+      "showings": 3921,
+      "admissions": 7664,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-09-2024",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 2158,
+      "admissions": 2007,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-09-2024",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 1946,
+      "admissions": 1721,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-09-2024",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 1775,
+      "admissions": 1620,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "05-09-2024",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 1593,
+      "admissions": 1357,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

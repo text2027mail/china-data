@@ -1,0 +1,47 @@
+{
+  "movie_id": 695790,
+  "title": "The Academy Of Magic",
+  "releaseDate": "15-05-2021",
+  "entries": [
+    {
+      "date": "15-05-2021",
+      "rank": 14,
+      "gross": 0.09,
+      "cume": 0.1,
+      "showings": 3827,
+      "admissions": 17399,
+      "days": 380,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-05-2021",
+      "rank": 14,
+      "gross": 0.09,
+      "cume": 0.19,
+      "showings": 3572,
+      "admissions": 18596,
+      "days": 381,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-05-2021",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.23,
+      "showings": 1450,
+      "admissions": 7951,
+      "days": 387,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "23-05-2021",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.27,
+      "showings": 1318,
+      "admissions": 8266,
+      "days": 388,
+      "day": "2nd Sun"
+    }
+  ]
+}

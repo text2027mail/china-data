@@ -1,0 +1,37 @@
+{
+  "movie_id": 6013,
+  "title": "New Dragon Inn",
+  "releaseDate": "29-12-2014",
+  "entries": [
+    {
+      "date": "29-12-2014",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.93,
+      "showings": 10,
+      "admissions": 1638,
+      "days": 1040,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-12-2014",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.94,
+      "showings": 19,
+      "admissions": 3276,
+      "days": 1041,
+      "day": "1st Tue"
+    },
+    {
+      "date": "31-12-2014",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.95,
+      "showings": 20,
+      "admissions": 3103,
+      "days": 1042,
+      "day": "1st Wed"
+    }
+  ]
+}

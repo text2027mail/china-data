@@ -1,0 +1,225 @@
+{
+  "date": "05-04-2014",
+  "data": [
+    {
+      "movie_id": 622647,
+      "title": "",
+      "gross": 13.56,
+      "cume": 22.75,
+      "showings": 39275,
+      "admissions": 2318551,
+      "rank": 1,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 625416,
+      "title": "Mr. Peabody & Sherman",
+      "gross": 2.08,
+      "cume": 12.22,
+      "showings": 13478,
+      "admissions": 404107,
+      "rank": 2,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 613091,
+      "title": "The Truth about Beauty",
+      "gross": 1.94,
+      "cume": 3.72,
+      "showings": 22745,
+      "admissions": 420417,
+      "rank": 3,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 626353,
+      "title": "Death is Here 3",
+      "gross": 0.78,
+      "cume": 1.3,
+      "showings": 10150,
+      "admissions": 179333,
+      "rank": 4,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 618964,
+      "title": "Need for Speed",
+      "gross": 0.53,
+      "cume": 59.27,
+      "showings": 4966,
+      "admissions": 96085,
+      "rank": 5,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 626108,
+      "title": "Fighting",
+      "gross": 0.52,
+      "cume": 10.43,
+      "showings": 1861,
+      "admissions": 106829,
+      "rank": 6,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 597089,
+      "title": "Black Coal, Thin Ice",
+      "gross": 0.21,
+      "cume": 14.1,
+      "showings": 2685,
+      "admissions": 41959,
+      "rank": 7,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 624972,
+      "title": "The Monuments Men",
+      "gross": 0.11,
+      "cume": 6.67,
+      "showings": 2241,
+      "admissions": 20281,
+      "rank": 8,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 613459,
+      "title": "Super Three",
+      "gross": 0.09,
+      "cume": 0.13,
+      "showings": 4439,
+      "admissions": 21703,
+      "rank": 9,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 619662,
+      "title": "Justin and the Knights of Valour",
+      "gross": 0.08,
+      "cume": 1.58,
+      "showings": 1779,
+      "admissions": 16229,
+      "rank": 10,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 626377,
+      "title": "Horseplay",
+      "gross": 0.07,
+      "cume": 9.1,
+      "showings": 1386,
+      "admissions": 13553,
+      "rank": 11,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 593948,
+      "title": "On the Road",
+      "gross": 0.05,
+      "cume": 2.93,
+      "showings": 1563,
+      "admissions": 11104,
+      "rank": 12,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 457429,
+      "title": "Snowpiercer",
+      "gross": 0.05,
+      "cume": 10.9,
+      "showings": 710,
+      "admissions": 9924,
+      "rank": 13,
+      "days": 20,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 332101,
+      "title": "The First Avenger: Captain America",
+      "gross": 0.05,
+      "cume": 12.34,
+      "showings": 244,
+      "admissions": 10610,
+      "rank": 14,
+      "days": 940,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 621970,
+      "title": "Last Flight",
+      "gross": 0.02,
+      "cume": 5.37,
+      "showings": 386,
+      "admissions": 2728,
+      "rank": 15,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 609606,
+      "title": "Police Diary",
+      "gross": 0.0,
+      "cume": 0.24,
+      "showings": 46,
+      "admissions": 957,
+      "rank": 16,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 596563,
+      "title": "Hua Zhuang Shi",
+      "gross": 0.0,
+      "cume": 0.98,
+      "showings": 151,
+      "admissions": 657,
+      "rank": 17,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 618267,
+      "title": "Malavita",
+      "gross": 0.0,
+      "cume": 8.33,
+      "showings": 91,
+      "admissions": 455,
+      "rank": 18,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 618848,
+      "title": "Free Birds",
+      "gross": 0.0,
+      "cume": 7.37,
+      "showings": 66,
+      "admissions": 307,
+      "rank": 19,
+      "days": 30,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 619261,
+      "title": "Homefront",
+      "gross": 0.0,
+      "cume": 4.79,
+      "showings": 89,
+      "admissions": 306,
+      "rank": 20,
+      "days": 23,
+      "day": "4th Sat"
+    }
+  ]
+}

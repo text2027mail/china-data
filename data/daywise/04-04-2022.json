@@ -1,0 +1,225 @@
+{
+  "date": "04-04-2022",
+  "data": [
+    {
+      "movie_id": 707673,
+      "title": "",
+      "gross": 1.51,
+      "cume": 3.23,
+      "showings": 45843,
+      "admissions": 309434,
+      "rank": 1,
+      "days": 2,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 712140,
+      "title": "Moonfall",
+      "gross": 1.41,
+      "cume": 16.29,
+      "showings": 39060,
+      "admissions": 270397,
+      "rank": 2,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 708491,
+      "title": "Escape Room: Tournament of Champions",
+      "gross": 1.02,
+      "cume": 2.78,
+      "showings": 36976,
+      "admissions": 206396,
+      "rank": 3,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 710612,
+      "title": "MAN ON THE EDGE",
+      "gross": 0.97,
+      "cume": 2.42,
+      "showings": 25174,
+      "admissions": 178620,
+      "rank": 4,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 702458,
+      "title": "The Batman",
+      "gross": 0.57,
+      "cume": 19.44,
+      "showings": 14664,
+      "admissions": 101745,
+      "rank": 5,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 711120,
+      "title": "Uncharted",
+      "gross": 0.49,
+      "cume": 15.21,
+      "showings": 14727,
+      "admissions": 97272,
+      "rank": 6,
+      "days": 22,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 709649,
+      "title": "The Battle At Lake Changjin II",
+      "gross": 0.22,
+      "cume": 597.5,
+      "showings": 5038,
+      "admissions": 38634,
+      "rank": 7,
+      "days": 63,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 708179,
+      "title": "Too Cool To Kill",
+      "gross": 0.16,
+      "cume": 386.37,
+      "showings": 5358,
+      "admissions": 26442,
+      "rank": 8,
+      "days": 63,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 0.12,
+      "cume": 141.99,
+      "showings": 3324,
+      "admissions": 21144,
+      "rank": 9,
+      "days": 63,
+      "day": "12th Mon"
+    },
+    {
+      "movie_id": 706422,
+      "title": "I Fell in Love Like A Flower Bouquet",
+      "gross": 0.08,
+      "cume": 13.03,
+      "showings": 2125,
+      "admissions": 16565,
+      "rank": 10,
+      "days": 42,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 706338,
+      "title": "Nice View",
+      "gross": 0.08,
+      "cume": 202.78,
+      "showings": 2924,
+      "admissions": 14358,
+      "rank": 11,
+      "days": 63,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 712206,
+      "title": "Sheep and Wolves",
+      "gross": 0.04,
+      "cume": 0.2,
+      "showings": 5335,
+      "admissions": 8448,
+      "rank": 12,
+      "days": 2,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 708426,
+      "title": "Me and my winter games",
+      "gross": 0.02,
+      "cume": 9.46,
+      "showings": 649,
+      "admissions": 3595,
+      "rank": 13,
+      "days": 45,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 712222,
+      "title": "Kanaa",
+      "gross": 0.02,
+      "cume": 0.37,
+      "showings": 554,
+      "admissions": 3445,
+      "rank": 14,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.01,
+      "cume": 88.7,
+      "showings": 897,
+      "admissions": 2570,
+      "rank": 15,
+      "days": 63,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 684635,
+      "title": "Brothers",
+      "gross": 0.01,
+      "cume": 0.69,
+      "showings": 1777,
+      "admissions": 1848,
+      "rank": 16,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 641904,
+      "title": "Unordered Space",
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 754,
+      "admissions": 1968,
+      "rank": 17,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 703424,
+      "title": "Do You Love Me as I Love You",
+      "gross": 0.01,
+      "cume": 2.34,
+      "showings": 920,
+      "admissions": 2163,
+      "rank": 18,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 711139,
+      "title": "Twin Sister",
+      "gross": 0.01,
+      "cume": 0.91,
+      "showings": 80,
+      "admissions": 1735,
+      "rank": 19,
+      "days": 86,
+      "day": "13th Mon"
+    },
+    {
+      "movie_id": 702937,
+      "title": "WILD KID2",
+      "gross": 0.01,
+      "cume": 0.58,
+      "showings": 88,
+      "admissions": 1788,
+      "rank": 20,
+      "days": 98,
+      "day": "9th Mon"
+    }
+  ]
+}

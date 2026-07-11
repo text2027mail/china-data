@@ -1,0 +1,225 @@
+{
+  "date": "23-09-2014",
+  "data": [
+    {
+      "movie_id": 623004,
+      "title": "",
+      "gross": 1.13,
+      "cume": 9.02,
+      "showings": 24009,
+      "admissions": 256065,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 618096,
+      "title": "One Step Away",
+      "gross": 0.91,
+      "cume": 7.73,
+      "showings": 25155,
+      "admissions": 189382,
+      "rank": 2,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 624046,
+      "title": "Dawn of the Planet of the Apes",
+      "gross": 0.58,
+      "cume": 102.0,
+      "showings": 10881,
+      "admissions": 111017,
+      "rank": 3,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 615487,
+      "title": "The Expendables 3",
+      "gross": 0.5,
+      "cume": 64.66,
+      "showings": 10696,
+      "admissions": 105311,
+      "rank": 4,
+      "days": 23,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 618165,
+      "title": "But Always",
+      "gross": 0.43,
+      "cume": 32.41,
+      "showings": 10518,
+      "admissions": 93319,
+      "rank": 5,
+      "days": 19,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 628463,
+      "title": "Into the Storm",
+      "gross": 0.4,
+      "cume": 14.62,
+      "showings": 11108,
+      "admissions": 87922,
+      "rank": 6,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 623129,
+      "title": "Divergent",
+      "gross": 0.09,
+      "cume": 10.94,
+      "showings": 2177,
+      "admissions": 16374,
+      "rank": 7,
+      "days": 16,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 629157,
+      "title": "The Eighth House",
+      "gross": 0.09,
+      "cume": 0.75,
+      "showings": 4551,
+      "admissions": 20280,
+      "rank": 8,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 615125,
+      "title": "The Deathday Party",
+      "gross": 0.07,
+      "cume": 0.53,
+      "showings": 4614,
+      "admissions": 16474,
+      "rank": 9,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 628894,
+      "title": "Cold Eyes",
+      "gross": 0.04,
+      "cume": 1.22,
+      "showings": 3283,
+      "admissions": 9552,
+      "rank": 10,
+      "days": 8,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 626585,
+      "title": "Beauty and the Beast",
+      "gross": 0.02,
+      "cume": 2.36,
+      "showings": 1198,
+      "admissions": 5037,
+      "rank": 11,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 627797,
+      "title": "Inside the Girls",
+      "gross": 0.02,
+      "cume": 1.78,
+      "showings": 1155,
+      "admissions": 4198,
+      "rank": 12,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 618013,
+      "title": "Black",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 6,
+      "admissions": 998,
+      "rank": 13,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.01,
+      "cume": 1.34,
+      "showings": 4,
+      "admissions": 694,
+      "rank": 14,
+      "days": 162,
+      "day": "24th Tue"
+    },
+    {
+      "movie_id": 587844,
+      "title": "Its Love",
+      "gross": 0.01,
+      "cume": 25.6,
+      "showings": 18,
+      "admissions": 2183,
+      "rank": 15,
+      "days": 1092,
+      "day": "29th Tue"
+    },
+    {
+      "movie_id": 131,
+      "title": "Connected",
+      "gross": 0.01,
+      "cume": 6.49,
+      "showings": 15,
+      "admissions": 2090,
+      "rank": 16,
+      "days": 2188,
+      "day": "51st Tue"
+    },
+    {
+      "movie_id": 614395,
+      "title": "Outcast",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 12,
+      "admissions": 1043,
+      "rank": 17,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 608197,
+      "title": "Blind Detective",
+      "gross": 0.01,
+      "cume": 30.97,
+      "showings": 13,
+      "admissions": 1851,
+      "rank": 18,
+      "days": 447,
+      "day": "65th Tue"
+    },
+    {
+      "movie_id": 573381,
+      "title": "City Under Siege",
+      "gross": 0.01,
+      "cume": 13.15,
+      "showings": 12,
+      "admissions": 1814,
+      "rank": 19,
+      "days": 1510,
+      "day": "43rd Tue"
+    },
+    {
+      "movie_id": 613854,
+      "title": "One Night Surprise",
+      "gross": 0.01,
+      "cume": 25.36,
+      "showings": 20,
+      "admissions": 1653,
+      "rank": 20,
+      "days": 411,
+      "day": "60th Tue"
+    }
+  ]
+}

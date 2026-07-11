@@ -1,0 +1,67 @@
+{
+  "movie_id": 627055,
+  "title": "Suo Li",
+  "releaseDate": "23-08-2017",
+  "entries": [
+    {
+      "date": "23-08-2017",
+      "rank": 11,
+      "gross": 0.13,
+      "cume": 0.13,
+      "showings": 200,
+      "admissions": 21945,
+      "days": 968,
+      "day": "1st Wed"
+    },
+    {
+      "date": "24-08-2017",
+      "rank": 12,
+      "gross": 0.17,
+      "cume": 0.3,
+      "showings": 264,
+      "admissions": 29347,
+      "days": 969,
+      "day": "1st Thu"
+    },
+    {
+      "date": "25-08-2017",
+      "rank": 10,
+      "gross": 0.17,
+      "cume": 0.47,
+      "showings": 248,
+      "admissions": 29521,
+      "days": 970,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-08-2017",
+      "rank": 12,
+      "gross": 0.16,
+      "cume": 0.63,
+      "showings": 271,
+      "admissions": 26270,
+      "days": 971,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-08-2017",
+      "rank": 11,
+      "gross": 0.17,
+      "cume": 0.81,
+      "showings": 296,
+      "admissions": 29773,
+      "days": 972,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-08-2017",
+      "rank": 10,
+      "gross": 0.23,
+      "cume": 1.04,
+      "showings": 318,
+      "admissions": 39621,
+      "days": 973,
+      "day": "1st Mon"
+    }
+  ]
+}

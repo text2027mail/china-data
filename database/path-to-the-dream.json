@@ -1,0 +1,77 @@
+{
+  "movie_id": 639900,
+  "title": "Path to the Dream",
+  "releaseDate": "20-04-2018",
+  "entries": [
+    {
+      "date": "20-04-2018",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 415,
+      "admissions": 7635,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-04-2018",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 238,
+      "admissions": 5068,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-04-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 195,
+      "admissions": 4960,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-04-2018",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 164,
+      "admissions": 3756,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-04-2018",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 154,
+      "admissions": 3299,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-04-2018",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 147,
+      "admissions": 2769,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "26-04-2018",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 145,
+      "admissions": 1550,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

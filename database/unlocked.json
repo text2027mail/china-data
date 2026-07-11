@@ -1,0 +1,77 @@
+{
+  "movie_id": 665140,
+  "title": "Unlocked",
+  "releaseDate": "22-09-2017",
+  "entries": [
+    {
+      "date": "22-09-2017",
+      "rank": 9,
+      "gross": 0.13,
+      "cume": 0.13,
+      "showings": 20905,
+      "admissions": 30348,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-09-2017",
+      "rank": 11,
+      "gross": 0.14,
+      "cume": 0.26,
+      "showings": 14856,
+      "admissions": 31703,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-09-2017",
+      "rank": 12,
+      "gross": 0.1,
+      "cume": 0.37,
+      "showings": 12191,
+      "admissions": 24005,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-09-2017",
+      "rank": 8,
+      "gross": 0.05,
+      "cume": 0.42,
+      "showings": 11302,
+      "admissions": 11358,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-09-2017",
+      "rank": 8,
+      "gross": 0.05,
+      "cume": 0.47,
+      "showings": 10201,
+      "admissions": 11513,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-09-2017",
+      "rank": 9,
+      "gross": 0.04,
+      "cume": 0.51,
+      "showings": 9664,
+      "admissions": 10101,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-09-2017",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.55,
+      "showings": 9374,
+      "admissions": 9935,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

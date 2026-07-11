@@ -1,0 +1,407 @@
+{
+  "movie_id": 613384,
+  "title": "Police Story 2013",
+  "releaseDate": "22-12-2013",
+  "entries": [
+    {
+      "date": "22-12-2013",
+      "rank": 8,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 20,
+      "admissions": 1387,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-12-2013",
+      "rank": 4,
+      "gross": 0.24,
+      "cume": 0.26,
+      "showings": 988,
+      "admissions": 38780,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-12-2013",
+      "rank": 1,
+      "gross": 10.12,
+      "cume": 10.38,
+      "showings": 38939,
+      "admissions": 1590190,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-12-2013",
+      "rank": 1,
+      "gross": 7.59,
+      "cume": 17.97,
+      "showings": 38547,
+      "admissions": 1219452,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "26-12-2013",
+      "rank": 1,
+      "gross": 4.62,
+      "cume": 22.6,
+      "showings": 36391,
+      "admissions": 815685,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "27-12-2013",
+      "rank": 1,
+      "gross": 5.18,
+      "cume": 27.78,
+      "showings": 35027,
+      "admissions": 909671,
+      "days": 4,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-12-2013",
+      "rank": 1,
+      "gross": 7.66,
+      "cume": 35.44,
+      "showings": 33972,
+      "admissions": 1330425,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-12-2013",
+      "rank": 1,
+      "gross": 6.13,
+      "cume": 41.57,
+      "showings": 30664,
+      "admissions": 1066707,
+      "days": 6,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "30-12-2013",
+      "rank": 1,
+      "gross": 3.36,
+      "cume": 44.93,
+      "showings": 29987,
+      "admissions": 592560,
+      "days": 7,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "31-12-2013",
+      "rank": 1,
+      "gross": 6.03,
+      "cume": 50.96,
+      "showings": 25243,
+      "admissions": 1069827,
+      "days": 8,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "01-01-2014",
+      "rank": 1,
+      "gross": 5.76,
+      "cume": 56.73,
+      "showings": 23375,
+      "admissions": 980864,
+      "days": 9,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "02-01-2014",
+      "rank": 1,
+      "gross": 2.06,
+      "cume": 58.79,
+      "showings": 24254,
+      "admissions": 355851,
+      "days": 10,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "03-01-2014",
+      "rank": 1,
+      "gross": 2.04,
+      "cume": 60.83,
+      "showings": 19899,
+      "admissions": 351960,
+      "days": 11,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "04-01-2014",
+      "rank": 1,
+      "gross": 3.1,
+      "cume": 63.93,
+      "showings": 20359,
+      "admissions": 530325,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "05-01-2014",
+      "rank": 1,
+      "gross": 2.47,
+      "cume": 66.4,
+      "showings": 20063,
+      "admissions": 422253,
+      "days": 13,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "06-01-2014",
+      "rank": 1,
+      "gross": 1.21,
+      "cume": 67.61,
+      "showings": 19445,
+      "admissions": 209416,
+      "days": 14,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "07-01-2014",
+      "rank": 2,
+      "gross": 1.13,
+      "cume": 68.73,
+      "showings": 16126,
+      "admissions": 203553,
+      "days": 15,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "08-01-2014",
+      "rank": 2,
+      "gross": 1.01,
+      "cume": 69.75,
+      "showings": 15942,
+      "admissions": 179554,
+      "days": 16,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "09-01-2014",
+      "rank": 2,
+      "gross": 1.0,
+      "cume": 70.74,
+      "showings": 15816,
+      "admissions": 176554,
+      "days": 17,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "10-01-2014",
+      "rank": 3,
+      "gross": 0.86,
+      "cume": 71.6,
+      "showings": 10363,
+      "admissions": 152848,
+      "days": 18,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "11-01-2014",
+      "rank": 4,
+      "gross": 1.1,
+      "cume": 72.7,
+      "showings": 9108,
+      "admissions": 193990,
+      "days": 19,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "12-01-2014",
+      "rank": 4,
+      "gross": 1.01,
+      "cume": 73.71,
+      "showings": 9086,
+      "admissions": 179389,
+      "days": 20,
+      "day": "4th Sun"
+    },
+    {
+      "date": "13-01-2014",
+      "rank": 4,
+      "gross": 0.55,
+      "cume": 74.26,
+      "showings": 8714,
+      "admissions": 97450,
+      "days": 21,
+      "day": "4th Mon"
+    },
+    {
+      "date": "14-01-2014",
+      "rank": 4,
+      "gross": 0.61,
+      "cume": 74.87,
+      "showings": 8823,
+      "admissions": 113004,
+      "days": 22,
+      "day": "4th Tue"
+    },
+    {
+      "date": "15-01-2014",
+      "rank": 4,
+      "gross": 0.56,
+      "cume": 75.42,
+      "showings": 8736,
+      "admissions": 100319,
+      "days": 23,
+      "day": "4th Wed"
+    },
+    {
+      "date": "16-01-2014",
+      "rank": 5,
+      "gross": 0.55,
+      "cume": 75.97,
+      "showings": 7325,
+      "admissions": 98189,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "date": "17-01-2014",
+      "rank": 7,
+      "gross": 0.29,
+      "cume": 76.27,
+      "showings": 3359,
+      "admissions": 52485,
+      "days": 25,
+      "day": "4th Fri"
+    },
+    {
+      "date": "18-01-2014",
+      "rank": 7,
+      "gross": 0.34,
+      "cume": 76.6,
+      "showings": 2973,
+      "admissions": 59775,
+      "days": 26,
+      "day": "4th Sat"
+    },
+    {
+      "date": "19-01-2014",
+      "rank": 7,
+      "gross": 0.3,
+      "cume": 76.91,
+      "showings": 2943,
+      "admissions": 53501,
+      "days": 27,
+      "day": "5th Sun"
+    },
+    {
+      "date": "20-01-2014",
+      "rank": 7,
+      "gross": 0.22,
+      "cume": 77.12,
+      "showings": 2976,
+      "admissions": 38886,
+      "days": 28,
+      "day": "5th Mon"
+    },
+    {
+      "date": "21-01-2014",
+      "rank": 7,
+      "gross": 0.23,
+      "cume": 77.35,
+      "showings": 2906,
+      "admissions": 42166,
+      "days": 29,
+      "day": "5th Tue"
+    },
+    {
+      "date": "22-01-2014",
+      "rank": 7,
+      "gross": 0.22,
+      "cume": 77.57,
+      "showings": 2909,
+      "admissions": 38771,
+      "days": 30,
+      "day": "5th Wed"
+    },
+    {
+      "date": "23-01-2014",
+      "rank": 8,
+      "gross": 0.2,
+      "cume": 77.78,
+      "showings": 2676,
+      "admissions": 36582,
+      "days": 31,
+      "day": "5th Thu"
+    },
+    {
+      "date": "24-01-2014",
+      "rank": 8,
+      "gross": 0.22,
+      "cume": 77.99,
+      "showings": 2654,
+      "admissions": 38588,
+      "days": 32,
+      "day": "5th Fri"
+    },
+    {
+      "date": "25-01-2014",
+      "rank": 10,
+      "gross": 0.16,
+      "cume": 78.16,
+      "showings": 1854,
+      "admissions": 29032,
+      "days": 33,
+      "day": "5th Sat"
+    },
+    {
+      "date": "26-01-2014",
+      "rank": 8,
+      "gross": 0.19,
+      "cume": 78.35,
+      "showings": 2451,
+      "admissions": 34972,
+      "days": 34,
+      "day": "6th Sun"
+    },
+    {
+      "date": "27-01-2014",
+      "rank": 8,
+      "gross": 0.15,
+      "cume": 78.5,
+      "showings": 2128,
+      "admissions": 28440,
+      "days": 35,
+      "day": "6th Mon"
+    },
+    {
+      "date": "28-01-2014",
+      "rank": 8,
+      "gross": 0.16,
+      "cume": 78.67,
+      "showings": 2213,
+      "admissions": 32061,
+      "days": 36,
+      "day": "6th Tue"
+    },
+    {
+      "date": "29-01-2014",
+      "rank": 8,
+      "gross": 0.14,
+      "cume": 78.8,
+      "showings": 2224,
+      "admissions": 25085,
+      "days": 37,
+      "day": "6th Wed"
+    },
+    {
+      "date": "30-01-2014",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 78.84,
+      "showings": 900,
+      "admissions": 7209,
+      "days": 38,
+      "day": "6th Thu"
+    }
+  ]
+}

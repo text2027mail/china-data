@@ -1,0 +1,27 @@
+{
+  "movie_id": 631332,
+  "title": "Appassionato Sonata",
+  "releaseDate": "01-02-2015",
+  "entries": [
+    {
+      "date": "01-02-2015",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 1,
+      "admissions": 319,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "08-02-2015",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 35,
+      "admissions": 632,
+      "days": 3,
+      "day": "2nd Sun"
+    }
+  ]
+}

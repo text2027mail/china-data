@@ -1,0 +1,87 @@
+{
+  "movie_id": 949760,
+  "title": "Girl",
+  "releaseDate": "01-11-2025",
+  "entries": [
+    {
+      "date": "01-11-2025",
+      "rank": 12,
+      "gross": 0.19,
+      "cume": 0.2,
+      "showings": 25758,
+      "admissions": 34655,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-11-2025",
+      "rank": 12,
+      "gross": 0.11,
+      "cume": 0.31,
+      "showings": 15030,
+      "admissions": 19652,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-11-2025",
+      "rank": 9,
+      "gross": 0.05,
+      "cume": 0.36,
+      "showings": 10676,
+      "admissions": 9543,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "04-11-2025",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.42,
+      "showings": 10449,
+      "admissions": 10001,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "05-11-2025",
+      "rank": 10,
+      "gross": 0.05,
+      "cume": 0.47,
+      "showings": 10153,
+      "admissions": 9164,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "06-11-2025",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.51,
+      "showings": 9917,
+      "admissions": 7593,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "08-11-2025",
+      "rank": 20,
+      "gross": 0.04,
+      "cume": 0.57,
+      "showings": 2003,
+      "admissions": 6690,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "09-11-2025",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.61,
+      "showings": 2287,
+      "admissions": 7870,
+      "days": 9,
+      "day": "2nd Sun"
+    }
+  ]
+}

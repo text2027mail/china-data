@@ -1,0 +1,225 @@
+{
+  "date": "20-11-2023",
+  "data": [
+    {
+      "movie_id": 713076,
+      "title": "",
+      "gross": 1.39,
+      "cume": 73.77,
+      "showings": 82602,
+      "admissions": 225681,
+      "rank": 1,
+      "days": 20,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 707468,
+      "title": "Be my family",
+      "gross": 0.74,
+      "cume": 17.25,
+      "showings": 54108,
+      "admissions": 121679,
+      "rank": 2,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 743619,
+      "title": "The Ballad of Songbirds and Snakes",
+      "gross": 0.53,
+      "cume": 5.44,
+      "showings": 45061,
+      "admissions": 98147,
+      "rank": 3,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 689527,
+      "title": "Porco Rosso",
+      "gross": 0.19,
+      "cume": 1.97,
+      "showings": 14202,
+      "admissions": 35541,
+      "rank": 4,
+      "days": 2650,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 742523,
+      "title": "The Marvels",
+      "gross": 0.11,
+      "cume": 15.87,
+      "showings": 32623,
+      "admissions": 20016,
+      "rank": 5,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 707875,
+      "title": "THE VOLUNTEERS：TO THE WAR",
+      "gross": 0.09,
+      "cume": 121.41,
+      "showings": 6542,
+      "admissions": 14407,
+      "rank": 6,
+      "days": 54,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 715550,
+      "title": "Only the River Flows",
+      "gross": 0.07,
+      "cume": 44.23,
+      "showings": 9741,
+      "admissions": 12042,
+      "rank": 7,
+      "days": 31,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 703742,
+      "title": "World's Greatest Dad",
+      "gross": 0.05,
+      "cume": 16.87,
+      "showings": 7812,
+      "admissions": 9357,
+      "rank": 8,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 695734,
+      "title": "Under The Light",
+      "gross": 0.05,
+      "cume": 198.77,
+      "showings": 4774,
+      "admissions": 7296,
+      "rank": 9,
+      "days": 54,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 742820,
+      "title": "The Abandoned",
+      "gross": 0.05,
+      "cume": 2.99,
+      "showings": 10897,
+      "admissions": 10029,
+      "rank": 10,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 706186,
+      "title": "The Ex-file 4",
+      "gross": 0.04,
+      "cume": 149.01,
+      "showings": 4020,
+      "admissions": 6034,
+      "rank": 11,
+      "days": 54,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 661351,
+      "title": "Moscow Mission",
+      "gross": 0.02,
+      "cume": 97.61,
+      "showings": 2800,
+      "admissions": 3734,
+      "rank": 12,
+      "days": 53,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 741899,
+      "title": "Great Love Dunhuang",
+      "gross": 0.02,
+      "cume": 0.89,
+      "showings": 4512,
+      "admissions": 3212,
+      "rank": 13,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 681123,
+      "title": "HOME FIGHT FOR EARTH",
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 84,
+      "admissions": 2770,
+      "rank": 14,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 737505,
+      "title": "FIGHTING IN THE TEMPLE",
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 3265,
+      "admissions": 3655,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 708416,
+      "title": "PATHFINDERS",
+      "gross": 0.01,
+      "cume": 3.43,
+      "showings": 38,
+      "admissions": 2960,
+      "rank": 16,
+      "days": 85,
+      "day": "11th Mon"
+    },
+    {
+      "movie_id": 702003,
+      "title": "THE LITTLE HORSEWHIP",
+      "gross": 0.01,
+      "cume": 1.09,
+      "showings": 135,
+      "admissions": 2029,
+      "rank": 17,
+      "days": 36,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 704936,
+      "title": "EIGHT HUNDRED MINERS",
+      "gross": 0.01,
+      "cume": 0.66,
+      "showings": 21,
+      "admissions": 1737,
+      "rank": 18,
+      "days": 143,
+      "day": "17th Mon"
+    },
+    {
+      "movie_id": 741165,
+      "title": "Beyond The Clouds",
+      "gross": 0.01,
+      "cume": 2.29,
+      "showings": 100,
+      "admissions": 1548,
+      "rank": 19,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 691309,
+      "title": "Nation General",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 7,
+      "admissions": 753,
+      "rank": 20,
+      "days": null,
+      "day": "1st Mon"
+    }
+  ]
+}

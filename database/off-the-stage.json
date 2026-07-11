@@ -1,0 +1,107 @@
+{
+  "movie_id": 711952,
+  "title": "Off the Stage",
+  "releaseDate": "03-03-2024",
+  "entries": [
+    {
+      "date": "03-03-2024",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 3,
+      "admissions": 551,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-03-2024",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 1,
+      "admissions": 203,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "06-03-2024",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 14,
+      "admissions": 729,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "08-03-2024",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 5171,
+      "admissions": 12735,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-03-2024",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 634,
+      "admissions": 2444,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-03-2024",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 595,
+      "admissions": 2216,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "11-03-2024",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 796,
+      "admissions": 1500,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "12-03-2024",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 816,
+      "admissions": 1349,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "13-03-2024",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 985,
+      "admissions": 2124,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "14-03-2024",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 863,
+      "admissions": 1282,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

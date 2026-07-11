@@ -1,0 +1,225 @@
+{
+  "date": "03-12-2018",
+  "data": [
+    {
+      "movie_id": 678587,
+      "title": "",
+      "gross": 3.23,
+      "cume": 95.37,
+      "showings": 87849,
+      "admissions": 638630,
+      "rank": 1,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 662209,
+      "title": "Venom",
+      "gross": 1.37,
+      "cume": 269.25,
+      "showings": 62715,
+      "admissions": 267218,
+      "rank": 2,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 682016,
+      "title": "Johnny English Strikes Again",
+      "gross": 0.69,
+      "cume": 22.46,
+      "showings": 33342,
+      "admissions": 152837,
+      "rank": 3,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 678471,
+      "title": "Ralph Breaks the Internet: Wreck-It Ralph 2",
+      "gross": 0.58,
+      "cume": 35.58,
+      "showings": 34620,
+      "admissions": 110474,
+      "rank": 4,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 677543,
+      "title": "102 Not Out",
+      "gross": 0.32,
+      "cume": 3.67,
+      "showings": 30576,
+      "admissions": 74238,
+      "rank": 5,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 671046,
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "gross": 0.25,
+      "cume": 57.99,
+      "showings": 12735,
+      "admissions": 44384,
+      "rank": 6,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 655975,
+      "title": "Blood Father",
+      "gross": 0.13,
+      "cume": 1.8,
+      "showings": 18149,
+      "admissions": 29188,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 657107,
+      "title": "Crazy Rich Asians",
+      "gross": 0.13,
+      "cume": 1.31,
+      "showings": 12645,
+      "admissions": 25577,
+      "rank": 8,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 683620,
+      "title": "Hello LIfe",
+      "gross": 0.06,
+      "cume": 0.55,
+      "showings": 659,
+      "admissions": 10632,
+      "rank": 9,
+      "days": 7,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 680504,
+      "title": "The Taste of Apple",
+      "gross": 0.04,
+      "cume": 1.64,
+      "showings": 80,
+      "admissions": 9221,
+      "rank": 10,
+      "days": 118,
+      "day": "18th Mon"
+    },
+    {
+      "movie_id": 663152,
+      "title": "Peacekeeping Force",
+      "gross": 0.03,
+      "cume": 2.32,
+      "showings": 2293,
+      "admissions": 6662,
+      "rank": 11,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 675238,
+      "title": "Twenty",
+      "gross": 0.02,
+      "cume": 0.41,
+      "showings": 4689,
+      "admissions": 6119,
+      "rank": 12,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 675992,
+      "title": "From the Mountain a Smile",
+      "gross": 0.02,
+      "cume": 0.26,
+      "showings": 122,
+      "admissions": 5196,
+      "rank": 13,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 682178,
+      "title": "Yuan Qu De Mu Ge",
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 305,
+      "admissions": 3960,
+      "rank": 14,
+      "days": 50,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 673523,
+      "title": "Zhong Quan Da Ying Jiu",
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 74,
+      "admissions": 3265,
+      "rank": 15,
+      "days": 11,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 682468,
+      "title": "Fake Partner",
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 2688,
+      "admissions": 2655,
+      "rank": 16,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 672442,
+      "title": "Blood-Soaked GuangChang",
+      "gross": 0.01,
+      "cume": 13.95,
+      "showings": 23,
+      "admissions": 1798,
+      "rank": 17,
+      "days": 125,
+      "day": "19th Mon"
+    },
+    {
+      "movie_id": 661220,
+      "title": "Life Is A Belief",
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 1809,
+      "admissions": 1808,
+      "rank": 18,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 677066,
+      "title": "Detective Conan: Zero The Enforcer",
+      "gross": 0.01,
+      "cume": 18.76,
+      "showings": 959,
+      "admissions": 1887,
+      "rank": 19,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 631011,
+      "title": "Replicas",
+      "gross": 0.01,
+      "cume": 0.75,
+      "showings": 777,
+      "admissions": 1751,
+      "rank": 20,
+      "days": 11,
+      "day": "2nd Mon"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 614770,
+  "title": "Endless Love",
+  "releaseDate": "01-01-2013",
+  "entries": [
+    {
+      "date": "01-01-2013",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 163,
+      "admissions": 2345,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "02-01-2013",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 149,
+      "admissions": 1566,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "03-01-2013",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 141,
+      "admissions": 1279,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "04-01-2013",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 200,
+      "admissions": 4401,
+      "days": 8,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-01-2013",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 137,
+      "admissions": 1083,
+      "days": 9,
+      "day": "1st Sat"
+    },
+    {
+      "date": "06-01-2013",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 109,
+      "admissions": 735,
+      "days": 10,
+      "day": "1st Sun"
+    },
+    {
+      "date": "07-01-2013",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 98,
+      "admissions": 451,
+      "days": 11,
+      "day": "1st Mon"
+    }
+  ]
+}

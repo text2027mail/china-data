@@ -1,0 +1,47 @@
+{
+  "movie_id": 736194,
+  "title": "You Are By My Side",
+  "releaseDate": "15-05-2024",
+  "entries": [
+    {
+      "date": "15-05-2024",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 9,
+      "admissions": 1144,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-05-2024",
+      "rank": 12,
+      "gross": 0.12,
+      "cume": 0.13,
+      "showings": 28019,
+      "admissions": 22297,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "18-05-2024",
+      "rank": 14,
+      "gross": 0.19,
+      "cume": 0.32,
+      "showings": 43318,
+      "admissions": 34829,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "20-05-2024",
+      "rank": 20,
+      "gross": 0.05,
+      "cume": 0.42,
+      "showings": 12037,
+      "admissions": 9324,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

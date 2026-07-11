@@ -1,0 +1,47 @@
+{
+  "movie_id": 611210,
+  "title": "China Heavyweight",
+  "releaseDate": "17-12-2013",
+  "entries": [
+    {
+      "date": "17-12-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 4,
+      "admissions": 248,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "date": "20-12-2013",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 167,
+      "admissions": 516,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-12-2013",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 115,
+      "admissions": 640,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-12-2013",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 110,
+      "admissions": 496,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

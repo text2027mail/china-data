@@ -1,0 +1,57 @@
+{
+  "movie_id": 613083,
+  "title": "The Love Expert",
+  "releaseDate": "27-12-2013",
+  "entries": [
+    {
+      "date": "27-12-2013",
+      "rank": 8,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2269,
+      "admissions": 4665,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-12-2013",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1195,
+      "admissions": 2795,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-12-2013",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 780,
+      "admissions": 1662,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-12-2013",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 782,
+      "admissions": 1379,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-01-2014",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 208,
+      "admissions": 458,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

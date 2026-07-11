@@ -1,0 +1,225 @@
+{
+  "date": "06-02-2023",
+  "data": [
+    {
+      "movie_id": 704382,
+      "title": "",
+      "gross": 6.49,
+      "cume": 502.5,
+      "showings": 90175,
+      "admissions": 943026,
+      "rank": 1,
+      "days": 16,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 713237,
+      "title": "Full River Red",
+      "gross": 6.12,
+      "cume": 594.6,
+      "showings": 95663,
+      "admissions": 929371,
+      "rank": 2,
+      "days": 16,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 2.34,
+      "cume": 100.12,
+      "showings": 36825,
+      "admissions": 362663,
+      "rank": 3,
+      "days": 16,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 733627,
+      "title": "Boonie Bears: Guardian Code",
+      "gross": 2.17,
+      "cume": 187.89,
+      "showings": 35137,
+      "admissions": 347726,
+      "rank": 4,
+      "days": 16,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 707469,
+      "title": "Hidden Blade",
+      "gross": 1.85,
+      "cume": 117.16,
+      "showings": 24627,
+      "admissions": 238879,
+      "rank": 5,
+      "days": 16,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 683508,
+      "title": "Where the Wind Blows",
+      "gross": 0.62,
+      "cume": 5.09,
+      "showings": 25299,
+      "admissions": 98036,
+      "rank": 6,
+      "days": 2,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 708388,
+      "title": "Five Hundred Miles",
+      "gross": 0.47,
+      "cume": 53.28,
+      "showings": 15195,
+      "admissions": 73224,
+      "rank": 7,
+      "days": 16,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 612244,
+      "title": "Avatar: The Way of Water",
+      "gross": 0.25,
+      "cume": 245.32,
+      "showings": 4198,
+      "admissions": 38411,
+      "rank": 8,
+      "days": 53,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 734256,
+      "title": "Black Panther: Wakanda Forever",
+      "gross": 0.18,
+      "cume": 0.18,
+      "showings": 1896,
+      "admissions": 26885,
+      "rank": 9,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.02,
+      "cume": 31.94,
+      "showings": 240,
+      "admissions": 4471,
+      "rank": 10,
+      "days": 130,
+      "day": "19th Mon"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.01,
+      "cume": 6.78,
+      "showings": 254,
+      "admissions": 1036,
+      "rank": 11,
+      "days": 46,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 692317,
+      "title": "Ping-pong of China",
+      "gross": 0.0,
+      "cume": 6.45,
+      "showings": 14,
+      "admissions": 531,
+      "rank": 12,
+      "days": null,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 0.0,
+      "cume": 59.2,
+      "showings": 165,
+      "admissions": 509,
+      "rank": 13,
+      "days": 45,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 681235,
+      "title": "Above The Rainbow",
+      "gross": 0.0,
+      "cume": 0.41,
+      "showings": 37,
+      "admissions": 437,
+      "rank": 14,
+      "days": 194,
+      "day": "28th Mon"
+    },
+    {
+      "movie_id": 696270,
+      "title": "Restaurant in a tree",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 23,
+      "admissions": 613,
+      "rank": 15,
+      "days": 38,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 700622,
+      "title": "Beautiful Life",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 3,
+      "admissions": 188,
+      "rank": 16,
+      "days": 81,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 703298,
+      "title": "Like Father And Son",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 1,
+      "admissions": 106,
+      "rank": 17,
+      "days": null,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 693579,
+      "title": "MET AT LUANFENG CORRIDOR BRIDGE",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 3,
+      "admissions": 40,
+      "rank": 18,
+      "days": 81,
+      "day": "12th Mon"
+    },
+    {
+      "movie_id": 734591,
+      "title": "A WIZ NAMED WUKONG",
+      "gross": 0.0,
+      "cume": 1.22,
+      "showings": 39,
+      "admissions": 34,
+      "rank": 19,
+      "days": 39,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 656356,
+      "title": "Pink",
+      "gross": 0.0,
+      "cume": 0.38,
+      "showings": 4,
+      "admissions": 12,
+      "rank": 20,
+      "days": 32,
+      "day": "6th Mon"
+    }
+  ]
+}

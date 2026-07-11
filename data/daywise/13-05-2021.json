@@ -1,0 +1,225 @@
+{
+  "date": "13-05-2021",
+  "data": [
+    {
+      "movie_id": 695516,
+      "title": "",
+      "gross": 2.83,
+      "cume": 124.52,
+      "showings": 89082,
+      "admissions": 507915,
+      "rank": 1,
+      "days": 14,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 707293,
+      "title": "Wrath of Man",
+      "gross": 1.78,
+      "cume": 9.32,
+      "showings": 71587,
+      "admissions": 361038,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 701898,
+      "title": "Break Through the Darkness",
+      "gross": 1.67,
+      "cume": 40.63,
+      "showings": 68005,
+      "admissions": 337347,
+      "rank": 3,
+      "days": 13,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 698843,
+      "title": "My Love",
+      "gross": 0.73,
+      "cume": 112.3,
+      "showings": 47884,
+      "admissions": 132254,
+      "rank": 4,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 696708,
+      "title": "Once Upon a Time in Hong Kong",
+      "gross": 0.51,
+      "cume": 32.68,
+      "showings": 28832,
+      "admissions": 92751,
+      "rank": 5,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 684241,
+      "title": "Home Sweet Home",
+      "gross": 0.11,
+      "cume": 31.28,
+      "showings": 13928,
+      "admissions": 19523,
+      "rank": 6,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 696122,
+      "title": "Warrior of China",
+      "gross": 0.04,
+      "cume": 7.78,
+      "showings": 92,
+      "admissions": 5627,
+      "rank": 7,
+      "days": 56,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 675848,
+      "title": "Wonder In The Temple",
+      "gross": 0.03,
+      "cume": 0.06,
+      "showings": 408,
+      "admissions": 6052,
+      "rank": 8,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 693126,
+      "title": "77 Heartwarmings",
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 232,
+      "admissions": 5117,
+      "rank": 9,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 696413,
+      "title": "Godzilla vs Kong",
+      "gross": 0.02,
+      "cume": 181.21,
+      "showings": 2446,
+      "admissions": 4240,
+      "rank": 10,
+      "days": 49,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 693141,
+      "title": "GG Bond:Diary Of Dinosaurs",
+      "gross": 0.02,
+      "cume": 9.49,
+      "showings": 4661,
+      "admissions": 4766,
+      "rank": 11,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 673336,
+      "title": "Tiger Robbers",
+      "gross": 0.02,
+      "cume": 6.37,
+      "showings": 3840,
+      "admissions": 3649,
+      "rank": 12,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 706426,
+      "title": "Detective Conan the Movie: The Scarlet Bullet",
+      "gross": 0.02,
+      "cume": 31.29,
+      "showings": 2181,
+      "admissions": 3610,
+      "rank": 13,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 354593,
+      "title": "The Lord of the Rings: The Two Towers",
+      "gross": 0.02,
+      "cume": 7.26,
+      "showings": 1030,
+      "admissions": 2880,
+      "rank": 14,
+      "days": 6594,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 681836,
+      "title": "Jin Cheng Ji",
+      "gross": 0.02,
+      "cume": 0.51,
+      "showings": 49,
+      "admissions": 4179,
+      "rank": 15,
+      "days": 42,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 683063,
+      "title": "Miss Mom",
+      "gross": 0.02,
+      "cume": 0.54,
+      "showings": 1469,
+      "admissions": 3224,
+      "rank": 16,
+      "days": 13,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 686441,
+      "title": "The Beautiful Young Spirit",
+      "gross": 0.02,
+      "cume": 0.19,
+      "showings": 171,
+      "admissions": 3972,
+      "rank": 17,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 676078,
+      "title": "Crazy football",
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 35,
+      "admissions": 2778,
+      "rank": 18,
+      "days": 282,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 701870,
+      "title": "Farewell To Poverty",
+      "gross": 0.01,
+      "cume": 1.62,
+      "showings": 73,
+      "admissions": 2754,
+      "rank": 19,
+      "days": 77,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 643773,
+      "title": "Dynasty Warriors",
+      "gross": 0.01,
+      "cume": 2.28,
+      "showings": 1506,
+      "admissions": 1465,
+      "rank": 20,
+      "days": 13,
+      "day": "3rd Thu"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 683816,
+  "title": "Baby Of Galaxy",
+  "releaseDate": "17-04-2021",
+  "entries": [
+    {
+      "date": "17-04-2021",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 3026,
+      "admissions": 4448,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "31-07-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 13,
+      "admissions": 1001,
+      "days": 471,
+      "day": "68th Sun"
+    },
+    {
+      "date": "02-08-2022",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.16,
+      "showings": 9,
+      "admissions": 645,
+      "days": 473,
+      "day": "68th Tue"
+    }
+  ]
+}

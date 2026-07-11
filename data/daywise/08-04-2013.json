@@ -1,0 +1,225 @@
+{
+  "date": "08-04-2013",
+  "data": [
+    {
+      "movie_id": 596800,
+      "title": "",
+      "gross": 1.44,
+      "cume": 60.06,
+      "showings": 16475,
+      "admissions": 308557,
+      "rank": 1,
+      "days": 19,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 610462,
+      "title": "The Chef, the Actor, the Scoundrel",
+      "gross": 1.09,
+      "cume": 30.18,
+      "showings": 15202,
+      "admissions": 232569,
+      "rank": 2,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 595606,
+      "title": "Drug War",
+      "gross": 0.98,
+      "cume": 13.18,
+      "showings": 13576,
+      "admissions": 208878,
+      "rank": 3,
+      "days": 7,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 595180,
+      "title": "Saving General Yang",
+      "gross": 0.56,
+      "cume": 5.37,
+      "showings": 9956,
+      "admissions": 120452,
+      "rank": 4,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 615223,
+      "title": "Oz The Great and Powerful",
+      "gross": 0.49,
+      "cume": 20.07,
+      "showings": 8082,
+      "admissions": 82999,
+      "rank": 5,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 602831,
+      "title": "Jack the Giant Slayer",
+      "gross": 0.05,
+      "cume": 7.58,
+      "showings": 1399,
+      "admissions": 8531,
+      "rank": 6,
+      "days": 15,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 614325,
+      "title": "Jin Tai Lang De Xing Fu Sheng Huo",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 26,
+      "admissions": 3232,
+      "rank": 7,
+      "days": null,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 615250,
+      "title": "A Good Day to Die Hard",
+      "gross": 0.01,
+      "cume": 29.59,
+      "showings": 541,
+      "admissions": 2646,
+      "rank": 8,
+      "days": 26,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 590044,
+      "title": "The House",
+      "gross": 0.01,
+      "cume": 0.46,
+      "showings": 1270,
+      "admissions": 2332,
+      "rank": 9,
+      "days": 12,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 615788,
+      "title": "Neverland",
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 87,
+      "admissions": 1111,
+      "rank": 10,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 608213,
+      "title": "Ip Man: Final Fight",
+      "gross": 0.01,
+      "cume": 1.6,
+      "showings": 998,
+      "admissions": 1279,
+      "rank": 11,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 605823,
+      "title": "Resident Evil: Retribution",
+      "gross": 0.01,
+      "cume": 16.28,
+      "showings": 280,
+      "admissions": 897,
+      "rank": 12,
+      "days": 23,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 608215,
+      "title": "Princess and Seven Kung Fu Masters",
+      "gross": 0.0,
+      "cume": 10.34,
+      "showings": 540,
+      "admissions": 968,
+      "rank": 13,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 595857,
+      "title": "An End To Killing",
+      "gross": 0.0,
+      "cume": 0.65,
+      "showings": 506,
+      "admissions": 494,
+      "rank": 14,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 610888,
+      "title": "Silent Code",
+      "gross": 0.0,
+      "cume": 0.43,
+      "showings": 114,
+      "admissions": 394,
+      "rank": 15,
+      "days": 26,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 590399,
+      "title": "Channel switch",
+      "gross": 0.0,
+      "cume": 0.47,
+      "showings": 7,
+      "admissions": 392,
+      "rank": 16,
+      "days": 588,
+      "day": "13th Mon"
+    },
+    {
+      "movie_id": 590372,
+      "title": "Jungle Master",
+      "gross": 0.0,
+      "cume": 1.3,
+      "showings": 24,
+      "admissions": 749,
+      "rank": 17,
+      "days": 80,
+      "day": "12th Mon"
+    },
+    {
+      "movie_id": 588446,
+      "title": "Beginning of The Great Revival",
+      "gross": 0.0,
+      "cume": 60.35,
+      "showings": 3,
+      "admissions": 510,
+      "rank": 18,
+      "days": 664,
+      "day": "12th Mon"
+    },
+    {
+      "movie_id": 590327,
+      "title": "Love Bank",
+      "gross": 0.0,
+      "cume": 0.78,
+      "showings": 319,
+      "admissions": 331,
+      "rank": 19,
+      "days": 26,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 4160,
+      "title": "Ip Man",
+      "gross": 0.0,
+      "cume": 12.51,
+      "showings": 3,
+      "admissions": 156,
+      "rank": 20,
+      "days": 1579,
+      "day": "10th Mon"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "12-09-2013",
+  "data": [
+    {
+      "movie_id": 614862,
+      "title": "",
+      "gross": 1.06,
+      "cume": 1.07,
+      "showings": 21891,
+      "admissions": 201216,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 617719,
+      "title": "Elysium",
+      "gross": 0.88,
+      "cume": 15.41,
+      "showings": 17500,
+      "admissions": 180774,
+      "rank": 2,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 616427,
+      "title": "The Stolen Years",
+      "gross": 0.43,
+      "cume": 20.13,
+      "showings": 9319,
+      "admissions": 90234,
+      "rank": 3,
+      "days": 15,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 602828,
+      "title": "The Great Gatsby",
+      "gross": 0.26,
+      "cume": 10.18,
+      "showings": 3330,
+      "admissions": 42433,
+      "rank": 4,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 615152,
+      "title": "The Story of Zhou Enlai",
+      "gross": 0.22,
+      "cume": 3.7,
+      "showings": 587,
+      "admissions": 46882,
+      "rank": 5,
+      "days": 59,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 613462,
+      "title": "The Midas Touch",
+      "gross": 0.21,
+      "cume": 3.07,
+      "showings": 5981,
+      "admissions": 45331,
+      "rank": 6,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 348955,
+      "title": "Jurassic Park 3D",
+      "gross": 0.12,
+      "cume": 50.72,
+      "showings": 3248,
+      "admissions": 21889,
+      "rank": 7,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 614979,
+      "title": "The Impossible",
+      "gross": 0.1,
+      "cume": 7.83,
+      "showings": 2786,
+      "admissions": 21333,
+      "rank": 8,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 617706,
+      "title": "4B Qing Nian zhi 4 Lou B Zuo",
+      "gross": 0.1,
+      "cume": 0.43,
+      "showings": 5148,
+      "admissions": 22653,
+      "rank": 9,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 615855,
+      "title": "Dead Sign",
+      "gross": 0.08,
+      "cume": 0.96,
+      "showings": 3011,
+      "admissions": 18526,
+      "rank": 10,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 593849,
+      "title": "Monsters University",
+      "gross": 0.06,
+      "cume": 30.48,
+      "showings": 1771,
+      "admissions": 10549,
+      "rank": 11,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 612672,
+      "title": "Silent Witness",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 194,
+      "admissions": 4087,
+      "rank": 12,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 617277,
+      "title": "Time-travel Love",
+      "gross": 0.02,
+      "cume": 0.57,
+      "showings": 1461,
+      "admissions": 3572,
+      "rank": 13,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 596429,
+      "title": "Ripples of Desire",
+      "gross": 0.01,
+      "cume": 0.31,
+      "showings": 911,
+      "admissions": 1668,
+      "rank": 14,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 614568,
+      "title": "Unbeatable",
+      "gross": 0.01,
+      "cume": 17.37,
+      "showings": 182,
+      "admissions": 983,
+      "rank": 15,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 610831,
+      "title": "Ren Sheng Bu Neng Chong Lai",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 14,
+      "admissions": 1242,
+      "rank": 16,
+      "days": 16,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 611209,
+      "title": "The Last Tycoon",
+      "gross": 0.0,
+      "cume": 22.09,
+      "showings": 3,
+      "admissions": 759,
+      "rank": 17,
+      "days": 266,
+      "day": "37th Thu"
+    },
+    {
+      "movie_id": 596552,
+      "title": "First Time",
+      "gross": 0.0,
+      "cume": 5.28,
+      "showings": 2,
+      "admissions": 668,
+      "rank": 18,
+      "days": 462,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 591934,
+      "title": "The Smurfs",
+      "gross": 0.0,
+      "cume": 37.22,
+      "showings": 88,
+      "admissions": 679,
+      "rank": 19,
+      "days": 765,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 590503,
+      "title": "A Simple Life",
+      "gross": 0.0,
+      "cume": 10.4,
+      "showings": 3,
+      "admissions": 574,
+      "rank": 20,
+      "days": 554,
+      "day": "1st Thu"
+    }
+  ]
+}

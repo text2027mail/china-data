@@ -1,0 +1,27 @@
+{
+  "movie_id": 630942,
+  "title": "The Fish's West Reef Adventure",
+  "releaseDate": "14-08-2021",
+  "entries": [
+    {
+      "date": "14-08-2021",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 2232,
+      "admissions": 8955,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-08-2021",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 1924,
+      "admissions": 4726,
+      "days": 2,
+      "day": "1st Sun"
+    }
+  ]
+}

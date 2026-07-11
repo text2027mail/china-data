@@ -1,0 +1,57 @@
+{
+  "movie_id": 679647,
+  "title": "Brother of the Year",
+  "releaseDate": "15-03-2019",
+  "entries": [
+    {
+      "date": "15-03-2019",
+      "rank": 12,
+      "gross": 0.1,
+      "cume": 0.1,
+      "showings": 13011,
+      "admissions": 23666,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "16-03-2019",
+      "rank": 15,
+      "gross": 0.07,
+      "cume": 0.17,
+      "showings": 5506,
+      "admissions": 15536,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-03-2019",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.21,
+      "showings": 3690,
+      "admissions": 8377,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "18-03-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.22,
+      "showings": 3134,
+      "admissions": 3092,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "19-03-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 2355,
+      "admissions": 2128,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

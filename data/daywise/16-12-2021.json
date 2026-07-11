@@ -1,0 +1,225 @@
+{
+  "date": "16-12-2021",
+  "data": [
+    {
+      "movie_id": 677896,
+      "title": "",
+      "gross": 1.37,
+      "cume": 54.82,
+      "showings": 96494,
+      "admissions": 244371,
+      "rank": 1,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 706189,
+      "title": "Be Somebody",
+      "gross": 0.96,
+      "cume": 128.96,
+      "showings": 73548,
+      "admissions": 172869,
+      "rank": 2,
+      "days": 36,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 611240,
+      "title": "Good Night Beijing",
+      "gross": 0.31,
+      "cume": 4.86,
+      "showings": 41472,
+      "admissions": 60854,
+      "rank": 3,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 0.18,
+      "cume": 850.1,
+      "showings": 16183,
+      "admissions": 37532,
+      "rank": 4,
+      "days": 78,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 704791,
+      "title": "Railway Heros",
+      "gross": 0.12,
+      "cume": 20.79,
+      "showings": 12241,
+      "admissions": 21877,
+      "rank": 5,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.09,
+      "cume": 5.5,
+      "showings": 273,
+      "admissions": 19578,
+      "rank": 6,
+      "days": 151,
+      "day": "23rd Thu"
+    },
+    {
+      "movie_id": 702566,
+      "title": "Door Lock",
+      "gross": 0.08,
+      "cume": 35.61,
+      "showings": 15534,
+      "admissions": 16095,
+      "rank": 7,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 694817,
+      "title": "You World,Without Me",
+      "gross": 0.06,
+      "cume": 4.07,
+      "showings": 7582,
+      "admissions": 9811,
+      "rank": 8,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 696608,
+      "title": "No Time to Die",
+      "gross": 0.06,
+      "cume": 60.96,
+      "showings": 3466,
+      "admissions": 8683,
+      "rank": 9,
+      "days": 49,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 693966,
+      "title": "Anita",
+      "gross": 0.04,
+      "cume": 16.59,
+      "showings": 4053,
+      "admissions": 7301,
+      "rank": 10,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.03,
+      "cume": 0.45,
+      "showings": 140,
+      "admissions": 5372,
+      "rank": 11,
+      "days": null,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 709339,
+      "title": "The Banker",
+      "gross": 0.02,
+      "cume": 2.81,
+      "showings": 1811,
+      "admissions": 3209,
+      "rank": 12,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 702083,
+      "title": "Confusion",
+      "gross": 0.02,
+      "cume": 0.88,
+      "showings": 106,
+      "admissions": 3396,
+      "rank": 13,
+      "days": 19,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 707737,
+      "title": "Island Keeper",
+      "gross": 0.01,
+      "cume": 20.33,
+      "showings": 11,
+      "admissions": 2781,
+      "rank": 14,
+      "days": 182,
+      "day": "27th Thu"
+    },
+    {
+      "movie_id": 327165,
+      "title": "Dune",
+      "gross": 0.01,
+      "cume": 37.43,
+      "showings": 679,
+      "admissions": 1568,
+      "rank": 15,
+      "days": 56,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 672711,
+      "title": "Secret",
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 4685,
+      "admissions": 2485,
+      "rank": 16,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 704325,
+      "title": "OH! My Gran",
+      "gross": 0.01,
+      "cume": 0.41,
+      "showings": 1614,
+      "admissions": 2318,
+      "rank": 17,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 710317,
+      "title": "To The Summit",
+      "gross": 0.01,
+      "cume": 0.35,
+      "showings": 1078,
+      "admissions": 1846,
+      "rank": 18,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 710318,
+      "title": "Ikar. Legenda Mietka Kosza",
+      "gross": 0.01,
+      "cume": 0.14,
+      "showings": 2597,
+      "admissions": 1590,
+      "rank": 19,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.01,
+      "cume": 4.53,
+      "showings": 30,
+      "admissions": 1278,
+      "rank": 20,
+      "days": 133,
+      "day": "21st Thu"
+    }
+  ]
+}

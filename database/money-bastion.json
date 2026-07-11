@@ -1,0 +1,77 @@
+{
+  "movie_id": 709265,
+  "title": "Money Bastion",
+  "releaseDate": "22-11-2024",
+  "entries": [
+    {
+      "date": "22-11-2024",
+      "rank": 11,
+      "gross": 0.12,
+      "cume": 0.13,
+      "showings": 14218,
+      "admissions": 23388,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-11-2024",
+      "rank": 10,
+      "gross": 0.12,
+      "cume": 0.25,
+      "showings": 10082,
+      "admissions": 22788,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-11-2024",
+      "rank": 11,
+      "gross": 0.09,
+      "cume": 0.33,
+      "showings": 11965,
+      "admissions": 16402,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-11-2024",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.37,
+      "showings": 9751,
+      "admissions": 6199,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-11-2024",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.39,
+      "showings": 8834,
+      "admissions": 4908,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-11-2024",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.41,
+      "showings": 8521,
+      "admissions": 4283,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-11-2024",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.44,
+      "showings": 8225,
+      "admissions": 3959,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

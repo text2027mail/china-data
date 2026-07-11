@@ -1,0 +1,87 @@
+{
+  "movie_id": 659616,
+  "title": "Puppy Love",
+  "releaseDate": "17-05-2017",
+  "entries": [
+    {
+      "date": "17-05-2017",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 3,
+      "admissions": 518,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "date": "19-05-2017",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.08,
+      "showings": 3139,
+      "admissions": 14681,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-05-2017",
+      "rank": 13,
+      "gross": 0.17,
+      "cume": 0.25,
+      "showings": 3209,
+      "admissions": 36922,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-05-2017",
+      "rank": 15,
+      "gross": 0.09,
+      "cume": 0.34,
+      "showings": 3016,
+      "admissions": 19525,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-05-2017",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.36,
+      "showings": 2581,
+      "admissions": 5149,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-05-2017",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.39,
+      "showings": 2423,
+      "admissions": 4509,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "24-05-2017",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.4,
+      "showings": 2247,
+      "admissions": 3572,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "25-05-2017",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.42,
+      "showings": 2219,
+      "admissions": 3414,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

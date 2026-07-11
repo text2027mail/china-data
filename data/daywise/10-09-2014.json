@@ -1,0 +1,225 @@
+{
+  "date": "10-09-2014",
+  "data": [
+    {
+      "movie_id": 615487,
+      "title": "",
+      "gross": 1.92,
+      "cume": 47.59,
+      "showings": 25665,
+      "admissions": 411874,
+      "rank": 1,
+      "days": 10,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 618165,
+      "title": "But Always",
+      "gross": 1.81,
+      "cume": 18.16,
+      "showings": 22231,
+      "admissions": 394440,
+      "rank": 2,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 624046,
+      "title": "Dawn of the Planet of the Apes",
+      "gross": 1.79,
+      "cume": 83.96,
+      "showings": 23003,
+      "admissions": 337320,
+      "rank": 3,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 623129,
+      "title": "Divergent",
+      "gross": 1.01,
+      "cume": 5.05,
+      "showings": 18927,
+      "admissions": 214433,
+      "rank": 4,
+      "days": 3,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 627548,
+      "title": "One Day",
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 4495,
+      "admissions": 47886,
+      "rank": 5,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 615434,
+      "title": "How to Train Your Dragon 2",
+      "gross": 0.02,
+      "cume": 59.27,
+      "showings": 756,
+      "admissions": 4471,
+      "rank": 6,
+      "days": 28,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.02,
+      "cume": 1.22,
+      "showings": 10,
+      "admissions": 1598,
+      "rank": 7,
+      "days": 149,
+      "day": "22nd Wed"
+    },
+    {
+      "movie_id": 615851,
+      "title": "Tale of The Rally",
+      "gross": 0.02,
+      "cume": 1.07,
+      "showings": 2219,
+      "admissions": 4064,
+      "rank": 8,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 615485,
+      "title": "Delhi Safari",
+      "gross": 0.01,
+      "cume": 0.9,
+      "showings": 1295,
+      "admissions": 2999,
+      "rank": 9,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 628250,
+      "title": "Under The Bed 2",
+      "gross": 0.01,
+      "cume": 2.17,
+      "showings": 1061,
+      "admissions": 2613,
+      "rank": 10,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 628735,
+      "title": "Metegol",
+      "gross": 0.01,
+      "cume": 0.71,
+      "showings": 1593,
+      "admissions": 2275,
+      "rank": 11,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 618944,
+      "title": "Z Storm",
+      "gross": 0.01,
+      "cume": 14.04,
+      "showings": 93,
+      "admissions": 2093,
+      "rank": 12,
+      "days": 26,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 626880,
+      "title": "Temporary Family",
+      "gross": 0.01,
+      "cume": 14.89,
+      "showings": 790,
+      "admissions": 1553,
+      "rank": 13,
+      "days": 21,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 610953,
+      "title": "The Four 3",
+      "gross": 0.01,
+      "cume": 28.35,
+      "showings": 395,
+      "admissions": 1079,
+      "rank": 14,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 618096,
+      "title": "One Step Away",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1,
+      "admissions": 1058,
+      "rank": 15,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 612739,
+      "title": "The House That Never Dies",
+      "gross": 0.0,
+      "cume": 60.76,
+      "showings": 3,
+      "admissions": 192,
+      "rank": 16,
+      "days": 55,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 626586,
+      "title": "Minuscule: Valley of the Lost Ants",
+      "gross": 0.0,
+      "cume": 4.09,
+      "showings": 182,
+      "admissions": 734,
+      "rank": 17,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 616408,
+      "title": "The Rebirth of a Flourishing City",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 63,
+      "admissions": 1188,
+      "rank": 18,
+      "days": 1,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 617321,
+      "title": "When a Peking Family Meets Aupair",
+      "gross": 0.0,
+      "cume": 1.11,
+      "showings": 3,
+      "admissions": 1940,
+      "rank": 19,
+      "days": 34,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 626107,
+      "title": "Turn Around",
+      "gross": 0.0,
+      "cume": 1.01,
+      "showings": 546,
+      "admissions": 694,
+      "rank": 20,
+      "days": 14,
+      "day": "2nd Wed"
+    }
+  ]
+}

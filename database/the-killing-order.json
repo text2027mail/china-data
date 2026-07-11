@@ -1,0 +1,37 @@
+{
+  "movie_id": 629037,
+  "title": "The Killing Order",
+  "releaseDate": "28-09-2015",
+  "entries": [
+    {
+      "date": "28-09-2015",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 21,
+      "admissions": 2967,
+      "days": 24,
+      "day": "1st Mon"
+    },
+    {
+      "date": "29-09-2015",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 19,
+      "admissions": 2883,
+      "days": 25,
+      "day": "1st Tue"
+    },
+    {
+      "date": "30-09-2015",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 12,
+      "admissions": 1321,
+      "days": 26,
+      "day": "1st Wed"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "27-05-2019",
+  "data": [
+    {
+      "movie_id": 681635,
+      "title": "",
+      "gross": 2.91,
+      "cume": 22.03,
+      "showings": 90794,
+      "admissions": 517813,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 681795,
+      "title": "A Dog's Journey 2",
+      "gross": 0.69,
+      "cume": 25.09,
+      "showings": 46831,
+      "admissions": 156208,
+      "rank": 2,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 670828,
+      "title": "Detective Pikachu",
+      "gross": 0.66,
+      "cume": 85.92,
+      "showings": 52502,
+      "admissions": 142971,
+      "rank": 3,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 692267,
+      "title": "LIFE",
+      "gross": 0.47,
+      "cume": 5.07,
+      "showings": 32729,
+      "admissions": 95479,
+      "rank": 4,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 683927,
+      "title": "Dragon Ball Z: Broly",
+      "gross": 0.34,
+      "cume": 3.51,
+      "showings": 32524,
+      "admissions": 79446,
+      "rank": 5,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 681412,
+      "title": "Capernaum",
+      "gross": 0.24,
+      "cume": 53.85,
+      "showings": 17343,
+      "admissions": 53835,
+      "rank": 6,
+      "days": 29,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 667122,
+      "title": "Mom",
+      "gross": 0.21,
+      "cume": 15.52,
+      "showings": 11433,
+      "admissions": 40133,
+      "rank": 7,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 655860,
+      "title": "The Sexy Guys",
+      "gross": 0.1,
+      "cume": 2.6,
+      "showings": 32,
+      "admissions": 2411,
+      "rank": 8,
+      "days": 46,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 691925,
+      "title": "Enter the Forbidden City",
+      "gross": 0.08,
+      "cume": 1.61,
+      "showings": 1013,
+      "admissions": 12800,
+      "rank": 9,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 673525,
+      "title": "Yellow Rose",
+      "gross": 0.08,
+      "cume": 0.71,
+      "showings": 168,
+      "admissions": 12911,
+      "rank": 10,
+      "days": 3,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 643548,
+      "title": "Heidi",
+      "gross": 0.05,
+      "cume": 2.64,
+      "showings": 3708,
+      "admissions": 11328,
+      "rank": 11,
+      "days": 12,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 692046,
+      "title": "Zhou Enlai Returned To Yanan",
+      "gross": 0.04,
+      "cume": 0.65,
+      "showings": 2232,
+      "admissions": 8405,
+      "rank": 12,
+      "days": 13,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 639336,
+      "title": "The star on wuling mountain",
+      "gross": 0.02,
+      "cume": 0.26,
+      "showings": 75,
+      "admissions": 2982,
+      "rank": 13,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 673751,
+      "title": "Kunlun Brothers",
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 168,
+      "admissions": 4833,
+      "rank": 14,
+      "days": 12,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 682635,
+      "title": "Midnight Ruins",
+      "gross": 0.02,
+      "cume": 0.17,
+      "showings": 1921,
+      "admissions": 4801,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 682238,
+      "title": "P Storm",
+      "gross": 0.02,
+      "cume": 117.77,
+      "showings": 980,
+      "admissions": 3742,
+      "rank": 16,
+      "days": 54,
+      "day": "9th Mon"
+    },
+    {
+      "movie_id": 677405,
+      "title": "Beyond the Clouds",
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 4487,
+      "admissions": 4745,
+      "rank": 17,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 691948,
+      "title": "My Little Monster",
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 2783,
+      "admissions": 4268,
+      "rank": 18,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 680364,
+      "title": "Tracing The Shadow",
+      "gross": 0.01,
+      "cume": 0.93,
+      "showings": 24,
+      "admissions": 1561,
+      "rank": 19,
+      "days": 252,
+      "day": "11th Mon"
+    },
+    {
+      "movie_id": 684944,
+      "title": "Think Big Big",
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 2940,
+      "admissions": 2716,
+      "rank": 20,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

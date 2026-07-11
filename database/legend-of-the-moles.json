@@ -1,0 +1,37 @@
+{
+  "movie_id": 608237,
+  "title": "Legend Of The Moles",
+  "releaseDate": "28-05-2017",
+  "entries": [
+    {
+      "date": "28-05-2017",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 3.68,
+      "showings": 1025,
+      "admissions": 4283,
+      "days": 1789,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-05-2017",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 3.7,
+      "showings": 919,
+      "admissions": 3779,
+      "days": 1790,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-06-2017",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 3.72,
+      "showings": 642,
+      "admissions": 4535,
+      "days": 1793,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "20-01-2014",
+  "data": [
+    {
+      "movie_id": 617164,
+      "title": "",
+      "gross": 1.89,
+      "cume": 17.12,
+      "showings": 22731,
+      "admissions": 377276,
+      "rank": 1,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 396487,
+      "title": "Jack Ryan: Shadow Recruit",
+      "gross": 1.56,
+      "cume": 10.39,
+      "showings": 21388,
+      "admissions": 329150,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 617146,
+      "title": "Despicable Me 2",
+      "gross": 1.52,
+      "cume": 32.52,
+      "showings": 15554,
+      "admissions": 286517,
+      "rank": 3,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 618269,
+      "title": "Meet the Pegusus",
+      "gross": 0.62,
+      "cume": 7.48,
+      "showings": 13751,
+      "admissions": 140567,
+      "rank": 4,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 618816,
+      "title": "Hello Babies",
+      "gross": 0.45,
+      "cume": 7.47,
+      "showings": 6268,
+      "admissions": 97031,
+      "rank": 5,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 328433,
+      "title": "Ender's Game",
+      "gross": 0.43,
+      "cume": 16.31,
+      "showings": 6690,
+      "admissions": 91670,
+      "rank": 6,
+      "days": 14,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 613384,
+      "title": "Police Story 2013",
+      "gross": 0.22,
+      "cume": 77.12,
+      "showings": 2976,
+      "admissions": 38886,
+      "rank": 7,
+      "days": 28,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 613569,
+      "title": "The Apostles",
+      "gross": 0.1,
+      "cume": 0.51,
+      "showings": 3526,
+      "admissions": 22703,
+      "rank": 8,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 610928,
+      "title": "Personal Tailor",
+      "gross": 0.1,
+      "cume": 104.27,
+      "showings": 1286,
+      "admissions": 19743,
+      "rank": 9,
+      "days": 33,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 613414,
+      "title": "As The Light Goes Out",
+      "gross": 0.07,
+      "cume": 10.87,
+      "showings": 1488,
+      "admissions": 13101,
+      "rank": 10,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 619451,
+      "title": "Метро",
+      "gross": 0.06,
+      "cume": 2.19,
+      "showings": 1877,
+      "admissions": 13297,
+      "rank": 11,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 615471,
+      "title": "Up in the Wind",
+      "gross": 0.02,
+      "cume": 11.58,
+      "showings": 774,
+      "admissions": 4867,
+      "rank": 12,
+      "days": 21,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 617502,
+      "title": "The Mortal Instruments: City of Bones",
+      "gross": 0.02,
+      "cume": 4.2,
+      "showings": 362,
+      "admissions": 3694,
+      "rank": 13,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 609014,
+      "title": "Once Upon A Time In Shanghai",
+      "gross": 0.02,
+      "cume": 1.07,
+      "showings": 737,
+      "admissions": 3515,
+      "rank": 14,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 619458,
+      "title": "Snow Blossom",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 1693,
+      "admissions": 3243,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 618625,
+      "title": "Legendary: Tomb of the Dragon",
+      "gross": 0.01,
+      "cume": 5.07,
+      "showings": 217,
+      "admissions": 1194,
+      "rank": 16,
+      "days": 21,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 611200,
+      "title": "The Land is So Rich in Beauty",
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 25,
+      "admissions": 3016,
+      "rank": 17,
+      "days": null,
+      "day": "14th Mon"
+    },
+    {
+      "movie_id": 613819,
+      "title": "Forever Young",
+      "gross": 0.0,
+      "cume": 0.27,
+      "showings": 366,
+      "admissions": 741,
+      "rank": 18,
+      "days": 11,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 615212,
+      "title": "The Frog Kingdom",
+      "gross": 0.0,
+      "cume": 2.59,
+      "showings": 143,
+      "admissions": 925,
+      "rank": 19,
+      "days": 24,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 614346,
+      "title": "Firestorm",
+      "gross": 0.0,
+      "cume": 46.41,
+      "showings": 60,
+      "admissions": 386,
+      "rank": 20,
+      "days": 40,
+      "day": "7th Mon"
+    }
+  ]
+}

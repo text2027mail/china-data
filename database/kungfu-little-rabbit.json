@@ -1,0 +1,47 @@
+{
+  "movie_id": 588398,
+  "title": "Kungfu Little Rabbit",
+  "releaseDate": "28-05-2017",
+  "entries": [
+    {
+      "date": "28-05-2017",
+      "rank": 15,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 2310,
+      "admissions": 15237,
+      "days": 1,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-05-2017",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.11,
+      "showings": 1619,
+      "admissions": 9973,
+      "days": 2,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-05-2017",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 603,
+      "admissions": 2537,
+      "days": 3,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-06-2017",
+      "rank": 15,
+      "gross": 0.07,
+      "cume": 0.19,
+      "showings": 1792,
+      "admissions": 17477,
+      "days": 5,
+      "day": "1st Thu"
+    }
+  ]
+}

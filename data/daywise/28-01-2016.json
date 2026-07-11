@@ -1,0 +1,225 @@
+{
+  "date": "28-01-2016",
+  "data": [
+    {
+      "movie_id": 631832,
+      "title": "",
+      "gross": 1.26,
+      "cume": 116.58,
+      "showings": 23793,
+      "admissions": 243241,
+      "rank": 1,
+      "days": 20,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 636576,
+      "title": "Alvin and the Chipmunks: The Road Chip",
+      "gross": 1.08,
+      "cume": 3.28,
+      "showings": 22118,
+      "admissions": 269673,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 641008,
+      "title": "The Walk",
+      "gross": 0.91,
+      "cume": 10.86,
+      "showings": 23567,
+      "admissions": 179909,
+      "rank": 3,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 640206,
+      "title": "Boonie Bears III",
+      "gross": 0.87,
+      "cume": 36.34,
+      "showings": 21313,
+      "admissions": 191349,
+      "rank": 4,
+      "days": 13,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 633345,
+      "title": "The Last Witch Hunter",
+      "gross": 0.75,
+      "cume": 23.62,
+      "showings": 18386,
+      "admissions": 175879,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 638436,
+      "title": "Detective Chinatown",
+      "gross": 0.74,
+      "cume": 117.99,
+      "showings": 11526,
+      "admissions": 157424,
+      "rank": 6,
+      "days": 29,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 638630,
+      "title": "Inside or Outside",
+      "gross": 0.35,
+      "cume": 5.63,
+      "showings": 15634,
+      "admissions": 82764,
+      "rank": 7,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 630691,
+      "title": "House of Wolves",
+      "gross": 0.27,
+      "cume": 2.43,
+      "showings": 7532,
+      "admissions": 61633,
+      "rank": 8,
+      "days": 6,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 639351,
+      "title": "Kung Fu Panda 3",
+      "gross": 0.21,
+      "cume": 6.52,
+      "showings": 1018,
+      "admissions": 33715,
+      "rank": 9,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 617155,
+      "title": "Mr. Six",
+      "gross": 0.2,
+      "cume": 132.0,
+      "showings": 4099,
+      "admissions": 52234,
+      "rank": 10,
+      "days": 36,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 640866,
+      "title": "Royal Treasure",
+      "gross": 0.17,
+      "cume": 18.29,
+      "showings": 6021,
+      "admissions": 38679,
+      "rank": 11,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 614981,
+      "title": "Mojin-The Lost Legend",
+      "gross": 0.16,
+      "cume": 247.3,
+      "showings": 3081,
+      "admissions": 39983,
+      "rank": 12,
+      "days": 42,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 631033,
+      "title": "Fruity Robo The Great Escape",
+      "gross": 0.07,
+      "cume": 1.12,
+      "showings": 3093,
+      "admissions": 14808,
+      "rank": 13,
+      "days": 6,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 637761,
+      "title": "The Secret",
+      "gross": 0.07,
+      "cume": 9.38,
+      "showings": 2714,
+      "admissions": 15357,
+      "rank": 14,
+      "days": 14,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 642281,
+      "title": "Sherlock: The Abominable Bride",
+      "gross": 0.05,
+      "cume": 23.7,
+      "showings": 912,
+      "admissions": 9052,
+      "rank": 15,
+      "days": 25,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 641976,
+      "title": "The Apparition",
+      "gross": 0.04,
+      "cume": 0.48,
+      "showings": 2898,
+      "admissions": 11099,
+      "rank": 16,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 631280,
+      "title": "Chinese Wine",
+      "gross": 0.04,
+      "cume": 1.4,
+      "showings": 82,
+      "admissions": 5897,
+      "rank": 17,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 640367,
+      "title": "My Best Friends",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 761,
+      "admissions": 3794,
+      "rank": 18,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639519,
+      "title": "Everybody's Fine",
+      "gross": 0.01,
+      "cume": 3.87,
+      "showings": 63,
+      "admissions": 2670,
+      "rank": 19,
+      "days": 28,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 384368,
+      "title": "Solace",
+      "gross": 0.01,
+      "cume": 5.19,
+      "showings": 708,
+      "admissions": 2883,
+      "rank": 20,
+      "days": 15,
+      "day": "3rd Thu"
+    }
+  ]
+}

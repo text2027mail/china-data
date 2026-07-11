@@ -1,0 +1,225 @@
+{
+  "date": "01-02-2023",
+  "data": [
+    {
+      "movie_id": 713237,
+      "title": "",
+      "gross": 15.4,
+      "cume": 526.17,
+      "showings": 118221,
+      "admissions": 2235737,
+      "rank": 1,
+      "days": 11,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 704382,
+      "title": "The Wandering Earth 2",
+      "gross": 13.6,
+      "cume": 428.67,
+      "showings": 95290,
+      "admissions": 1904400,
+      "rank": 2,
+      "days": 11,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 733627,
+      "title": "Boonie Bears: Guardian Code",
+      "gross": 6.17,
+      "cume": 159.55,
+      "showings": 50420,
+      "admissions": 946276,
+      "rank": 3,
+      "days": 11,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 707469,
+      "title": "Hidden Blade",
+      "gross": 4.07,
+      "cume": 100.34,
+      "showings": 32170,
+      "admissions": 514693,
+      "rank": 4,
+      "days": 11,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 640938,
+      "title": "Deep Sea",
+      "gross": 3.96,
+      "cume": 80.54,
+      "showings": 39652,
+      "admissions": 589307,
+      "rank": 5,
+      "days": 11,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 708388,
+      "title": "Five Hundred Miles",
+      "gross": 0.9,
+      "cume": 49.36,
+      "showings": 18398,
+      "admissions": 135016,
+      "rank": 6,
+      "days": 11,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 612244,
+      "title": "Avatar: The Way of Water",
+      "gross": 0.43,
+      "cume": 242.93,
+      "showings": 4842,
+      "admissions": 62785,
+      "rank": 7,
+      "days": 48,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 692317,
+      "title": "Ping-pong of China",
+      "gross": 0.02,
+      "cume": 6.09,
+      "showings": 32,
+      "admissions": 2369,
+      "rank": 8,
+      "days": null,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.01,
+      "cume": 6.72,
+      "showings": 286,
+      "admissions": 1667,
+      "rank": 9,
+      "days": 41,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 685901,
+      "title": "Ordinary Hero",
+      "gross": 0.01,
+      "cume": 31.86,
+      "showings": 207,
+      "admissions": 2138,
+      "rank": 10,
+      "days": 125,
+      "day": "19th Wed"
+    },
+    {
+      "movie_id": 681235,
+      "title": "Above The Rainbow",
+      "gross": 0.01,
+      "cume": 0.38,
+      "showings": 59,
+      "admissions": 878,
+      "rank": 11,
+      "days": 189,
+      "day": "27th Wed"
+    },
+    {
+      "movie_id": 679447,
+      "title": "the sky",
+      "gross": 0.0,
+      "cume": 1.28,
+      "showings": 5,
+      "admissions": 745,
+      "rank": 12,
+      "days": 1310,
+      "day": "79th Wed"
+    },
+    {
+      "movie_id": 716214,
+      "title": "One Piece Film Red",
+      "gross": 0.0,
+      "cume": 27.34,
+      "showings": 134,
+      "admissions": 778,
+      "rank": 13,
+      "days": 63,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 0.0,
+      "cume": 59.18,
+      "showings": 124,
+      "admissions": 572,
+      "rank": 14,
+      "days": 40,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 385143,
+      "title": "Space Station 3D",
+      "gross": 0.0,
+      "cume": 0.17,
+      "showings": 1,
+      "admissions": 311,
+      "rank": 15,
+      "days": null,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 685389,
+      "title": "Shen Hai Tan Xian",
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 1,
+      "admissions": 286,
+      "rank": 16,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 659773,
+      "title": "Journey to Space",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 5,
+      "admissions": 155,
+      "rank": 17,
+      "days": null,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 561840,
+      "title": "Panda Pan Pan",
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 4,
+      "admissions": 112,
+      "rank": 18,
+      "days": null,
+      "day": "53rd Wed"
+    },
+    {
+      "movie_id": 563591,
+      "title": "The Universal Pagoda",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 4,
+      "admissions": 138,
+      "rank": 19,
+      "days": 25203,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 628890,
+      "title": "Yu Long Yong Shi",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 2,
+      "admissions": 110,
+      "rank": 20,
+      "days": 3583,
+      "day": "2nd Wed"
+    }
+  ]
+}

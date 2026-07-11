@@ -1,0 +1,27 @@
+{
+  "movie_id": 678737,
+  "title": "Half The Sky",
+  "releaseDate": "10-05-2019",
+  "entries": [
+    {
+      "date": "10-05-2019",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 2305,
+      "admissions": 104,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-05-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 501,
+      "admissions": 995,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "movie_id": 1193442,
+  "title": "Moana",
+  "releaseDate": "10-07-2026",
+  "entries": [
+    {
+      "date": "10-07-2026",
+      "rank": 6,
+      "gross": 0.54,
+      "cume": 0.54,
+      "showings": 45859,
+      "admissions": 91030,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "11-07-2026",
+      "rank": 8,
+      "gross": 0.32,
+      "cume": 0.86,
+      "showings": 21508,
+      "admissions": 51996,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

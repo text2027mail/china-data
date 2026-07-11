@@ -1,0 +1,225 @@
+{
+  "date": "16-03-2021",
+  "data": [
+    {
+      "movie_id": 303851,
+      "title": "",
+      "gross": 2.28,
+      "cume": 222.83,
+      "showings": 79629,
+      "admissions": 441106,
+      "rank": 1,
+      "days": 4090,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 662746,
+      "title": "Hi, Mom",
+      "gross": 1.13,
+      "cume": 778.08,
+      "showings": 69906,
+      "admissions": 203792,
+      "rank": 2,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 701866,
+      "title": "End Game",
+      "gross": 0.83,
+      "cume": 101.41,
+      "showings": 42446,
+      "admissions": 147765,
+      "rank": 3,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 676314,
+      "title": "Detective Chinatown 3",
+      "gross": 0.44,
+      "cume": 661.36,
+      "showings": 31157,
+      "admissions": 78271,
+      "rank": 4,
+      "days": 33,
+      "day": "60th Tue"
+    },
+    {
+      "movie_id": 644881,
+      "title": "A Writer‘s Odyssey",
+      "gross": 0.33,
+      "cume": 149.05,
+      "showings": 20972,
+      "admissions": 55886,
+      "rank": 5,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 704568,
+      "title": "Raya and The Last Dragon",
+      "gross": 0.16,
+      "cume": 14.37,
+      "showings": 16482,
+      "admissions": 30097,
+      "rank": 6,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 693143,
+      "title": "New Gods:Nezha Reborn",
+      "gross": 0.09,
+      "cume": 65.24,
+      "showings": 9412,
+      "admissions": 16395,
+      "rank": 7,
+      "days": 33,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 691459,
+      "title": "Five Feet Apart",
+      "gross": 0.07,
+      "cume": 0.67,
+      "showings": 7853,
+      "admissions": 14098,
+      "rank": 8,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 674131,
+      "title": "Special Couple",
+      "gross": 0.05,
+      "cume": 1.42,
+      "showings": 14785,
+      "admissions": 9339,
+      "rank": 9,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 695935,
+      "title": "Night Watch",
+      "gross": 0.02,
+      "cume": 0.25,
+      "showings": 3445,
+      "admissions": 4487,
+      "rank": 10,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 565993,
+      "title": "Tom and Jerry",
+      "gross": 0.02,
+      "cume": 14.92,
+      "showings": 3119,
+      "admissions": 3278,
+      "rank": 11,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 702206,
+      "title": "A Rising Village",
+      "gross": 0.02,
+      "cume": 0.73,
+      "showings": 16,
+      "admissions": 1459,
+      "rank": 12,
+      "days": 58,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 701870,
+      "title": "Farewell To Poverty",
+      "gross": 0.01,
+      "cume": 1.22,
+      "showings": 189,
+      "admissions": 2144,
+      "rank": 13,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 695236,
+      "title": "Boonie Bears:The Wild Life",
+      "gross": 0.01,
+      "cume": 86.09,
+      "showings": 3252,
+      "admissions": 1959,
+      "rank": 14,
+      "days": 33,
+      "day": "63rd Tue"
+    },
+    {
+      "movie_id": 680646,
+      "title": "Endless Love",
+      "gross": 0.01,
+      "cume": 0.65,
+      "showings": 1293,
+      "admissions": 2214,
+      "rank": 15,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 701879,
+      "title": "Da Shi",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 93,
+      "admissions": 2359,
+      "rank": 16,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 659727,
+      "title": "Rising From Ashes",
+      "gross": 0.0,
+      "cume": 3.86,
+      "showings": 119,
+      "admissions": 845,
+      "rank": 17,
+      "days": 173,
+      "day": "24th Tue"
+    },
+    {
+      "movie_id": 703448,
+      "title": "Soul",
+      "gross": 0.0,
+      "cume": 55.47,
+      "showings": 313,
+      "admissions": 637,
+      "rank": 18,
+      "days": 82,
+      "day": "12th Tue"
+    },
+    {
+      "movie_id": 672241,
+      "title": "Pure Land",
+      "gross": 0.0,
+      "cume": 0.5,
+      "showings": 54,
+      "admissions": 510,
+      "rank": 19,
+      "days": 40,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 705222,
+      "title": "Cheers",
+      "gross": 0.0,
+      "cume": 0.97,
+      "showings": 28,
+      "admissions": 603,
+      "rank": 20,
+      "days": 31,
+      "day": "5th Tue"
+    }
+  ]
+}

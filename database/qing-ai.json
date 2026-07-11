@@ -1,0 +1,27 @@
+{
+  "movie_id": 741253,
+  "title": "Qing Ai",
+  "releaseDate": "22-11-2025",
+  "entries": [
+    {
+      "date": "22-11-2025",
+      "rank": 15,
+      "gross": 0.03,
+      "cume": 0.14,
+      "showings": 322,
+      "admissions": 10063,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-11-2025",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.17,
+      "showings": 322,
+      "admissions": 7436,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

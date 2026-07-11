@@ -1,0 +1,97 @@
+{
+  "movie_id": 656607,
+  "title": "A Monster Calls",
+  "releaseDate": "14-05-2017",
+  "entries": [
+    {
+      "date": "14-05-2017",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 15,
+      "admissions": 1763,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "19-05-2017",
+      "rank": 6,
+      "gross": 0.38,
+      "cume": 0.39,
+      "showings": 18843,
+      "admissions": 85537,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-05-2017",
+      "rank": 5,
+      "gross": 0.78,
+      "cume": 1.17,
+      "showings": 16891,
+      "admissions": 176394,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-05-2017",
+      "rank": 5,
+      "gross": 0.44,
+      "cume": 1.62,
+      "showings": 15826,
+      "admissions": 100374,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "22-05-2017",
+      "rank": 6,
+      "gross": 0.13,
+      "cume": 1.75,
+      "showings": 14306,
+      "admissions": 28586,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "23-05-2017",
+      "rank": 7,
+      "gross": 0.12,
+      "cume": 1.87,
+      "showings": 13312,
+      "admissions": 27896,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "24-05-2017",
+      "rank": 6,
+      "gross": 0.12,
+      "cume": 1.99,
+      "showings": 12728,
+      "admissions": 26829,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "25-05-2017",
+      "rank": 7,
+      "gross": 0.1,
+      "cume": 2.09,
+      "showings": 12249,
+      "admissions": 22545,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "26-05-2017",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 2.11,
+      "showings": 3115,
+      "admissions": 4201,
+      "days": 8,
+      "day": "2nd Fri"
+    }
+  ]
+}

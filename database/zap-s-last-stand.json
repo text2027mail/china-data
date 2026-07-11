@@ -1,0 +1,37 @@
+{
+  "movie_id": 898790,
+  "title": "ZAP'S LAST STAND",
+  "releaseDate": "06-10-2025",
+  "entries": [
+    {
+      "date": "06-10-2025",
+      "rank": 14,
+      "gross": 0.16,
+      "cume": 0.18,
+      "showings": 18701,
+      "admissions": 32619,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "07-10-2025",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.22,
+      "showings": 4773,
+      "admissions": 8646,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "date": "08-10-2025",
+      "rank": 18,
+      "gross": 0.03,
+      "cume": 0.25,
+      "showings": 3780,
+      "admissions": 7259,
+      "days": 3,
+      "day": "1st Wed"
+    }
+  ]
+}

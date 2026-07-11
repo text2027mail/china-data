@@ -1,0 +1,67 @@
+{
+  "movie_id": 643146,
+  "title": "All About ING",
+  "releaseDate": "22-01-2021",
+  "entries": [
+    {
+      "date": "22-01-2021",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 3021,
+      "admissions": 3196,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "24-01-2021",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 673,
+      "admissions": 3631,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-01-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 628,
+      "admissions": 1668,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-01-2021",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 689,
+      "admissions": 2073,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "27-01-2021",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 726,
+      "admissions": 2595,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "28-01-2021",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 788,
+      "admissions": 2626,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

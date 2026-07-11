@@ -1,0 +1,37 @@
+{
+  "movie_id": 676135,
+  "title": "Powerful Life",
+  "releaseDate": "20-11-2021",
+  "entries": [
+    {
+      "date": "20-11-2021",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 89,
+      "admissions": 3506,
+      "days": 32,
+      "day": "1st Sat"
+    },
+    {
+      "date": "31-12-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.3,
+      "showings": 39,
+      "admissions": 2115,
+      "days": 73,
+      "day": "6th Fri"
+    },
+    {
+      "date": "01-01-2022",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.32,
+      "showings": 53,
+      "admissions": 2408,
+      "days": 74,
+      "day": "7th Sat"
+    }
+  ]
+}

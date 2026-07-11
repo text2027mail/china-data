@@ -1,0 +1,225 @@
+{
+  "date": "25-12-2024",
+  "data": [
+    {
+      "movie_id": 739378,
+      "title": "",
+      "gross": 1.83,
+      "cume": 23.81,
+      "showings": 65155,
+      "admissions": 305952,
+      "rank": 1,
+      "days": null,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 773679,
+      "title": "The Last Dance",
+      "gross": 1.13,
+      "cume": 22.64,
+      "showings": 46612,
+      "admissions": 201034,
+      "rank": 2,
+      "days": 12,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 750815,
+      "title": "Honey Money Phony",
+      "gross": 0.97,
+      "cume": 2.67,
+      "showings": 17916,
+      "admissions": 158896,
+      "rank": 3,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 736260,
+      "title": "Her Story",
+      "gross": 0.81,
+      "cume": 103.6,
+      "showings": 48299,
+      "admissions": 130626,
+      "rank": 4,
+      "days": 34,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 770609,
+      "title": "Mufasa: The Lion King",
+      "gross": 0.51,
+      "cume": 9.82,
+      "showings": 51635,
+      "admissions": 82403,
+      "rank": 5,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 736312,
+      "title": "I Am What I Am 2",
+      "gross": 0.17,
+      "cume": 9.07,
+      "showings": 25069,
+      "admissions": 30265,
+      "rank": 6,
+      "days": 12,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 749914,
+      "title": "Jason Zhang Brilliance Tour",
+      "gross": 0.15,
+      "cume": 6.51,
+      "showings": 19503,
+      "admissions": 23674,
+      "rank": 7,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 771234,
+      "title": "Maharaja",
+      "gross": 0.08,
+      "cume": 11.32,
+      "showings": 6542,
+      "admissions": 13199,
+      "rank": 8,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 746635,
+      "title": "The Young Couple Apartment",
+      "gross": 0.05,
+      "cume": 18.91,
+      "showings": 8434,
+      "admissions": 10938,
+      "rank": 9,
+      "days": 56,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 707139,
+      "title": "Burning Star",
+      "gross": 0.05,
+      "cume": 14.97,
+      "showings": 12132,
+      "admissions": 9282,
+      "rank": 10,
+      "days": 19,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 709306,
+      "title": "THE GREAT JOURNEY",
+      "gross": 0.04,
+      "cume": 0.51,
+      "showings": 70,
+      "admissions": 7076,
+      "rank": 11,
+      "days": 56,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 766108,
+      "title": "Moana 2",
+      "gross": 0.04,
+      "cume": 15.24,
+      "showings": 6067,
+      "admissions": 6899,
+      "rank": 12,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 708342,
+      "title": "Out of Order",
+      "gross": 0.03,
+      "cume": 0.04,
+      "showings": 30,
+      "admissions": 3600,
+      "rank": 13,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 691839,
+      "title": "Love What You Love",
+      "gross": 0.03,
+      "cume": 0.35,
+      "showings": 109,
+      "admissions": 3812,
+      "rank": 14,
+      "days": 426,
+      "day": "61st Wed"
+    },
+    {
+      "movie_id": 692114,
+      "title": "GOODLUCK",
+      "gross": 0.02,
+      "cume": 9.23,
+      "showings": 4736,
+      "admissions": 4499,
+      "rank": 15,
+      "days": 26,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 400915,
+      "title": "Wicked",
+      "gross": 0.02,
+      "cume": 2.09,
+      "showings": 811,
+      "admissions": 2940,
+      "rank": 16,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 771231,
+      "title": "Kraven the Hunter",
+      "gross": 0.02,
+      "cume": 1.91,
+      "showings": 3916,
+      "admissions": 3662,
+      "rank": 17,
+      "days": 12,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 755469,
+      "title": "CrayonShinchantheMovie:OurDinosaurDiary",
+      "gross": 0.02,
+      "cume": 18.62,
+      "showings": 3693,
+      "admissions": 4077,
+      "rank": 18,
+      "days": 33,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 709541,
+      "title": "Fortress",
+      "gross": 0.02,
+      "cume": 0.82,
+      "showings": 42,
+      "admissions": 2714,
+      "rank": 19,
+      "days": 279,
+      "day": "44th Wed"
+    },
+    {
+      "movie_id": 695535,
+      "title": "BaTie Girl",
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 48,
+      "admissions": 2139,
+      "rank": 20,
+      "days": 1141,
+      "day": "1st Wed"
+    }
+  ]
+}

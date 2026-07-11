@@ -1,0 +1,27 @@
+{
+  "movie_id": 697479,
+  "title": "The Escaping Man",
+  "releaseDate": "11-08-2025",
+  "entries": [
+    {
+      "date": "11-08-2025",
+      "rank": 15,
+      "gross": 0.05,
+      "cume": 0.07,
+      "showings": 13850,
+      "admissions": 8130,
+      "days": 1,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-08-2025",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.08,
+      "showings": 3375,
+      "admissions": 1718,
+      "days": 2,
+      "day": "1st Tue"
+    }
+  ]
+}

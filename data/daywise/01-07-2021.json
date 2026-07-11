@@ -1,0 +1,225 @@
+{
+  "date": "01-07-2021",
+  "data": [
+    {
+      "movie_id": 701782,
+      "title": "",
+      "gross": 12.05,
+      "cume": 23.11,
+      "showings": 134875,
+      "admissions": 2368783,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 704679,
+      "title": "The Pioneer",
+      "gross": 2.3,
+      "cume": 2.43,
+      "showings": 99440,
+      "admissions": 432581,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 706713,
+      "title": "Man In Love",
+      "gross": 0.81,
+      "cume": 31.07,
+      "showings": 24699,
+      "admissions": 173701,
+      "rank": 3,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 695809,
+      "title": "Peter Rabbit 2: The Runaway",
+      "gross": 0.46,
+      "cume": 23.4,
+      "showings": 15079,
+      "admissions": 97262,
+      "rank": 4,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 707737,
+      "title": "Island Keeper",
+      "gross": 0.4,
+      "cume": 10.53,
+      "showings": 16305,
+      "admissions": 70615,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 706449,
+      "title": "On Your Mark",
+      "gross": 0.32,
+      "cume": 18.79,
+      "showings": 12595,
+      "admissions": 60795,
+      "rank": 6,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 695549,
+      "title": "Hello World",
+      "gross": 0.22,
+      "cume": 16.8,
+      "showings": 8549,
+      "admissions": 49726,
+      "rank": 7,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 692580,
+      "title": "Cruella",
+      "gross": 0.18,
+      "cume": 21.44,
+      "showings": 4471,
+      "admissions": 33699,
+      "rank": 8,
+      "days": 26,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 707206,
+      "title": "Between Us",
+      "gross": 0.1,
+      "cume": 6.21,
+      "showings": 8885,
+      "admissions": 21683,
+      "rank": 9,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 706639,
+      "title": "The Father",
+      "gross": 0.05,
+      "cume": 3.14,
+      "showings": 1415,
+      "admissions": 8830,
+      "rank": 10,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 692841,
+      "title": "The perfect Victim",
+      "gross": 0.04,
+      "cume": 1.43,
+      "showings": 3240,
+      "admissions": 9617,
+      "rank": 11,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 704464,
+      "title": "Stand by Me Doraemon 2",
+      "gross": 0.04,
+      "cume": 40.06,
+      "showings": 1807,
+      "admissions": 8253,
+      "rank": 12,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 707185,
+      "title": "Sunny Sisters",
+      "gross": 0.04,
+      "cume": 13.68,
+      "showings": 2142,
+      "admissions": 7035,
+      "rank": 13,
+      "days": 21,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 695422,
+      "title": "Never Stop",
+      "gross": 0.04,
+      "cume": 20.76,
+      "showings": 2928,
+      "admissions": 7429,
+      "rank": 14,
+      "days": 20,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 695516,
+      "title": "Cliff Walkers",
+      "gross": 0.02,
+      "cume": 175.42,
+      "showings": 628,
+      "admissions": 3563,
+      "rank": 15,
+      "days": 63,
+      "day": "11th Thu"
+    },
+    {
+      "movie_id": 707277,
+      "title": "One Day When We Were Young",
+      "gross": 0.02,
+      "cume": 1.44,
+      "showings": 266,
+      "admissions": 3872,
+      "rank": 16,
+      "days": 34,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 708178,
+      "title": "THE RED BOAT",
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 55,
+      "admissions": 3235,
+      "rank": 17,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 684463,
+      "title": "Zhou En Lai In His Childhood",
+      "gross": 0.01,
+      "cume": 0.37,
+      "showings": 191,
+      "admissions": 3612,
+      "rank": 18,
+      "days": 31,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 693270,
+      "title": "Promare",
+      "gross": 0.01,
+      "cume": 2.45,
+      "showings": 440,
+      "admissions": 2338,
+      "rank": 19,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 676103,
+      "title": "Three Piglets 3",
+      "gross": 0.01,
+      "cume": 0.47,
+      "showings": 1784,
+      "admissions": 2474,
+      "rank": 20,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

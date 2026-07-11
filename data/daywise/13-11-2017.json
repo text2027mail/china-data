@@ -1,0 +1,225 @@
+{
+  "date": "13-11-2017",
+  "data": [
+    {
+      "movie_id": 644134,
+      "title": "",
+      "gross": 2.34,
+      "cume": 95.97,
+      "showings": 64813,
+      "admissions": 453200,
+      "rank": 1,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 659759,
+      "title": "Murder on the Orient Express",
+      "gross": 2.03,
+      "cume": 20.76,
+      "showings": 64016,
+      "admissions": 453819,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 641712,
+      "title": "The Brink",
+      "gross": 0.89,
+      "cume": 7.64,
+      "showings": 40317,
+      "admissions": 169728,
+      "rank": 3,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 618581,
+      "title": "Seventy-seven Days",
+      "gross": 0.58,
+      "cume": 7.6,
+      "showings": 13346,
+      "admissions": 121431,
+      "rank": 4,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 657860,
+      "title": "Geostorm",
+      "gross": 0.32,
+      "cume": 62.66,
+      "showings": 9584,
+      "admissions": 62728,
+      "rank": 5,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 640112,
+      "title": "Perfect Couple",
+      "gross": 0.3,
+      "cume": 2.5,
+      "showings": 14649,
+      "admissions": 65111,
+      "rank": 6,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 594269,
+      "title": "The Chinese Widow",
+      "gross": 0.22,
+      "cume": 2.13,
+      "showings": 15863,
+      "admissions": 41210,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 661004,
+      "title": "Never Say Die",
+      "gross": 0.18,
+      "cume": 322.96,
+      "showings": 6152,
+      "admissions": 37267,
+      "rank": 8,
+      "days": 45,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 612013,
+      "title": "Under A Confessor",
+      "gross": 0.11,
+      "cume": 2.82,
+      "showings": 177,
+      "admissions": 19344,
+      "rank": 9,
+      "days": 1894,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 642456,
+      "title": "Trouble Makers",
+      "gross": 0.1,
+      "cume": 1.47,
+      "showings": 9400,
+      "admissions": 22381,
+      "rank": 10,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 658422,
+      "title": "Pokemon the Movie: Volcanion and the Mechanical Ma",
+      "gross": 0.1,
+      "cume": 2.38,
+      "showings": 11588,
+      "admissions": 22146,
+      "rank": 11,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 644033,
+      "title": "Love Education",
+      "gross": 0.07,
+      "cume": 2.11,
+      "showings": 1782,
+      "admissions": 12938,
+      "rank": 12,
+      "days": 11,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 669515,
+      "title": "Eternal Wave",
+      "gross": 0.06,
+      "cume": 11.34,
+      "showings": 4178,
+      "admissions": 13873,
+      "rank": 13,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 643849,
+      "title": "Kingsman: The Golden Circle",
+      "gross": 0.04,
+      "cume": 69.75,
+      "showings": 1767,
+      "admissions": 7470,
+      "rank": 14,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 660009,
+      "title": "City of Rock",
+      "gross": 0.04,
+      "cume": 67.08,
+      "showings": 1491,
+      "admissions": 8506,
+      "rank": 15,
+      "days": 46,
+      "day": "11th Mon"
+    },
+    {
+      "movie_id": 669198,
+      "title": "Six Years, 6 Days",
+      "gross": 0.02,
+      "cume": 1.62,
+      "showings": 25,
+      "admissions": 2853,
+      "rank": 16,
+      "days": 28,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 668674,
+      "title": "Doctor's Mind",
+      "gross": 0.02,
+      "cume": 1.6,
+      "showings": 30,
+      "admissions": 2814,
+      "rank": 17,
+      "days": 28,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 669931,
+      "title": "The Frontier Wairriors",
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 31,
+      "admissions": 3900,
+      "rank": 18,
+      "days": 28,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 657793,
+      "title": "Blade Runner 2049/Blade Runner 2",
+      "gross": 0.02,
+      "cume": 11.24,
+      "showings": 495,
+      "admissions": 3024,
+      "rank": 19,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 662474,
+      "title": "Always Be with You",
+      "gross": 0.01,
+      "cume": 6.87,
+      "showings": 786,
+      "admissions": 2558,
+      "rank": 20,
+      "days": 18,
+      "day": "3rd Mon"
+    }
+  ]
+}

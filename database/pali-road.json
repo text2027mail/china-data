@@ -1,0 +1,57 @@
+{
+  "movie_id": 643886,
+  "title": "Pali Road",
+  "releaseDate": "25-11-2016",
+  "entries": [
+    {
+      "date": "25-11-2016",
+      "rank": 11,
+      "gross": 0.11,
+      "cume": 0.12,
+      "showings": 6422,
+      "admissions": 24394,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-11-2016",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.2,
+      "showings": 4437,
+      "admissions": 18186,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-11-2016",
+      "rank": 11,
+      "gross": 0.06,
+      "cume": 0.26,
+      "showings": 4211,
+      "admissions": 14799,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-11-2016",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 3113,
+      "admissions": 3739,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "29-11-2016",
+      "rank": 15,
+      "gross": 0.02,
+      "cume": 0.29,
+      "showings": 2805,
+      "admissions": 3641,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 633157,
+  "title": "The New Adventures of Aladdin",
+  "releaseDate": "18-11-2016",
+  "entries": [
+    {
+      "date": "18-11-2016",
+      "rank": 6,
+      "gross": 0.54,
+      "cume": 0.55,
+      "showings": 21571,
+      "admissions": 152333,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "19-11-2016",
+      "rank": 7,
+      "gross": 0.84,
+      "cume": 1.39,
+      "showings": 20708,
+      "admissions": 226206,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "20-11-2016",
+      "rank": 7,
+      "gross": 0.59,
+      "cume": 1.98,
+      "showings": 19826,
+      "admissions": 155065,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "21-11-2016",
+      "rank": 7,
+      "gross": 0.14,
+      "cume": 2.12,
+      "showings": 17483,
+      "admissions": 36518,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "22-11-2016",
+      "rank": 8,
+      "gross": 0.13,
+      "cume": 2.25,
+      "showings": 16170,
+      "admissions": 32330,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "23-11-2016",
+      "rank": 8,
+      "gross": 0.12,
+      "cume": 2.36,
+      "showings": 15185,
+      "admissions": 29698,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "24-11-2016",
+      "rank": 9,
+      "gross": 0.1,
+      "cume": 2.46,
+      "showings": 14513,
+      "admissions": 25650,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

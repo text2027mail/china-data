@@ -1,0 +1,57 @@
+{
+  "movie_id": 736042,
+  "title": "Just Remembering",
+  "releaseDate": "14-04-2023",
+  "entries": [
+    {
+      "date": "14-04-2023",
+      "rank": 14,
+      "gross": 0.1,
+      "cume": 0.11,
+      "showings": 16371,
+      "admissions": 19685,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "15-04-2023",
+      "rank": 19,
+      "gross": 0.06,
+      "cume": 0.17,
+      "showings": 7542,
+      "admissions": 11669,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-04-2023",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.23,
+      "showings": 3961,
+      "admissions": 3258,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-04-2023",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 3661,
+      "admissions": 2642,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-04-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 3470,
+      "admissions": 2665,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 680616,
+  "title": "BIG DEAL",
+  "releaseDate": "17-11-2025",
+  "entries": [
+    {
+      "date": "17-11-2025",
+      "rank": 11,
+      "gross": 0.02,
+      "cume": 0.12,
+      "showings": 44,
+      "admissions": 2728,
+      "days": 64,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-11-2025",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 50,
+      "admissions": 2695,
+      "days": 65,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-11-2025",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.16,
+      "showings": 47,
+      "admissions": 2697,
+      "days": 66,
+      "day": "1st Wed"
+    },
+    {
+      "date": "20-11-2025",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.18,
+      "showings": 56,
+      "admissions": 3035,
+      "days": 67,
+      "day": "1st Thu"
+    },
+    {
+      "date": "24-11-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.23,
+      "showings": 37,
+      "admissions": 1462,
+      "days": 71,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "27-11-2025",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.26,
+      "showings": 31,
+      "admissions": 1264,
+      "days": 74,
+      "day": "2nd Thu"
+    }
+  ]
+}

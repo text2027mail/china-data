@@ -1,0 +1,77 @@
+{
+  "movie_id": 666360,
+  "title": "Confession of Murder",
+  "releaseDate": "11-01-2019",
+  "entries": [
+    {
+      "date": "11-01-2019",
+      "rank": 10,
+      "gross": 0.18,
+      "cume": 0.18,
+      "showings": 12012,
+      "admissions": 39607,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-01-2019",
+      "rank": 11,
+      "gross": 0.17,
+      "cume": 0.35,
+      "showings": 5906,
+      "admissions": 36168,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-01-2019",
+      "rank": 11,
+      "gross": 0.14,
+      "cume": 0.49,
+      "showings": 5311,
+      "admissions": 29246,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-01-2019",
+      "rank": 11,
+      "gross": 0.07,
+      "cume": 0.56,
+      "showings": 5093,
+      "admissions": 14200,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-01-2019",
+      "rank": 12,
+      "gross": 0.06,
+      "cume": 0.62,
+      "showings": 4800,
+      "admissions": 12274,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-01-2019",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 0.67,
+      "showings": 4534,
+      "admissions": 10953,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-01-2019",
+      "rank": 13,
+      "gross": 0.04,
+      "cume": 0.71,
+      "showings": 4264,
+      "admissions": 9230,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

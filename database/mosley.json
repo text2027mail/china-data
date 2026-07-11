@@ -1,0 +1,37 @@
+{
+  "movie_id": 695811,
+  "title": "Mosley",
+  "releaseDate": "30-07-2021",
+  "entries": [
+    {
+      "date": "30-07-2021",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 3614,
+      "admissions": 3997,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "31-07-2021",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 2470,
+      "admissions": 4525,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-08-2021",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.06,
+      "showings": 2079,
+      "admissions": 4028,
+      "days": 3,
+      "day": "1st Sun"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "movie_id": 692138,
+  "title": "The Bamboo Hat",
+  "releaseDate": "14-10-2021",
+  "entries": [
+    {
+      "date": "14-10-2021",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 280,
+      "admissions": 1742,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "10-03-2022",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 22,
+      "admissions": 1292,
+      "days": 148,
+      "day": "22nd Thu"
+    },
+    {
+      "date": "13-07-2022",
+      "rank": 10,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 21,
+      "admissions": 3090,
+      "days": 273,
+      "day": "39th Wed"
+    },
+    {
+      "date": "14-07-2022",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 28,
+      "admissions": 3751,
+      "days": 274,
+      "day": "40th Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "04-10-2021",
+  "data": [
+    {
+      "movie_id": 703496,
+      "title": "",
+      "gross": 71.48,
+      "cume": 297.02,
+      "showings": 167588,
+      "admissions": 9948089,
+      "rank": 1,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 706356,
+      "title": "My country,My parents",
+      "gross": 20.17,
+      "cume": 107.02,
+      "showings": 100166,
+      "admissions": 3096084,
+      "rank": 2,
+      "days": 5,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 695333,
+      "title": "Little Canned Man",
+      "gross": 0.84,
+      "cume": 4.17,
+      "showings": 10760,
+      "admissions": 146957,
+      "rank": 3,
+      "days": 5,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 691302,
+      "title": "Dear Tutu: Operation T-Rex",
+      "gross": 0.81,
+      "cume": 4.14,
+      "showings": 13930,
+      "admissions": 162959,
+      "rank": 4,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 703028,
+      "title": "Water Boys",
+      "gross": 0.8,
+      "cume": 3.28,
+      "showings": 13574,
+      "admissions": 147093,
+      "rank": 5,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 707736,
+      "title": "Extinct",
+      "gross": 0.71,
+      "cume": 1.95,
+      "showings": 10443,
+      "admissions": 125721,
+      "rank": 6,
+      "days": 2,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 684843,
+      "title": "Goldbeak",
+      "gross": 0.42,
+      "cume": 3.02,
+      "showings": 9711,
+      "admissions": 84629,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 699450,
+      "title": "Cloudy Mountain",
+      "gross": 0.35,
+      "cume": 62.6,
+      "showings": 7451,
+      "admissions": 59660,
+      "rank": 8,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 701532,
+      "title": "All About My Mother",
+      "gross": 0.26,
+      "cume": 21.1,
+      "showings": 5286,
+      "admissions": 54125,
+      "rank": 9,
+      "days": 16,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 704739,
+      "title": "Pokémon the Movie: Secrets of the Jungle",
+      "gross": 0.14,
+      "cume": 7.05,
+      "showings": 1421,
+      "admissions": 25677,
+      "rank": 10,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 700875,
+      "title": "TAN TAN MEOW:THE MERMAID PRINCESS",
+      "gross": 0.09,
+      "cume": 0.6,
+      "showings": 2880,
+      "admissions": 18130,
+      "rank": 11,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 691465,
+      "title": "Raging Fire",
+      "gross": 0.05,
+      "cume": 195.85,
+      "showings": 862,
+      "admissions": 8590,
+      "rank": 12,
+      "days": 67,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 628302,
+      "title": "To Be With You",
+      "gross": 0.02,
+      "cume": 9.1,
+      "showings": 663,
+      "admissions": 3470,
+      "rank": 13,
+      "days": 16,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 678586,
+      "title": "Crazy Gamer",
+      "gross": 0.02,
+      "cume": 0.09,
+      "showings": 89,
+      "admissions": 2460,
+      "rank": 14,
+      "days": 11,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 693230,
+      "title": "Swimming Out Till The Sea Turns Blue",
+      "gross": 0.01,
+      "cume": 0.93,
+      "showings": 216,
+      "admissions": 2242,
+      "rank": 15,
+      "days": 16,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 709324,
+      "title": "The Guardian of Youth",
+      "gross": 0.01,
+      "cume": 0.85,
+      "showings": 125,
+      "admissions": 2809,
+      "rank": 16,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 642229,
+      "title": "The Room",
+      "gross": 0.01,
+      "cume": 2.05,
+      "showings": 378,
+      "admissions": 2706,
+      "rank": 17,
+      "days": 39,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 695459,
+      "title": "League OF Saving Love",
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 66,
+      "admissions": 1747,
+      "rank": 18,
+      "days": 43,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 703697,
+      "title": "Remembering 1950",
+      "gross": 0.01,
+      "cume": 1.49,
+      "showings": 169,
+      "admissions": 1798,
+      "rank": 19,
+      "days": 32,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 684410,
+      "title": "Fan Ji Zhe",
+      "gross": 0.01,
+      "cume": 0.57,
+      "showings": 67,
+      "admissions": 1186,
+      "rank": 20,
+      "days": 126,
+      "day": "10th Mon"
+    }
+  ]
+}

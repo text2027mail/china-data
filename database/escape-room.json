@@ -1,0 +1,347 @@
+{
+  "movie_id": 685233,
+  "title": "Escape Room",
+  "releaseDate": "12-01-2019",
+  "entries": [
+    {
+      "date": "12-01-2019",
+      "rank": 18,
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 210,
+      "admissions": 9253,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-01-2019",
+      "rank": 17,
+      "gross": 0.06,
+      "cume": 0.11,
+      "showings": 226,
+      "admissions": 11133,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-01-2019",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.15,
+      "showings": 167,
+      "admissions": 6970,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-01-2019",
+      "rank": 4,
+      "gross": 1.89,
+      "cume": 2.05,
+      "showings": 30843,
+      "admissions": 400105,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "19-01-2019",
+      "rank": 4,
+      "gross": 3.18,
+      "cume": 5.23,
+      "showings": 34740,
+      "admissions": 657653,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "20-01-2019",
+      "rank": 3,
+      "gross": 3.35,
+      "cume": 8.58,
+      "showings": 39832,
+      "admissions": 694187,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "21-01-2019",
+      "rank": 3,
+      "gross": 1.9,
+      "cume": 10.48,
+      "showings": 43905,
+      "admissions": 410273,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "22-01-2019",
+      "rank": 3,
+      "gross": 1.93,
+      "cume": 12.41,
+      "showings": 47243,
+      "admissions": 416352,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "23-01-2019",
+      "rank": 3,
+      "gross": 1.94,
+      "cume": 14.35,
+      "showings": 49684,
+      "admissions": 419488,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "24-01-2019",
+      "rank": 3,
+      "gross": 1.88,
+      "cume": 16.23,
+      "showings": 51799,
+      "admissions": 405653,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "25-01-2019",
+      "rank": 4,
+      "gross": 1.41,
+      "cume": 17.64,
+      "showings": 26821,
+      "admissions": 292883,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "26-01-2019",
+      "rank": 4,
+      "gross": 2.38,
+      "cume": 20.02,
+      "showings": 31495,
+      "admissions": 480990,
+      "days": 9,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "27-01-2019",
+      "rank": 4,
+      "gross": 2.35,
+      "cume": 22.37,
+      "showings": 34058,
+      "admissions": 478029,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "28-01-2019",
+      "rank": 4,
+      "gross": 1.41,
+      "cume": 23.78,
+      "showings": 38512,
+      "admissions": 302855,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "29-01-2019",
+      "rank": 4,
+      "gross": 1.49,
+      "cume": 25.27,
+      "showings": 40221,
+      "admissions": 320558,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "30-01-2019",
+      "rank": 4,
+      "gross": 1.53,
+      "cume": 26.81,
+      "showings": 41544,
+      "admissions": 328096,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "31-01-2019",
+      "rank": 4,
+      "gross": 1.63,
+      "cume": 28.43,
+      "showings": 42451,
+      "admissions": 346977,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "01-02-2019",
+      "rank": 4,
+      "gross": 1.77,
+      "cume": 30.2,
+      "showings": 43909,
+      "admissions": 359443,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "02-02-2019",
+      "rank": 4,
+      "gross": 1.73,
+      "cume": 31.93,
+      "showings": 45141,
+      "admissions": 358105,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "date": "03-02-2019",
+      "rank": 4,
+      "gross": 1.65,
+      "cume": 33.58,
+      "showings": 45048,
+      "admissions": 341806,
+      "days": 17,
+      "day": "4th Sun"
+    },
+    {
+      "date": "04-02-2019",
+      "rank": 5,
+      "gross": 0.63,
+      "cume": 34.21,
+      "showings": 20794,
+      "admissions": 131349,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "date": "05-02-2019",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 34.22,
+      "showings": 19,
+      "admissions": 562,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "date": "06-02-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 34.22,
+      "showings": 61,
+      "admissions": 1359,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "date": "07-02-2019",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 34.23,
+      "showings": 116,
+      "admissions": 1713,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "date": "08-02-2019",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 34.25,
+      "showings": 182,
+      "admissions": 2404,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "date": "09-02-2019",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 34.27,
+      "showings": 200,
+      "admissions": 2605,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "date": "10-02-2019",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 34.28,
+      "showings": 196,
+      "admissions": 2367,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "date": "11-02-2019",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 34.29,
+      "showings": 214,
+      "admissions": 1832,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "date": "12-02-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 34.3,
+      "showings": 229,
+      "admissions": 1550,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "date": "13-02-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 34.31,
+      "showings": 240,
+      "admissions": 1550,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "date": "14-02-2019",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 34.31,
+      "showings": 113,
+      "admissions": 1412,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "date": "15-02-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 34.32,
+      "showings": 182,
+      "admissions": 2215,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "date": "16-02-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 34.34,
+      "showings": 206,
+      "admissions": 2188,
+      "days": 30,
+      "day": "6th Sat"
+    },
+    {
+      "date": "17-02-2019",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 34.35,
+      "showings": 209,
+      "admissions": 2204,
+      "days": 31,
+      "day": "6th Sun"
+    }
+  ]
+}

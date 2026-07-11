@@ -1,0 +1,225 @@
+{
+  "date": "31-05-2018",
+  "data": [
+    {
+      "movie_id": 676391,
+      "title": "",
+      "gross": 2.95,
+      "cume": 89.87,
+      "showings": 90203,
+      "admissions": 607459,
+      "rank": 1,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 675789,
+      "title": "Avengers: Infinity War",
+      "gross": 1.78,
+      "cume": 322.12,
+      "showings": 65655,
+      "admissions": 340163,
+      "rank": 2,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 662210,
+      "title": "Solo: A Star Wars Story",
+      "gross": 0.64,
+      "cume": 12.08,
+      "showings": 40766,
+      "admissions": 125208,
+      "rank": 3,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 676673,
+      "title": "A Quiet Place",
+      "gross": 0.44,
+      "cume": 28.37,
+      "showings": 25139,
+      "admissions": 96194,
+      "rank": 4,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 657126,
+      "title": "Perfetti sconosciuti",
+      "gross": 0.39,
+      "cume": 4.29,
+      "showings": 17519,
+      "admissions": 85625,
+      "rank": 5,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 677808,
+      "title": "My Pet Dinosaur",
+      "gross": 0.26,
+      "cume": 0.26,
+      "showings": 16118,
+      "admissions": 61600,
+      "rank": 6,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 676242,
+      "title": "Rampage",
+      "gross": 0.09,
+      "cume": 146.34,
+      "showings": 3316,
+      "admissions": 19762,
+      "rank": 7,
+      "days": 49,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 668711,
+      "title": "To my 19-year-old",
+      "gross": 0.08,
+      "cume": 0.46,
+      "showings": 8405,
+      "admissions": 17968,
+      "rank": 8,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 677257,
+      "title": "The Young Karl Marx",
+      "gross": 0.07,
+      "cume": 2.46,
+      "showings": 375,
+      "admissions": 15110,
+      "rank": 9,
+      "days": 27,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 663327,
+      "title": "Us And Them",
+      "gross": 0.05,
+      "cume": 200.4,
+      "showings": 3831,
+      "admissions": 10437,
+      "rank": 10,
+      "days": 34,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 666358,
+      "title": "Hirugao",
+      "gross": 0.03,
+      "cume": 1.96,
+      "showings": 1663,
+      "admissions": 5395,
+      "rank": 11,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 673059,
+      "title": "Beyond the mountains",
+      "gross": 0.02,
+      "cume": 0.64,
+      "showings": 52,
+      "admissions": 4434,
+      "rank": 12,
+      "days": 70,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 653330,
+      "title": "Baahubali 2: The Conclusion",
+      "gross": 0.02,
+      "cume": 11.28,
+      "showings": 1192,
+      "admissions": 4182,
+      "rank": 13,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 669930,
+      "title": "End of Summer",
+      "gross": 0.02,
+      "cume": 0.2,
+      "showings": 769,
+      "admissions": 4434,
+      "rank": 14,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 675739,
+      "title": "Princess and the Kingdom",
+      "gross": 0.02,
+      "cume": 0.96,
+      "showings": 653,
+      "admissions": 5308,
+      "rank": 15,
+      "days": 33,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 675239,
+      "title": "Amazing China",
+      "gross": 0.01,
+      "cume": 70.82,
+      "showings": 85,
+      "admissions": 3328,
+      "rank": 16,
+      "days": 91,
+      "day": "13th Thu"
+    },
+    {
+      "movie_id": 675758,
+      "title": "Doraemon the Movie 2018 Nobita's Treasure Island",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 165,
+      "admissions": 3240,
+      "rank": 17,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 641885,
+      "title": "Zou Bi Hua",
+      "gross": 0.01,
+      "cume": 1.91,
+      "showings": 51,
+      "admissions": 2249,
+      "rank": 18,
+      "days": 240,
+      "day": "25th Thu"
+    },
+    {
+      "movie_id": 677374,
+      "title": "Our Youth",
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 39,
+      "admissions": 2640,
+      "rank": 19,
+      "days": null,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 671362,
+      "title": "I Am Your Mom",
+      "gross": 0.01,
+      "cume": 5.38,
+      "showings": 711,
+      "admissions": 3030,
+      "rank": 20,
+      "days": 21,
+      "day": "5th Thu"
+    }
+  ]
+}

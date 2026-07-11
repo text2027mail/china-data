@@ -1,0 +1,27 @@
+{
+  "movie_id": 751727,
+  "title": "IF",
+  "releaseDate": "15-06-2024",
+  "entries": [
+    {
+      "date": "15-06-2024",
+      "rank": 14,
+      "gross": 0.17,
+      "cume": 0.17,
+      "showings": 31278,
+      "admissions": 28421,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-06-2024",
+      "rank": 16,
+      "gross": 0.08,
+      "cume": 0.25,
+      "showings": 10565,
+      "admissions": 13432,
+      "days": 2,
+      "day": "1st Sun"
+    }
+  ]
+}

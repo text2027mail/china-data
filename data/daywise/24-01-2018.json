@@ -1,0 +1,225 @@
+{
+  "date": "24-01-2018",
+  "data": [
+    {
+      "movie_id": 670328,
+      "title": "",
+      "gross": 4.38,
+      "cume": 39.68,
+      "showings": 65625,
+      "admissions": 1000251,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 589946,
+      "title": "Forever Young",
+      "gross": 3.28,
+      "cume": 75.5,
+      "showings": 55215,
+      "admissions": 711751,
+      "rank": 2,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 671223,
+      "title": "Wonder",
+      "gross": 1.22,
+      "cume": 11.61,
+      "showings": 27491,
+      "admissions": 279790,
+      "rank": 3,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 671456,
+      "title": "Jumanji: Welcome to the Jungle",
+      "gross": 1.09,
+      "cume": 66.16,
+      "showings": 20904,
+      "admissions": 213503,
+      "rank": 4,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 671441,
+      "title": "Ferdinand",
+      "gross": 0.93,
+      "cume": 11.63,
+      "showings": 23519,
+      "admissions": 198770,
+      "rank": 5,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 663359,
+      "title": "The Ex-File: The Return of the Exes",
+      "gross": 0.86,
+      "cume": 279.92,
+      "showings": 19837,
+      "admissions": 165866,
+      "rank": 6,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 663226,
+      "title": "A Better Tomorrow 2018",
+      "gross": 0.33,
+      "cume": 8.71,
+      "showings": 16613,
+      "admissions": 67006,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 661934,
+      "title": "Guardians of the Tomb",
+      "gross": 0.28,
+      "cume": 6.85,
+      "showings": 18082,
+      "admissions": 58531,
+      "rank": 8,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 628276,
+      "title": "The Youth",
+      "gross": 0.11,
+      "cume": 0.79,
+      "showings": 143,
+      "admissions": 18189,
+      "rank": 9,
+      "days": 1199,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 659753,
+      "title": "Star Wars: The last Jedi",
+      "gross": 0.09,
+      "cume": 39.25,
+      "showings": 1741,
+      "admissions": 12971,
+      "rank": 10,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 659453,
+      "title": "Youth",
+      "gross": 0.07,
+      "cume": 209.09,
+      "showings": 2272,
+      "admissions": 13473,
+      "rank": 11,
+      "days": 41,
+      "day": "18th Wed"
+    },
+    {
+      "movie_id": 643594,
+      "title": "Alibaba Solomons Seal",
+      "gross": 0.07,
+      "cume": 0.99,
+      "showings": 116,
+      "admissions": 12023,
+      "rank": 12,
+      "days": 635,
+      "day": "91st Wed"
+    },
+    {
+      "movie_id": 612268,
+      "title": "Pao Cai",
+      "gross": 0.07,
+      "cume": 1.18,
+      "showings": 103,
+      "admissions": 10943,
+      "rank": 13,
+      "days": 1249,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 641885,
+      "title": "Zou Bi Hua",
+      "gross": 0.04,
+      "cume": 1.31,
+      "showings": 65,
+      "admissions": 4738,
+      "rank": 14,
+      "days": 113,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 657846,
+      "title": "Maze Runner: The Death Cure",
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 12,
+      "admissions": 1541,
+      "rank": 15,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 658623,
+      "title": "Jackie",
+      "gross": 0.02,
+      "cume": 0.24,
+      "showings": 1265,
+      "admissions": 2952,
+      "rank": 16,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 653548,
+      "title": "Hanson and the Beast",
+      "gross": 0.01,
+      "cume": 43.08,
+      "showings": 390,
+      "admissions": 1719,
+      "rank": 17,
+      "days": 27,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 589422,
+      "title": "A Class of One",
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 95,
+      "admissions": 2147,
+      "rank": 18,
+      "days": 9,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 668229,
+      "title": "Wait Here",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 542,
+      "admissions": 1572,
+      "rank": 19,
+      "days": null,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 670533,
+      "title": "Salyut 7",
+      "gross": 0.01,
+      "cume": 2.44,
+      "showings": 311,
+      "admissions": 1081,
+      "rank": 20,
+      "days": 13,
+      "day": "2nd Wed"
+    }
+  ]
+}

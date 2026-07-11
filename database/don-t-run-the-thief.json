@@ -1,0 +1,77 @@
+{
+  "movie_id": 642987,
+  "title": "Don't Run The Thief",
+  "releaseDate": "12-12-2016",
+  "entries": [
+    {
+      "date": "12-12-2016",
+      "rank": 6,
+      "gross": 0.52,
+      "cume": 0.55,
+      "showings": 808,
+      "admissions": 117756,
+      "days": 277,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-12-2016",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.59,
+      "showings": 199,
+      "admissions": 9052,
+      "days": 278,
+      "day": "1st Tue"
+    },
+    {
+      "date": "12-09-2017",
+      "rank": 5,
+      "gross": 0.31,
+      "cume": 0.9,
+      "showings": 574,
+      "admissions": 53618,
+      "days": 551,
+      "day": "40th Tue"
+    },
+    {
+      "date": "13-09-2017",
+      "rank": 4,
+      "gross": 0.43,
+      "cume": 1.33,
+      "showings": 584,
+      "admissions": 72902,
+      "days": 552,
+      "day": "40th Wed"
+    },
+    {
+      "date": "14-09-2017",
+      "rank": 5,
+      "gross": 0.44,
+      "cume": 1.77,
+      "showings": 578,
+      "admissions": 74204,
+      "days": 553,
+      "day": "40th Thu"
+    },
+    {
+      "date": "15-09-2017",
+      "rank": 6,
+      "gross": 0.4,
+      "cume": 2.16,
+      "showings": 531,
+      "admissions": 67595,
+      "days": 554,
+      "day": "40th Fri"
+    },
+    {
+      "date": "16-09-2017",
+      "rank": 7,
+      "gross": 0.31,
+      "cume": 2.48,
+      "showings": 416,
+      "admissions": 53260,
+      "days": 555,
+      "day": "40th Sat"
+    }
+  ]
+}

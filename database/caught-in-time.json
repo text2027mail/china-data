@@ -1,0 +1,377 @@
+{
+  "movie_id": 683688,
+  "title": "Caught In Time",
+  "releaseDate": "14-11-2020",
+  "entries": [
+    {
+      "date": "14-11-2020",
+      "rank": 10,
+      "gross": 0.29,
+      "cume": 0.29,
+      "showings": 1887,
+      "admissions": 54967,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-11-2020",
+      "rank": 10,
+      "gross": 0.25,
+      "cume": 0.53,
+      "showings": 1863,
+      "admissions": 47301,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-11-2020",
+      "rank": 1,
+      "gross": 7.57,
+      "cume": 8.11,
+      "showings": 73330,
+      "admissions": 1397664,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-11-2020",
+      "rank": 1,
+      "gross": 11.73,
+      "cume": 19.84,
+      "showings": 141705,
+      "admissions": 2132971,
+      "days": 2,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "22-11-2020",
+      "rank": 1,
+      "gross": 9.83,
+      "cume": 29.68,
+      "showings": 142527,
+      "admissions": 1781474,
+      "days": 3,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "23-11-2020",
+      "rank": 1,
+      "gross": 4.48,
+      "cume": 34.16,
+      "showings": 126399,
+      "admissions": 822933,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "24-11-2020",
+      "rank": 1,
+      "gross": 3.83,
+      "cume": 37.99,
+      "showings": 127107,
+      "admissions": 703930,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "25-11-2020",
+      "rank": 1,
+      "gross": 3.39,
+      "cume": 41.37,
+      "showings": 127167,
+      "admissions": 623004,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "26-11-2020",
+      "rank": 1,
+      "gross": 3.22,
+      "cume": 44.59,
+      "showings": 123516,
+      "admissions": 593046,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "27-11-2020",
+      "rank": 1,
+      "gross": 3.3,
+      "cume": 47.89,
+      "showings": 74332,
+      "admissions": 608549,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "28-11-2020",
+      "rank": 2,
+      "gross": 5.63,
+      "cume": 53.52,
+      "showings": 85667,
+      "admissions": 1025725,
+      "days": 9,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "29-11-2020",
+      "rank": 2,
+      "gross": 4.58,
+      "cume": 58.1,
+      "showings": 89230,
+      "admissions": 833300,
+      "days": 10,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "30-11-2020",
+      "rank": 1,
+      "gross": 2.06,
+      "cume": 60.16,
+      "showings": 84545,
+      "admissions": 380860,
+      "days": 11,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "01-12-2020",
+      "rank": 1,
+      "gross": 1.93,
+      "cume": 62.09,
+      "showings": 87024,
+      "admissions": 354721,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "02-12-2020",
+      "rank": 1,
+      "gross": 1.69,
+      "cume": 63.79,
+      "showings": 86041,
+      "admissions": 310490,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "03-12-2020",
+      "rank": 1,
+      "gross": 1.55,
+      "cume": 65.34,
+      "showings": 89588,
+      "admissions": 294728,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "04-12-2020",
+      "rank": 5,
+      "gross": 0.79,
+      "cume": 66.13,
+      "showings": 15360,
+      "admissions": 140748,
+      "days": 15,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "05-12-2020",
+      "rank": 4,
+      "gross": 2.94,
+      "cume": 69.07,
+      "showings": 41202,
+      "admissions": 529187,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "date": "06-12-2020",
+      "rank": 4,
+      "gross": 2.46,
+      "cume": 71.53,
+      "showings": 42291,
+      "admissions": 441521,
+      "days": 17,
+      "day": "4th Sun"
+    },
+    {
+      "date": "07-12-2020",
+      "rank": 3,
+      "gross": 1.11,
+      "cume": 72.64,
+      "showings": 40956,
+      "admissions": 203514,
+      "days": 18,
+      "day": "4th Mon"
+    },
+    {
+      "date": "08-12-2020",
+      "rank": 3,
+      "gross": 1.07,
+      "cume": 73.71,
+      "showings": 42725,
+      "admissions": 194662,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "date": "09-12-2020",
+      "rank": 3,
+      "gross": 1.01,
+      "cume": 74.72,
+      "showings": 43952,
+      "admissions": 183690,
+      "days": 20,
+      "day": "4th Wed"
+    },
+    {
+      "date": "10-12-2020",
+      "rank": 2,
+      "gross": 0.95,
+      "cume": 75.67,
+      "showings": 44882,
+      "admissions": 174306,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "date": "11-12-2020",
+      "rank": 5,
+      "gross": 0.47,
+      "cume": 76.14,
+      "showings": 13098,
+      "admissions": 83253,
+      "days": 22,
+      "day": "4th Fri"
+    },
+    {
+      "date": "12-12-2020",
+      "rank": 5,
+      "gross": 0.99,
+      "cume": 77.13,
+      "showings": 19776,
+      "admissions": 175150,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "date": "13-12-2020",
+      "rank": 5,
+      "gross": 0.75,
+      "cume": 77.88,
+      "showings": 20262,
+      "admissions": 132230,
+      "days": 24,
+      "day": "5th Sun"
+    },
+    {
+      "date": "14-12-2020",
+      "rank": 3,
+      "gross": 0.35,
+      "cume": 78.23,
+      "showings": 21846,
+      "admissions": 63697,
+      "days": 25,
+      "day": "5th Mon"
+    },
+    {
+      "date": "15-12-2020",
+      "rank": 3,
+      "gross": 0.34,
+      "cume": 78.57,
+      "showings": 22893,
+      "admissions": 61005,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "date": "16-12-2020",
+      "rank": 3,
+      "gross": 0.33,
+      "cume": 78.9,
+      "showings": 23451,
+      "admissions": 60232,
+      "days": 27,
+      "day": "5th Wed"
+    },
+    {
+      "date": "17-12-2020",
+      "rank": 5,
+      "gross": 0.21,
+      "cume": 79.11,
+      "showings": 19019,
+      "admissions": 37945,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "date": "18-12-2020",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 79.14,
+      "showings": 2150,
+      "admissions": 5928,
+      "days": 29,
+      "day": "5th Fri"
+    },
+    {
+      "date": "19-12-2020",
+      "rank": 13,
+      "gross": 0.05,
+      "cume": 79.2,
+      "showings": 2125,
+      "admissions": 9352,
+      "days": 30,
+      "day": "6th Sat"
+    },
+    {
+      "date": "20-12-2020",
+      "rank": 15,
+      "gross": 0.04,
+      "cume": 79.24,
+      "showings": 2131,
+      "admissions": 7594,
+      "days": 31,
+      "day": "6th Sun"
+    },
+    {
+      "date": "21-12-2020",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 79.26,
+      "showings": 2208,
+      "admissions": 4037,
+      "days": 32,
+      "day": "6th Mon"
+    },
+    {
+      "date": "22-12-2020",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 79.28,
+      "showings": 2588,
+      "admissions": 4463,
+      "days": 33,
+      "day": "6th Tue"
+    },
+    {
+      "date": "23-12-2020",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 79.31,
+      "showings": 2784,
+      "admissions": 4665,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "date": "06-01-2021",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 79.34,
+      "showings": 210,
+      "admissions": 3007,
+      "days": 48,
+      "day": "8th Wed"
+    }
+  ]
+}

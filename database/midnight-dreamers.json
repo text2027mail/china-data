@@ -1,0 +1,47 @@
+{
+  "movie_id": 668716,
+  "title": "Midnight Dreamers",
+  "releaseDate": "26-10-2018",
+  "entries": [
+    {
+      "date": "26-10-2018",
+      "rank": 9,
+      "gross": 0.13,
+      "cume": 0.13,
+      "showings": 12641,
+      "admissions": 27101,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-10-2018",
+      "rank": 13,
+      "gross": 0.09,
+      "cume": 0.22,
+      "showings": 8412,
+      "admissions": 19237,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-10-2018",
+      "rank": 19,
+      "gross": 0.04,
+      "cume": 0.26,
+      "showings": 6733,
+      "admissions": 8495,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-10-2018",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.27,
+      "showings": 5584,
+      "admissions": 3058,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

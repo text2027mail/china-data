@@ -1,0 +1,67 @@
+{
+  "movie_id": 708568,
+  "title": "Italian film masters Exhibition",
+  "releaseDate": "23-10-2021",
+  "entries": [
+    {
+      "date": "23-10-2021",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 3,
+      "admissions": 1821,
+      "days": 89,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-10-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 2,
+      "admissions": 919,
+      "days": 90,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-10-2021",
+      "rank": 18,
+      "gross": 0.03,
+      "cume": 0.06,
+      "showings": 3,
+      "admissions": 2825,
+      "days": 96,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "31-10-2021",
+      "rank": 18,
+      "gross": 0.03,
+      "cume": 0.09,
+      "showings": 3,
+      "admissions": 2562,
+      "days": 97,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "06-11-2021",
+      "rank": 18,
+      "gross": 0.03,
+      "cume": 0.12,
+      "showings": 3,
+      "admissions": 3002,
+      "days": 103,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "07-11-2021",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 1,
+      "admissions": 1016,
+      "days": 104,
+      "day": "3rd Sun"
+    }
+  ]
+}

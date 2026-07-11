@@ -1,0 +1,225 @@
+{
+  "date": "27-12-2022",
+  "data": [
+    {
+      "movie_id": 612244,
+      "title": "",
+      "gross": 3.83,
+      "cume": 111.9,
+      "showings": 92095,
+      "admissions": 526122,
+      "rank": 1,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 710675,
+      "title": "Someday Or One Day",
+      "gross": 1.56,
+      "cume": 15.46,
+      "showings": 77110,
+      "admissions": 257816,
+      "rank": 2,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 716214,
+      "title": "One Piece Film Red",
+      "gross": 0.15,
+      "cume": 23.13,
+      "showings": 17215,
+      "admissions": 32017,
+      "rank": 3,
+      "days": 27,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 714092,
+      "title": "Detective Conan: The Bride of Halloween",
+      "gross": 0.06,
+      "cume": 25.34,
+      "showings": 6060,
+      "admissions": 13260,
+      "rank": 4,
+      "days": 40,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 691977,
+      "title": "Puss in Boots: The Last Wish",
+      "gross": 0.05,
+      "cume": 0.46,
+      "showings": 8605,
+      "admissions": 9593,
+      "rank": 5,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 734572,
+      "title": "The Man from Toronto",
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 3457,
+      "admissions": 4973,
+      "rank": 6,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 733192,
+      "title": "The Tipping Point",
+      "gross": 0.02,
+      "cume": 25.65,
+      "showings": 3020,
+      "admissions": 3258,
+      "rank": 7,
+      "days": 47,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 714823,
+      "title": "Better Man",
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 12,
+      "admissions": 1372,
+      "rank": 8,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 702020,
+      "title": "Home Coming",
+      "gross": 0.01,
+      "cume": 235.02,
+      "showings": 1247,
+      "admissions": 1751,
+      "rank": 9,
+      "days": 89,
+      "day": "14th Tue"
+    },
+    {
+      "movie_id": 426671,
+      "title": "Les choristes",
+      "gross": 0.0,
+      "cume": 1.04,
+      "showings": 541,
+      "admissions": 665,
+      "rank": 10,
+      "days": 6522,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.0,
+      "cume": 89.76,
+      "showings": 1761,
+      "admissions": 719,
+      "rank": 11,
+      "days": 330,
+      "day": "48th Tue"
+    },
+    {
+      "movie_id": 715731,
+      "title": "Welcome the screening of excellent films of the 20th CPC National Congress",
+      "gross": 0.0,
+      "cume": 0.23,
+      "showings": 10,
+      "admissions": 515,
+      "rank": 12,
+      "days": 166,
+      "day": "11th Tue"
+    },
+    {
+      "movie_id": 699944,
+      "title": "Love Makes Me Strong",
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 74,
+      "admissions": 484,
+      "rank": 13,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 700699,
+      "title": "Frog Prince Adventures 2",
+      "gross": 0.0,
+      "cume": 0.5,
+      "showings": 293,
+      "admissions": 539,
+      "rank": 14,
+      "days": 46,
+      "day": "9th Tue"
+    },
+    {
+      "movie_id": 711464,
+      "title": "Clean River",
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 10,
+      "admissions": 363,
+      "rank": 15,
+      "days": 349,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 715147,
+      "title": "The Light Of Belief",
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 90,
+      "admissions": 281,
+      "rank": 16,
+      "days": 176,
+      "day": "16th Tue"
+    },
+    {
+      "movie_id": 716209,
+      "title": "Fall",
+      "gross": 0.0,
+      "cume": 3.86,
+      "showings": 382,
+      "admissions": 321,
+      "rank": 17,
+      "days": 40,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 733973,
+      "title": "Dream Never Die",
+      "gross": 0.0,
+      "cume": 0.16,
+      "showings": 9,
+      "admissions": 275,
+      "rank": 18,
+      "days": 33,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 709349,
+      "title": "Ryoma! The Prince of Tennis",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 1447,
+      "admissions": 232,
+      "rank": 19,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 703781,
+      "title": "Ready to go",
+      "gross": 0.0,
+      "cume": 0.16,
+      "showings": 23,
+      "admissions": 260,
+      "rank": 20,
+      "days": 152,
+      "day": "13th Tue"
+    }
+  ]
+}

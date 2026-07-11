@@ -1,0 +1,225 @@
+{
+  "date": "27-10-2016",
+  "data": [
+    {
+      "movie_id": 655521,
+      "title": "",
+      "gross": 2.27,
+      "cume": 35.42,
+      "showings": 65463,
+      "admissions": 480639,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 639445,
+      "title": "Operation Mekong",
+      "gross": 1.07,
+      "cume": 163.96,
+      "showings": 33055,
+      "admissions": 240397,
+      "rank": 2,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 644689,
+      "title": "Heartfall Arises",
+      "gross": 0.79,
+      "cume": 15.54,
+      "showings": 38568,
+      "admissions": 164798,
+      "rank": 3,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 656220,
+      "title": "Jack Reacher: Never Go Back",
+      "gross": 0.59,
+      "cume": 8.16,
+      "showings": 28527,
+      "admissions": 131540,
+      "rank": 4,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 626806,
+      "title": "I Belonged To You",
+      "gross": 0.32,
+      "cume": 119.03,
+      "showings": 11522,
+      "admissions": 67790,
+      "rank": 5,
+      "days": 29,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 644930,
+      "title": "The BFG",
+      "gross": 0.13,
+      "cume": 20.65,
+      "showings": 8067,
+      "admissions": 27602,
+      "rank": 6,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 656434,
+      "title": "The Warriors",
+      "gross": 0.07,
+      "cume": 4.05,
+      "showings": 1952,
+      "admissions": 16848,
+      "rank": 7,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 634059,
+      "title": "Inferno",
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 1390,
+      "admissions": 10974,
+      "rank": 8,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 635157,
+      "title": "Dragon Ball Z: Resurrection 'F'",
+      "gross": 0.04,
+      "cume": 1.57,
+      "showings": 8939,
+      "admissions": 9129,
+      "rank": 9,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 642485,
+      "title": "What’s in the Darkness",
+      "gross": 0.02,
+      "cume": 0.96,
+      "showings": 305,
+      "admissions": 4769,
+      "rank": 10,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 646943,
+      "title": "Nessun Dorma",
+      "gross": 0.02,
+      "cume": 0.3,
+      "showings": 3202,
+      "admissions": 5139,
+      "rank": 11,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 642478,
+      "title": "Fengmei Mao",
+      "gross": 0.02,
+      "cume": 0.73,
+      "showings": 41,
+      "admissions": 4716,
+      "rank": 12,
+      "days": 121,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 642914,
+      "title": "Mission Milano",
+      "gross": 0.02,
+      "cume": 38.38,
+      "showings": 1303,
+      "admissions": 4565,
+      "rank": 13,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 628324,
+      "title": "Mr. Donkey",
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 425,
+      "admissions": 3341,
+      "rank": 14,
+      "days": null,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 652767,
+      "title": "ZunYi Conference",
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 103,
+      "admissions": 3018,
+      "rank": 15,
+      "days": 18,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 638973,
+      "title": "The Ugly Duckling",
+      "gross": 0.01,
+      "cume": 0.94,
+      "showings": 52,
+      "admissions": 1773,
+      "rank": 16,
+      "days": 25,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 637814,
+      "title": "L.O.R.D: Legend of Ravaging Dynasties",
+      "gross": 0.01,
+      "cume": 56.28,
+      "showings": 552,
+      "admissions": 1458,
+      "rank": 17,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 644114,
+      "title": "Robinson Crusoe",
+      "gross": 0.01,
+      "cume": 7.83,
+      "showings": 787,
+      "admissions": 1236,
+      "rank": 18,
+      "days": 24,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 626534,
+      "title": "The Nursery",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 101,
+      "admissions": 939,
+      "rank": 19,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 612432,
+      "title": "Wolf Totem",
+      "gross": 0.0,
+      "cume": 103.39,
+      "showings": 9,
+      "admissions": 395,
+      "rank": 20,
+      "days": 617,
+      "day": "91st Thu"
+    }
+  ]
+}

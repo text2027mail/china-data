@@ -1,0 +1,57 @@
+{
+  "movie_id": 644428,
+  "title": "ATM",
+  "releaseDate": "03-06-2016",
+  "entries": [
+    {
+      "date": "03-06-2016",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 398,
+      "admissions": 1616,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "04-06-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 229,
+      "admissions": 826,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "05-06-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 194,
+      "admissions": 874,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "06-06-2016",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 265,
+      "admissions": 495,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "07-06-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 222,
+      "admissions": 430,
+      "days": 5,
+      "day": "1st Tue"
+    }
+  ]
+}

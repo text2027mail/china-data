@@ -1,0 +1,77 @@
+{
+  "movie_id": 640075,
+  "title": "Who Is Crying At Midnight",
+  "releaseDate": "02-09-2016",
+  "entries": [
+    {
+      "date": "02-09-2016",
+      "rank": 9,
+      "gross": 0.07,
+      "cume": 0.07,
+      "showings": 2423,
+      "admissions": 18285,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "03-09-2016",
+      "rank": 12,
+      "gross": 0.07,
+      "cume": 0.13,
+      "showings": 2525,
+      "admissions": 18384,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "04-09-2016",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.18,
+      "showings": 2548,
+      "admissions": 13135,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "05-09-2016",
+      "rank": 10,
+      "gross": 0.04,
+      "cume": 0.23,
+      "showings": 2719,
+      "admissions": 10957,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "06-09-2016",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.26,
+      "showings": 2773,
+      "admissions": 10027,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "07-09-2016",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.29,
+      "showings": 2809,
+      "admissions": 8098,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "08-09-2016",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.32,
+      "showings": 2653,
+      "admissions": 7831,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

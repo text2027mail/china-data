@@ -1,0 +1,57 @@
+{
+  "movie_id": 612622,
+  "title": "The Falling Feather",
+  "releaseDate": "29-11-2013",
+  "entries": [
+    {
+      "date": "29-11-2013",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1367,
+      "admissions": 1981,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-11-2013",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 1101,
+      "admissions": 2179,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-12-2013",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1010,
+      "admissions": 1644,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-12-2013",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 995,
+      "admissions": 790,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-12-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 119,
+      "admissions": 1270,
+      "days": 25,
+      "day": "4th Mon"
+    }
+  ]
+}

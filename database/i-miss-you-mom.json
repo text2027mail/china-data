@@ -1,0 +1,67 @@
+{
+  "movie_id": 686412,
+  "title": "I Miss You Mom",
+  "releaseDate": "26-12-2019",
+  "entries": [
+    {
+      "date": "26-12-2019",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 17,
+      "admissions": 2801,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "27-12-2019",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.07,
+      "showings": 464,
+      "admissions": 5116,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-12-2019",
+      "rank": 20,
+      "gross": 0.04,
+      "cume": 0.12,
+      "showings": 3984,
+      "admissions": 6475,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "30-12-2019",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.18,
+      "showings": 293,
+      "admissions": 2477,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "11-05-2025",
+      "rank": 14,
+      "gross": 0.04,
+      "cume": 0.24,
+      "showings": 406,
+      "admissions": 6754,
+      "days": 1963,
+      "day": "281st Sun"
+    },
+    {
+      "date": "01-06-2025",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 516,
+      "admissions": 5397,
+      "days": 1984,
+      "day": "284th Sun"
+    }
+  ]
+}

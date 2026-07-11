@@ -1,0 +1,77 @@
+{
+  "movie_id": 716822,
+  "title": "A SEALDE BOOK",
+  "releaseDate": "12-11-2022",
+  "entries": [
+    {
+      "date": "12-11-2022",
+      "rank": 5,
+      "gross": 0.14,
+      "cume": 0.14,
+      "showings": 16617,
+      "admissions": 27398,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-11-2022",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.18,
+      "showings": 7219,
+      "admissions": 6016,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-11-2022",
+      "rank": 10,
+      "gross": 0.01,
+      "cume": 0.18,
+      "showings": 4202,
+      "admissions": 1196,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-11-2022",
+      "rank": 10,
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 3786,
+      "admissions": 1168,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-11-2022",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.19,
+      "showings": 3583,
+      "admissions": 1008,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-11-2022",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 3404,
+      "admissions": 908,
+      "days": 6,
+      "day": "1st Thu"
+    },
+    {
+      "date": "28-11-2022",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 80,
+      "admissions": 252,
+      "days": 17,
+      "day": "3rd Mon"
+    }
+  ]
+}

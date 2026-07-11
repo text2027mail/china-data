@@ -1,0 +1,225 @@
+{
+  "date": "06-08-2015",
+  "data": [
+    {
+      "movie_id": 627896,
+      "title": "",
+      "gross": 4.01,
+      "cume": 285.71,
+      "showings": 34050,
+      "admissions": 750734,
+      "rank": 1,
+      "days": 22,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 637786,
+      "title": "Kwai Boo",
+      "gross": 1.48,
+      "cume": 1.73,
+      "showings": 16957,
+      "admissions": 296511,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 629410,
+      "title": "Jian Bing Man",
+      "gross": 1.46,
+      "cume": 157.78,
+      "showings": 16311,
+      "admissions": 299093,
+      "rank": 3,
+      "days": 21,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 627886,
+      "title": "To The Fore",
+      "gross": 1.33,
+      "cume": 1.73,
+      "showings": 15802,
+      "admissions": 277368,
+      "rank": 4,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 630887,
+      "title": "Monkey King：Hero is Back",
+      "gross": 1.14,
+      "cume": 121.03,
+      "showings": 12636,
+      "admissions": 231070,
+      "rank": 5,
+      "days": 28,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 628394,
+      "title": "Wild City",
+      "gross": 0.87,
+      "cume": 18.12,
+      "showings": 14467,
+      "admissions": 186550,
+      "rank": 6,
+      "days": 8,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 607363,
+      "title": "Lady of the Dynasty",
+      "gross": 0.66,
+      "cume": 17.91,
+      "showings": 14529,
+      "admissions": 141897,
+      "rank": 7,
+      "days": 8,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 638277,
+      "title": "Love in the Office",
+      "gross": 0.29,
+      "cume": 0.3,
+      "showings": 10990,
+      "admissions": 66669,
+      "rank": 8,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 630468,
+      "title": "The Crossing : Part 2",
+      "gross": 0.28,
+      "cume": 6.53,
+      "showings": 6058,
+      "admissions": 50777,
+      "rank": 9,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 625804,
+      "title": "The Imitation Game",
+      "gross": 0.16,
+      "cume": 5.62,
+      "showings": 1135,
+      "admissions": 29912,
+      "rank": 10,
+      "days": 17,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 618518,
+      "title": "Paris Holiday",
+      "gross": 0.08,
+      "cume": 2.48,
+      "showings": 2645,
+      "admissions": 16678,
+      "rank": 11,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 638406,
+      "title": "The Little Mermaid: Attack of The Pirates",
+      "gross": 0.08,
+      "cume": 2.29,
+      "showings": 2167,
+      "admissions": 18265,
+      "rank": 12,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 587654,
+      "title": "Hong Fei Qian Dao",
+      "gross": 0.07,
+      "cume": 0.26,
+      "showings": 103,
+      "admissions": 13525,
+      "rank": 13,
+      "days": 1966,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639837,
+      "title": "Mingong Laoda Laoban",
+      "gross": 0.07,
+      "cume": 0.26,
+      "showings": 100,
+      "admissions": 13426,
+      "rank": 14,
+      "days": 15,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639124,
+      "title": "Red Mansion",
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 1464,
+      "admissions": 9888,
+      "rank": 15,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639408,
+      "title": "The Snow Queen",
+      "gross": 0.04,
+      "cume": 0.44,
+      "showings": 1899,
+      "admissions": 8197,
+      "rank": 16,
+      "days": 4,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 639397,
+      "title": "Sword of hope",
+      "gross": 0.03,
+      "cume": 0.31,
+      "showings": 1733,
+      "admissions": 6810,
+      "rank": 17,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 629797,
+      "title": "Who in the Pool",
+      "gross": 0.03,
+      "cume": 0.49,
+      "showings": 1713,
+      "admissions": 7084,
+      "rank": 18,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 631568,
+      "title": "Shaun the Sheep Movie",
+      "gross": 0.02,
+      "cume": 7.76,
+      "showings": 519,
+      "admissions": 5568,
+      "rank": 19,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 630555,
+      "title": "Seer Movie 5: Rise of Thunder",
+      "gross": 0.02,
+      "cume": 8.23,
+      "showings": 624,
+      "admissions": 4640,
+      "rank": 20,
+      "days": 15,
+      "day": "3rd Thu"
+    }
+  ]
+}

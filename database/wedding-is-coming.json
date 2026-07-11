@@ -1,0 +1,27 @@
+{
+  "movie_id": 703000,
+  "title": "Wedding Is Coming",
+  "releaseDate": "04-03-2022",
+  "entries": [
+    {
+      "date": "04-03-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 3106,
+      "admissions": 2250,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-03-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1217,
+      "admissions": 3385,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

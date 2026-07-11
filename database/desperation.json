@@ -1,0 +1,27 @@
+{
+  "movie_id": 737394,
+  "title": "Desperation",
+  "releaseDate": "27-08-2024",
+  "entries": [
+    {
+      "date": "27-08-2024",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 9,
+      "admissions": 1483,
+      "days": 25,
+      "day": "1st Tue"
+    },
+    {
+      "date": "28-08-2024",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.08,
+      "showings": 7,
+      "admissions": 1860,
+      "days": 26,
+      "day": "1st Wed"
+    }
+  ]
+}

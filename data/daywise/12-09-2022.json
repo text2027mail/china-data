@@ -1,0 +1,225 @@
+{
+  "date": "12-09-2022",
+  "data": [
+    {
+      "movie_id": 701893,
+      "title": "",
+      "gross": 4.3,
+      "cume": 25.96,
+      "showings": 95093,
+      "admissions": 698387,
+      "rank": 1,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 706969,
+      "title": "New Gods: Yang Jian",
+      "gross": 1.55,
+      "cume": 63.9,
+      "showings": 34838,
+      "admissions": 247657,
+      "rank": 2,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 702906,
+      "title": "Moonman",
+      "gross": 1.29,
+      "cume": 442.36,
+      "showings": 33320,
+      "admissions": 209552,
+      "rank": 3,
+      "days": 46,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 708410,
+      "title": "Song of Spring",
+      "gross": 0.96,
+      "cume": 4.81,
+      "showings": 30325,
+      "admissions": 159890,
+      "rank": 4,
+      "days": 3,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 715732,
+      "title": "Table for Six",
+      "gross": 0.92,
+      "cume": 4.35,
+      "showings": 17260,
+      "admissions": 190234,
+      "rank": 5,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 693016,
+      "title": "Minions: The Rise of Gru",
+      "gross": 0.78,
+      "cume": 33.6,
+      "showings": 19463,
+      "admissions": 153712,
+      "rank": 6,
+      "days": 25,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 702055,
+      "title": "In Search of Lost Time",
+      "gross": 0.71,
+      "cume": 3.3,
+      "showings": 19141,
+      "admissions": 124044,
+      "rank": 7,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 702457,
+      "title": "Hero",
+      "gross": 0.66,
+      "cume": 5.7,
+      "showings": 35157,
+      "admissions": 109041,
+      "rank": 8,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 691422,
+      "title": "The Frog Kindoom",
+      "gross": 0.38,
+      "cume": 1.24,
+      "showings": 7562,
+      "admissions": 56457,
+      "rank": 9,
+      "days": 3,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 678652,
+      "title": "Wolf Pack",
+      "gross": 0.2,
+      "cume": 2.32,
+      "showings": 11505,
+      "admissions": 40114,
+      "rank": 10,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 683536,
+      "title": "Warriors of Future",
+      "gross": 0.2,
+      "cume": 97.65,
+      "showings": 7777,
+      "admissions": 31346,
+      "rank": 11,
+      "days": 39,
+      "day": "6th Mon"
+    },
+    {
+      "movie_id": 701661,
+      "title": "Return To Dust",
+      "gross": 0.08,
+      "cume": 16.21,
+      "showings": 11323,
+      "admissions": 16110,
+      "rank": 12,
+      "days": 67,
+      "day": "10th Mon"
+    },
+    {
+      "movie_id": 708836,
+      "title": "KAKA",
+      "gross": 0.01,
+      "cume": 3.99,
+      "showings": 419,
+      "admissions": 2695,
+      "rank": 13,
+      "days": 45,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 704855,
+      "title": "The Fallen Bridge",
+      "gross": 0.01,
+      "cume": 34.31,
+      "showings": 575,
+      "admissions": 1589,
+      "rank": 14,
+      "days": 31,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 683729,
+      "title": "A SINGER AT HEART",
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 35,
+      "admissions": 1483,
+      "rank": 15,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 701983,
+      "title": "GG BOND：Ocean Mission",
+      "gross": 0.01,
+      "cume": 4.23,
+      "showings": 340,
+      "admissions": 1646,
+      "rank": 16,
+      "days": 38,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 711139,
+      "title": "Twin Sister",
+      "gross": 0.01,
+      "cume": 1.71,
+      "showings": 22,
+      "admissions": 1220,
+      "rank": 17,
+      "days": 247,
+      "day": "36th Mon"
+    },
+    {
+      "movie_id": 681235,
+      "title": "Above The Rainbow",
+      "gross": 0.01,
+      "cume": 0.15,
+      "showings": 99,
+      "admissions": 1360,
+      "rank": 18,
+      "days": 47,
+      "day": "7th Mon"
+    },
+    {
+      "movie_id": 694660,
+      "title": "IN PURSUIT OF LIGHT",
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 353,
+      "admissions": 1326,
+      "rank": 19,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 706249,
+      "title": "The Mauritanian",
+      "gross": 0.01,
+      "cume": 0.42,
+      "showings": 76,
+      "admissions": 896,
+      "rank": 20,
+      "days": 21,
+      "day": "3rd Mon"
+    }
+  ]
+}

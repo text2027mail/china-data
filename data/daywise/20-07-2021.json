@@ -1,0 +1,225 @@
+{
+  "date": "20-07-2021",
+  "data": [
+    {
+      "movie_id": 612290,
+      "title": "",
+      "gross": 5.6,
+      "cume": 143.21,
+      "showings": 127133,
+      "admissions": 1034192,
+      "rank": 1,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 704806,
+      "title": "The Day We Lit Up The Sky",
+      "gross": 1.87,
+      "cume": 15.65,
+      "showings": 80866,
+      "admissions": 350831,
+      "rank": 2,
+      "days": 4,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 701782,
+      "title": "1921",
+      "gross": 0.58,
+      "cume": 69.01,
+      "showings": 21880,
+      "admissions": 114587,
+      "rank": 3,
+      "days": 20,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 708107,
+      "title": "Master Ji Gong",
+      "gross": 0.4,
+      "cume": 4.9,
+      "showings": 31944,
+      "admissions": 79078,
+      "rank": 4,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 696263,
+      "title": "New Happy Dad and Son 4",
+      "gross": 0.3,
+      "cume": 11.95,
+      "showings": 19756,
+      "admissions": 56708,
+      "rank": 5,
+      "days": 12,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 684386,
+      "title": "Hi!Brother",
+      "gross": 0.28,
+      "cume": 3.74,
+      "showings": 30475,
+      "admissions": 56898,
+      "rank": 6,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 669234,
+      "title": "Realm of Terracotta",
+      "gross": 0.25,
+      "cume": 9.26,
+      "showings": 13536,
+      "admissions": 48749,
+      "rank": 7,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 707737,
+      "title": "Island Keeper",
+      "gross": 0.23,
+      "cume": 16.75,
+      "showings": 1836,
+      "admissions": 42454,
+      "rank": 8,
+      "days": 33,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 704679,
+      "title": "The Pioneer",
+      "gross": 0.14,
+      "cume": 18.3,
+      "showings": 5442,
+      "admissions": 27254,
+      "rank": 9,
+      "days": 20,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.13,
+      "cume": 0.46,
+      "showings": 520,
+      "admissions": 22130,
+      "rank": 10,
+      "days": 2,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 672610,
+      "title": "Ultimate Code",
+      "gross": 0.1,
+      "cume": 1.04,
+      "showings": 3903,
+      "admissions": 12848,
+      "rank": 11,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 708178,
+      "title": "THE RED BOAT",
+      "gross": 0.07,
+      "cume": 0.67,
+      "showings": 394,
+      "admissions": 14714,
+      "rank": 12,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 705238,
+      "title": "Green Snake",
+      "gross": 0.06,
+      "cume": 0.06,
+      "showings": 51,
+      "admissions": 6511,
+      "rank": 13,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 706713,
+      "title": "Man In Love",
+      "gross": 0.05,
+      "cume": 38.73,
+      "showings": 3918,
+      "admissions": 10321,
+      "rank": 14,
+      "days": 40,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 695549,
+      "title": "Hello World",
+      "gross": 0.05,
+      "cume": 19.82,
+      "showings": 3159,
+      "admissions": 10123,
+      "rank": 15,
+      "days": 40,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 684463,
+      "title": "Zhou En Lai In His Childhood",
+      "gross": 0.04,
+      "cume": 1.15,
+      "showings": 576,
+      "admissions": 11432,
+      "rank": 16,
+      "days": 50,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 707206,
+      "title": "Between Us",
+      "gross": 0.04,
+      "cume": 7.15,
+      "showings": 485,
+      "admissions": 7466,
+      "rank": 17,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 679491,
+      "title": "Bye！Mr.Wang",
+      "gross": 0.04,
+      "cume": 1.95,
+      "showings": 292,
+      "admissions": 5312,
+      "rank": 18,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 701087,
+      "title": "The Great Learning",
+      "gross": 0.02,
+      "cume": 0.72,
+      "showings": 1021,
+      "admissions": 4817,
+      "rank": 19,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 706639,
+      "title": "The Father",
+      "gross": 0.02,
+      "cume": 4.3,
+      "showings": 804,
+      "admissions": 3849,
+      "rank": 20,
+      "days": 33,
+      "day": "5th Tue"
+    }
+  ]
+}

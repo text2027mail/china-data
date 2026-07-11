@@ -1,0 +1,97 @@
+{
+  "movie_id": 673542,
+  "title": "Crazy Little Thing",
+  "releaseDate": "26-10-2018",
+  "entries": [
+    {
+      "date": "26-10-2018",
+      "rank": 5,
+      "gross": 0.59,
+      "cume": 0.59,
+      "showings": 31030,
+      "admissions": 121342,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-10-2018",
+      "rank": 8,
+      "gross": 0.53,
+      "cume": 1.13,
+      "showings": 18835,
+      "admissions": 110571,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-10-2018",
+      "rank": 8,
+      "gross": 0.33,
+      "cume": 1.46,
+      "showings": 16298,
+      "admissions": 69835,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "29-10-2018",
+      "rank": 8,
+      "gross": 0.11,
+      "cume": 1.57,
+      "showings": 14299,
+      "admissions": 24123,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "30-10-2018",
+      "rank": 8,
+      "gross": 0.1,
+      "cume": 1.68,
+      "showings": 13117,
+      "admissions": 22190,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "31-10-2018",
+      "rank": 10,
+      "gross": 0.08,
+      "cume": 1.76,
+      "showings": 11624,
+      "admissions": 18055,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "01-11-2018",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 1.81,
+      "showings": 7589,
+      "admissions": 10438,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "02-11-2018",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 1.82,
+      "showings": 716,
+      "admissions": 2562,
+      "days": 8,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "03-11-2018",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 1.84,
+      "showings": 857,
+      "admissions": 3972,
+      "days": 9,
+      "day": "2nd Sat"
+    }
+  ]
+}

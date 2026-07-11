@@ -1,0 +1,67 @@
+{
+  "movie_id": 590052,
+  "title": "Online",
+  "releaseDate": "30-01-2015",
+  "entries": [
+    {
+      "date": "30-01-2015",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 2086,
+      "admissions": 5657,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "31-01-2015",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 915,
+      "admissions": 3225,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-02-2015",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 776,
+      "admissions": 1626,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-02-2015",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 759,
+      "admissions": 1277,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-02-2015",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 698,
+      "admissions": 1041,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-02-2015",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 638,
+      "admissions": 759,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

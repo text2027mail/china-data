@@ -1,0 +1,57 @@
+{
+  "movie_id": 1583,
+  "title": "Useless",
+  "releaseDate": "14-12-2013",
+  "entries": [
+    {
+      "date": "14-12-2013",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 22,
+      "admissions": 596,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-12-2013",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 20,
+      "admissions": 650,
+      "days": null,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-12-2013",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 10,
+      "admissions": 242,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-12-2013",
+      "rank": 12,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 20,
+      "admissions": 1116,
+      "days": null,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "22-12-2013",
+      "rank": 13,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 23,
+      "admissions": 1096,
+      "days": null,
+      "day": "2nd Sun"
+    }
+  ]
+}

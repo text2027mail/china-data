@@ -1,0 +1,27 @@
+{
+  "movie_id": 670418,
+  "title": "The North of Peking",
+  "releaseDate": "08-12-2017",
+  "entries": [
+    {
+      "date": "08-12-2017",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 992,
+      "admissions": 6995,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "05-01-2018",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 11,
+      "admissions": 1260,
+      "days": 29,
+      "day": "5th Fri"
+    }
+  ]
+}

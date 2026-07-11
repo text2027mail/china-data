@@ -1,0 +1,47 @@
+{
+  "movie_id": 627974,
+  "title": "Crazy Teacher",
+  "releaseDate": "24-01-2017",
+  "entries": [
+    {
+      "date": "24-01-2017",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 2196,
+      "admissions": 3429,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-01-2017",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 1862,
+      "admissions": 2463,
+      "days": 2,
+      "day": "1st Wed"
+    },
+    {
+      "date": "26-01-2017",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 1684,
+      "admissions": 2623,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "date": "05-04-2017",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 2,
+      "admissions": 1023,
+      "days": 72,
+      "day": "11th Wed"
+    }
+  ]
+}

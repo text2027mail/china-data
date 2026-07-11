@@ -1,0 +1,27 @@
+{
+  "movie_id": 952325,
+  "title": "The Monkey",
+  "releaseDate": "31-10-2025",
+  "entries": [
+    {
+      "date": "31-10-2025",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 8588,
+      "admissions": 9729,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-11-2025",
+      "rank": 19,
+      "gross": 0.06,
+      "cume": 0.11,
+      "showings": 7301,
+      "admissions": 10503,
+      "days": 2,
+      "day": "1st Sat"
+    }
+  ]
+}

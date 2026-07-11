@@ -1,0 +1,27 @@
+{
+  "movie_id": 707176,
+  "title": "The Lost Daughter",
+  "releaseDate": "16-12-2025",
+  "entries": [
+    {
+      "date": "16-12-2025",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 5689,
+      "admissions": 4338,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "18-12-2025",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 5395,
+      "admissions": 2840,
+      "days": 3,
+      "day": "1st Thu"
+    }
+  ]
+}

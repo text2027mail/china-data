@@ -1,0 +1,37 @@
+{
+  "movie_id": 679788,
+  "title": "Love of God",
+  "releaseDate": "13-07-2018",
+  "entries": [
+    {
+      "date": "13-07-2018",
+      "rank": 13,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 336,
+      "admissions": 4687,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-07-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.03,
+      "showings": 481,
+      "admissions": 2933,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-07-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 257,
+      "admissions": 1553,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "30-09-2021",
+  "data": [
+    {
+      "movie_id": 703496,
+      "title": "",
+      "gross": 30.28,
+      "cume": 30.39,
+      "showings": 164692,
+      "admissions": 4249441,
+      "rank": 1,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 706356,
+      "title": "My country,My parents",
+      "gross": 9.62,
+      "cume": 13.43,
+      "showings": 49700,
+      "admissions": 1512429,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 699450,
+      "title": "Cloudy Mountain",
+      "gross": 0.54,
+      "cume": 61.17,
+      "showings": 31150,
+      "admissions": 98581,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 701532,
+      "title": "All About My Mother",
+      "gross": 0.3,
+      "cume": 19.79,
+      "showings": 16694,
+      "admissions": 60745,
+      "rank": 4,
+      "days": 12,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 695333,
+      "title": "Little Canned Man",
+      "gross": 0.2,
+      "cume": 0.5,
+      "showings": 15279,
+      "admissions": 36939,
+      "rank": 5,
+      "days": 1,
+      "day": "9th Thu"
+    },
+    {
+      "movie_id": 703028,
+      "title": "Water Boys",
+      "gross": 0.16,
+      "cume": 0.24,
+      "showings": 5497,
+      "admissions": 28963,
+      "rank": 6,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 691465,
+      "title": "Raging Fire",
+      "gross": 0.12,
+      "cume": 195.63,
+      "showings": 6534,
+      "admissions": 21639,
+      "rank": 7,
+      "days": 63,
+      "day": "10th Thu"
+    },
+    {
+      "movie_id": 628302,
+      "title": "To Be With You",
+      "gross": 0.06,
+      "cume": 9.0,
+      "showings": 4909,
+      "admissions": 11204,
+      "rank": 8,
+      "days": 12,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 709324,
+      "title": "The Guardian of Youth",
+      "gross": 0.05,
+      "cume": 0.77,
+      "showings": 439,
+      "admissions": 10578,
+      "rank": 9,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 708508,
+      "title": "The 11th Beijing International Film Festival",
+      "gross": 0.04,
+      "cume": 0.8,
+      "showings": 30,
+      "admissions": 7247,
+      "rank": 10,
+      "days": 72,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 705651,
+      "title": "Commander Wang Liang",
+      "gross": 0.03,
+      "cume": 0.24,
+      "showings": 313,
+      "admissions": 6936,
+      "rank": 11,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 708923,
+      "title": "The Tomorrow War",
+      "gross": 0.03,
+      "cume": 18.22,
+      "showings": 1390,
+      "admissions": 4830,
+      "rank": 12,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 704739,
+      "title": "Pokémon the Movie: Secrets of the Jungle",
+      "gross": 0.02,
+      "cume": 6.62,
+      "showings": 2216,
+      "admissions": 5032,
+      "rank": 13,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 708510,
+      "title": "The 11th Beijing International Film Festival 3",
+      "gross": 0.02,
+      "cume": 0.3,
+      "showings": 14,
+      "admissions": 3409,
+      "rank": 14,
+      "days": 72,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 666596,
+      "title": "Fantasy Daily",
+      "gross": 0.02,
+      "cume": 3.63,
+      "showings": 2185,
+      "admissions": 3684,
+      "rank": 15,
+      "days": 12,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 693230,
+      "title": "Swimming Out Till The Sea Turns Blue",
+      "gross": 0.02,
+      "cume": 0.88,
+      "showings": 625,
+      "admissions": 2667,
+      "rank": 16,
+      "days": 12,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 708509,
+      "title": "The 11th Beijing International Film Festival 2",
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 9,
+      "admissions": 2571,
+      "rank": 17,
+      "days": 72,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 662473,
+      "title": "The Hero Battle",
+      "gross": 0.01,
+      "cume": 0.31,
+      "showings": 104,
+      "admissions": 2222,
+      "rank": 18,
+      "days": 623,
+      "day": "89th Thu"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.01,
+      "cume": 3.8,
+      "showings": 76,
+      "admissions": 2449,
+      "rank": 19,
+      "days": 74,
+      "day": "12th Thu"
+    },
+    {
+      "movie_id": 695992,
+      "title": "MY FATHER",
+      "gross": 0.01,
+      "cume": 3.33,
+      "showings": 36,
+      "admissions": 1739,
+      "rank": 20,
+      "days": 56,
+      "day": "10th Thu"
+    }
+  ]
+}

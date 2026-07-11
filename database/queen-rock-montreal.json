@@ -1,0 +1,47 @@
+{
+  "movie_id": 769086,
+  "title": "Queen Rock Montreal",
+  "releaseDate": "06-12-2024",
+  "entries": [
+    {
+      "date": "06-12-2024",
+      "rank": 11,
+      "gross": 0.12,
+      "cume": 0.14,
+      "showings": 3028,
+      "admissions": 15633,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "07-12-2024",
+      "rank": 16,
+      "gross": 0.13,
+      "cume": 0.28,
+      "showings": 2276,
+      "admissions": 17799,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-12-2024",
+      "rank": 18,
+      "gross": 0.09,
+      "cume": 0.37,
+      "showings": 2363,
+      "admissions": 12230,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "09-12-2024",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.39,
+      "showings": 1764,
+      "admissions": 3170,
+      "days": 4,
+      "day": "1st Mon"
+    }
+  ]
+}

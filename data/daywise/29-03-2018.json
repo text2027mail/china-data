@@ -1,0 +1,225 @@
+{
+  "date": "29-03-2018",
+  "data": [
+    {
+      "movie_id": 657865,
+      "title": "",
+      "gross": 2.69,
+      "cume": 75.03,
+      "showings": 101534,
+      "admissions": 509628,
+      "rank": 1,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 662641,
+      "title": "Nice To Meet You",
+      "gross": 1.78,
+      "cume": 1.83,
+      "showings": 46009,
+      "admissions": 374279,
+      "rank": 2,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 565987,
+      "title": "Tomb Raider",
+      "gross": 1.24,
+      "cume": 70.73,
+      "showings": 41998,
+      "admissions": 244839,
+      "rank": 3,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 675239,
+      "title": "Amazing China",
+      "gross": 1.2,
+      "cume": 63.1,
+      "showings": 11103,
+      "admissions": 256764,
+      "rank": 4,
+      "days": 28,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 655823,
+      "title": "Operation Red Sea",
+      "gross": 0.7,
+      "cume": 529.82,
+      "showings": 26404,
+      "admissions": 146930,
+      "rank": 5,
+      "days": 42,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 657862,
+      "title": "Ready Player One",
+      "gross": 0.42,
+      "cume": 0.42,
+      "showings": 2721,
+      "admissions": 64071,
+      "rank": 6,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 635963,
+      "title": "Bajrangi Bhaijaan",
+      "gross": 0.4,
+      "cume": 41.28,
+      "showings": 13834,
+      "admissions": 88571,
+      "rank": 7,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 644135,
+      "title": "Black Panther",
+      "gross": 0.21,
+      "cume": 97.38,
+      "showings": 12553,
+      "admissions": 40541,
+      "rank": 8,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 663419,
+      "title": "Detective Chinatown Vol 2",
+      "gross": 0.17,
+      "cume": 500.38,
+      "showings": 8481,
+      "admissions": 33391,
+      "rank": 9,
+      "days": 42,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 671663,
+      "title": "The Shape of Water",
+      "gross": 0.12,
+      "cume": 15.37,
+      "showings": 6989,
+      "admissions": 23342,
+      "rank": 10,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 671224,
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "gross": 0.04,
+      "cume": 9.45,
+      "showings": 1518,
+      "admissions": 8131,
+      "rank": 11,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 641422,
+      "title": "The Winner",
+      "gross": 0.04,
+      "cume": 5.1,
+      "showings": 64,
+      "admissions": 7610,
+      "rank": 12,
+      "days": 839,
+      "day": "120th Thu"
+    },
+    {
+      "movie_id": 643594,
+      "title": "Alibaba Solomons Seal",
+      "gross": 0.04,
+      "cume": 3.13,
+      "showings": 52,
+      "admissions": 7505,
+      "rank": 13,
+      "days": 699,
+      "day": "100th Thu"
+    },
+    {
+      "movie_id": 656491,
+      "title": "The Door",
+      "gross": 0.04,
+      "cume": 2.91,
+      "showings": 57,
+      "admissions": 7209,
+      "rank": 14,
+      "days": 406,
+      "day": "60th Thu"
+    },
+    {
+      "movie_id": 674815,
+      "title": "Peter Rabbit",
+      "gross": 0.03,
+      "cume": 22.88,
+      "showings": 2653,
+      "admissions": 7291,
+      "rank": 15,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 629349,
+      "title": "WOLF is coming",
+      "gross": 0.03,
+      "cume": 2.34,
+      "showings": 47,
+      "admissions": 4954,
+      "rank": 16,
+      "days": 1001,
+      "day": "18th Thu"
+    },
+    {
+      "movie_id": 641843,
+      "title": "Shed Skin Papa",
+      "gross": 0.02,
+      "cume": 1.15,
+      "showings": 3979,
+      "admissions": 3904,
+      "rank": 17,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 660754,
+      "title": "The Possessed",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 55,
+      "admissions": 3530,
+      "rank": 18,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 656875,
+      "title": "Monster Hunt 2",
+      "gross": 0.01,
+      "cume": 329.98,
+      "showings": 1316,
+      "admissions": 2688,
+      "rank": 19,
+      "days": 42,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 674989,
+      "title": "Pup Star",
+      "gross": 0.01,
+      "cume": 1.2,
+      "showings": 3468,
+      "admissions": 3082,
+      "rank": 20,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

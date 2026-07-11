@@ -1,0 +1,225 @@
+{
+  "date": "06-06-2015",
+  "data": [
+    {
+      "movie_id": 633304,
+      "title": "",
+      "gross": 12.79,
+      "cume": 35.7,
+      "showings": 50559,
+      "admissions": 2242194,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 623724,
+      "title": "Stand by Me Doraemon",
+      "gross": 5.59,
+      "cume": 62.87,
+      "showings": 37847,
+      "admissions": 1088097,
+      "rank": 2,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 631792,
+      "title": "Avengers: Age of Ultron",
+      "gross": 1.22,
+      "cume": 213.65,
+      "showings": 11824,
+      "admissions": 217068,
+      "rank": 3,
+      "days": 26,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 620732,
+      "title": "P.K.",
+      "gross": 0.84,
+      "cume": 14.34,
+      "showings": 8499,
+      "admissions": 184093,
+      "rank": 4,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 631840,
+      "title": "Tomorrowland",
+      "gross": 0.55,
+      "cume": 16.04,
+      "showings": 10353,
+      "admissions": 113224,
+      "rank": 5,
+      "days": 12,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 638443,
+      "title": "Happy Little Submarine Magic Box of Time",
+      "gross": 0.3,
+      "cume": 4.3,
+      "showings": 6852,
+      "admissions": 63372,
+      "rank": 6,
+      "days": 9,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 637666,
+      "title": "Monsters",
+      "gross": 0.16,
+      "cume": 0.29,
+      "showings": 7677,
+      "admissions": 36675,
+      "rank": 7,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 624083,
+      "title": "I, Frankenstein",
+      "gross": 0.08,
+      "cume": 6.73,
+      "showings": 3385,
+      "admissions": 14493,
+      "rank": 8,
+      "days": 12,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 629461,
+      "title": "Lost in Wrestling",
+      "gross": 0.07,
+      "cume": 0.15,
+      "showings": 6526,
+      "admissions": 13964,
+      "rank": 9,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 638445,
+      "title": "The Grow 2",
+      "gross": 0.05,
+      "cume": 0.71,
+      "showings": 2020,
+      "admissions": 10737,
+      "rank": 10,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 627008,
+      "title": "12 Citizens",
+      "gross": 0.02,
+      "cume": 1.95,
+      "showings": 244,
+      "admissions": 3694,
+      "rank": 11,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 613126,
+      "title": "Free Ride",
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 1442,
+      "admissions": 4167,
+      "rank": 12,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 627626,
+      "title": "Mr. Deng Goes to Washington",
+      "gross": 0.02,
+      "cume": 1.87,
+      "showings": 268,
+      "admissions": 3341,
+      "rank": 13,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 628375,
+      "title": "Love Without Distance",
+      "gross": 0.02,
+      "cume": 4.37,
+      "showings": 959,
+      "admissions": 3347,
+      "rank": 14,
+      "days": 17,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 630765,
+      "title": "You Are My Sunshine",
+      "gross": 0.01,
+      "cume": 52.12,
+      "showings": 196,
+      "admissions": 2098,
+      "rank": 15,
+      "days": 38,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 630553,
+      "title": "Rabbit Hero",
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 590,
+      "admissions": 1614,
+      "rank": 16,
+      "days": 8,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 629338,
+      "title": "The Beloved",
+      "gross": 0.01,
+      "cume": 2.93,
+      "showings": 194,
+      "admissions": 1160,
+      "rank": 17,
+      "days": 23,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 617809,
+      "title": "SPL 2: A Time For Consequences",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 4,
+      "admissions": 567,
+      "rank": 18,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 618528,
+      "title": "The Left Ear",
+      "gross": 0.0,
+      "cume": 71.56,
+      "showings": 173,
+      "admissions": 905,
+      "rank": 19,
+      "days": 44,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 616420,
+      "title": "Farewell My Concubine The Beijing Opera",
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 9,
+      "admissions": 531,
+      "rank": 20,
+      "days": 584,
+      "day": "5th Sat"
+    }
+  ]
+}

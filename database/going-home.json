@@ -1,0 +1,27 @@
+{
+  "movie_id": 596899,
+  "title": "Going Home",
+  "releaseDate": "25-10-2025",
+  "entries": [
+    {
+      "date": "25-10-2025",
+      "rank": 13,
+      "gross": 0.13,
+      "cume": 0.15,
+      "showings": 5552,
+      "admissions": 24129,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-10-2025",
+      "rank": 20,
+      "gross": 0.06,
+      "cume": 0.21,
+      "showings": 3657,
+      "admissions": 11255,
+      "days": 2,
+      "day": "1st Sun"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "movie_id": 640053,
+  "title": "A Dog Named Wang Zi",
+  "releaseDate": "15-09-2016",
+  "entries": [
+    {
+      "date": "15-09-2016",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 1624,
+      "admissions": 12100,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "16-09-2016",
+      "rank": 19,
+      "gross": 0.02,
+      "cume": 0.07,
+      "showings": 1021,
+      "admissions": 6524,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "17-09-2016",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 897,
+      "admissions": 3890,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-09-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 308,
+      "admissions": 2020,
+      "days": 7,
+      "day": "1st Wed"
+    }
+  ]
+}

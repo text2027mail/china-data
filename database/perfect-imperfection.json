@@ -1,0 +1,77 @@
+{
+  "movie_id": 628862,
+  "title": "Perfect Imperfection",
+  "releaseDate": "25-11-2016",
+  "entries": [
+    {
+      "date": "25-11-2016",
+      "rank": 6,
+      "gross": 0.47,
+      "cume": 0.48,
+      "showings": 12140,
+      "admissions": 174315,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-11-2016",
+      "rank": 12,
+      "gross": 0.09,
+      "cume": 0.57,
+      "showings": 4407,
+      "admissions": 28330,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "27-11-2016",
+      "rank": 12,
+      "gross": 0.05,
+      "cume": 0.62,
+      "showings": 3634,
+      "admissions": 15578,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-11-2016",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.64,
+      "showings": 3198,
+      "admissions": 6481,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "29-11-2016",
+      "rank": 14,
+      "gross": 0.02,
+      "cume": 0.66,
+      "showings": 3024,
+      "admissions": 5839,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "30-11-2016",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.67,
+      "showings": 1565,
+      "admissions": 3099,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "01-12-2016",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.68,
+      "showings": 1421,
+      "admissions": 2515,
+      "days": 7,
+      "day": "1st Thu"
+    }
+  ]
+}

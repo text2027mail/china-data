@@ -1,0 +1,37 @@
+{
+  "movie_id": 737827,
+  "title": "2023 Argentina Film Festival",
+  "releaseDate": "28-05-2023",
+  "entries": [
+    {
+      "date": "28-05-2023",
+      "rank": 17,
+      "gross": 0.03,
+      "cume": 0.06,
+      "showings": 2,
+      "admissions": 2441,
+      "days": 12,
+      "day": "1st Sun"
+    },
+    {
+      "date": "03-06-2023",
+      "rank": 18,
+      "gross": 0.03,
+      "cume": 0.08,
+      "showings": 3,
+      "admissions": 2581,
+      "days": 18,
+      "day": "1st Sat"
+    },
+    {
+      "date": "04-06-2023",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.11,
+      "showings": 2,
+      "admissions": 1862,
+      "days": 19,
+      "day": "2nd Sun"
+    }
+  ]
+}

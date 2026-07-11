@@ -1,0 +1,77 @@
+{
+  "movie_id": 638720,
+  "title": "When We Were Young",
+  "releaseDate": "25-02-2016",
+  "entries": [
+    {
+      "date": "25-02-2016",
+      "rank": 14,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 1536,
+      "admissions": 2764,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "26-02-2016",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 718,
+      "admissions": 1467,
+      "days": 2,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-02-2016",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 571,
+      "admissions": 1549,
+      "days": 3,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-02-2016",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 490,
+      "admissions": 1204,
+      "days": 4,
+      "day": "1st Sun"
+    },
+    {
+      "date": "04-03-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 114,
+      "admissions": 467,
+      "days": 9,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "05-03-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 106,
+      "admissions": 510,
+      "days": 10,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "08-03-2016",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 123,
+      "admissions": 1025,
+      "days": 13,
+      "day": "2nd Tue"
+    }
+  ]
+}

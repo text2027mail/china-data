@@ -1,0 +1,27 @@
+{
+  "movie_id": 677076,
+  "title": "Tout le monde debout",
+  "releaseDate": "23-05-2019",
+  "entries": [
+    {
+      "date": "23-05-2019",
+      "rank": 16,
+      "gross": 0.04,
+      "cume": 0.05,
+      "showings": 6055,
+      "admissions": 10012,
+      "days": 1,
+      "day": "1st Thu"
+    },
+    {
+      "date": "24-05-2019",
+      "rank": 17,
+      "gross": 0.05,
+      "cume": 0.09,
+      "showings": 5181,
+      "admissions": 11037,
+      "days": 2,
+      "day": "1st Fri"
+    }
+  ]
+}

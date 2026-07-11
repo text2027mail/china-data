@@ -1,0 +1,225 @@
+{
+  "date": "06-07-2015",
+  "data": [
+    {
+      "movie_id": 617702,
+      "title": "",
+      "gross": 4.38,
+      "cume": 39.01,
+      "showings": 48580,
+      "admissions": 754694,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 348959,
+      "title": "Jurassic World",
+      "gross": 1.55,
+      "cume": 205.16,
+      "showings": 17928,
+      "admissions": 282566,
+      "rank": 2,
+      "days": 27,
+      "day": "4th Mon"
+    },
+    {
+      "movie_id": 629494,
+      "title": "Hollywood Adventures",
+      "gross": 1.1,
+      "cume": 44.09,
+      "showings": 19604,
+      "admissions": 221250,
+      "rank": 3,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 618612,
+      "title": "I Am Somebody",
+      "gross": 0.86,
+      "cume": 6.91,
+      "showings": 14127,
+      "admissions": 160549,
+      "rank": 4,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 617809,
+      "title": "SPL 2: A Time For Consequences",
+      "gross": 0.79,
+      "cume": 79.78,
+      "showings": 13065,
+      "admissions": 149477,
+      "rank": 5,
+      "days": 19,
+      "day": "5th Mon"
+    },
+    {
+      "movie_id": 638434,
+      "title": "Chang Chen Ghost Stories",
+      "gross": 0.34,
+      "cume": 2.16,
+      "showings": 9842,
+      "admissions": 73659,
+      "rank": 6,
+      "days": 5,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 628433,
+      "title": "Begin Again",
+      "gross": 0.12,
+      "cume": 2.07,
+      "showings": 1163,
+      "admissions": 21691,
+      "rank": 7,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 630556,
+      "title": "The Three Pigs and the Lamp",
+      "gross": 0.09,
+      "cume": 3.08,
+      "showings": 3196,
+      "admissions": 21672,
+      "rank": 8,
+      "days": 10,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 566058,
+      "title": "Good People",
+      "gross": 0.07,
+      "cume": 0.47,
+      "showings": 4144,
+      "admissions": 13692,
+      "rank": 9,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 639002,
+      "title": "The Autobots",
+      "gross": 0.07,
+      "cume": 0.64,
+      "showings": 4695,
+      "admissions": 16514,
+      "rank": 10,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 631828,
+      "title": "Insurgent",
+      "gross": 0.05,
+      "cume": 15.97,
+      "showings": 888,
+      "admissions": 8469,
+      "rank": 11,
+      "days": 18,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 597232,
+      "title": "When The Meteor Shot Across The Sky",
+      "gross": 0.05,
+      "cume": 0.09,
+      "showings": 132,
+      "admissions": 16390,
+      "rank": 12,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 593204,
+      "title": "Qing Hui Lu Dao",
+      "gross": 0.05,
+      "cume": 0.09,
+      "showings": 129,
+      "admissions": 16000,
+      "rank": 13,
+      "days": 1432,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 629465,
+      "title": "Forever Young",
+      "gross": 0.02,
+      "cume": 0.04,
+      "showings": 10,
+      "admissions": 1755,
+      "rank": 14,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "movie_id": 639010,
+      "title": "Xi You Xin Zhuan2 ：hen Xin Hua Da Mao Xian",
+      "gross": 0.02,
+      "cume": 0.27,
+      "showings": 2022,
+      "admissions": 5075,
+      "rank": 15,
+      "days": 4,
+      "day": "3rd Mon"
+    },
+    {
+      "movie_id": 629440,
+      "title": "Twilight Online",
+      "gross": 0.01,
+      "cume": 1.2,
+      "showings": 522,
+      "admissions": 2959,
+      "rank": 16,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 638997,
+      "title": "The Adventures of Little Piglet Banna",
+      "gross": 0.01,
+      "cume": 0.6,
+      "showings": 809,
+      "admissions": 2886,
+      "rank": 17,
+      "days": 10,
+      "day": "2nd Mon"
+    },
+    {
+      "movie_id": 626876,
+      "title": "Phurbu & Tenzin",
+      "gross": 0.01,
+      "cume": 2.18,
+      "showings": 18,
+      "admissions": 2206,
+      "rank": 18,
+      "days": 448,
+      "day": "64th Mon"
+    },
+    {
+      "movie_id": 627626,
+      "title": "Mr. Deng Goes to Washington",
+      "gross": 0.01,
+      "cume": 2.38,
+      "showings": 46,
+      "admissions": 2160,
+      "rank": 19,
+      "days": 53,
+      "day": "8th Mon"
+    },
+    {
+      "movie_id": 629410,
+      "title": "Jian Bing Man",
+      "gross": 0.01,
+      "cume": 0.11,
+      "showings": 8,
+      "admissions": 1684,
+      "rank": 20,
+      "days": null,
+      "day": "3rd Mon"
+    }
+  ]
+}

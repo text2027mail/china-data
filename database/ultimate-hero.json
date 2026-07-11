@@ -1,0 +1,57 @@
+{
+  "movie_id": 628466,
+  "title": "Ultimate Hero",
+  "releaseDate": "19-08-2016",
+  "entries": [
+    {
+      "date": "19-08-2016",
+      "rank": 11,
+      "gross": 0.39,
+      "cume": 0.39,
+      "showings": 12336,
+      "admissions": 109251,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-08-2016",
+      "rank": 12,
+      "gross": 0.17,
+      "cume": 0.56,
+      "showings": 9158,
+      "admissions": 43872,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-08-2016",
+      "rank": 13,
+      "gross": 0.08,
+      "cume": 0.64,
+      "showings": 7305,
+      "admissions": 20871,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-08-2016",
+      "rank": 18,
+      "gross": 0.04,
+      "cume": 0.67,
+      "showings": 5718,
+      "admissions": 8838,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "05-09-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.7,
+      "showings": 57,
+      "admissions": 430,
+      "days": 18,
+      "day": "3rd Mon"
+    }
+  ]
+}

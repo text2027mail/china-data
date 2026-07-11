@@ -1,0 +1,57 @@
+{
+  "movie_id": 679589,
+  "title": "Ice Cream Lover",
+  "releaseDate": "21-09-2018",
+  "entries": [
+    {
+      "date": "21-09-2018",
+      "rank": 8,
+      "gross": 0.09,
+      "cume": 0.09,
+      "showings": 11723,
+      "admissions": 19166,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-09-2018",
+      "rank": 12,
+      "gross": 0.11,
+      "cume": 0.2,
+      "showings": 4306,
+      "admissions": 21527,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "23-09-2018",
+      "rank": 12,
+      "gross": 0.12,
+      "cume": 0.32,
+      "showings": 3722,
+      "admissions": 23451,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "24-09-2018",
+      "rank": 12,
+      "gross": 0.11,
+      "cume": 0.42,
+      "showings": 3326,
+      "admissions": 21460,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-10-2018",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.48,
+      "showings": 45,
+      "admissions": 2586,
+      "days": 25,
+      "day": "4th Mon"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "movie_id": 659658,
+  "title": "Takes After",
+  "releaseDate": "17-09-2019",
+  "entries": [
+    {
+      "date": "17-09-2019",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 173,
+      "admissions": 2398,
+      "days": 1,
+      "day": "1st Tue"
+    },
+    {
+      "date": "18-09-2019",
+      "rank": 17,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 139,
+      "admissions": 2418,
+      "days": 2,
+      "day": "1st Wed"
+    }
+  ]
+}

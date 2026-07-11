@@ -1,0 +1,107 @@
+{
+  "movie_id": 712854,
+  "title": "The Lost City",
+  "releaseDate": "29-07-2022",
+  "entries": [
+    {
+      "date": "29-07-2022",
+      "rank": 4,
+      "gross": 0.14,
+      "cume": 0.14,
+      "showings": 26279,
+      "admissions": 27146,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "30-07-2022",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.18,
+      "showings": 5117,
+      "admissions": 9274,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "31-07-2022",
+      "rank": 14,
+      "gross": 0.05,
+      "cume": 0.23,
+      "showings": 4310,
+      "admissions": 9668,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "01-08-2022",
+      "rank": 11,
+      "gross": 0.03,
+      "cume": 0.26,
+      "showings": 4212,
+      "admissions": 6291,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-08-2022",
+      "rank": 12,
+      "gross": 0.02,
+      "cume": 0.28,
+      "showings": 3679,
+      "admissions": 5137,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-08-2022",
+      "rank": 13,
+      "gross": 0.03,
+      "cume": 0.31,
+      "showings": 3485,
+      "admissions": 5262,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "08-08-2022",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.33,
+      "showings": 485,
+      "admissions": 1188,
+      "days": 11,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "09-08-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 535,
+      "admissions": 1259,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "10-08-2022",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.34,
+      "showings": 652,
+      "admissions": 1224,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "11-08-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.35,
+      "showings": 657,
+      "admissions": 1208,
+      "days": 14,
+      "day": "2nd Thu"
+    }
+  ]
+}

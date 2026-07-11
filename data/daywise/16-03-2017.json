@@ -1,0 +1,225 @@
+{
+  "date": "16-03-2017",
+  "data": [
+    {
+      "movie_id": 660278,
+      "title": "",
+      "gross": 2.18,
+      "cume": 64.82,
+      "showings": 66896,
+      "admissions": 489750,
+      "rank": 1,
+      "days": 14,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 656944,
+      "title": "Logan",
+      "gross": 1.6,
+      "cume": 96.52,
+      "showings": 62489,
+      "admissions": 336097,
+      "rank": 2,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 623100,
+      "title": "Resident Evil: The Final Chapter",
+      "gross": 0.83,
+      "cume": 159.71,
+      "showings": 35777,
+      "admissions": 164100,
+      "rank": 3,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 658099,
+      "title": "Beauty and the Beast (2017)",
+      "gross": 0.3,
+      "cume": 0.3,
+      "showings": 2933,
+      "admissions": 55423,
+      "rank": 4,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 652752,
+      "title": "Kingsglaive: Final Fantasy XV",
+      "gross": 0.17,
+      "cume": 4.0,
+      "showings": 20289,
+      "admissions": 37915,
+      "rank": 5,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 637377,
+      "title": "Genius",
+      "gross": 0.12,
+      "cume": 1.92,
+      "showings": 11445,
+      "admissions": 25508,
+      "rank": 6,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 631766,
+      "title": "Death Ouija 2",
+      "gross": 0.11,
+      "cume": 1.57,
+      "showings": 8035,
+      "admissions": 24617,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 573814,
+      "title": "xXx: The Return of Xander Cage",
+      "gross": 0.08,
+      "cume": 165.89,
+      "showings": 3231,
+      "admissions": 17215,
+      "rank": 8,
+      "days": 35,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 660329,
+      "title": "Little Lucky",
+      "gross": 0.07,
+      "cume": 0.95,
+      "showings": 7233,
+      "admissions": 16105,
+      "rank": 9,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 658818,
+      "title": "Sing",
+      "gross": 0.06,
+      "cume": 30.74,
+      "showings": 3997,
+      "admissions": 12758,
+      "rank": 10,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 658378,
+      "title": "La La Land",
+      "gross": 0.05,
+      "cume": 36.25,
+      "showings": 1633,
+      "admissions": 9183,
+      "rank": 11,
+      "days": 31,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 643725,
+      "title": "The Game Changer",
+      "gross": 0.04,
+      "cume": 14.95,
+      "showings": 114,
+      "admissions": 8328,
+      "rank": 12,
+      "days": 35,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 659754,
+      "title": "The Lego Batman Movie",
+      "gross": 0.03,
+      "cume": 5.61,
+      "showings": 3911,
+      "admissions": 5477,
+      "rank": 13,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 639864,
+      "title": "Lost in the Moonlight",
+      "gross": 0.03,
+      "cume": 0.51,
+      "showings": 5428,
+      "admissions": 6053,
+      "rank": 14,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 655798,
+      "title": "Duckweed",
+      "gross": 0.03,
+      "cume": 154.57,
+      "showings": 1524,
+      "admissions": 6385,
+      "rank": 15,
+      "days": 48,
+      "day": "8th Thu"
+    },
+    {
+      "movie_id": 629898,
+      "title": "Kung Fu Yoga",
+      "gross": 0.02,
+      "cume": 258.45,
+      "showings": 1275,
+      "admissions": 4834,
+      "rank": 16,
+      "days": 48,
+      "day": "7th Thu"
+    },
+    {
+      "movie_id": 659054,
+      "title": "Assassin's Creed",
+      "gross": 0.01,
+      "cume": 23.73,
+      "showings": 1211,
+      "admissions": 2330,
+      "rank": 17,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 613149,
+      "title": "Spy Eyes",
+      "gross": 0.01,
+      "cume": 0.19,
+      "showings": 1106,
+      "admissions": 2637,
+      "rank": 18,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 641576,
+      "title": "Frightening Embriodery Shoes",
+      "gross": 0.01,
+      "cume": 0.84,
+      "showings": 643,
+      "admissions": 1505,
+      "rank": 19,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 638219,
+      "title": "Planning of be in Love",
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 1391,
+      "admissions": 1304,
+      "rank": 20,
+      "days": 3,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "30-07-2025",
+  "data": [
+    {
+      "movie_id": 750301,
+      "title": "",
+      "gross": 17.55,
+      "cume": 111.54,
+      "showings": 147285,
+      "admissions": 3394197,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 707919,
+      "title": "The Stage",
+      "gross": 2.63,
+      "cume": 34.81,
+      "showings": 60157,
+      "admissions": 490313,
+      "rank": 2,
+      "days": 6,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 736262,
+      "title": "The Litchi Road",
+      "gross": 2.33,
+      "cume": 80.58,
+      "showings": 65648,
+      "admissions": 437030,
+      "rank": 3,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 739594,
+      "title": "The Legend Of Hei 2",
+      "gross": 1.75,
+      "cume": 41.8,
+      "showings": 45079,
+      "admissions": 334293,
+      "rank": 4,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 736314,
+      "title": "Curious Tales of a Temple",
+      "gross": 0.5,
+      "cume": 32.81,
+      "showings": 17088,
+      "admissions": 96180,
+      "rank": 5,
+      "days": 19,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 755090,
+      "title": "Nobody",
+      "gross": 0.4,
+      "cume": 1.93,
+      "showings": 6066,
+      "admissions": 71462,
+      "rank": 6,
+      "days": null,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 797672,
+      "title": "F1 The Movie",
+      "gross": 0.39,
+      "cume": 55.75,
+      "showings": 4844,
+      "admissions": 50721,
+      "rank": 7,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 797148,
+      "title": "Pleasant Goat and Big Big Wolf - Bright New",
+      "gross": 0.38,
+      "cume": 6.06,
+      "showings": 22339,
+      "admissions": 76611,
+      "rank": 8,
+      "days": 5,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 823726,
+      "title": "Jurassic World: Rebirth",
+      "gross": 0.23,
+      "cume": 81.02,
+      "showings": 6223,
+      "admissions": 38495,
+      "rank": 9,
+      "days": 29,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 842932,
+      "title": "The Fantastic Four: First Steps",
+      "gross": 0.14,
+      "cume": 5.31,
+      "showings": 8833,
+      "admissions": 22235,
+      "rank": 10,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 795748,
+      "title": "Detective Conan: One-eyed Flashback",
+      "gross": 0.09,
+      "cume": 56.93,
+      "showings": 3540,
+      "admissions": 16612,
+      "rank": 11,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 751043,
+      "title": "Girl On Edge",
+      "gross": 0.09,
+      "cume": 3.77,
+      "showings": 5044,
+      "admissions": 16955,
+      "rank": 12,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 750044,
+      "title": "Let the Music Fly",
+      "gross": 0.07,
+      "cume": 13.09,
+      "showings": 3507,
+      "admissions": 12317,
+      "rank": 13,
+      "days": 13,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 750142,
+      "title": "Malice",
+      "gross": 0.06,
+      "cume": 37.26,
+      "showings": 4217,
+      "admissions": 12308,
+      "rank": 14,
+      "days": 26,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 757537,
+      "title": "Fengmen Village Horror",
+      "gross": 0.02,
+      "cume": 0.31,
+      "showings": 2203,
+      "admissions": 4403,
+      "rank": 15,
+      "days": 10,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 683826,
+      "title": "NEW THREE GORES",
+      "gross": 0.02,
+      "cume": 0.68,
+      "showings": 40,
+      "admissions": 2301,
+      "rank": 16,
+      "days": 35,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 772984,
+      "title": "How to Train Your Dragon",
+      "gross": 0.02,
+      "cume": 41.42,
+      "showings": 582,
+      "admissions": 2881,
+      "rank": 17,
+      "days": 48,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 458476,
+      "title": "Shin Chan: The Adult Empire Strikes Back",
+      "gross": 0.01,
+      "cume": 10.0,
+      "showings": 856,
+      "admissions": 1915,
+      "rank": 18,
+      "days": 33,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 797841,
+      "title": "Superman",
+      "gross": 0.01,
+      "cume": 9.34,
+      "showings": 368,
+      "admissions": 1515,
+      "rank": 19,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 707480,
+      "title": "TIAN BAO",
+      "gross": 0.01,
+      "cume": 0.43,
+      "showings": 167,
+      "admissions": 1466,
+      "rank": 20,
+      "days": 21,
+      "day": "5th Wed"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "10-05-2016",
+  "data": [
+    {
+      "movie_id": 643612,
+      "title": "",
+      "gross": 7.31,
+      "cume": 108.77,
+      "showings": 87265,
+      "admissions": 1417995,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 639261,
+      "title": "Book Of Love",
+      "gross": 1.86,
+      "cume": 97.97,
+      "showings": 32814,
+      "admissions": 379080,
+      "rank": 2,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 625797,
+      "title": "The Jungle Book",
+      "gross": 0.34,
+      "cume": 142.54,
+      "showings": 14759,
+      "admissions": 73022,
+      "rank": 3,
+      "days": 26,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 637777,
+      "title": "Phantom Of The Theater",
+      "gross": 0.15,
+      "cume": 12.54,
+      "showings": 6712,
+      "admissions": 33045,
+      "rank": 4,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 628773,
+      "title": "MBA Partners",
+      "gross": 0.1,
+      "cume": 11.68,
+      "showings": 5116,
+      "admissions": 23468,
+      "rank": 5,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 611464,
+      "title": "Song of the Phoenix",
+      "gross": 0.08,
+      "cume": 0.37,
+      "showings": 2705,
+      "admissions": 19198,
+      "rank": 6,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 639470,
+      "title": "Delusion",
+      "gross": 0.05,
+      "cume": 0.21,
+      "showings": 2132,
+      "admissions": 10816,
+      "rank": 7,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 638623,
+      "title": "Xuan Zang",
+      "gross": 0.04,
+      "cume": 4.67,
+      "showings": 2304,
+      "admissions": 9357,
+      "rank": 8,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 619412,
+      "title": "Yesterday Once More",
+      "gross": 0.04,
+      "cume": 26.34,
+      "showings": 2723,
+      "admissions": 9618,
+      "rank": 9,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 612080,
+      "title": "Buddy Cops",
+      "gross": 0.02,
+      "cume": 4.37,
+      "showings": 542,
+      "admissions": 3965,
+      "rank": 10,
+      "days": 19,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 618587,
+      "title": "Sentence Me Guilty",
+      "gross": 0.02,
+      "cume": 0.14,
+      "showings": 3374,
+      "admissions": 3446,
+      "rank": 11,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 642530,
+      "title": "The White-haired Girl",
+      "gross": 0.01,
+      "cume": 0.43,
+      "showings": 39,
+      "admissions": 2336,
+      "rank": 12,
+      "days": 47,
+      "day": "10th Tue"
+    },
+    {
+      "movie_id": 643759,
+      "title": "The Huntsman: Winter's War",
+      "gross": 0.01,
+      "cume": 15.66,
+      "showings": 495,
+      "admissions": 1530,
+      "rank": 13,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 630869,
+      "title": "Distance",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 7,
+      "admissions": 975,
+      "rank": 14,
+      "days": null,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 643747,
+      "title": "Flying Colors",
+      "gross": 0.0,
+      "cume": 5.54,
+      "showings": 140,
+      "admissions": 788,
+      "rank": 15,
+      "days": 27,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 640167,
+      "title": "Temporary Agreement",
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 10,
+      "admissions": 1009,
+      "rank": 16,
+      "days": 26,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 643901,
+      "title": "God's Hug",
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 616,
+      "admissions": 836,
+      "rank": 17,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 643746,
+      "title": "Ma Xiaole and His Toys",
+      "gross": 0.0,
+      "cume": 0.99,
+      "showings": 451,
+      "admissions": 711,
+      "rank": 18,
+      "days": 11,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 643854,
+      "title": "Qing Wa Zong Dong Yuan",
+      "gross": 0.0,
+      "cume": 1.24,
+      "showings": 763,
+      "admissions": 517,
+      "rank": 19,
+      "days": 11,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 627440,
+      "title": "Dad，I Will Rescue You",
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 2,
+      "admissions": 758,
+      "rank": 20,
+      "days": 110,
+      "day": "10th Tue"
+    }
+  ]
+}

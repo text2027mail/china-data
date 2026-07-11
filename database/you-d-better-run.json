@@ -1,0 +1,67 @@
+{
+  "movie_id": 641518,
+  "title": "You’d Better Run",
+  "releaseDate": "13-10-2017",
+  "entries": [
+    {
+      "date": "13-10-2017",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.02,
+      "showings": 3542,
+      "admissions": 5117,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-10-2017",
+      "rank": 18,
+      "gross": 0.05,
+      "cume": 0.07,
+      "showings": 1098,
+      "admissions": 13501,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-10-2017",
+      "rank": 17,
+      "gross": 0.04,
+      "cume": 0.11,
+      "showings": 922,
+      "admissions": 11252,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-10-2017",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 659,
+      "admissions": 2524,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "17-10-2017",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 527,
+      "admissions": 2613,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "18-10-2017",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.13,
+      "showings": 410,
+      "admissions": 2335,
+      "days": 6,
+      "day": "1st Wed"
+    }
+  ]
+}

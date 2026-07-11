@@ -1,0 +1,97 @@
+{
+  "movie_id": 639474,
+  "title": "My Wife is a Superstar",
+  "releaseDate": "07-04-2016",
+  "entries": [
+    {
+      "date": "07-04-2016",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 11,
+      "admissions": 880,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "date": "08-04-2016",
+      "rank": 9,
+      "gross": 0.04,
+      "cume": 0.04,
+      "showings": 3655,
+      "admissions": 8499,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-04-2016",
+      "rank": 11,
+      "gross": 0.05,
+      "cume": 0.09,
+      "showings": 2921,
+      "admissions": 12209,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-04-2016",
+      "rank": 11,
+      "gross": 0.04,
+      "cume": 0.13,
+      "showings": 2593,
+      "admissions": 9442,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-04-2016",
+      "rank": 9,
+      "gross": 0.02,
+      "cume": 0.15,
+      "showings": 2465,
+      "admissions": 4686,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-04-2016",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.17,
+      "showings": 2381,
+      "admissions": 4049,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-04-2016",
+      "rank": 10,
+      "gross": 0.02,
+      "cume": 0.19,
+      "showings": 2245,
+      "admissions": 3606,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-04-2016",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.2,
+      "showings": 1380,
+      "admissions": 1938,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "28-04-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.22,
+      "showings": 86,
+      "admissions": 883,
+      "days": 21,
+      "day": "4th Thu"
+    }
+  ]
+}

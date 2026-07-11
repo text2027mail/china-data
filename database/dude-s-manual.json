@@ -1,0 +1,87 @@
+{
+  "movie_id": 643903,
+  "title": "Dude's Manual",
+  "releaseDate": "20-04-2018",
+  "entries": [
+    {
+      "date": "20-04-2018",
+      "rank": 4,
+      "gross": 1.35,
+      "cume": 1.38,
+      "showings": 53529,
+      "admissions": 274407,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-04-2018",
+      "rank": 5,
+      "gross": 1.23,
+      "cume": 2.61,
+      "showings": 39386,
+      "admissions": 252622,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-04-2018",
+      "rank": 5,
+      "gross": 0.81,
+      "cume": 3.42,
+      "showings": 35190,
+      "admissions": 174057,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-04-2018",
+      "rank": 4,
+      "gross": 0.37,
+      "cume": 3.79,
+      "showings": 31366,
+      "admissions": 80222,
+      "days": 4,
+      "day": "1st Mon"
+    },
+    {
+      "date": "24-04-2018",
+      "rank": 4,
+      "gross": 0.36,
+      "cume": 4.15,
+      "showings": 29828,
+      "admissions": 79661,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "date": "25-04-2018",
+      "rank": 4,
+      "gross": 0.33,
+      "cume": 4.49,
+      "showings": 29097,
+      "admissions": 73723,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "26-04-2018",
+      "rank": 4,
+      "gross": 0.32,
+      "cume": 4.8,
+      "showings": 28645,
+      "admissions": 70163,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "date": "27-04-2018",
+      "rank": 4,
+      "gross": 0.3,
+      "cume": 5.11,
+      "showings": 28472,
+      "admissions": 65910,
+      "days": 8,
+      "day": "2nd Fri"
+    }
+  ]
+}

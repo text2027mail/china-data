@@ -1,0 +1,77 @@
+{
+  "movie_id": 697485,
+  "title": "Starry Sky",
+  "releaseDate": "31-12-2021",
+  "entries": [
+    {
+      "date": "31-12-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 33,
+      "admissions": 2007,
+      "days": 28,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-01-2022",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 49,
+      "admissions": 2152,
+      "days": 29,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-07-2022",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.21,
+      "showings": 40,
+      "admissions": 1036,
+      "days": 218,
+      "day": "28th Sat"
+    },
+    {
+      "date": "10-07-2022",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.22,
+      "showings": 40,
+      "admissions": 1310,
+      "days": 219,
+      "day": "28th Sun"
+    },
+    {
+      "date": "16-07-2022",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.24,
+      "showings": 45,
+      "admissions": 1383,
+      "days": 225,
+      "day": "29th Sat"
+    },
+    {
+      "date": "17-07-2022",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.25,
+      "showings": 41,
+      "admissions": 1561,
+      "days": 226,
+      "day": "29th Sun"
+    },
+    {
+      "date": "18-07-2022",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.25,
+      "showings": 41,
+      "admissions": 735,
+      "days": 227,
+      "day": "29th Mon"
+    }
+  ]
+}

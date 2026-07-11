@@ -1,0 +1,225 @@
+{
+  "date": "29-01-2019",
+  "data": [
+    {
+      "movie_id": 657841,
+      "title": "",
+      "gross": 3.05,
+      "cume": 28.88,
+      "showings": 104768,
+      "admissions": 647358,
+      "rank": 1,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 682701,
+      "title": "White Snake",
+      "gross": 2.72,
+      "cume": 49.77,
+      "showings": 59867,
+      "admissions": 544167,
+      "rank": 2,
+      "days": 19,
+      "day": "4th Tue"
+    },
+    {
+      "movie_id": 678494,
+      "title": "Bumblebee",
+      "gross": 1.71,
+      "cume": 160.0,
+      "showings": 49508,
+      "admissions": 346325,
+      "rank": 3,
+      "days": 26,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 685233,
+      "title": "Escape Room",
+      "gross": 1.49,
+      "cume": 25.27,
+      "showings": 40221,
+      "admissions": 320558,
+      "rank": 4,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 675107,
+      "title": "The Big Shot",
+      "gross": 0.89,
+      "cume": 51.35,
+      "showings": 25139,
+      "admissions": 168503,
+      "rank": 5,
+      "days": 20,
+      "day": "6th Tue"
+    },
+    {
+      "movie_id": 685259,
+      "title": "A Home with a View",
+      "gross": 0.24,
+      "cume": 4.34,
+      "showings": 973,
+      "admissions": 34223,
+      "rank": 6,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 676520,
+      "title": "Dragon Force-Rise of Ultraman",
+      "gross": 0.15,
+      "cume": 3.53,
+      "showings": 8552,
+      "admissions": 30330,
+      "rank": 7,
+      "days": 12,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 665526,
+      "title": "Aquaman",
+      "gross": 0.11,
+      "cume": 296.1,
+      "showings": 3604,
+      "admissions": 23387,
+      "rank": 8,
+      "days": 54,
+      "day": "8th Tue"
+    },
+    {
+      "movie_id": 685290,
+      "title": "A Dog's Way Home",
+      "gross": 0.1,
+      "cume": 4.82,
+      "showings": 4385,
+      "admissions": 21738,
+      "rank": 9,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 684593,
+      "title": "Battle of Tortoise and Rabbit",
+      "gross": 0.09,
+      "cume": 1.12,
+      "showings": 80,
+      "admissions": 7583,
+      "rank": 10,
+      "days": 31,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 684800,
+      "title": "Mortal Engines",
+      "gross": 0.09,
+      "cume": 6.91,
+      "showings": 5057,
+      "admissions": 18393,
+      "rank": 11,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 684192,
+      "title": "Kill Mobile",
+      "gross": 0.08,
+      "cume": 94.24,
+      "showings": 2965,
+      "admissions": 17180,
+      "rank": 12,
+      "days": 33,
+      "day": "5th Tue"
+    },
+    {
+      "movie_id": 638565,
+      "title": "The Great Detective",
+      "gross": 0.07,
+      "cume": 0.94,
+      "showings": 9883,
+      "admissions": 15379,
+      "rank": 13,
+      "days": 5,
+      "day": "1st Tue"
+    },
+    {
+      "movie_id": 684774,
+      "title": "I Want to Eat Your Pancreas",
+      "gross": 0.06,
+      "cume": 3.22,
+      "showings": 3160,
+      "admissions": 13795,
+      "rank": 14,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 684504,
+      "title": "How I Became Russian",
+      "gross": 0.06,
+      "cume": 0.94,
+      "showings": 5470,
+      "admissions": 11823,
+      "rank": 15,
+      "days": 6,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 684559,
+      "title": "The Stolen Princess",
+      "gross": 0.04,
+      "cume": 0.91,
+      "showings": 1852,
+      "admissions": 8396,
+      "rank": 16,
+      "days": 12,
+      "day": "2nd Tue"
+    },
+    {
+      "movie_id": 680396,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "gross": 0.02,
+      "cume": 62.93,
+      "showings": 710,
+      "admissions": 3566,
+      "rank": 17,
+      "days": 40,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 673489,
+      "title": "Startups",
+      "gross": 0.02,
+      "cume": 1.13,
+      "showings": 454,
+      "admissions": 3493,
+      "rank": 18,
+      "days": 19,
+      "day": "3rd Tue"
+    },
+    {
+      "movie_id": 675139,
+      "title": "The Photographer",
+      "gross": 0.02,
+      "cume": 1.46,
+      "showings": 182,
+      "admissions": 3124,
+      "rank": 19,
+      "days": 49,
+      "day": "7th Tue"
+    },
+    {
+      "movie_id": 674436,
+      "title": "Sky Stream",
+      "gross": 0.01,
+      "cume": 2.2,
+      "showings": 21,
+      "admissions": 2161,
+      "rank": 20,
+      "days": 61,
+      "day": "8th Tue"
+    }
+  ]
+}

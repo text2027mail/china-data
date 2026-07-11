@@ -1,0 +1,225 @@
+{
+  "date": "15-12-2016",
+  "data": [
+    {
+      "movie_id": 595849,
+      "title": "",
+      "gross": 7.13,
+      "cume": 7.17,
+      "showings": 37123,
+      "admissions": 1425555,
+      "rank": 1,
+      "days": null,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 657651,
+      "title": "Hacksaw Ridge",
+      "gross": 1.96,
+      "cume": 27.35,
+      "showings": 43899,
+      "admissions": 463975,
+      "rank": 2,
+      "days": 8,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 640662,
+      "title": "Suddenly Seventeen",
+      "gross": 0.96,
+      "cume": 16.5,
+      "showings": 35090,
+      "admissions": 236095,
+      "rank": 3,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 640103,
+      "title": "I Am Not Madame Bovary",
+      "gross": 0.8,
+      "cume": 65.1,
+      "showings": 2117,
+      "admissions": 104586,
+      "rank": 4,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 655647,
+      "title": "Your Name",
+      "gross": 0.77,
+      "cume": 77.13,
+      "showings": 34518,
+      "admissions": 187047,
+      "rank": 5,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 656002,
+      "title": "Sully",
+      "gross": 0.36,
+      "cume": 7.89,
+      "showings": 16585,
+      "admissions": 78177,
+      "rank": 6,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 643984,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "gross": 0.24,
+      "cume": 85.54,
+      "showings": 10583,
+      "admissions": 46422,
+      "rank": 7,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 643913,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "gross": 0.12,
+      "cume": 17.01,
+      "showings": 6184,
+      "admissions": 24640,
+      "rank": 8,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 637633,
+      "title": "Super Express",
+      "gross": 0.11,
+      "cume": 8.78,
+      "showings": 6801,
+      "admissions": 28952,
+      "rank": 9,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 573488,
+      "title": "Sword Master",
+      "gross": 0.1,
+      "cume": 13.82,
+      "showings": 3745,
+      "admissions": 18077,
+      "rank": 10,
+      "days": 14,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 617156,
+      "title": "The Wasted Times",
+      "gross": 0.08,
+      "cume": 0.08,
+      "showings": 1050,
+      "admissions": 12626,
+      "rank": 11,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 644926,
+      "title": "Moana",
+      "gross": 0.07,
+      "cume": 26.9,
+      "showings": 4171,
+      "admissions": 14704,
+      "rank": 12,
+      "days": 21,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 1992,
+      "title": "Astro Boy",
+      "gross": 0.03,
+      "cume": 6.91,
+      "showings": 29,
+      "admissions": 6273,
+      "rank": 13,
+      "days": 2611,
+      "day": "11th Thu"
+    },
+    {
+      "movie_id": 637667,
+      "title": "Foolish Plan",
+      "gross": 0.03,
+      "cume": 0.52,
+      "showings": 1985,
+      "admissions": 4215,
+      "rank": 14,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 587844,
+      "title": "Its Love",
+      "gross": 0.03,
+      "cume": 26.62,
+      "showings": 33,
+      "admissions": 5889,
+      "rank": 15,
+      "days": 1906,
+      "day": "145th Thu"
+    },
+    {
+      "movie_id": 597102,
+      "title": "I Love Wolffy",
+      "gross": 0.03,
+      "cume": 11.11,
+      "showings": 41,
+      "admissions": 5654,
+      "rank": 16,
+      "days": 1589,
+      "day": "177th Thu"
+    },
+    {
+      "movie_id": 613854,
+      "title": "One Night Surprise",
+      "gross": 0.03,
+      "cume": 26.17,
+      "showings": 38,
+      "admissions": 5651,
+      "rank": 17,
+      "days": 1225,
+      "day": "176th Thu"
+    },
+    {
+      "movie_id": 573395,
+      "title": "Shen Bing Xiao Jiang",
+      "gross": 0.02,
+      "cume": 0.99,
+      "showings": 45,
+      "admissions": 5515,
+      "rank": 18,
+      "days": 2633,
+      "day": "191st Thu"
+    },
+    {
+      "movie_id": 608197,
+      "title": "Blind Detective",
+      "gross": 0.02,
+      "cume": 31.6,
+      "showings": 46,
+      "admissions": 5249,
+      "rank": 19,
+      "days": 1261,
+      "day": "181st Thu"
+    },
+    {
+      "movie_id": 653080,
+      "title": "Ghost",
+      "gross": 0.01,
+      "cume": 0.44,
+      "showings": 557,
+      "admissions": 1619,
+      "rank": 20,
+      "days": 14,
+      "day": "2nd Thu"
+    }
+  ]
+}

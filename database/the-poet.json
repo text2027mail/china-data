@@ -1,0 +1,27 @@
+{
+  "movie_id": 694720,
+  "title": "The Poet",
+  "releaseDate": "05-06-2021",
+  "entries": [
+    {
+      "date": "05-06-2021",
+      "rank": 16,
+      "gross": 0.08,
+      "cume": 0.09,
+      "showings": 10144,
+      "admissions": 16778,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "07-06-2021",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.12,
+      "showings": 2463,
+      "admissions": 1915,
+      "days": 3,
+      "day": "1st Mon"
+    }
+  ]
+}

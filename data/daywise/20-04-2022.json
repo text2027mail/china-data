@@ -1,0 +1,225 @@
+{
+  "date": "20-04-2022",
+  "data": [
+    {
+      "movie_id": 710612,
+      "title": "",
+      "gross": 0.34,
+      "cume": 7.32,
+      "showings": 33899,
+      "admissions": 62163,
+      "rank": 1,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 710883,
+      "title": "Fantastic BeaFantastic Beasts: The Secrets of Dumbledore",
+      "gross": 0.24,
+      "cume": 14.51,
+      "showings": 34530,
+      "admissions": 45197,
+      "rank": 2,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 632721,
+      "title": "Drishyam",
+      "gross": 0.12,
+      "cume": 0.82,
+      "showings": 13838,
+      "admissions": 25090,
+      "rank": 3,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 708491,
+      "title": "Escape Room: Tournament of Champions",
+      "gross": 0.08,
+      "cume": 6.3,
+      "showings": 14974,
+      "admissions": 17218,
+      "rank": 4,
+      "days": 19,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 707673,
+      "title": "Hotel Transylvania 4: Transformania",
+      "gross": 0.07,
+      "cume": 7.7,
+      "showings": 13069,
+      "admissions": 15082,
+      "rank": 5,
+      "days": 18,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 712140,
+      "title": "Moonfall",
+      "gross": 0.06,
+      "cume": 19.37,
+      "showings": 11155,
+      "admissions": 12193,
+      "rank": 6,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 692015,
+      "title": "Love at Second Sight",
+      "gross": 0.06,
+      "cume": 0.61,
+      "showings": 8055,
+      "admissions": 11444,
+      "rank": 7,
+      "days": 7,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 702458,
+      "title": "The Batman",
+      "gross": 0.04,
+      "cume": 21.26,
+      "showings": 4821,
+      "admissions": 8269,
+      "rank": 8,
+      "days": 34,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 711120,
+      "title": "Uncharted",
+      "gross": 0.04,
+      "cume": 16.89,
+      "showings": 5149,
+      "admissions": 8517,
+      "rank": 9,
+      "days": 38,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 709649,
+      "title": "The Battle At Lake Changjin II",
+      "gross": 0.04,
+      "cume": 598.87,
+      "showings": 3768,
+      "admissions": 6868,
+      "rank": 10,
+      "days": 79,
+      "day": "12th Wed"
+    },
+    {
+      "movie_id": 708179,
+      "title": "Too Cool To Kill",
+      "gross": 0.02,
+      "cume": 386.93,
+      "showings": 2308,
+      "admissions": 2684,
+      "rank": 11,
+      "days": 79,
+      "day": "12th Wed"
+    },
+    {
+      "movie_id": 710039,
+      "title": "Why Are The Flower So Red",
+      "gross": 0.01,
+      "cume": 0.75,
+      "showings": 180,
+      "admissions": 1776,
+      "rank": 12,
+      "days": 34,
+      "day": "5th Wed"
+    },
+    {
+      "movie_id": 706422,
+      "title": "I Fell in Love Like A Flower Bouquet",
+      "gross": 0.01,
+      "cume": 13.32,
+      "showings": 1069,
+      "admissions": 1632,
+      "rank": 13,
+      "days": 58,
+      "day": "9th Wed"
+    },
+    {
+      "movie_id": 700620,
+      "title": "CURLING HAPPINESS",
+      "gross": 0.01,
+      "cume": 0.09,
+      "showings": 1932,
+      "admissions": 1438,
+      "rank": 14,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 706338,
+      "title": "Nice View",
+      "gross": 0.01,
+      "cume": 203.11,
+      "showings": 1286,
+      "admissions": 1185,
+      "rank": 15,
+      "days": 79,
+      "day": "12th Wed"
+    },
+    {
+      "movie_id": 703089,
+      "title": "Sniper",
+      "gross": 0.0,
+      "cume": 88.77,
+      "showings": 518,
+      "admissions": 559,
+      "rank": 16,
+      "days": 79,
+      "day": "12th Wed"
+    },
+    {
+      "movie_id": 684635,
+      "title": "Brothers",
+      "gross": 0.0,
+      "cume": 0.75,
+      "showings": 744,
+      "admissions": 347,
+      "rank": 17,
+      "days": 27,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 712222,
+      "title": "Kanaa",
+      "gross": 0.0,
+      "cume": 0.46,
+      "showings": 268,
+      "admissions": 356,
+      "rank": 18,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 0.0,
+      "cume": 142.32,
+      "showings": 607,
+      "admissions": 282,
+      "rank": 19,
+      "days": 79,
+      "day": "14th Wed"
+    },
+    {
+      "movie_id": 702894,
+      "title": "A Girl And Her Beea",
+      "gross": 0.0,
+      "cume": 0.54,
+      "showings": 15,
+      "admissions": 300,
+      "rank": 20,
+      "days": 114,
+      "day": "12th Wed"
+    }
+  ]
+}

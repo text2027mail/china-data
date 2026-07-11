@@ -1,0 +1,225 @@
+{
+  "date": "04-08-2016",
+  "data": [
+    {
+      "movie_id": 611818,
+      "title": "",
+      "gross": 5.73,
+      "cume": 5.73,
+      "showings": 24986,
+      "admissions": 1102224,
+      "rank": 1,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 643879,
+      "title": "The Secret Life of Pets",
+      "gross": 3.7,
+      "cume": 13.27,
+      "showings": 53423,
+      "admissions": 792461,
+      "rank": 2,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 621641,
+      "title": "Skiptrace",
+      "gross": 2.39,
+      "cume": 121.51,
+      "showings": 41114,
+      "admissions": 468563,
+      "rank": 3,
+      "days": 15,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 626988,
+      "title": "League Of Gods",
+      "gross": 1.4,
+      "cume": 40.34,
+      "showings": 42016,
+      "admissions": 284644,
+      "rank": 4,
+      "days": 7,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 643814,
+      "title": "The Legend of Tarzan",
+      "gross": 0.55,
+      "cume": 44.48,
+      "showings": 12343,
+      "admissions": 111719,
+      "rank": 5,
+      "days": 17,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 639105,
+      "title": "Yugo & Lala 3",
+      "gross": 0.35,
+      "cume": 7.91,
+      "showings": 11033,
+      "admissions": 74910,
+      "rank": 6,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 627597,
+      "title": "Sweet Sixteen",
+      "gross": 0.14,
+      "cume": 0.89,
+      "showings": 1887,
+      "admissions": 32124,
+      "rank": 7,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 641077,
+      "title": "Cold War II",
+      "gross": 0.13,
+      "cume": 99.76,
+      "showings": 2404,
+      "admissions": 22533,
+      "rank": 8,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 643721,
+      "title": "Doraemon: Shin Nobita no Nippon tanjou",
+      "gross": 0.11,
+      "cume": 15.16,
+      "showings": 5360,
+      "admissions": 28083,
+      "rank": 9,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 618087,
+      "title": "Big Fish & Begonia",
+      "gross": 0.11,
+      "cume": 83.22,
+      "showings": 3281,
+      "admissions": 22487,
+      "rank": 10,
+      "days": 28,
+      "day": "5th Thu"
+    },
+    {
+      "movie_id": 644059,
+      "title": "When Larry Met Mary",
+      "gross": 0.1,
+      "cume": 28.25,
+      "showings": 2865,
+      "admissions": 23314,
+      "rank": 11,
+      "days": 21,
+      "day": "6th Thu"
+    },
+    {
+      "movie_id": 642220,
+      "title": "Kungfu Boys",
+      "gross": 0.08,
+      "cume": 0.34,
+      "showings": 4338,
+      "admissions": 22859,
+      "rank": 12,
+      "days": 3,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 640892,
+      "title": "The Woman Behind The Man",
+      "gross": 0.08,
+      "cume": 0.84,
+      "showings": 180,
+      "admissions": 17346,
+      "rank": 13,
+      "days": 14,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 639418,
+      "title": "Girl of The Big House",
+      "gross": 0.08,
+      "cume": 2.21,
+      "showings": 4712,
+      "admissions": 17980,
+      "rank": 14,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 631427,
+      "title": "A Busy Night",
+      "gross": 0.04,
+      "cume": 1.3,
+      "showings": 2849,
+      "admissions": 10885,
+      "rank": 15,
+      "days": 7,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 637773,
+      "title": "At Cafe 6",
+      "gross": 0.03,
+      "cume": 0.96,
+      "showings": 2838,
+      "admissions": 5496,
+      "rank": 16,
+      "days": 7,
+      "day": "3rd Thu"
+    },
+    {
+      "movie_id": 643749,
+      "title": "I Love That Crazy Little Thing",
+      "gross": 0.03,
+      "cume": 0.08,
+      "showings": 16,
+      "admissions": 1313,
+      "rank": 17,
+      "days": null,
+      "day": "1st Thu"
+    },
+    {
+      "movie_id": 644032,
+      "title": "Tik Tok",
+      "gross": 0.02,
+      "cume": 11.59,
+      "showings": 364,
+      "admissions": 3581,
+      "rank": 18,
+      "days": 21,
+      "day": "4th Thu"
+    },
+    {
+      "movie_id": 633144,
+      "title": "Triple 9",
+      "gross": 0.02,
+      "cume": 1.03,
+      "showings": 1565,
+      "admissions": 3470,
+      "rank": 19,
+      "days": 9,
+      "day": "2nd Thu"
+    },
+    {
+      "movie_id": 638745,
+      "title": "Warrant the reborn",
+      "gross": 0.02,
+      "cume": 0.33,
+      "showings": 1620,
+      "admissions": 4669,
+      "rank": 20,
+      "days": 7,
+      "day": "2nd Thu"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "22-12-2021",
+  "data": [
+    {
+      "movie_id": 709879,
+      "title": "",
+      "gross": 4.7,
+      "cume": 68.73,
+      "showings": 146291,
+      "admissions": 817103,
+      "rank": 1,
+      "days": 6,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 709926,
+      "title": "Crossing the Yalu River",
+      "gross": 1.02,
+      "cume": 5.85,
+      "showings": 16569,
+      "admissions": 192390,
+      "rank": 2,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "movie_id": 696843,
+      "title": "Lion Dance Boy",
+      "gross": 0.61,
+      "cume": 11.31,
+      "showings": 47193,
+      "admissions": 108060,
+      "rank": 3,
+      "days": 6,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 677896,
+      "title": "Schemes In Antiques",
+      "gross": 0.43,
+      "cume": 59.47,
+      "showings": 38994,
+      "admissions": 77061,
+      "rank": 4,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 706189,
+      "title": "Be Somebody",
+      "gross": 0.32,
+      "cume": 132.28,
+      "showings": 27576,
+      "admissions": 58723,
+      "rank": 5,
+      "days": 42,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 705393,
+      "title": "Sanwan Reorganization",
+      "gross": 0.09,
+      "cume": 5.93,
+      "showings": 299,
+      "admissions": 21018,
+      "rank": 6,
+      "days": 157,
+      "day": "24th Wed"
+    },
+    {
+      "movie_id": 703496,
+      "title": "The Battle at Lake Changjin",
+      "gross": 0.08,
+      "cume": 850.84,
+      "showings": 6607,
+      "admissions": 16769,
+      "rank": 7,
+      "days": 84,
+      "day": "13th Wed"
+    },
+    {
+      "movie_id": 694817,
+      "title": "You World,Without Me",
+      "gross": 0.04,
+      "cume": 4.33,
+      "showings": 1365,
+      "admissions": 5721,
+      "rank": 8,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 611240,
+      "title": "Good Night Beijing",
+      "gross": 0.04,
+      "cume": 5.2,
+      "showings": 7381,
+      "admissions": 7501,
+      "rank": 9,
+      "days": 13,
+      "day": "2nd Wed"
+    },
+    {
+      "movie_id": 704791,
+      "title": "Railway Heros",
+      "gross": 0.01,
+      "cume": 20.93,
+      "showings": 1220,
+      "admissions": 2936,
+      "rank": 10,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 684884,
+      "title": "The Man Of People",
+      "gross": 0.01,
+      "cume": 0.58,
+      "showings": 89,
+      "admissions": 2632,
+      "rank": 11,
+      "days": null,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 696608,
+      "title": "No Time to Die",
+      "gross": 0.01,
+      "cume": 61.06,
+      "showings": 832,
+      "admissions": 1950,
+      "rank": 12,
+      "days": 55,
+      "day": "8th Wed"
+    },
+    {
+      "movie_id": 685994,
+      "title": "Ninth Beijing international film festival",
+      "gross": 0.01,
+      "cume": 0.73,
+      "showings": 4,
+      "admissions": 2069,
+      "rank": 13,
+      "days": null,
+      "day": "128th Wed"
+    },
+    {
+      "movie_id": 709625,
+      "title": "My People My Devotion",
+      "gross": 0.01,
+      "cume": 0.31,
+      "showings": 206,
+      "admissions": 1940,
+      "rank": 14,
+      "days": 20,
+      "day": "3rd Wed"
+    },
+    {
+      "movie_id": 708925,
+      "title": "Patio of Illusion",
+      "gross": 0.01,
+      "cume": 0.38,
+      "showings": 55,
+      "admissions": 979,
+      "rank": 15,
+      "days": 104,
+      "day": "15th Wed"
+    },
+    {
+      "movie_id": 702083,
+      "title": "Confusion",
+      "gross": 0.01,
+      "cume": 0.93,
+      "showings": 83,
+      "admissions": 1655,
+      "rank": 16,
+      "days": 25,
+      "day": "4th Wed"
+    },
+    {
+      "movie_id": 674137,
+      "title": "White Snake",
+      "gross": 0.01,
+      "cume": 3.19,
+      "showings": 23,
+      "admissions": 1539,
+      "rank": 17,
+      "days": 217,
+      "day": "31st Wed"
+    },
+    {
+      "movie_id": 693966,
+      "title": "Anita",
+      "gross": 0.01,
+      "cume": 16.66,
+      "showings": 1039,
+      "admissions": 1787,
+      "rank": 18,
+      "days": 41,
+      "day": "7th Wed"
+    },
+    {
+      "movie_id": 702566,
+      "title": "Door Lock",
+      "gross": 0.01,
+      "cume": 35.71,
+      "showings": 1819,
+      "admissions": 1688,
+      "rank": 19,
+      "days": 34,
+      "day": "6th Wed"
+    },
+    {
+      "movie_id": 699531,
+      "title": "YANGZHEN ’S JOURNEY",
+      "gross": 0.01,
+      "cume": 0.44,
+      "showings": 20,
+      "admissions": 1786,
+      "rank": 20,
+      "days": 48,
+      "day": "7th Wed"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 691554,
+  "title": "Don’t. Get. Out.",
+  "releaseDate": "12-10-2019",
+  "entries": [
+    {
+      "date": "12-10-2019",
+      "rank": 5,
+      "gross": 0.28,
+      "cume": 0.29,
+      "showings": 19875,
+      "admissions": 64444,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-10-2019",
+      "rank": 7,
+      "gross": 0.16,
+      "cume": 0.45,
+      "showings": 10756,
+      "admissions": 35580,
+      "days": 2,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-10-2019",
+      "rank": 7,
+      "gross": 0.06,
+      "cume": 0.51,
+      "showings": 7713,
+      "admissions": 12925,
+      "days": 3,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-10-2019",
+      "rank": 7,
+      "gross": 0.05,
+      "cume": 0.56,
+      "showings": 6934,
+      "admissions": 11476,
+      "days": 4,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-10-2019",
+      "rank": 8,
+      "gross": 0.04,
+      "cume": 0.6,
+      "showings": 6107,
+      "admissions": 10051,
+      "days": 5,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-10-2019",
+      "rank": 12,
+      "gross": 0.04,
+      "cume": 0.64,
+      "showings": 5775,
+      "admissions": 8469,
+      "days": 6,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 595181,
+  "title": "On Fallen Wings",
+  "releaseDate": "16-10-2017",
+  "entries": [
+    {
+      "date": "16-10-2017",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 2,
+      "admissions": 410,
+      "days": null,
+      "day": "1st Mon"
+    },
+    {
+      "date": "20-10-2017",
+      "rank": 8,
+      "gross": 0.25,
+      "cume": 0.25,
+      "showings": 12809,
+      "admissions": 60781,
+      "days": 1,
+      "day": "1st Fri"
+    },
+    {
+      "date": "21-10-2017",
+      "rank": 12,
+      "gross": 0.09,
+      "cume": 0.34,
+      "showings": 8508,
+      "admissions": 20830,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "date": "22-10-2017",
+      "rank": 14,
+      "gross": 0.06,
+      "cume": 0.4,
+      "showings": 6996,
+      "admissions": 13303,
+      "days": 3,
+      "day": "1st Sun"
+    },
+    {
+      "date": "23-10-2017",
+      "rank": 16,
+      "gross": 0.03,
+      "cume": 0.43,
+      "showings": 5796,
+      "admissions": 6102,
+      "days": 4,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "24-10-2017",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.45,
+      "showings": 4965,
+      "admissions": 4643,
+      "days": 5,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "25-10-2017",
+      "rank": 20,
+      "gross": 0.02,
+      "cume": 0.47,
+      "showings": 4840,
+      "admissions": 4434,
+      "days": 6,
+      "day": "2nd Wed"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "31-08-2024",
+  "data": [
+    {
+      "movie_id": 757111,
+      "title": "",
+      "gross": 3.83,
+      "cume": 94.84,
+      "showings": 84728,
+      "admissions": 638489,
+      "rank": 1,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 749723,
+      "title": "Chong Sheng",
+      "gross": 2.62,
+      "cume": 45.0,
+      "showings": 57148,
+      "admissions": 423597,
+      "rank": 2,
+      "days": 16,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 746667,
+      "title": "Successor",
+      "gross": 1.6,
+      "cume": 480.47,
+      "showings": 29962,
+      "admissions": 265255,
+      "rank": 3,
+      "days": 47,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 686601,
+      "title": "Untouchable",
+      "gross": 1.46,
+      "cume": 19.54,
+      "showings": 40324,
+      "admissions": 237904,
+      "rank": 4,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 758272,
+      "title": "How to Make Millions Before Grandma Dies",
+      "gross": 1.43,
+      "cume": 10.11,
+      "showings": 27321,
+      "admissions": 254186,
+      "rank": 5,
+      "days": 9,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 759098,
+      "title": "Detective Conan:The Million-dollar Pentagram",
+      "gross": 1.41,
+      "cume": 36.43,
+      "showings": 28429,
+      "admissions": 250448,
+      "rank": 6,
+      "days": 16,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 741403,
+      "title": "White Snake",
+      "gross": 1.15,
+      "cume": 57.78,
+      "showings": 24337,
+      "admissions": 189724,
+      "rank": 7,
+      "days": 22,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 708338,
+      "title": "The Hedgehog",
+      "gross": 1.13,
+      "cume": 17.72,
+      "showings": 35699,
+      "admissions": 191822,
+      "rank": 8,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 759804,
+      "title": "The Tunnel to Summer，the Exit of Goodbyes",
+      "gross": 0.52,
+      "cume": 1.36,
+      "showings": 30339,
+      "admissions": 94784,
+      "rank": 9,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 750950,
+      "title": "Despicable Me 4",
+      "gross": 0.44,
+      "cume": 60.19,
+      "showings": 9448,
+      "admissions": 77109,
+      "rank": 10,
+      "days": 51,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 6460,
+      "title": "The God of Cookery",
+      "gross": 0.39,
+      "cume": 0.47,
+      "showings": 21721,
+      "admissions": 66747,
+      "rank": 11,
+      "days": 1,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 746701,
+      "title": "Upstream",
+      "gross": 0.3,
+      "cume": 50.91,
+      "showings": 7205,
+      "admissions": 48171,
+      "rank": 12,
+      "days": 23,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 750424,
+      "title": "XIN LONG MEN KE ZHAN",
+      "gross": 0.14,
+      "cume": 0.47,
+      "showings": 7958,
+      "admissions": 26807,
+      "rank": 13,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 709284,
+      "title": "Till Love Do Us Apart",
+      "gross": 0.13,
+      "cume": 2.0,
+      "showings": 12830,
+      "admissions": 22411,
+      "rank": 14,
+      "days": 9,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 759803,
+      "title": "My Next Life as a Villainess All Routes Lead to Doom!",
+      "gross": 0.11,
+      "cume": 0.32,
+      "showings": 12244,
+      "admissions": 20942,
+      "rank": 15,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 755071,
+      "title": "Deadpool & Wolverine",
+      "gross": 0.1,
+      "cume": 63.08,
+      "showings": 1988,
+      "admissions": 14994,
+      "rank": 16,
+      "days": 37,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 755069,
+      "title": "Pleasant Goat and Grey Wolf 9",
+      "gross": 0.07,
+      "cume": 13.21,
+      "showings": 3170,
+      "admissions": 15225,
+      "rank": 17,
+      "days": 44,
+      "day": "8th Sat"
+    },
+    {
+      "movie_id": 741373,
+      "title": "DECODED",
+      "gross": 0.05,
+      "cume": 48.75,
+      "showings": 1536,
+      "admissions": 9077,
+      "rank": 18,
+      "days": 29,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 757694,
+      "title": "It Ends with Us",
+      "gross": 0.05,
+      "cume": 0.13,
+      "showings": 3921,
+      "admissions": 7664,
+      "rank": 19,
+      "days": 2,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 739322,
+      "title": "A TAPESTRY OF A LEGENDARY LAND",
+      "gross": 0.05,
+      "cume": 0.05,
+      "showings": 29,
+      "admissions": 4997,
+      "rank": 20,
+      "days": null,
+      "day": "1st Sat"
+    }
+  ]
+}

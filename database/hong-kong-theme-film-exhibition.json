@@ -1,0 +1,37 @@
+{
+  "movie_id": 738390,
+  "title": "Hong Kong Theme Film Exhibition",
+  "releaseDate": "08-07-2023",
+  "entries": [
+    {
+      "date": "08-07-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 10,
+      "admissions": 1256,
+      "days": 31,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-07-2023",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 10,
+      "admissions": 1180,
+      "days": 32,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-07-2023",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 8,
+      "admissions": 1264,
+      "days": 39,
+      "day": "2nd Sun"
+    }
+  ]
+}
