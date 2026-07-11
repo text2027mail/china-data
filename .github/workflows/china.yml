@@ -28,7 +28,7 @@ jobs:
           pip install aiohttp aiofiles beautifulsoup4
 
       - name: Run Box Office Tracker
-        run: python china_boxoffice.py
+        run: python china_boxoffice.py --full
         # The script uses incremental fetch by default.
         # To perform a full fetch, add '--full' (first run only).
         # You can uncomment the line below for the initial full run:
