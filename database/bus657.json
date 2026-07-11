@@ -1,0 +1,77 @@
+{
+  "movie_id": 633481,
+  "title": "BUS657",
+  "releaseDate": "08-12-2017",
+  "entries": [
+    {
+      "date": "08-12-2017",
+      "rank": 10,
+      "gross": 657.0,
+      "cume": 0.17,
+      "showings": 403,
+      "admissions": 7434,
+      "days": 41660,
+      "day": "1st Fri"
+    },
+    {
+      "date": "09-12-2017",
+      "rank": 15,
+      "gross": 657.0,
+      "cume": 0.11,
+      "showings": 444,
+      "admissions": 3597,
+      "days": 23960,
+      "day": "1st Sat"
+    },
+    {
+      "date": "10-12-2017",
+      "rank": 15,
+      "gross": 657.0,
+      "cume": 0.08,
+      "showings": 457,
+      "admissions": 3264,
+      "days": 17724,
+      "day": "1st Sun"
+    },
+    {
+      "date": "11-12-2017",
+      "rank": 17,
+      "gross": 657.0,
+      "cume": 0.03,
+      "showings": 436,
+      "admissions": 2917,
+      "days": 7132,
+      "day": "1st Mon"
+    },
+    {
+      "date": "12-12-2017",
+      "rank": 17,
+      "gross": 657.0,
+      "cume": 0.03,
+      "showings": 428,
+      "admissions": 2531,
+      "days": 6814,
+      "day": "1st Tue"
+    },
+    {
+      "date": "13-12-2017",
+      "rank": 17,
+      "gross": 657.0,
+      "cume": 0.03,
+      "showings": 449,
+      "admissions": 2532,
+      "days": 6507,
+      "day": "1st Wed"
+    },
+    {
+      "date": "14-12-2017",
+      "rank": 20,
+      "gross": 657.0,
+      "cume": 0.02,
+      "showings": 444,
+      "admissions": 2026,
+      "days": 4157,
+      "day": "1st Thu"
+    }
+  ]
+}

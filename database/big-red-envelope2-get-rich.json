@@ -1,0 +1,37 @@
+{
+  "movie_id": 709151,
+  "title": "BIG RED ENVELOPE2:GET RICH",
+  "releaseDate": "10-01-2025",
+  "entries": [
+    {
+      "date": "10-01-2025",
+      "rank": 9,
+      "gross": 2.0,
+      "cume": 0.15,
+      "showings": 556,
+      "admissions": 9965,
+      "days": 26683,
+      "day": "1st Fri"
+    },
+    {
+      "date": "11-01-2025",
+      "rank": 14,
+      "gross": 2.0,
+      "cume": 0.12,
+      "showings": 553,
+      "admissions": 17981,
+      "days": 22336,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-01-2025",
+      "rank": 19,
+      "gross": 2.0,
+      "cume": 0.03,
+      "showings": 525,
+      "admissions": 8921,
+      "days": 5328,
+      "day": "1st Sun"
+    }
+  ]
+}

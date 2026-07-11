@@ -1,0 +1,37 @@
+{
+  "movie_id": 691352,
+  "title": "Never Walk Alone",
+  "releaseDate": "24-03-2023",
+  "entries": [
+    {
+      "date": "24-03-2023",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 446,
+      "admissions": 802,
+      "days": 3021,
+      "day": "1st Fri"
+    },
+    {
+      "date": "25-03-2023",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 454,
+      "admissions": 740,
+      "days": 3205,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-03-2023",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 483,
+      "admissions": 716,
+      "days": 3725,
+      "day": "1st Sun"
+    }
+  ]
+}

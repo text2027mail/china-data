@@ -1,0 +1,37 @@
+{
+  "movie_id": 677143,
+  "title": "I Feel Pretty",
+  "releaseDate": "28-08-2018",
+  "entries": [
+    {
+      "date": "28-08-2018",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 484,
+      "admissions": 6457,
+      "days": 18656,
+      "day": "1st Tue"
+    },
+    {
+      "date": "29-08-2018",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 482,
+      "admissions": 4530,
+      "days": 12938,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-08-2018",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 485,
+      "admissions": 3659,
+      "days": 8272,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 669444,
+  "title": "Bright Troch 3D",
+  "releaseDate": "20-07-2020",
+  "entries": [
+    {
+      "date": "20-07-2020",
+      "rank": 14,
+      "gross": 3.0,
+      "cume": 0.01,
+      "showings": 412,
+      "admissions": 501,
+      "days": 1284,
+      "day": "1st Mon"
+    },
+    {
+      "date": "21-07-2020",
+      "rank": 16,
+      "gross": 3.0,
+      "cume": 0.0,
+      "showings": 397,
+      "admissions": 783,
+      "days": 893,
+      "day": "1st Tue"
+    },
+    {
+      "date": "22-07-2020",
+      "rank": 18,
+      "gross": 3.0,
+      "cume": 0.0,
+      "showings": 397,
+      "admissions": 697,
+      "days": 669,
+      "day": "1st Wed"
+    }
+  ]
+}

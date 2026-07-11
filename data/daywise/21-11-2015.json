@@ -1,0 +1,225 @@
+{
+  "date": "21-11-2015",
+  "data": [
+    {
+      "movie_id": 612540,
+      "title": "",
+      "gross": 0.0,
+      "cume": 2.0,
+      "showings": 47288,
+      "admissions": 506,
+      "rank": 1,
+      "days": 39092,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 639871,
+      "title": "Our Times",
+      "gross": 0.0,
+      "cume": 5.05,
+      "showings": 407,
+      "admissions": 27798,
+      "rank": 2,
+      "days": 1239950,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 640997,
+      "title": "Spectre",
+      "gross": 0.0,
+      "cume": 4.92,
+      "showings": 488,
+      "admissions": 22880,
+      "rank": 3,
+      "days": 1009170,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 631012,
+      "title": "The Transporter Refueled",
+      "gross": 0.0,
+      "cume": 4.07,
+      "showings": 481,
+      "admissions": 27886,
+      "rank": 4,
+      "days": 846048,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 630111,
+      "title": "Return of the Cuckoo",
+      "gross": 0.0,
+      "cume": 1.32,
+      "showings": 454,
+      "admissions": 9217,
+      "rank": 5,
+      "days": 291051,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 627038,
+      "title": "A Fool",
+      "gross": 0.0,
+      "cume": 0.71,
+      "showings": 427,
+      "admissions": 12446,
+      "rank": 6,
+      "days": 167182,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 640998,
+      "title": "Hotel Transylvania 2",
+      "gross": 2.0,
+      "cume": 0.33,
+      "showings": 488,
+      "admissions": 2244,
+      "rank": 7,
+      "days": 67613,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 637665,
+      "title": "Qian Ren2：Bei Tai Fan Ji Zhan",
+      "gross": 2.0,
+      "cume": 0.29,
+      "showings": 443,
+      "admissions": 3299,
+      "rank": 8,
+      "days": 65266,
+      "day": "5th Sat"
+    },
+    {
+      "movie_id": 634689,
+      "title": "The Peanuts Movie",
+      "gross": 0.0,
+      "cume": 0.23,
+      "showings": 460,
+      "admissions": 2869,
+      "rank": 9,
+      "days": 50049,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 617391,
+      "title": "The King of Tibetan Antelope",
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 384,
+      "admissions": 3933,
+      "rank": 10,
+      "days": 39364,
+      "day": "29th Sat"
+    },
+    {
+      "movie_id": 629335,
+      "title": "Les Aventures d'Anthony",
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 474,
+      "admissions": 1694,
+      "rank": 11,
+      "days": 28462,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 628733,
+      "title": "Chinese Horrostory",
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 415,
+      "admissions": 3037,
+      "rank": 12,
+      "days": 32207,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 592765,
+      "title": "My Girlhood",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 405,
+      "admissions": 302,
+      "rank": 13,
+      "days": 15911,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 587859,
+      "title": "Wo Zai Zhe Li",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 590,
+      "admissions": 66,
+      "rank": 14,
+      "days": 10255,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 613150,
+      "title": "Niu Lao Han De Xing Fu Sheng Huo",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 590,
+      "admissions": 63,
+      "rank": 15,
+      "days": 9558,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 634293,
+      "title": "Maze Runner: The Scorch Trials",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 570,
+      "admissions": 670,
+      "rank": 16,
+      "days": 8123,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 640867,
+      "title": "Everest",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 561,
+      "admissions": 245,
+      "rank": 17,
+      "days": 4588,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 617257,
+      "title": "Kunta",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 348,
+      "admissions": 689,
+      "rank": 18,
+      "days": 6519,
+      "day": "121st Sat"
+    },
+    {
+      "movie_id": 628183,
+      "title": "Goodbye Mr. Loser",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 494,
+      "admissions": 230,
+      "rank": 19,
+      "days": 4509,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 631325,
+      "title": "The Witness",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 481,
+      "admissions": 251,
+      "rank": 20,
+      "days": 3432,
+      "day": "6th Sat"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "movie_id": 710294,
+  "title": "A Troupe’s Bygone Age",
+  "releaseDate": "24-04-2023",
+  "entries": [
+    {
+      "date": "24-04-2023",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 523,
+      "admissions": 51,
+      "days": 2493,
+      "day": "1st Mon"
+    },
+    {
+      "date": "25-04-2023",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 524,
+      "admissions": 90,
+      "days": 4410,
+      "day": "1st Tue"
+    },
+    {
+      "date": "26-04-2023",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 527,
+      "admissions": 112,
+      "days": 5869,
+      "day": "1st Wed"
+    },
+    {
+      "date": "27-04-2023",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 529,
+      "admissions": 112,
+      "days": 5946,
+      "day": "1st Thu"
+    }
+  ]
+}

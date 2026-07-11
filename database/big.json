@@ -1,0 +1,37 @@
+{
+  "movie_id": 764378,
+  "title": "BIG",
+  "releaseDate": "13-10-2024",
+  "entries": [
+    {
+      "date": "13-10-2024",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 561,
+      "admissions": 1546,
+      "days": 3073,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-10-2024",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 825,
+      "admissions": 5,
+      "days": 982,
+      "day": "1st Wed"
+    },
+    {
+      "date": "19-10-2024",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 546,
+      "admissions": 12778,
+      "days": 7776,
+      "day": "1st Sat"
+    }
+  ]
+}

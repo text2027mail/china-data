@@ -1,0 +1,67 @@
+{
+  "movie_id": 693412,
+  "title": "Bloody Daisy",
+  "releaseDate": "22-11-2019",
+  "entries": [
+    {
+      "date": "22-11-2019",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.25,
+      "showings": 458,
+      "admissions": 22884,
+      "days": 53789,
+      "day": "1st Fri"
+    },
+    {
+      "date": "23-11-2019",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 506,
+      "admissions": 10669,
+      "days": 22982,
+      "day": "1st Sat"
+    },
+    {
+      "date": "24-11-2019",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 598,
+      "admissions": 7476,
+      "days": 15329,
+      "day": "1st Sun"
+    },
+    {
+      "date": "25-11-2019",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 634,
+      "admissions": 6147,
+      "days": 7628,
+      "day": "1st Mon"
+    },
+    {
+      "date": "02-12-2019",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 556,
+      "admissions": 214,
+      "days": 5922,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "05-12-2019",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 447,
+      "admissions": 229,
+      "days": 8068,
+      "day": "2nd Thu"
+    }
+  ]
+}

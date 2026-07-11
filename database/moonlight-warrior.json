@@ -1,0 +1,37 @@
+{
+  "movie_id": 744225,
+  "title": "Moonlight Warrior",
+  "releaseDate": "15-12-2023",
+  "entries": [
+    {
+      "date": "15-12-2023",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 531,
+      "admissions": 5054,
+      "days": 21528,
+      "day": "1st Fri"
+    },
+    {
+      "date": "16-12-2023",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 477,
+      "admissions": 2072,
+      "days": 18043,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-12-2023",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 476,
+      "admissions": 2334,
+      "days": 9080,
+      "day": "1st Sun"
+    }
+  ]
+}

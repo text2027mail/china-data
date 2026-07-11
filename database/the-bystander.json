@@ -1,0 +1,37 @@
+{
+  "movie_id": 675783,
+  "title": "The Bystander",
+  "releaseDate": "23-03-2018",
+  "entries": [
+    {
+      "date": "23-03-2018",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 418,
+      "admissions": 2958,
+      "days": 7694,
+      "day": "1st Fri"
+    },
+    {
+      "date": "26-03-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 411,
+      "admissions": 1474,
+      "days": 2831,
+      "day": "1st Mon"
+    },
+    {
+      "date": "27-03-2018",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 417,
+      "admissions": 1478,
+      "days": 2579,
+      "day": "1st Tue"
+    }
+  ]
+}

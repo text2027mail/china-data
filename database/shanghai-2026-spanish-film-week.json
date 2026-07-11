@@ -1,0 +1,37 @@
+{
+  "movie_id": 1072205,
+  "title": "Shanghai 2026 Spanish Film Week",
+  "releaseDate": "13-03-2026",
+  "entries": [
+    {
+      "date": "13-03-2026",
+      "rank": 19,
+      "gross": 2026.0,
+      "cume": 0.01,
+      "showings": 1251,
+      "admissions": 1,
+      "days": 1008,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-03-2026",
+      "rank": 18,
+      "gross": 2026.0,
+      "cume": 0.03,
+      "showings": 1250,
+      "admissions": 1,
+      "days": 2602,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-03-2026",
+      "rank": 19,
+      "gross": 2026.0,
+      "cume": 0.02,
+      "showings": 1155,
+      "admissions": 1,
+      "days": 2010,
+      "day": "1st Sun"
+    }
+  ]
+}

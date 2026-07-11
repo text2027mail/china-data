@@ -1,0 +1,37 @@
+{
+  "movie_id": 611374,
+  "title": "The Ferry",
+  "releaseDate": "27-12-2013",
+  "entries": [
+    {
+      "date": "27-12-2013",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 442,
+      "admissions": 20,
+      "days": 2166,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-12-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 471,
+      "admissions": 13,
+      "days": 2484,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-12-2013",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 474,
+      "admissions": 15,
+      "days": 2685,
+      "day": "1st Sun"
+    }
+  ]
+}

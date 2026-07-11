@@ -1,0 +1,225 @@
+{
+  "date": "04-06-2022",
+  "data": [
+    {
+      "movie_id": 639306,
+      "title": "",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 11940,
+      "admissions": 595,
+      "rank": 1,
+      "days": 79628,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 706574,
+      "title": "The Bad Guys",
+      "gross": 0.0,
+      "cume": 2.29,
+      "showings": 505,
+      "admissions": 54657,
+      "rank": 2,
+      "days": 453959,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 712866,
+      "title": "Doraemon the Movie: Nobita's Little Star Wars 2021",
+      "gross": 2021.0,
+      "cume": 1.3,
+      "showings": 454,
+      "admissions": 53285,
+      "rank": 3,
+      "days": 285416,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 681879,
+      "title": "The Italian Recipe",
+      "gross": 0.0,
+      "cume": 0.55,
+      "showings": 490,
+      "admissions": 37265,
+      "rank": 4,
+      "days": 112658,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 710612,
+      "title": "MAN ON THE EDGE",
+      "gross": 0.0,
+      "cume": 0.5,
+      "showings": 529,
+      "admissions": 18455,
+      "rank": 5,
+      "days": 94767,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 700663,
+      "title": "Octonauts：The Caves of Sac Actun",
+      "gross": 0.0,
+      "cume": 0.5,
+      "showings": 478,
+      "admissions": 25424,
+      "rank": 6,
+      "days": 104573,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 710883,
+      "title": "Fantastic BeaFantastic Beasts: The Secrets of Dumbledore",
+      "gross": 0.0,
+      "cume": 0.3,
+      "showings": 547,
+      "admissions": 9139,
+      "rank": 7,
+      "days": 55571,
+      "day": "9th Sat"
+    },
+    {
+      "movie_id": 711120,
+      "title": "Uncharted",
+      "gross": 0.0,
+      "cume": 0.25,
+      "showings": 527,
+      "admissions": 6656,
+      "rank": 8,
+      "days": 46742,
+      "day": "13th Sat"
+    },
+    {
+      "movie_id": 707673,
+      "title": "Hotel Transylvania 4: Transformania",
+      "gross": 4.0,
+      "cume": 0.23,
+      "showings": 454,
+      "admissions": 8359,
+      "rank": 9,
+      "days": 49827,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 712140,
+      "title": "Moonfall",
+      "gross": 0.0,
+      "cume": 0.14,
+      "showings": 499,
+      "admissions": 4451,
+      "rank": 10,
+      "days": 28134,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 706003,
+      "title": "Boonie Bears：Back To Earth",
+      "gross": 0.0,
+      "cume": 0.14,
+      "showings": 574,
+      "admissions": 4074,
+      "rank": 11,
+      "days": 23933,
+      "day": "21st Sat"
+    },
+    {
+      "movie_id": 708491,
+      "title": "Escape Room: Tournament of Champions",
+      "gross": 0.0,
+      "cume": 0.14,
+      "showings": 461,
+      "admissions": 6129,
+      "rank": 12,
+      "days": 29483,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 708179,
+      "title": "Too Cool To Kill",
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 486,
+      "admissions": 3552,
+      "rank": 13,
+      "days": 17964,
+      "day": "18th Sat"
+    },
+    {
+      "movie_id": 712591,
+      "title": "Downton Abbey: A New Era",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 603,
+      "admissions": 2221,
+      "rank": 14,
+      "days": 9813,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 713716,
+      "title": "The Stones",
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 461,
+      "admissions": 7487,
+      "rank": 15,
+      "days": 12267,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 702458,
+      "title": "The Batman",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 567,
+      "admissions": 1508,
+      "rank": 16,
+      "days": 8163,
+      "day": "12th Sat"
+    },
+    {
+      "movie_id": 696314,
+      "title": "Stay With Me",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 527,
+      "admissions": 4465,
+      "rank": 17,
+      "days": 8719,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 692062,
+      "title": "Love Will Tear Us Apart",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 489,
+      "admissions": 5927,
+      "rank": 18,
+      "days": 9213,
+      "day": "56th Sat"
+    },
+    {
+      "movie_id": 703028,
+      "title": "Water Boys",
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 483,
+      "admissions": 3315,
+      "rank": 19,
+      "days": 8531,
+      "day": "36th Sat"
+    },
+    {
+      "movie_id": 710614,
+      "title": "SECRETS OF THE BOX",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 688,
+      "admissions": 300,
+      "rank": 20,
+      "days": 3355,
+      "day": "4th Sat"
+    }
+  ]
+}

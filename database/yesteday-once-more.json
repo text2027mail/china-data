@@ -1,0 +1,27 @@
+{
+  "movie_id": 661006,
+  "title": "Yesteday Once More",
+  "releaseDate": "02-07-2019",
+  "entries": [
+    {
+      "date": "02-07-2019",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 651,
+      "admissions": 312,
+      "days": 2435,
+      "day": "1st Tue"
+    },
+    {
+      "date": "03-07-2019",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 648,
+      "admissions": 256,
+      "days": 2303,
+      "day": "1st Wed"
+    }
+  ]
+}

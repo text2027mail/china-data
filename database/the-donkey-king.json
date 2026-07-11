@@ -1,0 +1,77 @@
+{
+  "movie_id": 710024,
+  "title": "The Donkey King",
+  "releaseDate": "19-11-2021",
+  "entries": [
+    {
+      "date": "19-11-2021",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 422,
+      "admissions": 4945,
+      "days": 6425,
+      "day": "1st Fri"
+    },
+    {
+      "date": "20-11-2021",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.27,
+      "showings": 432,
+      "admissions": 16615,
+      "days": 63284,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-11-2021",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.28,
+      "showings": 433,
+      "admissions": 11446,
+      "days": 63848,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-11-2021",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 427,
+      "admissions": 3390,
+      "days": 1853,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-11-2021",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 399,
+      "admissions": 2241,
+      "days": 4076,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "27-11-2021",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 411,
+      "admissions": 4217,
+      "days": 17711,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "28-11-2021",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 413,
+      "admissions": 4145,
+      "days": 17116,
+      "day": "2nd Sun"
+    }
+  ]
+}

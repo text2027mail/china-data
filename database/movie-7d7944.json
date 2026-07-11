@@ -1,0 +1,627 @@
+{
+  "movie_id": 733192,
+  "title": "",
+  "releaseDate": "11-11-2022",
+  "entries": [
+    {
+      "date": "11-11-2022",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 10499,
+      "admissions": 573,
+      "days": 52212,
+      "day": "1st Fri"
+    },
+    {
+      "date": "12-11-2022",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 15632,
+      "admissions": 582,
+      "days": 104364,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-11-2022",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 12659,
+      "admissions": 586,
+      "days": 101604,
+      "day": "1st Sun"
+    },
+    {
+      "date": "14-11-2022",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 5934,
+      "admissions": 580,
+      "days": 80789,
+      "day": "1st Mon"
+    },
+    {
+      "date": "15-11-2022",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 5066,
+      "admissions": 579,
+      "days": 80295,
+      "day": "1st Tue"
+    },
+    {
+      "date": "16-11-2022",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 4664,
+      "admissions": 580,
+      "days": 80028,
+      "day": "1st Wed"
+    },
+    {
+      "date": "17-11-2022",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 4101,
+      "admissions": 581,
+      "days": 79282,
+      "day": "1st Thu"
+    },
+    {
+      "date": "18-11-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.99,
+      "showings": 574,
+      "admissions": 59753,
+      "days": 171710,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "19-11-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 1.75,
+      "showings": 581,
+      "admissions": 55751,
+      "days": 300905,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "20-11-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 1.34,
+      "showings": 582,
+      "admissions": 52341,
+      "days": 230785,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "21-11-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.46,
+      "showings": 572,
+      "admissions": 42199,
+      "days": 79732,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "22-11-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.41,
+      "showings": 573,
+      "admissions": 40974,
+      "days": 70854,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "23-11-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.36,
+      "showings": 574,
+      "admissions": 39681,
+      "days": 63264,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "24-11-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.31,
+      "showings": 574,
+      "admissions": 37460,
+      "days": 53176,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "25-11-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.34,
+      "showings": 575,
+      "admissions": 33237,
+      "days": 59005,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "26-11-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.56,
+      "showings": 583,
+      "admissions": 36261,
+      "days": 96707,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "27-11-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.45,
+      "showings": 586,
+      "admissions": 34128,
+      "days": 77402,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "28-11-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.18,
+      "showings": 579,
+      "admissions": 26836,
+      "days": 31854,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "29-11-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.17,
+      "showings": 576,
+      "admissions": 26192,
+      "days": 29722,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "30-11-2022",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 1864,
+      "admissions": 578,
+      "days": 26423,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "01-12-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.17,
+      "showings": 583,
+      "admissions": 24351,
+      "days": 28425,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "02-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 583,
+      "admissions": 19931,
+      "days": 34056,
+      "day": "4th Fri"
+    },
+    {
+      "date": "03-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.4,
+      "showings": 589,
+      "admissions": 23401,
+      "days": 67111,
+      "day": "4th Sat"
+    },
+    {
+      "date": "04-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.38,
+      "showings": 590,
+      "admissions": 23903,
+      "days": 63955,
+      "day": "4th Sun"
+    },
+    {
+      "date": "05-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.19,
+      "showings": 585,
+      "admissions": 21180,
+      "days": 32110,
+      "day": "4th Mon"
+    },
+    {
+      "date": "06-12-2022",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 581,
+      "admissions": 7449,
+      "days": 8468,
+      "day": "4th Tue"
+    },
+    {
+      "date": "07-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.23,
+      "showings": 579,
+      "admissions": 24381,
+      "days": 39289,
+      "day": "4th Wed"
+    },
+    {
+      "date": "08-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.25,
+      "showings": 580,
+      "admissions": 27341,
+      "days": 43375,
+      "day": "4th Thu"
+    },
+    {
+      "date": "09-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.31,
+      "showings": 576,
+      "admissions": 32319,
+      "days": 54055,
+      "day": "5th Fri"
+    },
+    {
+      "date": "10-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.56,
+      "showings": 580,
+      "admissions": 38618,
+      "days": 96758,
+      "day": "5th Sat"
+    },
+    {
+      "date": "11-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.52,
+      "showings": 581,
+      "admissions": 37059,
+      "days": 88666,
+      "day": "5th Sun"
+    },
+    {
+      "date": "12-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.24,
+      "showings": 575,
+      "admissions": 32132,
+      "days": 42580,
+      "day": "5th Mon"
+    },
+    {
+      "date": "13-12-2022",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.22,
+      "showings": 575,
+      "admissions": 32518,
+      "days": 37658,
+      "day": "5th Tue"
+    },
+    {
+      "date": "14-12-2022",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.19,
+      "showings": 576,
+      "admissions": 32993,
+      "days": 32888,
+      "day": "5th Wed"
+    },
+    {
+      "date": "15-12-2022",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.18,
+      "showings": 585,
+      "admissions": 34260,
+      "days": 30094,
+      "day": "5th Thu"
+    },
+    {
+      "date": "16-12-2022",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 575,
+      "admissions": 6720,
+      "days": 7271,
+      "day": "6th Fri"
+    },
+    {
+      "date": "17-12-2022",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 568,
+      "admissions": 6981,
+      "days": 9195,
+      "day": "6th Sat"
+    },
+    {
+      "date": "18-12-2022",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 577,
+      "admissions": 7907,
+      "days": 9194,
+      "day": "6th Sun"
+    },
+    {
+      "date": "19-12-2022",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 576,
+      "admissions": 8602,
+      "days": 7790,
+      "day": "6th Mon"
+    },
+    {
+      "date": "20-12-2022",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 583,
+      "admissions": 8693,
+      "days": 8154,
+      "day": "6th Tue"
+    },
+    {
+      "date": "21-12-2022",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 576,
+      "admissions": 8780,
+      "days": 8483,
+      "day": "6th Wed"
+    },
+    {
+      "date": "22-12-2022",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 570,
+      "admissions": 8712,
+      "days": 8973,
+      "day": "6th Thu"
+    },
+    {
+      "date": "23-12-2022",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 574,
+      "admissions": 3452,
+      "days": 4203,
+      "day": "7th Fri"
+    },
+    {
+      "date": "24-12-2022",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 564,
+      "admissions": 3060,
+      "days": 7339,
+      "day": "7th Sat"
+    },
+    {
+      "date": "25-12-2022",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 567,
+      "admissions": 3174,
+      "days": 7045,
+      "day": "7th Sun"
+    },
+    {
+      "date": "26-12-2022",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 561,
+      "admissions": 3040,
+      "days": 3551,
+      "day": "7th Mon"
+    },
+    {
+      "date": "27-12-2022",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 559,
+      "admissions": 3020,
+      "days": 3258,
+      "day": "7th Tue"
+    },
+    {
+      "date": "28-12-2022",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 564,
+      "admissions": 3034,
+      "days": 3383,
+      "day": "7th Wed"
+    },
+    {
+      "date": "29-12-2022",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 564,
+      "admissions": 3060,
+      "days": 3051,
+      "day": "7th Thu"
+    },
+    {
+      "date": "30-12-2022",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 580,
+      "admissions": 1575,
+      "days": 1765,
+      "day": "8th Fri"
+    },
+    {
+      "date": "31-12-2022",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 597,
+      "admissions": 964,
+      "days": 2624,
+      "day": "8th Sat"
+    },
+    {
+      "date": "01-01-2023",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 604,
+      "admissions": 997,
+      "days": 2587,
+      "day": "8th Sun"
+    },
+    {
+      "date": "02-01-2023",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 591,
+      "admissions": 979,
+      "days": 1471,
+      "day": "8th Mon"
+    },
+    {
+      "date": "03-01-2023",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 596,
+      "admissions": 1087,
+      "days": 1074,
+      "day": "8th Tue"
+    },
+    {
+      "date": "04-01-2023",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 567,
+      "admissions": 1068,
+      "days": 983,
+      "day": "8th Wed"
+    },
+    {
+      "date": "05-01-2023",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 574,
+      "admissions": 1121,
+      "days": 1268,
+      "day": "8th Thu"
+    },
+    {
+      "date": "06-01-2023",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 566,
+      "admissions": 666,
+      "days": 940,
+      "day": "9th Fri"
+    },
+    {
+      "date": "07-01-2023",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 579,
+      "admissions": 677,
+      "days": 866,
+      "day": "9th Sat"
+    },
+    {
+      "date": "08-01-2023",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 570,
+      "admissions": 727,
+      "days": 844,
+      "day": "9th Sun"
+    },
+    {
+      "date": "09-01-2023",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 539,
+      "admissions": 758,
+      "days": 730,
+      "day": "9th Mon"
+    },
+    {
+      "date": "10-01-2023",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 550,
+      "admissions": 817,
+      "days": 1138,
+      "day": "9th Tue"
+    },
+    {
+      "date": "11-01-2023",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 541,
+      "admissions": 692,
+      "days": 926,
+      "day": "9th Wed"
+    }
+  ]
+}

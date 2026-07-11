@@ -1,0 +1,67 @@
+{
+  "movie_id": 615111,
+  "title": "Rock Hero",
+  "releaseDate": "20-06-2015",
+  "entries": [
+    {
+      "date": "20-06-2015",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 456,
+      "admissions": 5505,
+      "days": 22311,
+      "day": "1st Sat"
+    },
+    {
+      "date": "21-06-2015",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 459,
+      "admissions": 4632,
+      "days": 13061,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-06-2015",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 480,
+      "admissions": 3847,
+      "days": 15801,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-06-2015",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 460,
+      "admissions": 2016,
+      "days": 2298,
+      "day": "1st Tue"
+    },
+    {
+      "date": "24-06-2015",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 464,
+      "admissions": 1609,
+      "days": 1910,
+      "day": "1st Wed"
+    },
+    {
+      "date": "25-06-2015",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 449,
+      "admissions": 960,
+      "days": 674,
+      "day": "1st Thu"
+    }
+  ]
+}

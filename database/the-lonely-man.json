@@ -1,0 +1,47 @@
+{
+  "movie_id": 700700,
+  "title": "The Lonely Man",
+  "releaseDate": "16-11-2020",
+  "entries": [
+    {
+      "date": "16-11-2020",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 672,
+      "admissions": 269,
+      "days": 1325,
+      "day": "1st Mon"
+    },
+    {
+      "date": "19-11-2020",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 644,
+      "admissions": 87,
+      "days": 1633,
+      "day": "1st Thu"
+    },
+    {
+      "date": "27-11-2020",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 664,
+      "admissions": 52,
+      "days": 2203,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "04-12-2020",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 665,
+      "admissions": 35,
+      "days": 1532,
+      "day": "3rd Fri"
+    }
+  ]
+}

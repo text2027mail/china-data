@@ -1,0 +1,27 @@
+{
+  "movie_id": 704019,
+  "title": "Crazy Racing",
+  "releaseDate": "15-05-2021",
+  "entries": [
+    {
+      "date": "15-05-2021",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 481,
+      "admissions": 3409,
+      "days": 10212,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-05-2021",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 454,
+      "admissions": 2727,
+      "days": 7783,
+      "day": "1st Sun"
+    }
+  ]
+}

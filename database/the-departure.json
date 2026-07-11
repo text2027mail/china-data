@@ -1,0 +1,27 @@
+{
+  "movie_id": 698866,
+  "title": "The Departure",
+  "releaseDate": "08-03-2023",
+  "entries": [
+    {
+      "date": "08-03-2023",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 434,
+      "admissions": 11731,
+      "days": 7340,
+      "day": "1st Wed"
+    },
+    {
+      "date": "09-03-2023",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 403,
+      "admissions": 769,
+      "days": 1920,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "movie_id": 736579,
+  "title": "A Summer Trip",
+  "releaseDate": "22-05-2023",
+  "entries": [
+    {
+      "date": "22-05-2023",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 935,
+      "admissions": 6,
+      "days": 815,
+      "day": "1st Mon"
+    },
+    {
+      "date": "26-05-2023",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.14,
+      "showings": 566,
+      "admissions": 18540,
+      "days": 25364,
+      "day": "1st Fri"
+    },
+    {
+      "date": "27-05-2023",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 580,
+      "admissions": 2741,
+      "days": 19735,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-05-2023",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 585,
+      "admissions": 1977,
+      "days": 17755,
+      "day": "1st Sun"
+    },
+    {
+      "date": "28-02-2024",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 738,
+      "admissions": 8,
+      "days": 2000,
+      "day": "41st Wed"
+    },
+    {
+      "date": "29-02-2024",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 738,
+      "admissions": 7,
+      "days": 2000,
+      "day": "41st Thu"
+    }
+  ]
+}

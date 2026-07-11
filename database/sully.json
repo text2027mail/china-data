@@ -1,0 +1,307 @@
+{
+  "movie_id": 656002,
+  "title": "Sully",
+  "releaseDate": "08-12-2016",
+  "entries": [
+    {
+      "date": "08-12-2016",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 549,
+      "admissions": 674,
+      "days": 4129,
+      "day": "1st Thu"
+    },
+    {
+      "date": "09-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 1.62,
+      "showings": 452,
+      "admissions": 35784,
+      "days": 358284,
+      "day": "1st Fri"
+    },
+    {
+      "date": "10-12-2016",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 2.34,
+      "showings": 465,
+      "admissions": 29328,
+      "days": 502841,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-12-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 1.64,
+      "showings": 472,
+      "admissions": 25536,
+      "days": 346968,
+      "day": "1st Sun"
+    },
+    {
+      "date": "12-12-2016",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.69,
+      "showings": 458,
+      "admissions": 23800,
+      "days": 150142,
+      "day": "1st Mon"
+    },
+    {
+      "date": "13-12-2016",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.63,
+      "showings": 460,
+      "admissions": 22584,
+      "days": 137869,
+      "day": "1st Tue"
+    },
+    {
+      "date": "14-12-2016",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.58,
+      "showings": 460,
+      "admissions": 22162,
+      "days": 126802,
+      "day": "1st Wed"
+    },
+    {
+      "date": "15-12-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.36,
+      "showings": 461,
+      "admissions": 16585,
+      "days": 78177,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "16-12-2016",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 512,
+      "admissions": 1331,
+      "days": 18865,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "17-12-2016",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.19,
+      "showings": 519,
+      "admissions": 1296,
+      "days": 36883,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "18-12-2016",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.17,
+      "showings": 517,
+      "admissions": 1417,
+      "days": 33053,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "19-12-2016",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 493,
+      "admissions": 1825,
+      "days": 17932,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "20-12-2016",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 481,
+      "admissions": 1939,
+      "days": 18775,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "21-12-2016",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 487,
+      "admissions": 1996,
+      "days": 17255,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "22-12-2016",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 499,
+      "admissions": 2014,
+      "days": 18215,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "23-12-2016",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 556,
+      "admissions": 269,
+      "days": 5459,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "24-12-2016",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 586,
+      "admissions": 283,
+      "days": 9188,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "25-12-2016",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 577,
+      "admissions": 346,
+      "days": 11215,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "26-12-2016",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 520,
+      "admissions": 398,
+      "days": 5264,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "27-12-2016",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 509,
+      "admissions": 442,
+      "days": 5772,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "28-12-2016",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 518,
+      "admissions": 492,
+      "days": 6163,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "29-12-2016",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 484,
+      "admissions": 362,
+      "days": 6149,
+      "day": "4th Thu"
+    },
+    {
+      "date": "30-12-2016",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 570,
+      "admissions": 169,
+      "days": 5969,
+      "day": "4th Fri"
+    },
+    {
+      "date": "31-12-2016",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 608,
+      "admissions": 186,
+      "days": 7943,
+      "day": "4th Sat"
+    },
+    {
+      "date": "01-01-2017",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 632,
+      "admissions": 198,
+      "days": 7235,
+      "day": "4th Sun"
+    },
+    {
+      "date": "02-01-2017",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 606,
+      "admissions": 211,
+      "days": 5798,
+      "day": "4th Mon"
+    },
+    {
+      "date": "03-01-2017",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 553,
+      "admissions": 219,
+      "days": 2188,
+      "day": "4th Tue"
+    },
+    {
+      "date": "04-01-2017",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 588,
+      "admissions": 223,
+      "days": 1660,
+      "day": "4th Wed"
+    },
+    {
+      "date": "05-01-2017",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 592,
+      "admissions": 232,
+      "days": 1617,
+      "day": "5th Thu"
+    },
+    {
+      "date": "06-01-2017",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 593,
+      "admissions": 86,
+      "days": 952,
+      "day": "5th Fri"
+    }
+  ]
+}

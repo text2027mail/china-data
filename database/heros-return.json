@@ -1,0 +1,27 @@
+{
+  "movie_id": 693962,
+  "title": "Heros Return",
+  "releaseDate": "30-01-2021",
+  "entries": [
+    {
+      "date": "30-01-2021",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 2503,
+      "admissions": 3246,
+      "days": 2440,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-02-2021",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 2144,
+      "admissions": 731,
+      "days": 523,
+      "day": "1st Mon"
+    }
+  ]
+}

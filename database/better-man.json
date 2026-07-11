@@ -1,0 +1,37 @@
+{
+  "movie_id": 682513,
+  "title": "Better Man",
+  "releaseDate": "07-12-2018",
+  "entries": [
+    {
+      "date": "07-12-2018",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 468,
+      "admissions": 2229,
+      "days": 4080,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-12-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 422,
+      "admissions": 566,
+      "days": 4254,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-12-2018",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 427,
+      "admissions": 446,
+      "days": 2615,
+      "day": "1st Sun"
+    }
+  ]
+}

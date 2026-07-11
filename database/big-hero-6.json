@@ -1,0 +1,377 @@
+{
+  "movie_id": 621612,
+  "title": "Big Hero 6",
+  "releaseDate": "27-02-2015",
+  "entries": [
+    {
+      "date": "27-02-2015",
+      "rank": 10,
+      "gross": 6.0,
+      "cume": 0.07,
+      "showings": 697,
+      "admissions": 516,
+      "days": 10520,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-02-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 5.54,
+      "showings": 575,
+      "admissions": 30780,
+      "days": 963780,
+      "day": "1st Sat"
+    },
+    {
+      "date": "01-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 7.02,
+      "showings": 583,
+      "admissions": 29112,
+      "days": 1204181,
+      "day": "1st Sun"
+    },
+    {
+      "date": "02-03-2015",
+      "rank": 4,
+      "gross": 6.0,
+      "cume": 2.43,
+      "showings": 563,
+      "admissions": 26043,
+      "days": 430870,
+      "day": "1st Mon"
+    },
+    {
+      "date": "03-03-2015",
+      "rank": 3,
+      "gross": 6.0,
+      "cume": 2.58,
+      "showings": 555,
+      "admissions": 24960,
+      "days": 464094,
+      "day": "1st Tue"
+    },
+    {
+      "date": "04-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 2.77,
+      "showings": 551,
+      "admissions": 24597,
+      "days": 502729,
+      "day": "1st Wed"
+    },
+    {
+      "date": "05-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 2.92,
+      "showings": 558,
+      "admissions": 19681,
+      "days": 524169,
+      "day": "1st Thu"
+    },
+    {
+      "date": "06-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 3.08,
+      "showings": 542,
+      "admissions": 14856,
+      "days": 569023,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "07-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 7.19,
+      "showings": 550,
+      "admissions": 19471,
+      "days": 1306512,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "08-03-2015",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 6.0,
+      "showings": 81297,
+      "admissions": 541,
+      "days": 21907,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "09-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 1.9,
+      "showings": 535,
+      "admissions": 19148,
+      "days": 354778,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "10-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 1.99,
+      "showings": 534,
+      "admissions": 19733,
+      "days": 372242,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "11-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 1.85,
+      "showings": 536,
+      "admissions": 20057,
+      "days": 344495,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "12-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 1.69,
+      "showings": 538,
+      "admissions": 20387,
+      "days": 313747,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "13-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 2.6,
+      "showings": 538,
+      "admissions": 17923,
+      "days": 482691,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "14-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 6.14,
+      "showings": 540,
+      "admissions": 22343,
+      "days": 1137327,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "15-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 4.94,
+      "showings": 509,
+      "admissions": 23048,
+      "days": 969172,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "16-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 1.24,
+      "showings": 523,
+      "admissions": 19511,
+      "days": 237193,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "17-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 1.21,
+      "showings": 523,
+      "admissions": 19539,
+      "days": 230714,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "18-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 1.1,
+      "showings": 523,
+      "admissions": 19439,
+      "days": 211251,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "19-03-2015",
+      "rank": 2,
+      "gross": 6.0,
+      "cume": 1.0,
+      "showings": 525,
+      "admissions": 19394,
+      "days": 190797,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "20-03-2015",
+      "rank": 4,
+      "gross": 6.0,
+      "cume": 1.0,
+      "showings": 520,
+      "admissions": 9891,
+      "days": 193262,
+      "day": "4th Fri"
+    },
+    {
+      "date": "21-03-2015",
+      "rank": 4,
+      "gross": 6.0,
+      "cume": 2.74,
+      "showings": 521,
+      "admissions": 13867,
+      "days": 526661,
+      "day": "4th Sat"
+    },
+    {
+      "date": "22-03-2015",
+      "rank": 4,
+      "gross": 6.0,
+      "cume": 2.49,
+      "showings": 517,
+      "admissions": 14801,
+      "days": 482527,
+      "day": "4th Sun"
+    },
+    {
+      "date": "23-03-2015",
+      "rank": 4,
+      "gross": 6.0,
+      "cume": 0.51,
+      "showings": 512,
+      "admissions": 11328,
+      "days": 100473,
+      "day": "4th Mon"
+    },
+    {
+      "date": "24-03-2015",
+      "rank": 4,
+      "gross": 6.0,
+      "cume": 0.52,
+      "showings": 512,
+      "admissions": 11344,
+      "days": 101728,
+      "day": "4th Tue"
+    },
+    {
+      "date": "25-03-2015",
+      "rank": 4,
+      "gross": 6.0,
+      "cume": 0.47,
+      "showings": 514,
+      "admissions": 11268,
+      "days": 92032,
+      "day": "4th Wed"
+    },
+    {
+      "date": "26-03-2015",
+      "rank": 4,
+      "gross": 6.0,
+      "cume": 0.45,
+      "showings": 517,
+      "admissions": 11329,
+      "days": 87504,
+      "day": "4th Thu"
+    },
+    {
+      "date": "27-03-2015",
+      "rank": 6,
+      "gross": 6.0,
+      "cume": 0.47,
+      "showings": 516,
+      "admissions": 6213,
+      "days": 90648,
+      "day": "5th Fri"
+    },
+    {
+      "date": "28-03-2015",
+      "rank": 5,
+      "gross": 6.0,
+      "cume": 1.42,
+      "showings": 513,
+      "admissions": 9257,
+      "days": 277663,
+      "day": "5th Sat"
+    },
+    {
+      "date": "29-03-2015",
+      "rank": 5,
+      "gross": 6.0,
+      "cume": 1.26,
+      "showings": 512,
+      "admissions": 9662,
+      "days": 247272,
+      "day": "5th Sun"
+    },
+    {
+      "date": "30-03-2015",
+      "rank": 6,
+      "gross": 6.0,
+      "cume": 0.22,
+      "showings": 508,
+      "admissions": 6292,
+      "days": 42581,
+      "day": "5th Mon"
+    },
+    {
+      "date": "09-04-2015",
+      "rank": 20,
+      "gross": 6.0,
+      "cume": 0.0,
+      "showings": 315,
+      "admissions": 6,
+      "days": 728,
+      "day": "6th Thu"
+    },
+    {
+      "date": "06-05-2015",
+      "rank": 14,
+      "gross": 6.0,
+      "cume": 0.0,
+      "showings": 1328,
+      "admissions": 4,
+      "days": 256,
+      "day": "10th Wed"
+    },
+    {
+      "date": "31-07-2020",
+      "rank": 15,
+      "gross": 6.0,
+      "cume": 0.02,
+      "showings": 291,
+      "admissions": 2618,
+      "days": 7347,
+      "day": "284th Fri"
+    },
+    {
+      "date": "01-08-2020",
+      "rank": 13,
+      "gross": 6.0,
+      "cume": 0.03,
+      "showings": 302,
+      "admissions": 2551,
+      "days": 11014,
+      "day": "284th Sat"
+    },
+    {
+      "date": "02-08-2020",
+      "rank": 18,
+      "gross": 6.0,
+      "cume": 0.02,
+      "showings": 285,
+      "admissions": 1717,
+      "days": 7199,
+      "day": "284th Sun"
+    }
+  ]
+}

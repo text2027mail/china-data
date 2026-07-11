@@ -1,0 +1,37 @@
+{
+  "movie_id": 698654,
+  "title": "Detective Romon 3",
+  "releaseDate": "20-05-2021",
+  "entries": [
+    {
+      "date": "20-05-2021",
+      "rank": 16,
+      "gross": 3.0,
+      "cume": 0.02,
+      "showings": 453,
+      "admissions": 116,
+      "days": 3688,
+      "day": "1st Thu"
+    },
+    {
+      "date": "21-05-2021",
+      "rank": 10,
+      "gross": 3.0,
+      "cume": 0.03,
+      "showings": 434,
+      "admissions": 141,
+      "days": 7917,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-05-2021",
+      "rank": 17,
+      "gross": 3.0,
+      "cume": 0.03,
+      "showings": 445,
+      "admissions": 87,
+      "days": 6724,
+      "day": "1st Sat"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 735820,
+  "title": "A Pity for Love",
+  "releaseDate": "22-08-2023",
+  "entries": [
+    {
+      "date": "22-08-2023",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 1.54,
+      "showings": 483,
+      "admissions": 36332,
+      "days": 319803,
+      "day": "1st Tue"
+    },
+    {
+      "date": "23-08-2023",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 459,
+      "admissions": 9123,
+      "days": 20745,
+      "day": "1st Wed"
+    },
+    {
+      "date": "24-08-2023",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 456,
+      "admissions": 6433,
+      "days": 10906,
+      "day": "1st Thu"
+    }
+  ]
+}

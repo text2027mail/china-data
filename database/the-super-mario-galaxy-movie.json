@@ -1,0 +1,607 @@
+{
+  "movie_id": 1062605,
+  "title": "The Super Mario Galaxy Movie",
+  "releaseDate": "02-04-2026",
+  "entries": [
+    {
+      "date": "02-04-2026",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 730,
+      "admissions": 400,
+      "days": 1764,
+      "day": "1st Thu"
+    },
+    {
+      "date": "03-04-2026",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 6135,
+      "admissions": 601,
+      "days": 92728,
+      "day": "1st Fri"
+    },
+    {
+      "date": "04-04-2026",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 11967,
+      "admissions": 605,
+      "days": 102390,
+      "day": "1st Sat"
+    },
+    {
+      "date": "05-04-2026",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 12873,
+      "admissions": 597,
+      "days": 84708,
+      "day": "1st Sun"
+    },
+    {
+      "date": "06-04-2026",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 10014,
+      "admissions": 590,
+      "days": 80716,
+      "day": "1st Mon"
+    },
+    {
+      "date": "07-04-2026",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.28,
+      "showings": 590,
+      "admissions": 55130,
+      "days": 47897,
+      "day": "1st Tue"
+    },
+    {
+      "date": "08-04-2026",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.22,
+      "showings": 591,
+      "admissions": 50223,
+      "days": 36563,
+      "day": "1st Wed"
+    },
+    {
+      "date": "09-04-2026",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.17,
+      "showings": 603,
+      "admissions": 47467,
+      "days": 27653,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "10-04-2026",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.38,
+      "showings": 594,
+      "admissions": 48102,
+      "days": 63262,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "11-04-2026",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 1.59,
+      "showings": 588,
+      "admissions": 70531,
+      "days": 269933,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "12-04-2026",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 1.33,
+      "showings": 582,
+      "admissions": 63783,
+      "days": 227603,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "13-04-2026",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 594,
+      "admissions": 41074,
+      "days": 19256,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "14-04-2026",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 594,
+      "admissions": 38570,
+      "days": 17397,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "15-04-2026",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 587,
+      "admissions": 37281,
+      "days": 17988,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "16-04-2026",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 591,
+      "admissions": 36808,
+      "days": 16374,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "17-04-2026",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.24,
+      "showings": 581,
+      "admissions": 38469,
+      "days": 42174,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "18-04-2026",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.95,
+      "showings": 582,
+      "admissions": 47357,
+      "days": 163697,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "19-04-2026",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 0.83,
+      "showings": 577,
+      "admissions": 46879,
+      "days": 144054,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "20-04-2026",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 582,
+      "admissions": 28601,
+      "days": 14487,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "21-04-2026",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 592,
+      "admissions": 27412,
+      "days": 10294,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "22-04-2026",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 594,
+      "admissions": 26053,
+      "days": 10858,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "23-04-2026",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 604,
+      "admissions": 25859,
+      "days": 9718,
+      "day": "4th Thu"
+    },
+    {
+      "date": "24-04-2026",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 584,
+      "admissions": 20377,
+      "days": 20137,
+      "day": "4th Fri"
+    },
+    {
+      "date": "25-04-2026",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.57,
+      "showings": 571,
+      "admissions": 32790,
+      "days": 99365,
+      "day": "4th Sat"
+    },
+    {
+      "date": "26-04-2026",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 0.51,
+      "showings": 565,
+      "admissions": 33732,
+      "days": 90211,
+      "day": "4th Sun"
+    },
+    {
+      "date": "27-04-2026",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 571,
+      "admissions": 17977,
+      "days": 7683,
+      "day": "4th Mon"
+    },
+    {
+      "date": "28-04-2026",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 574,
+      "admissions": 17453,
+      "days": 9617,
+      "day": "4th Tue"
+    },
+    {
+      "date": "29-04-2026",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 560,
+      "admissions": 17831,
+      "days": 13296,
+      "day": "4th Wed"
+    },
+    {
+      "date": "30-04-2026",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.16,
+      "showings": 561,
+      "admissions": 16832,
+      "days": 27737,
+      "day": "5th Thu"
+    },
+    {
+      "date": "01-05-2026",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.23,
+      "showings": 568,
+      "admissions": 4384,
+      "days": 40226,
+      "day": "5th Fri"
+    },
+    {
+      "date": "02-05-2026",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.39,
+      "showings": 570,
+      "admissions": 8131,
+      "days": 67850,
+      "day": "5th Sat"
+    },
+    {
+      "date": "03-05-2026",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.4,
+      "showings": 571,
+      "admissions": 8450,
+      "days": 69732,
+      "day": "5th Sun"
+    },
+    {
+      "date": "04-05-2026",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.35,
+      "showings": 567,
+      "admissions": 8732,
+      "days": 62448,
+      "day": "5th Mon"
+    },
+    {
+      "date": "05-05-2026",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.27,
+      "showings": 561,
+      "admissions": 8815,
+      "days": 47656,
+      "day": "5th Tue"
+    },
+    {
+      "date": "06-05-2026",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 553,
+      "admissions": 3214,
+      "days": 3622,
+      "day": "5th Wed"
+    },
+    {
+      "date": "07-05-2026",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 558,
+      "admissions": 2651,
+      "days": 1879,
+      "day": "6th Thu"
+    },
+    {
+      "date": "08-05-2026",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 617,
+      "admissions": 2358,
+      "days": 1074,
+      "day": "6th Fri"
+    },
+    {
+      "date": "09-05-2026",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 593,
+      "admissions": 3343,
+      "days": 3792,
+      "day": "6th Sat"
+    },
+    {
+      "date": "10-05-2026",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 560,
+      "admissions": 6339,
+      "days": 23867,
+      "day": "6th Sun"
+    },
+    {
+      "date": "11-05-2026",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 577,
+      "admissions": 2053,
+      "days": 773,
+      "day": "6th Mon"
+    },
+    {
+      "date": "12-05-2026",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 561,
+      "admissions": 1876,
+      "days": 872,
+      "day": "6th Tue"
+    },
+    {
+      "date": "13-05-2026",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 794,
+      "admissions": 1831,
+      "days": 2550,
+      "day": "6th Wed"
+    },
+    {
+      "date": "14-05-2026",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 795,
+      "admissions": 1818,
+      "days": 5917,
+      "day": "7th Thu"
+    },
+    {
+      "date": "15-05-2026",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 625,
+      "admissions": 2145,
+      "days": 4139,
+      "day": "7th Fri"
+    },
+    {
+      "date": "16-05-2026",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.1,
+      "showings": 576,
+      "admissions": 3514,
+      "days": 17920,
+      "day": "7th Sat"
+    },
+    {
+      "date": "17-05-2026",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 586,
+      "admissions": 4598,
+      "days": 25886,
+      "day": "7th Sun"
+    },
+    {
+      "date": "18-05-2026",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 748,
+      "admissions": 1324,
+      "days": 2867,
+      "day": "7th Mon"
+    },
+    {
+      "date": "22-05-2026",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 523,
+      "admissions": 930,
+      "days": 1290,
+      "day": "8th Fri"
+    },
+    {
+      "date": "23-05-2026",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 546,
+      "admissions": 3588,
+      "days": 17020,
+      "day": "8th Sat"
+    },
+    {
+      "date": "24-05-2026",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 554,
+      "admissions": 4330,
+      "days": 22168,
+      "day": "8th Sun"
+    },
+    {
+      "date": "27-05-2026",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 555,
+      "admissions": 988,
+      "days": 1186,
+      "day": "8th Wed"
+    },
+    {
+      "date": "28-05-2026",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 532,
+      "admissions": 995,
+      "days": 1557,
+      "day": "9th Thu"
+    },
+    {
+      "date": "29-05-2026",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 512,
+      "admissions": 1569,
+      "days": 3643,
+      "day": "9th Fri"
+    },
+    {
+      "date": "30-05-2026",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 554,
+      "admissions": 3486,
+      "days": 16805,
+      "day": "9th Sat"
+    },
+    {
+      "date": "31-05-2026",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 545,
+      "admissions": 3730,
+      "days": 27438,
+      "day": "9th Sun"
+    },
+    {
+      "date": "01-06-2026",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.66,
+      "showings": 575,
+      "admissions": 9222,
+      "days": 114751,
+      "day": "9th Mon"
+    },
+    {
+      "date": "06-06-2026",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 558,
+      "admissions": 2284,
+      "days": 8237,
+      "day": "10th Sat"
+    },
+    {
+      "date": "07-06-2026",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 554,
+      "admissions": 2846,
+      "days": 10932,
+      "day": "10th Sun"
+    },
+    {
+      "date": "13-06-2026",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 555,
+      "admissions": 2369,
+      "days": 8309,
+      "day": "11th Sat"
+    },
+    {
+      "date": "14-06-2026",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 548,
+      "admissions": 2591,
+      "days": 9132,
+      "day": "11th Sun"
+    }
+  ]
+}

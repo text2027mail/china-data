@@ -1,0 +1,27 @@
+{
+  "movie_id": 692516,
+  "title": "The Last Guaroian",
+  "releaseDate": "21-10-2020",
+  "entries": [
+    {
+      "date": "21-10-2020",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 441,
+      "admissions": 550,
+      "days": 2672,
+      "day": "1st Wed"
+    },
+    {
+      "date": "22-10-2020",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 446,
+      "admissions": 586,
+      "days": 4588,
+      "day": "1st Thu"
+    }
+  ]
+}

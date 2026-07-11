@@ -1,0 +1,77 @@
+{
+  "movie_id": 573855,
+  "title": "Jaws",
+  "releaseDate": "15-05-2026",
+  "entries": [
+    {
+      "date": "15-05-2026",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 640,
+      "admissions": 9753,
+      "days": 23873,
+      "day": "1st Fri"
+    },
+    {
+      "date": "16-05-2026",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.19,
+      "showings": 653,
+      "admissions": 7519,
+      "days": 29852,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-05-2026",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 676,
+      "admissions": 4496,
+      "days": 16416,
+      "day": "1st Sun"
+    },
+    {
+      "date": "18-05-2026",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 700,
+      "admissions": 3570,
+      "days": 4085,
+      "day": "1st Mon"
+    },
+    {
+      "date": "19-05-2026",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 671,
+      "admissions": 3180,
+      "days": 3578,
+      "day": "1st Tue"
+    },
+    {
+      "date": "20-05-2026",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 782,
+      "admissions": 1059,
+      "days": 3027,
+      "day": "1st Wed"
+    },
+    {
+      "date": "21-05-2026",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 750,
+      "admissions": 1318,
+      "days": 2634,
+      "day": "1st Thu"
+    }
+  ]
+}

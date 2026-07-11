@@ -1,0 +1,37 @@
+{
+  "movie_id": 617338,
+  "title": "The Prospector",
+  "releaseDate": "31-12-2015",
+  "entries": [
+    {
+      "date": "31-12-2015",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 490,
+      "admissions": 1072,
+      "days": 3647,
+      "day": "1st Thu"
+    },
+    {
+      "date": "01-01-2016",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 521,
+      "admissions": 242,
+      "days": 772,
+      "day": "1st Fri"
+    },
+    {
+      "date": "02-01-2016",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 437,
+      "admissions": 204,
+      "days": 506,
+      "day": "1st Sat"
+    }
+  ]
+}

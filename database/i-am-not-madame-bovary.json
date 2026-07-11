@@ -1,0 +1,467 @@
+{
+  "movie_id": 640103,
+  "title": "I Am Not Madame Bovary",
+  "releaseDate": "12-11-2016",
+  "entries": [
+    {
+      "date": "12-11-2016",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 1285,
+      "admissions": 5,
+      "days": 1104,
+      "day": "1st Sat"
+    },
+    {
+      "date": "13-11-2016",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 1168,
+      "admissions": 6,
+      "days": 1560,
+      "day": "1st Sun"
+    },
+    {
+      "date": "17-11-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.28,
+      "showings": 512,
+      "admissions": 1908,
+      "days": 54112,
+      "day": "1st Thu"
+    },
+    {
+      "date": "18-11-2016",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 43130,
+      "admissions": 459,
+      "days": 81875,
+      "day": "1st Fri"
+    },
+    {
+      "date": "19-11-2016",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 48410,
+      "admissions": 474,
+      "days": 79828,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "20-11-2016",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 37237,
+      "admissions": 476,
+      "days": 76025,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "21-11-2016",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 16666,
+      "admissions": 471,
+      "days": 67516,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "22-11-2016",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 15171,
+      "admissions": 477,
+      "days": 65783,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "23-11-2016",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 13888,
+      "admissions": 483,
+      "days": 64810,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "24-11-2016",
+      "rank": 1,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 12477,
+      "admissions": 484,
+      "days": 63935,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "25-11-2016",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 1.85,
+      "showings": 487,
+      "admissions": 21153,
+      "days": 380069,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "26-11-2016",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 2.48,
+      "showings": 488,
+      "admissions": 21166,
+      "days": 508704,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "27-11-2016",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 2.21,
+      "showings": 492,
+      "admissions": 21743,
+      "days": 449221,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "28-11-2016",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 1.2,
+      "showings": 494,
+      "admissions": 22544,
+      "days": 243154,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "29-11-2016",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 1.29,
+      "showings": 493,
+      "admissions": 23332,
+      "days": 261958,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "30-11-2016",
+      "rank": 3,
+      "gross": 0.0,
+      "cume": 1.25,
+      "showings": 510,
+      "admissions": 20181,
+      "days": 244199,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "01-12-2016",
+      "rank": 2,
+      "gross": 0.0,
+      "cume": 1.2,
+      "showings": 532,
+      "admissions": 20694,
+      "days": 226050,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "02-12-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.72,
+      "showings": 610,
+      "admissions": 4227,
+      "days": 118457,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "03-12-2016",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.92,
+      "showings": 595,
+      "admissions": 4292,
+      "days": 154163,
+      "day": "4th Sat"
+    },
+    {
+      "date": "04-12-2016",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.83,
+      "showings": 609,
+      "admissions": 4201,
+      "days": 137104,
+      "day": "4th Sun"
+    },
+    {
+      "date": "05-12-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.63,
+      "showings": 624,
+      "admissions": 4915,
+      "days": 100959,
+      "day": "4th Mon"
+    },
+    {
+      "date": "06-12-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.59,
+      "showings": 628,
+      "admissions": 5127,
+      "days": 94293,
+      "day": "4th Tue"
+    },
+    {
+      "date": "07-12-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.64,
+      "showings": 650,
+      "admissions": 5337,
+      "days": 98880,
+      "day": "4th Wed"
+    },
+    {
+      "date": "08-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.74,
+      "showings": 784,
+      "admissions": 3624,
+      "days": 93808,
+      "day": "4th Thu"
+    },
+    {
+      "date": "09-12-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.85,
+      "showings": 814,
+      "admissions": 1985,
+      "days": 104621,
+      "day": "4th Fri"
+    },
+    {
+      "date": "10-12-2016",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.94,
+      "showings": 812,
+      "admissions": 1994,
+      "days": 116107,
+      "day": "5th Sat"
+    },
+    {
+      "date": "11-12-2016",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.95,
+      "showings": 838,
+      "admissions": 1949,
+      "days": 113262,
+      "day": "5th Sun"
+    },
+    {
+      "date": "12-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.7,
+      "showings": 839,
+      "admissions": 2109,
+      "days": 83923,
+      "day": "5th Mon"
+    },
+    {
+      "date": "13-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.8,
+      "showings": 758,
+      "admissions": 2297,
+      "days": 105774,
+      "day": "5th Tue"
+    },
+    {
+      "date": "14-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.81,
+      "showings": 765,
+      "admissions": 2317,
+      "days": 106404,
+      "day": "5th Wed"
+    },
+    {
+      "date": "15-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.8,
+      "showings": 766,
+      "admissions": 2117,
+      "days": 104586,
+      "day": "5th Thu"
+    },
+    {
+      "date": "16-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.81,
+      "showings": 770,
+      "admissions": 1294,
+      "days": 104646,
+      "day": "5th Fri"
+    },
+    {
+      "date": "17-12-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.81,
+      "showings": 835,
+      "admissions": 1255,
+      "days": 97339,
+      "day": "6th Sat"
+    },
+    {
+      "date": "18-12-2016",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.79,
+      "showings": 835,
+      "admissions": 1194,
+      "days": 94386,
+      "day": "6th Sun"
+    },
+    {
+      "date": "19-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.62,
+      "showings": 762,
+      "admissions": 1194,
+      "days": 80786,
+      "day": "6th Mon"
+    },
+    {
+      "date": "20-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 1.08,
+      "showings": 672,
+      "admissions": 1740,
+      "days": 160957,
+      "day": "6th Tue"
+    },
+    {
+      "date": "21-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.9,
+      "showings": 635,
+      "admissions": 1701,
+      "days": 142163,
+      "day": "6th Wed"
+    },
+    {
+      "date": "22-12-2016",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.63,
+      "showings": 627,
+      "admissions": 1417,
+      "days": 100062,
+      "day": "6th Thu"
+    },
+    {
+      "date": "23-12-2016",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 582,
+      "admissions": 142,
+      "days": 8046,
+      "day": "6th Fri"
+    },
+    {
+      "date": "24-12-2016",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.24,
+      "showings": 544,
+      "admissions": 356,
+      "days": 44033,
+      "day": "7th Sat"
+    },
+    {
+      "date": "25-12-2016",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 531,
+      "admissions": 156,
+      "days": 14070,
+      "day": "7th Sun"
+    },
+    {
+      "date": "26-12-2016",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 516,
+      "admissions": 195,
+      "days": 14628,
+      "day": "7th Mon"
+    },
+    {
+      "date": "27-12-2016",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 513,
+      "admissions": 195,
+      "days": 16089,
+      "day": "7th Tue"
+    },
+    {
+      "date": "28-12-2016",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 509,
+      "admissions": 151,
+      "days": 8584,
+      "day": "7th Wed"
+    },
+    {
+      "date": "29-12-2016",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 498,
+      "admissions": 114,
+      "days": 4783,
+      "day": "7th Thu"
+    },
+    {
+      "date": "31-12-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 636,
+      "admissions": 76,
+      "days": 5407,
+      "day": "8th Sat"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 657105,
+  "title": "10,000 Miles",
+  "releaseDate": "06-01-2017",
+  "entries": [
+    {
+      "date": "06-01-2017",
+      "rank": 8,
+      "gross": 10000.0,
+      "cume": 0.18,
+      "showings": 425,
+      "admissions": 12066,
+      "days": 41676,
+      "day": "1st Fri"
+    },
+    {
+      "date": "07-01-2017",
+      "rank": 11,
+      "gross": 10000.0,
+      "cume": 0.13,
+      "showings": 439,
+      "admissions": 6921,
+      "days": 28719,
+      "day": "1st Sat"
+    },
+    {
+      "date": "08-01-2017",
+      "rank": 11,
+      "gross": 10000.0,
+      "cume": 0.09,
+      "showings": 440,
+      "admissions": 5689,
+      "days": 20415,
+      "day": "1st Sun"
+    },
+    {
+      "date": "09-01-2017",
+      "rank": 11,
+      "gross": 10000.0,
+      "cume": 0.04,
+      "showings": 437,
+      "admissions": 5083,
+      "days": 9506,
+      "day": "1st Mon"
+    },
+    {
+      "date": "10-01-2017",
+      "rank": 14,
+      "gross": 10000.0,
+      "cume": 0.03,
+      "showings": 427,
+      "admissions": 4422,
+      "days": 7796,
+      "day": "1st Tue"
+    },
+    {
+      "date": "11-01-2017",
+      "rank": 14,
+      "gross": 10000.0,
+      "cume": 0.03,
+      "showings": 431,
+      "admissions": 3933,
+      "days": 6771,
+      "day": "1st Wed"
+    },
+    {
+      "date": "12-01-2017",
+      "rank": 15,
+      "gross": 10000.0,
+      "cume": 0.03,
+      "showings": 432,
+      "admissions": 3567,
+      "days": 6148,
+      "day": "1st Thu"
+    }
+  ]
+}

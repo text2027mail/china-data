@@ -1,0 +1,37 @@
+{
+  "movie_id": 674519,
+  "title": "Mr.Big",
+  "releaseDate": "20-08-2018",
+  "entries": [
+    {
+      "date": "20-08-2018",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 475,
+      "admissions": 1629,
+      "days": 5273,
+      "day": "1st Mon"
+    },
+    {
+      "date": "21-08-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 489,
+      "admissions": 1641,
+      "days": 3681,
+      "day": "1st Tue"
+    },
+    {
+      "date": "22-08-2018",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 503,
+      "admissions": 1605,
+      "days": 4133,
+      "day": "1st Wed"
+    }
+  ]
+}

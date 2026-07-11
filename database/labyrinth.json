@@ -1,0 +1,37 @@
+{
+  "movie_id": 711932,
+  "title": "Labyrinth",
+  "releaseDate": "17-05-2024",
+  "entries": [
+    {
+      "date": "17-05-2024",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 618,
+      "admissions": 5029,
+      "days": 13586,
+      "day": "1st Fri"
+    },
+    {
+      "date": "18-05-2024",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 595,
+      "admissions": 1034,
+      "days": 10588,
+      "day": "1st Sat"
+    },
+    {
+      "date": "19-05-2024",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 607,
+      "admissions": 342,
+      "days": 8539,
+      "day": "1st Sun"
+    }
+  ]
+}

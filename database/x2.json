@@ -1,0 +1,87 @@
+{
+  "movie_id": 402729,
+  "title": "X2",
+  "releaseDate": "23-05-2014",
+  "entries": [
+    {
+      "date": "23-05-2014",
+      "rank": 15,
+      "gross": 2.0,
+      "cume": 0.01,
+      "showings": 424,
+      "admissions": 54,
+      "days": 2449,
+      "day": "1st Fri"
+    },
+    {
+      "date": "24-05-2014",
+      "rank": 14,
+      "gross": 2.0,
+      "cume": 0.02,
+      "showings": 443,
+      "admissions": 55,
+      "days": 3532,
+      "day": "1st Sat"
+    },
+    {
+      "date": "25-05-2014",
+      "rank": 15,
+      "gross": 2.0,
+      "cume": 0.01,
+      "showings": 416,
+      "admissions": 57,
+      "days": 2548,
+      "day": "1st Sun"
+    },
+    {
+      "date": "26-05-2014",
+      "rank": 17,
+      "gross": 2.0,
+      "cume": 0.0,
+      "showings": 424,
+      "admissions": 55,
+      "days": 1028,
+      "day": "1st Mon"
+    },
+    {
+      "date": "27-05-2014",
+      "rank": 16,
+      "gross": 2.0,
+      "cume": 0.01,
+      "showings": 472,
+      "admissions": 62,
+      "days": 1314,
+      "day": "1st Tue"
+    },
+    {
+      "date": "01-06-2014",
+      "rank": 19,
+      "gross": 2.0,
+      "cume": 0.01,
+      "showings": 407,
+      "admissions": 45,
+      "days": 1484,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "02-06-2014",
+      "rank": 19,
+      "gross": 2.0,
+      "cume": 0.0,
+      "showings": 403,
+      "admissions": 42,
+      "days": 795,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "03-06-2014",
+      "rank": 20,
+      "gross": 2.0,
+      "cume": 0.0,
+      "showings": 406,
+      "admissions": 42,
+      "days": 336,
+      "day": "2nd Tue"
+    }
+  ]
+}

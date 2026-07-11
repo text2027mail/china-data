@@ -1,0 +1,27 @@
+{
+  "movie_id": 702789,
+  "title": "Spanish film masters 2020",
+  "releaseDate": "17-10-2020",
+  "entries": [
+    {
+      "date": "17-10-2020",
+      "rank": 17,
+      "gross": 2020.0,
+      "cume": 0.02,
+      "showings": 1075,
+      "admissions": 3,
+      "days": 2001,
+      "day": "1st Sat"
+    },
+    {
+      "date": "18-10-2020",
+      "rank": 19,
+      "gross": 2020.0,
+      "cume": 0.01,
+      "showings": 1075,
+      "admissions": 2,
+      "days": 1334,
+      "day": "1st Sun"
+    }
+  ]
+}

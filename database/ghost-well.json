@@ -1,0 +1,37 @@
+{
+  "movie_id": 669076,
+  "title": "Ghost Well",
+  "releaseDate": "01-06-2018",
+  "entries": [
+    {
+      "date": "01-06-2018",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 417,
+      "admissions": 2094,
+      "days": 9012,
+      "day": "1st Fri"
+    },
+    {
+      "date": "02-06-2018",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 413,
+      "admissions": 1421,
+      "days": 3742,
+      "day": "1st Sat"
+    },
+    {
+      "date": "03-06-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 412,
+      "admissions": 1195,
+      "days": 2413,
+      "day": "1st Sun"
+    }
+  ]
+}

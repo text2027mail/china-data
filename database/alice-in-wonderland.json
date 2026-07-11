@@ -1,0 +1,57 @@
+{
+  "movie_id": 299356,
+  "title": "Alice in Wonderland",
+  "releaseDate": "27-05-2016",
+  "entries": [
+    {
+      "date": "27-05-2016",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 419,
+      "admissions": 197,
+      "days": 1530,
+      "day": "1st Fri"
+    },
+    {
+      "date": "28-05-2016",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 425,
+      "admissions": 207,
+      "days": 2363,
+      "day": "1st Sat"
+    },
+    {
+      "date": "29-05-2016",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 417,
+      "admissions": 185,
+      "days": 1464,
+      "day": "1st Sun"
+    },
+    {
+      "date": "30-05-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 433,
+      "admissions": 127,
+      "days": 315,
+      "day": "1st Mon"
+    },
+    {
+      "date": "01-06-2016",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 418,
+      "admissions": 107,
+      "days": 957,
+      "day": "1st Wed"
+    }
+  ]
+}

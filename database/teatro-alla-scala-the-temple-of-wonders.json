@@ -1,0 +1,27 @@
+{
+  "movie_id": 666408,
+  "title": "Teatro alla Scala - The Temple of Wonders",
+  "releaseDate": "10-07-2017",
+  "entries": [
+    {
+      "date": "10-07-2017",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 874,
+      "admissions": 23,
+      "days": 1753,
+      "day": "1st Mon"
+    },
+    {
+      "date": "17-07-2017",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 930,
+      "admissions": 21,
+      "days": 2026,
+      "day": "2nd Mon"
+    }
+  ]
+}

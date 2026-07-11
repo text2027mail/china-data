@@ -1,0 +1,37 @@
+{
+  "movie_id": 683950,
+  "title": "Indian films screened",
+  "releaseDate": "14-11-2018",
+  "entries": [
+    {
+      "date": "14-11-2018",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 963,
+      "admissions": 2,
+      "days": 1165,
+      "day": "1st Wed"
+    },
+    {
+      "date": "20-11-2018",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 1108,
+      "admissions": 3,
+      "days": 1723,
+      "day": "1st Tue"
+    },
+    {
+      "date": "21-11-2018",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 1055,
+      "admissions": 6,
+      "days": 1304,
+      "day": "2nd Wed"
+    }
+  ]
+}

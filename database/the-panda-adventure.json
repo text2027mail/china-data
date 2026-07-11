@@ -1,0 +1,37 @@
+{
+  "movie_id": 789017,
+  "title": "The Panda Adventure",
+  "releaseDate": "10-03-2026",
+  "entries": [
+    {
+      "date": "10-03-2026",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 482,
+      "admissions": 3720,
+      "days": 937,
+      "day": "1st Tue"
+    },
+    {
+      "date": "11-03-2026",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 505,
+      "admissions": 3853,
+      "days": 1167,
+      "day": "1st Wed"
+    },
+    {
+      "date": "20-05-2026",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 465,
+      "admissions": 19,
+      "days": 2633,
+      "day": "11th Wed"
+    }
+  ]
+}

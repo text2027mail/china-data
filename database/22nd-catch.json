@@ -1,0 +1,47 @@
+{
+  "movie_id": 596523,
+  "title": "22nd Catch",
+  "releaseDate": "13-05-2016",
+  "entries": [
+    {
+      "date": "13-05-2016",
+      "rank": 11,
+      "gross": 22.0,
+      "cume": 0.01,
+      "showings": 435,
+      "admissions": 1573,
+      "days": 3125,
+      "day": "1st Fri"
+    },
+    {
+      "date": "14-05-2016",
+      "rank": 19,
+      "gross": 22.0,
+      "cume": 0.01,
+      "showings": 400,
+      "admissions": 1030,
+      "days": 2527,
+      "day": "1st Sat"
+    },
+    {
+      "date": "15-05-2016",
+      "rank": 20,
+      "gross": 22.0,
+      "cume": 0.01,
+      "showings": 389,
+      "admissions": 897,
+      "days": 1361,
+      "day": "1st Sun"
+    },
+    {
+      "date": "16-05-2016",
+      "rank": 18,
+      "gross": 22.0,
+      "cume": 0.0,
+      "showings": 397,
+      "admissions": 879,
+      "days": 652,
+      "day": "1st Mon"
+    }
+  ]
+}

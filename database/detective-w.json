@@ -1,0 +1,27 @@
+{
+  "movie_id": 660906,
+  "title": "Detective W",
+  "releaseDate": "07-08-2021",
+  "entries": [
+    {
+      "date": "07-08-2021",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 499,
+      "admissions": 30,
+      "days": 1743,
+      "day": "1st Sat"
+    },
+    {
+      "date": "20-08-2021",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 403,
+      "admissions": 2513,
+      "days": 3874,
+      "day": "2nd Fri"
+    }
+  ]
+}

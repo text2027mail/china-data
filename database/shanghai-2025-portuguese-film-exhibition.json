@@ -1,0 +1,37 @@
+{
+  "movie_id": 988166,
+  "title": "Shanghai 2025 Portuguese Film Exhibition",
+  "releaseDate": "27-12-2025",
+  "entries": [
+    {
+      "date": "27-12-2025",
+      "rank": 15,
+      "gross": 2025.0,
+      "cume": 0.02,
+      "showings": 1145,
+      "admissions": 3,
+      "days": 1980,
+      "day": "1st Sat"
+    },
+    {
+      "date": "28-12-2025",
+      "rank": 12,
+      "gross": 2025.0,
+      "cume": 0.03,
+      "showings": 1134,
+      "admissions": 3,
+      "days": 2251,
+      "day": "1st Sun"
+    },
+    {
+      "date": "01-01-2026",
+      "rank": 16,
+      "gross": 2025.0,
+      "cume": 0.02,
+      "showings": 1183,
+      "admissions": 1,
+      "days": 1903,
+      "day": "1st Thu"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "movie_id": 679936,
+  "title": "The Fourth Wall",
+  "releaseDate": "10-12-2021",
+  "entries": [
+    {
+      "date": "10-12-2021",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 724,
+      "admissions": 4948,
+      "days": 12968,
+      "day": "1st Fri"
+    },
+    {
+      "date": "11-12-2021",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 744,
+      "admissions": 862,
+      "days": 6864,
+      "day": "1st Sat"
+    },
+    {
+      "date": "12-12-2021",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 763,
+      "admissions": 748,
+      "days": 5959,
+      "day": "1st Sun"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "movie_id": 681702,
+  "title": "A Beautiful Day in the Neighborhood",
+  "releaseDate": "18-09-2020",
+  "entries": [
+    {
+      "date": "18-09-2020",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 474,
+      "admissions": 20895,
+      "days": 19281,
+      "day": "1st Fri"
+    },
+    {
+      "date": "19-09-2020",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 499,
+      "admissions": 8027,
+      "days": 13128,
+      "day": "1st Sat"
+    },
+    {
+      "date": "20-09-2020",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 506,
+      "admissions": 6171,
+      "days": 11022,
+      "day": "1st Sun"
+    },
+    {
+      "date": "21-09-2020",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 514,
+      "admissions": 4525,
+      "days": 3970,
+      "day": "1st Mon"
+    },
+    {
+      "date": "22-09-2020",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 518,
+      "admissions": 4116,
+      "days": 2790,
+      "day": "1st Tue"
+    },
+    {
+      "date": "23-09-2020",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 497,
+      "admissions": 3763,
+      "days": 2499,
+      "day": "1st Wed"
+    },
+    {
+      "date": "24-09-2020",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 501,
+      "admissions": 3651,
+      "days": 2426,
+      "day": "1st Thu"
+    }
+  ]
+}

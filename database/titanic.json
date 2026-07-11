@@ -1,0 +1,307 @@
+{
+  "movie_id": 392775,
+  "title": "Titanic",
+  "releaseDate": "03-04-2023",
+  "entries": [
+    {
+      "date": "03-04-2023",
+      "rank": 4,
+      "gross": 0.0,
+      "cume": 0.75,
+      "showings": 622,
+      "admissions": 13429,
+      "days": 120428,
+      "day": "1st Mon"
+    },
+    {
+      "date": "04-04-2023",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.78,
+      "showings": 632,
+      "admissions": 11590,
+      "days": 123438,
+      "day": "1st Tue"
+    },
+    {
+      "date": "05-04-2023",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 1.47,
+      "showings": 632,
+      "admissions": 10308,
+      "days": 232815,
+      "day": "1st Wed"
+    },
+    {
+      "date": "06-04-2023",
+      "rank": 5,
+      "gross": 0.0,
+      "cume": 0.36,
+      "showings": 622,
+      "admissions": 9438,
+      "days": 58476,
+      "day": "1st Thu"
+    },
+    {
+      "date": "07-04-2023",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.44,
+      "showings": 642,
+      "admissions": 6831,
+      "days": 68221,
+      "day": "1st Fri"
+    },
+    {
+      "date": "08-04-2023",
+      "rank": 6,
+      "gross": 0.0,
+      "cume": 0.88,
+      "showings": 655,
+      "admissions": 6502,
+      "days": 134657,
+      "day": "1st Sat"
+    },
+    {
+      "date": "09-04-2023",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.65,
+      "showings": 646,
+      "admissions": 7250,
+      "days": 100873,
+      "day": "1st Sun"
+    },
+    {
+      "date": "10-04-2023",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.23,
+      "showings": 640,
+      "admissions": 6988,
+      "days": 35613,
+      "day": "2nd Mon"
+    },
+    {
+      "date": "11-04-2023",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 633,
+      "admissions": 6979,
+      "days": 31960,
+      "day": "2nd Tue"
+    },
+    {
+      "date": "12-04-2023",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 633,
+      "admissions": 6998,
+      "days": 31083,
+      "day": "2nd Wed"
+    },
+    {
+      "date": "13-04-2023",
+      "rank": 7,
+      "gross": 0.0,
+      "cume": 0.19,
+      "showings": 638,
+      "admissions": 6831,
+      "days": 29879,
+      "day": "2nd Thu"
+    },
+    {
+      "date": "14-04-2023",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.25,
+      "showings": 647,
+      "admissions": 5237,
+      "days": 38105,
+      "day": "2nd Fri"
+    },
+    {
+      "date": "15-04-2023",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.48,
+      "showings": 661,
+      "admissions": 4661,
+      "days": 72350,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "16-04-2023",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.38,
+      "showings": 658,
+      "admissions": 5487,
+      "days": 57525,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "17-04-2023",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 641,
+      "admissions": 5417,
+      "days": 20038,
+      "day": "3rd Mon"
+    },
+    {
+      "date": "18-04-2023",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 644,
+      "admissions": 5467,
+      "days": 19615,
+      "day": "3rd Tue"
+    },
+    {
+      "date": "19-04-2023",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 643,
+      "admissions": 5477,
+      "days": 20431,
+      "day": "3rd Wed"
+    },
+    {
+      "date": "20-04-2023",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 601,
+      "admissions": 2352,
+      "days": 11626,
+      "day": "3rd Thu"
+    },
+    {
+      "date": "21-04-2023",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 600,
+      "admissions": 2295,
+      "days": 18157,
+      "day": "3rd Fri"
+    },
+    {
+      "date": "22-04-2023",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 612,
+      "admissions": 2322,
+      "days": 32568,
+      "day": "3rd Sat"
+    },
+    {
+      "date": "23-04-2023",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.12,
+      "showings": 608,
+      "admissions": 2552,
+      "days": 19421,
+      "day": "3rd Sun"
+    },
+    {
+      "date": "24-04-2023",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 592,
+      "admissions": 2824,
+      "days": 12115,
+      "day": "4th Mon"
+    },
+    {
+      "date": "25-04-2023",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.06,
+      "showings": 605,
+      "admissions": 2897,
+      "days": 10675,
+      "day": "4th Tue"
+    },
+    {
+      "date": "26-04-2023",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 601,
+      "admissions": 2970,
+      "days": 10937,
+      "day": "4th Wed"
+    },
+    {
+      "date": "27-04-2023",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.07,
+      "showings": 594,
+      "admissions": 3013,
+      "days": 12558,
+      "day": "4th Thu"
+    },
+    {
+      "date": "28-04-2023",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 583,
+      "admissions": 958,
+      "days": 6530,
+      "day": "4th Fri"
+    },
+    {
+      "date": "29-04-2023",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 570,
+      "admissions": 200,
+      "days": 5485,
+      "day": "4th Sat"
+    },
+    {
+      "date": "30-04-2023",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 608,
+      "admissions": 581,
+      "days": 12841,
+      "day": "4th Sun"
+    },
+    {
+      "date": "01-05-2023",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 605,
+      "admissions": 749,
+      "days": 13552,
+      "day": "5th Mon"
+    },
+    {
+      "date": "02-05-2023",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.08,
+      "showings": 614,
+      "admissions": 800,
+      "days": 13070,
+      "day": "5th Tue"
+    }
+  ]
+}

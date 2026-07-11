@@ -1,0 +1,67 @@
+{
+  "movie_id": 630049,
+  "title": "My Kitchen Lover",
+  "releaseDate": "15-06-2018",
+  "entries": [
+    {
+      "date": "15-06-2018",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 404,
+      "admissions": 3565,
+      "days": 10718,
+      "day": "1st Fri"
+    },
+    {
+      "date": "16-06-2018",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 427,
+      "admissions": 1971,
+      "days": 4900,
+      "day": "1st Sat"
+    },
+    {
+      "date": "17-06-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 423,
+      "admissions": 1731,
+      "days": 3311,
+      "day": "1st Sun"
+    },
+    {
+      "date": "20-06-2018",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 346,
+      "admissions": 698,
+      "days": 1431,
+      "day": "1st Wed"
+    },
+    {
+      "date": "12-07-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 490,
+      "admissions": 31,
+      "days": 1180,
+      "day": "4th Thu"
+    },
+    {
+      "date": "13-07-2018",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 515,
+      "admissions": 29,
+      "days": 1337,
+      "day": "5th Fri"
+    }
+  ]
+}

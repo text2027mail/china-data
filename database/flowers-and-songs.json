@@ -1,0 +1,47 @@
+{
+  "movie_id": 693015,
+  "title": "Flowers and songs",
+  "releaseDate": "31-05-2019",
+  "entries": [
+    {
+      "date": "31-05-2019",
+      "rank": 8,
+      "gross": 0.0,
+      "cume": 0.18,
+      "showings": 472,
+      "admissions": 1998,
+      "days": 38619,
+      "day": "1st Fri"
+    },
+    {
+      "date": "01-06-2019",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 471,
+      "admissions": 825,
+      "days": 24269,
+      "day": "1st Sat"
+    },
+    {
+      "date": "02-06-2019",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 435,
+      "admissions": 1197,
+      "days": 5313,
+      "day": "1st Sun"
+    },
+    {
+      "date": "09-06-2019",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 475,
+      "admissions": 43,
+      "days": 2566,
+      "day": "2nd Sun"
+    }
+  ]
+}

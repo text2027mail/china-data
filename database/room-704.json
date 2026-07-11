@@ -1,0 +1,57 @@
+{
+  "movie_id": 640460,
+  "title": "Room 704",
+  "releaseDate": "09-12-2016",
+  "entries": [
+    {
+      "date": "09-12-2016",
+      "rank": 15,
+      "gross": 704.0,
+      "cume": 0.05,
+      "showings": 399,
+      "admissions": 2563,
+      "days": 11891,
+      "day": "1st Fri"
+    },
+    {
+      "date": "10-12-2016",
+      "rank": 16,
+      "gross": 704.0,
+      "cume": 0.05,
+      "showings": 397,
+      "admissions": 1780,
+      "days": 12632,
+      "day": "1st Sat"
+    },
+    {
+      "date": "11-12-2016",
+      "rank": 16,
+      "gross": 704.0,
+      "cume": 0.04,
+      "showings": 400,
+      "admissions": 1720,
+      "days": 8901,
+      "day": "1st Sun"
+    },
+    {
+      "date": "12-12-2016",
+      "rank": 18,
+      "gross": 704.0,
+      "cume": 0.02,
+      "showings": 392,
+      "admissions": 1649,
+      "days": 6265,
+      "day": "1st Mon"
+    },
+    {
+      "date": "14-12-2016",
+      "rank": 18,
+      "gross": 704.0,
+      "cume": 0.02,
+      "showings": 390,
+      "admissions": 1599,
+      "days": 5736,
+      "day": "1st Wed"
+    }
+  ]
+}

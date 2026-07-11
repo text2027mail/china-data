@@ -1,0 +1,67 @@
+{
+  "movie_id": 602,
+  "title": "Red Sorghum",
+  "releaseDate": "12-10-2018",
+  "entries": [
+    {
+      "date": "12-10-2018",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 527,
+      "admissions": 1815,
+      "days": 4565,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-10-2018",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 558,
+      "admissions": 1399,
+      "days": 4297,
+      "day": "1st Sat"
+    },
+    {
+      "date": "14-10-2018",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 535,
+      "admissions": 1198,
+      "days": 3366,
+      "day": "1st Sun"
+    },
+    {
+      "date": "15-10-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 522,
+      "admissions": 1034,
+      "days": 1446,
+      "day": "1st Mon"
+    },
+    {
+      "date": "16-10-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 528,
+      "admissions": 951,
+      "days": 1273,
+      "day": "1st Tue"
+    },
+    {
+      "date": "17-10-2018",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 500,
+      "admissions": 910,
+      "days": 1473,
+      "day": "1st Wed"
+    }
+  ]
+}

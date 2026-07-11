@@ -1,0 +1,67 @@
+{
+  "movie_id": 678559,
+  "title": "Wonder Boy",
+  "releaseDate": "16-12-2022",
+  "entries": [
+    {
+      "date": "16-12-2022",
+      "rank": 16,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 407,
+      "admissions": 14,
+      "days": 545,
+      "day": "1st Fri"
+    },
+    {
+      "date": "17-12-2022",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 387,
+      "admissions": 15,
+      "days": 790,
+      "day": "1st Sat"
+    },
+    {
+      "date": "18-12-2022",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 383,
+      "admissions": 15,
+      "days": 571,
+      "day": "1st Sun"
+    },
+    {
+      "date": "22-01-2023",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 543,
+      "admissions": 9,
+      "days": 1257,
+      "day": "6th Sun"
+    },
+    {
+      "date": "24-01-2023",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 841,
+      "admissions": 2,
+      "days": 107,
+      "day": "6th Tue"
+    },
+    {
+      "date": "26-01-2023",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 767,
+      "admissions": 9,
+      "days": 115,
+      "day": "6th Thu"
+    }
+  ]
+}

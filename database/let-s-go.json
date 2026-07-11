@@ -1,0 +1,67 @@
+{
+  "movie_id": 677992,
+  "title": "Let's go",
+  "releaseDate": "16-10-2018",
+  "entries": [
+    {
+      "date": "16-10-2018",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 430,
+      "admissions": 2424,
+      "days": 4716,
+      "day": "1st Tue"
+    },
+    {
+      "date": "17-10-2018",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 449,
+      "admissions": 722,
+      "days": 4518,
+      "day": "1st Wed"
+    },
+    {
+      "date": "18-10-2018",
+      "rank": 10,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 456,
+      "admissions": 557,
+      "days": 5427,
+      "day": "1st Thu"
+    },
+    {
+      "date": "19-10-2018",
+      "rank": 14,
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 432,
+      "admissions": 177,
+      "days": 8610,
+      "day": "1st Fri"
+    },
+    {
+      "date": "22-10-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 404,
+      "admissions": 82,
+      "days": 1002,
+      "day": "1st Mon"
+    },
+    {
+      "date": "23-10-2018",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 445,
+      "admissions": 87,
+      "days": 1726,
+      "day": "2nd Tue"
+    }
+  ]
+}

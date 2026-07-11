@@ -1,0 +1,27 @@
+{
+  "movie_id": 442,
+  "title": "The Forbidden Kingdom",
+  "releaseDate": "03-05-2013",
+  "entries": [
+    {
+      "date": "03-05-2013",
+      "rank": 15,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 148,
+      "admissions": 2,
+      "days": 1008,
+      "day": "1st Fri"
+    },
+    {
+      "date": "13-05-2013",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 148,
+      "admissions": 1,
+      "days": 631,
+      "day": "2nd Mon"
+    }
+  ]
+}

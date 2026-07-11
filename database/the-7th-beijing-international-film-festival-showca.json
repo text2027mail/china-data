@@ -1,0 +1,37 @@
+{
+  "movie_id": 674874,
+  "title": "The 7th Beijing international film festival showcased the film 5.",
+  "releaseDate": "16-06-2017",
+  "entries": [
+    {
+      "date": "16-06-2017",
+      "rank": 18,
+      "gross": 75.0,
+      "cume": 0.04,
+      "showings": 999,
+      "admissions": 15,
+      "days": 3665,
+      "day": "1st Fri"
+    },
+    {
+      "date": "17-06-2017",
+      "rank": 15,
+      "gross": 75.0,
+      "cume": 0.08,
+      "showings": 994,
+      "admissions": 31,
+      "days": 8409,
+      "day": "1st Sat"
+    },
+    {
+      "date": "18-06-2017",
+      "rank": 16,
+      "gross": 75.0,
+      "cume": 0.05,
+      "showings": 1065,
+      "admissions": 12,
+      "days": 4642,
+      "day": "1st Sun"
+    }
+  ]
+}

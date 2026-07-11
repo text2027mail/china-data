@@ -1,0 +1,87 @@
+{
+  "movie_id": 710777,
+  "title": "Hello Elien",
+  "releaseDate": "15-07-2023",
+  "entries": [
+    {
+      "date": "15-07-2023",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.15,
+      "showings": 489,
+      "admissions": 4707,
+      "days": 31038,
+      "day": "1st Sat"
+    },
+    {
+      "date": "16-07-2023",
+      "rank": 12,
+      "gross": 0.0,
+      "cume": 0.16,
+      "showings": 476,
+      "admissions": 5364,
+      "days": 34261,
+      "day": "1st Sun"
+    },
+    {
+      "date": "17-07-2023",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 418,
+      "admissions": 1522,
+      "days": 3909,
+      "day": "1st Mon"
+    },
+    {
+      "date": "18-07-2023",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 444,
+      "admissions": 1192,
+      "days": 2598,
+      "day": "1st Tue"
+    },
+    {
+      "date": "19-07-2023",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 441,
+      "admissions": 1120,
+      "days": 2280,
+      "day": "1st Wed"
+    },
+    {
+      "date": "22-07-2023",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 425,
+      "admissions": 542,
+      "days": 3435,
+      "day": "2nd Sat"
+    },
+    {
+      "date": "23-07-2023",
+      "rank": 13,
+      "gross": 0.0,
+      "cume": 0.09,
+      "showings": 484,
+      "admissions": 2416,
+      "days": 18932,
+      "day": "2nd Sun"
+    },
+    {
+      "date": "30-07-2023",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 465,
+      "admissions": 775,
+      "days": 3855,
+      "day": "3rd Sun"
+    }
+  ]
+}

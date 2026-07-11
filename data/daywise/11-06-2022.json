@@ -1,0 +1,225 @@
+{
+  "date": "11-06-2022",
+  "data": [
+    {
+      "movie_id": 692532,
+      "title": "",
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 46197,
+      "admissions": 535,
+      "rank": 1,
+      "days": 175555,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 639306,
+      "title": "My Blue Summer",
+      "gross": 0.0,
+      "cume": 1.07,
+      "showings": 591,
+      "admissions": 39883,
+      "rank": 2,
+      "days": 181240,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 706574,
+      "title": "The Bad Guys",
+      "gross": 0.0,
+      "cume": 0.85,
+      "showings": 497,
+      "admissions": 28720,
+      "rank": 3,
+      "days": 170508,
+      "day": "7th Sat"
+    },
+    {
+      "movie_id": 712866,
+      "title": "Doraemon the Movie: Nobita's Little Star Wars 2021",
+      "gross": 2021.0,
+      "cume": 0.28,
+      "showings": 436,
+      "admissions": 18017,
+      "rank": 4,
+      "days": 64925,
+      "day": "3rd Sat"
+    },
+    {
+      "movie_id": 701418,
+      "title": "Escape from Pretoria",
+      "gross": 0.0,
+      "cume": 0.25,
+      "showings": 486,
+      "admissions": 18201,
+      "rank": 5,
+      "days": 50569,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 700663,
+      "title": "Octonauts：The Caves of Sac Actun",
+      "gross": 0.0,
+      "cume": 0.2,
+      "showings": 489,
+      "admissions": 9081,
+      "rank": 6,
+      "days": 40068,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 707673,
+      "title": "Hotel Transylvania 4: Transformania",
+      "gross": 4.0,
+      "cume": 0.07,
+      "showings": 436,
+      "admissions": 4080,
+      "rank": 7,
+      "days": 16719,
+      "day": "12th Sat"
+    },
+    {
+      "movie_id": 710612,
+      "title": "MAN ON THE EDGE",
+      "gross": 0.0,
+      "cume": 0.05,
+      "showings": 517,
+      "admissions": 4214,
+      "rank": 8,
+      "days": 9754,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 694450,
+      "title": "MIRROR WORLD",
+      "gross": 0.0,
+      "cume": 0.04,
+      "showings": 461,
+      "admissions": 4974,
+      "rank": 9,
+      "days": 8747,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 700578,
+      "title": "LETHAL GOLD",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 431,
+      "admissions": 139,
+      "rank": 10,
+      "days": 6795,
+      "day": "6th Sat"
+    },
+    {
+      "movie_id": 710883,
+      "title": "Fantastic BeaFantastic Beasts: The Secrets of Dumbledore",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 495,
+      "admissions": 1532,
+      "rank": 11,
+      "days": 5830,
+      "day": "10th Sat"
+    },
+    {
+      "movie_id": 708491,
+      "title": "Escape Room: Tournament of Champions",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 438,
+      "admissions": 2567,
+      "rank": 12,
+      "days": 6475,
+      "day": "11th Sat"
+    },
+    {
+      "movie_id": 681879,
+      "title": "The Italian Recipe",
+      "gross": 0.0,
+      "cume": 0.03,
+      "showings": 474,
+      "admissions": 4195,
+      "rank": 13,
+      "days": 5712,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 702937,
+      "title": "WILD KID2",
+      "gross": 2.0,
+      "cume": 0.02,
+      "showings": 413,
+      "admissions": 112,
+      "rank": 14,
+      "days": 4733,
+      "day": "19th Sat"
+    },
+    {
+      "movie_id": 712591,
+      "title": "Downton Abbey: A New Era",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 630,
+      "admissions": 577,
+      "rank": 15,
+      "days": 2579,
+      "day": "4th Sat"
+    },
+    {
+      "movie_id": 711120,
+      "title": "Uncharted",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 468,
+      "admissions": 1427,
+      "rank": 16,
+      "days": 3461,
+      "day": "14th Sat"
+    },
+    {
+      "movie_id": 708179,
+      "title": "Too Cool To Kill",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 405,
+      "admissions": 866,
+      "rank": 17,
+      "days": 3903,
+      "day": "19th Sat"
+    },
+    {
+      "movie_id": 713716,
+      "title": "The Stones",
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 455,
+      "admissions": 2409,
+      "rank": 18,
+      "days": 3362,
+      "day": "2nd Sat"
+    },
+    {
+      "movie_id": 710369,
+      "title": "Beyond the Skies",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 618,
+      "admissions": 18,
+      "rank": 19,
+      "days": 2150,
+      "day": "1st Sat"
+    },
+    {
+      "movie_id": 696314,
+      "title": "Stay With Me",
+      "gross": 0.0,
+      "cume": 0.01,
+      "showings": 514,
+      "admissions": 1389,
+      "rank": 20,
+      "days": 2429,
+      "day": "7th Sat"
+    }
+  ]
+}

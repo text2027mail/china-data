@@ -1,0 +1,37 @@
+{
+  "movie_id": 677513,
+  "title": "Leo Da Vinci: Mission Mona Lisa",
+  "releaseDate": "16-10-2020",
+  "entries": [
+    {
+      "date": "16-10-2020",
+      "rank": 17,
+      "gross": 0.0,
+      "cume": 0.02,
+      "showings": 439,
+      "admissions": 2739,
+      "days": 3576,
+      "day": "1st Fri"
+    },
+    {
+      "date": "17-10-2020",
+      "rank": 11,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 440,
+      "admissions": 5729,
+      "days": 24722,
+      "day": "1st Sat"
+    },
+    {
+      "date": "18-10-2020",
+      "rank": 9,
+      "gross": 0.0,
+      "cume": 0.11,
+      "showings": 440,
+      "admissions": 5565,
+      "days": 24256,
+      "day": "1st Sun"
+    }
+  ]
+}

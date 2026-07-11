@@ -1,0 +1,37 @@
+{
+  "movie_id": 696412,
+  "title": "Little Joe",
+  "releaseDate": "07-12-2022",
+  "entries": [
+    {
+      "date": "07-12-2022",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 546,
+      "admissions": 171,
+      "days": 272,
+      "day": "1st Wed"
+    },
+    {
+      "date": "08-12-2022",
+      "rank": 18,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 575,
+      "admissions": 260,
+      "days": 343,
+      "day": "1st Thu"
+    },
+    {
+      "date": "09-12-2022",
+      "rank": 20,
+      "gross": 0.0,
+      "cume": 0.0,
+      "showings": 569,
+      "admissions": 346,
+      "days": 402,
+      "day": "1st Fri"
+    }
+  ]
+}
