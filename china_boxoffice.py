@@ -37,7 +37,8 @@ YEARLY_DIR = DATA_DIR                      # year folders inside DATA_DIR
 STATE_FILE = BASE_DIR / "state.json"
 MOVIE_SLUG_MAP_FILE = DATA_DIR / "movieslug.json"
 CORRECTIONS_FILE = BASE_DIR / "correctedslug.json"
-SEMAPHORE = asyncio.Semaphore(500)          # concurrency limit
+
+SEMAPHORE = asyncio.Semaphore(200)          # concurrency limit
 
 # ---------- Utilities ----------
 def format_date_ymd(dt):
@@ -240,11 +241,12 @@ class MovieStore:
             if merged_entries:
                 # Try to derive from days if available; otherwise use earliest entry date
                 for e in merged_entries:
-                    if "days" in e and e["days"] is not None:
+                    if "days" in e and e["days"] is not None and e["days"] > 0:
                         try:
                             entry_date = parse_date_dmy(e["date"])
-                            release_date = entry_date - timedelta(days=e["days"])
-                            break
+                            if e["days"] < 10000:  # sanity check
+                                release_date = entry_date - timedelta(days=e["days"])
+                                break
                         except:
                             pass
                 if not release_date:
@@ -401,7 +403,7 @@ def parse_html(html, date_obj):
     entries = []
     for row in rows:
         # Skip header and separator rows
-        if row.find('td', colspan='9') or row.find('b', text='Rank'):
+        if row.find('td', colspan='9') or row.find('b', string='Rank'):
             continue
         cells = row.find_all('td')
         if len(cells) < 9:
@@ -443,10 +445,14 @@ def parse_html(html, date_obj):
         days_str = cells[8].get_text(strip=True)
         days = parse_int(days_str) if days_str else None
 
-        # Compute release date if days is given
+        # Compute release date if days is given and reasonable
         release_date = None
-        if days is not None and days > 0:
-            release_date = date_obj - timedelta(days=days)
+        if days is not None and days > 0 and days < 10000:
+            try:
+                release_date = date_obj - timedelta(days=days)
+            except OverflowError:
+                logger.warning(f"Overflow when subtracting {days} days from {date_obj}; skipping release date.")
+                release_date = None
 
         entries.append({
             "movie_id": movie_id,
@@ -725,7 +731,7 @@ async def reconsolidate_movies():
         release_date = None
         if merged_entries:
             for e in merged_entries:
-                if "days" in e and e["days"] is not None:
+                if "days" in e and e["days"] is not None and e["days"] > 0 and e["days"] < 10000:
                     try:
                         entry_date = parse_date_dmy(e["date"])
                         release_date = entry_date - timedelta(days=e["days"])
