@@ -1,7 +1,7 @@
 {
   "movie_id": 782901,
   "title": "SHADOW",
-  "releaseDate": "10-07-2026",
+  "releaseDate": "09-07-2026",
   "entries": [
     {
       "date": "10-07-2026",
@@ -12,6 +12,16 @@
       "admissions": 6651,
       "days": 1,
       "day": "1st Fri"
+    },
+    {
+      "date": "11-07-2026",
+      "rank": 20,
+      "gross": 0.01,
+      "cume": 0.05,
+      "showings": 1376,
+      "admissions": 1089,
+      "days": 2,
+      "day": "1st Sat"
     }
   ]
 }
