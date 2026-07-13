@@ -1,7 +1,7 @@
 {
   "movie_id": 1212716,
   "title": "2026 Banff Mountain Film Festival",
-  "releaseDate": "11-07-2026",
+  "releaseDate": "25-06-2026",
   "entries": [
     {
       "date": "11-07-2026",
@@ -11,7 +11,17 @@
       "showings": 1,
       "admissions": 824,
       "days": 16,
-      "day": "1st Sat"
+      "day": "3rd Sat"
+    },
+    {
+      "date": "12-07-2026",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.04,
+      "showings": 1,
+      "admissions": 2188,
+      "days": 17,
+      "day": "3rd Sun"
     }
   ]
 }

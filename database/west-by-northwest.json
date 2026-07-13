@@ -28,7 +28,7 @@
       "rank": 13,
       "gross": 0.12,
       "cume": 0.17,
-      "showings": 13542,
+      "showings": 13543,
       "admissions": 18678,
       "days": 2,
       "day": "2nd Sat"
@@ -38,7 +38,7 @@
       "rank": 14,
       "gross": 0.08,
       "cume": 0.25,
-      "showings": 2011,
+      "showings": 2012,
       "admissions": 11888,
       "days": 3,
       "day": "2nd Sun"
@@ -108,7 +108,7 @@
       "rank": 18,
       "gross": 0.01,
       "cume": 0.37,
-      "showings": 56,
+      "showings": 58,
       "admissions": 2117,
       "days": 15,
       "day": "4th Fri"
@@ -132,6 +132,16 @@
       "admissions": 1742,
       "days": 17,
       "day": "4th Sun"
+    },
+    {
+      "date": "13-07-2026",
+      "rank": 15,
+      "gross": 0.01,
+      "cume": 0.39,
+      "showings": 11,
+      "admissions": 1399,
+      "days": 18,
+      "day": "5th Mon"
     }
   ]
 }

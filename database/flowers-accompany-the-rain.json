@@ -1,17 +1,27 @@
 {
   "movie_id": 1170818,
   "title": "FLOWERS ACCOMPANY THE RAIN",
-  "releaseDate": "11-07-2026",
+  "releaseDate": "09-06-2026",
   "entries": [
     {
       "date": "11-07-2026",
-      "rank": 18,
+      "rank": 17,
       "gross": 0.02,
       "cume": 0.12,
       "showings": 33,
       "admissions": 4147,
       "days": 32,
-      "day": "1st Sat"
+      "day": "5th Sat"
+    },
+    {
+      "date": "12-07-2026",
+      "rank": 18,
+      "gross": 0.02,
+      "cume": 0.13,
+      "showings": 36,
+      "admissions": 3831,
+      "days": 33,
+      "day": "5th Sun"
     }
   ]
 }
