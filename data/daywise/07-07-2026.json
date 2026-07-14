@@ -6,8 +6,8 @@
       "title": "",
       "gross": 1.99,
       "cume": 20.53,
-      "showings": 105283,
-      "admissions": 348190,
+      "showings": 105294,
+      "admissions": 348365,
       "rank": 1,
       "days": 5,
       "day": "1st Tue"
@@ -17,8 +17,8 @@
       "title": "Keep Real",
       "gross": 1.17,
       "cume": 13.5,
-      "showings": 80488,
-      "admissions": 223153,
+      "showings": 80500,
+      "admissions": 223246,
       "rank": 2,
       "days": 5,
       "day": "2nd Tue"
@@ -28,8 +28,8 @@
       "title": "Crossing",
       "gross": 1.04,
       "cume": 29.75,
-      "showings": 57410,
-      "admissions": 216510,
+      "showings": 57423,
+      "admissions": 216653,
       "rank": 3,
       "days": 12,
       "day": "3rd Tue"
@@ -39,8 +39,8 @@
       "title": "Backrooms",
       "gross": 1.02,
       "cume": 16.64,
-      "showings": 46687,
-      "admissions": 183176,
+      "showings": 46698,
+      "admissions": 183242,
       "rank": 4,
       "days": 12,
       "day": "2nd Tue"
@@ -50,8 +50,8 @@
       "title": "DEAR YOU",
       "gross": 0.54,
       "cume": 290.65,
-      "showings": 39385,
-      "admissions": 107474,
+      "showings": 39395,
+      "admissions": 107526,
       "rank": 5,
       "days": 69,
       "day": "12th Tue"
@@ -61,8 +61,8 @@
       "title": "Toy Story 5",
       "gross": 0.42,
       "cume": 37.94,
-      "showings": 26799,
-      "admissions": 73415,
+      "showings": 26808,
+      "admissions": 73417,
       "rank": 6,
       "days": 19,
       "day": "3rd Tue"
@@ -72,8 +72,8 @@
       "title": "sanguodiyibu：zhengluoyang",
       "gross": 0.16,
       "cume": 1.39,
-      "showings": 6777,
-      "admissions": 30265,
+      "showings": 6780,
+      "admissions": 30275,
       "rank": 7,
       "days": null,
       "day": "2nd Tue"
@@ -83,8 +83,8 @@
       "title": "I Know Who You Are",
       "gross": 0.11,
       "cume": 17.0,
-      "showings": 11132,
-      "admissions": 19146,
+      "showings": 11136,
+      "admissions": 19149,
       "rank": 8,
       "days": 19,
       "day": "3rd Tue"
@@ -94,8 +94,8 @@
       "title": "The furious",
       "gross": 0.08,
       "cume": 30.19,
-      "showings": 9748,
-      "admissions": 16029,
+      "showings": 9753,
+      "admissions": 16039,
       "rank": 9,
       "days": 27,
       "day": "4th Tue"
@@ -106,7 +106,7 @@
       "gross": 0.07,
       "cume": 84.59,
       "showings": 4329,
-      "admissions": 13188,
+      "admissions": 13196,
       "rank": 10,
       "days": 68,
       "day": "10th Tue"
@@ -116,8 +116,8 @@
       "title": "IT'S MY TIME",
       "gross": 0.06,
       "cume": 2.21,
-      "showings": 10775,
-      "admissions": 14132,
+      "showings": 10781,
+      "admissions": 14126,
       "rank": 11,
       "days": 8,
       "day": "3rd Tue"
@@ -138,7 +138,7 @@
       "title": "The TunPu",
       "gross": 0.02,
       "cume": 0.28,
-      "showings": 4982,
+      "showings": 4985,
       "admissions": 2999,
       "rank": 13,
       "days": 13,
@@ -160,8 +160,8 @@
       "title": "Wan TongShu",
       "gross": 0.01,
       "cume": 2.06,
-      "showings": 61,
-      "admissions": 2100,
+      "showings": 62,
+      "admissions": 2080,
       "rank": 15,
       "days": 79,
       "day": "12th Tue"
@@ -178,13 +178,35 @@
       "day": "4th Tue"
     },
     {
+      "movie_id": 629002,
+      "title": "The Kingdom Of Saber·Tooth",
+      "gross": 0.01,
+      "cume": 1.06,
+      "showings": 1,
+      "admissions": 1801,
+      "rank": 17,
+      "days": 5061,
+      "day": "724th Tue"
+    },
+    {
+      "movie_id": 628997,
+      "title": "The Actions Inside",
+      "gross": 0.01,
+      "cume": 4.02,
+      "showings": 3,
+      "admissions": 1393,
+      "rank": 18,
+      "days": 4340,
+      "day": "621st Tue"
+    },
+    {
       "movie_id": 1124996,
       "title": "Pressure",
       "gross": 0.01,
       "cume": 3.39,
       "showings": 463,
       "admissions": 1214,
-      "rank": 17,
+      "rank": 19,
       "days": 32,
       "day": "6th Tue"
     },
@@ -193,33 +215,11 @@
       "title": "Disclosure Day",
       "gross": 0.01,
       "cume": 4.84,
-      "showings": 581,
+      "showings": 582,
       "admissions": 1041,
-      "rank": 18,
+      "rank": 20,
       "days": 26,
       "day": "4th Tue"
-    },
-    {
-      "movie_id": 788850,
-      "title": "Invictus",
-      "gross": 0.01,
-      "cume": 5.47,
-      "showings": 2035,
-      "admissions": 1306,
-      "rank": 19,
-      "days": 19,
-      "day": "4th Tue"
-    },
-    {
-      "movie_id": 628997,
-      "title": "The Actions Inside",
-      "gross": 0.01,
-      "cume": 4.02,
-      "showings": 3,
-      "admissions": 1096,
-      "rank": 20,
-      "days": 4340,
-      "day": "621st Tue"
     }
   ]
 }

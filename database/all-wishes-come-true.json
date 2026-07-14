@@ -56,12 +56,22 @@
     {
       "date": "13-07-2026",
       "rank": 3,
-      "gross": 1.2,
-      "cume": 2.21,
-      "showings": 19157,
-      "admissions": 221954,
+      "gross": 1.22,
+      "cume": 2.23,
+      "showings": 19653,
+      "admissions": 224913,
       "days": null,
       "day": "1st Mon"
+    },
+    {
+      "date": "14-07-2026",
+      "rank": 2,
+      "gross": 1.57,
+      "cume": 3.8,
+      "showings": 21601,
+      "admissions": 290906,
+      "days": null,
+      "day": "1st Tue"
     }
   ]
 }
