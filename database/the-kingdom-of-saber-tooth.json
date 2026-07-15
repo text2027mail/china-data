@@ -344,12 +344,22 @@
       "day": "723rd Sat"
     },
     {
+      "date": "07-07-2026",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 1.06,
+      "showings": 1,
+      "admissions": 1801,
+      "days": 5061,
+      "day": "724th Tue"
+    },
+    {
       "date": "08-07-2026",
       "rank": 17,
       "gross": 0.01,
-      "cume": 1.07,
+      "cume": 1.08,
       "showings": 1,
-      "admissions": 1982,
+      "admissions": 1914,
       "days": 5062,
       "day": "724th Wed"
     },
@@ -372,16 +382,6 @@
       "admissions": 2112,
       "days": 5065,
       "day": "724th Sat"
-    },
-    {
-      "date": "07-07-2026",
-      "rank": 17,
-      "gross": 0.01,
-      "cume": 1.06,
-      "showings": 1,
-      "admissions": 1801,
-      "days": 5061,
-      "day": "724th Tue"
     }
   ]
 }
