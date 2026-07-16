@@ -1,19 +1,19 @@
 [
   {
+    "movie_id": 339975,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "releaseDate": "09-09-2004",
+    "total_gross": 6.19,
+    "total_admissions": 1035473,
+    "total_showings": 129160
+  },
+  {
     "movie_id": 4966,
     "title": "Lung fung dau",
     "releaseDate": "13-10-2004",
     "total_gross": 0.07,
     "total_admissions": 14675,
     "total_showings": 6892
-  },
-  {
-    "movie_id": 385550,
-    "title": "Spider-Man 2",
-    "releaseDate": "04-08-2004",
-    "total_gross": 0.0,
-    "total_admissions": 878,
-    "total_showings": 29
   },
   {
     "movie_id": 354590,
@@ -24,11 +24,11 @@
     "total_showings": 131342
   },
   {
-    "movie_id": 339975,
-    "title": "Harry Potter and the Prisoner of Azkaban",
-    "releaseDate": "09-09-2004",
-    "total_gross": 6.19,
-    "total_admissions": 1035473,
-    "total_showings": 129160
+    "movie_id": 385550,
+    "title": "Spider-Man 2",
+    "releaseDate": "04-08-2004",
+    "total_gross": 0.0,
+    "total_admissions": 878,
+    "total_showings": 29
   }
 ]
