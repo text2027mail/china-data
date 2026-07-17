@@ -4,10 +4,10 @@
     {
       "movie_id": 1144067,
       "title": "",
-      "gross": 2.1,
+      "gross": 2.11,
       "cume": 26.49,
-      "showings": 82610,
-      "admissions": 375764,
+      "showings": 82619,
+      "admissions": 375974,
       "rank": 1,
       "days": 8,
       "day": "2nd Fri"
@@ -16,9 +16,9 @@
       "movie_id": 783157,
       "title": "Crossing",
       "gross": 1.28,
-      "cume": 33.19,
-      "showings": 43515,
-      "admissions": 270130,
+      "cume": 33.2,
+      "showings": 43526,
+      "admissions": 270399,
       "rank": 2,
       "days": 15,
       "day": "3rd Fri"
@@ -28,8 +28,8 @@
       "title": "sanguodiyibu：zhengluoyang",
       "gross": 1.16,
       "cume": 2.9,
-      "showings": 65605,
-      "admissions": 217844,
+      "showings": 65616,
+      "admissions": 218088,
       "rank": 3,
       "days": 1,
       "day": "2nd Fri"
@@ -37,10 +37,10 @@
     {
       "movie_id": 963176,
       "title": "Backrooms",
-      "gross": 1.14,
+      "gross": 1.15,
       "cume": 19.93,
-      "showings": 41864,
-      "admissions": 204534,
+      "showings": 41874,
+      "admissions": 204748,
       "rank": 4,
       "days": 15,
       "day": "3rd Fri"
@@ -50,8 +50,8 @@
       "title": "Keep Real",
       "gross": 1.07,
       "cume": 16.67,
-      "showings": 54871,
-      "admissions": 203971,
+      "showings": 54884,
+      "admissions": 204269,
       "rank": 5,
       "days": 8,
       "day": "2nd Fri"
@@ -61,8 +61,8 @@
       "title": "Moana",
       "gross": 0.54,
       "cume": 0.55,
-      "showings": 45899,
-      "admissions": 91080,
+      "showings": 45924,
+      "admissions": 91203,
       "rank": 6,
       "days": 1,
       "day": "1st Fri"
@@ -72,8 +72,8 @@
       "title": "DEAR YOU",
       "gross": 0.53,
       "cume": 292.29,
-      "showings": 29541,
-      "admissions": 106294,
+      "showings": 29551,
+      "admissions": 106395,
       "rank": 7,
       "days": 72,
       "day": "12th Fri"
@@ -83,8 +83,8 @@
       "title": "Toy Story 5",
       "gross": 0.35,
       "cume": 39.14,
-      "showings": 17306,
-      "admissions": 62460,
+      "showings": 17315,
+      "admissions": 62512,
       "rank": 8,
       "days": 22,
       "day": "4th Fri"
@@ -105,8 +105,8 @@
       "title": "I Know Who You Are",
       "gross": 0.08,
       "cume": 17.3,
-      "showings": 5468,
-      "admissions": 14186,
+      "showings": 5475,
+      "admissions": 14202,
       "rank": 10,
       "days": 22,
       "day": "4th Fri"
@@ -116,7 +116,7 @@
       "title": "The furious",
       "gross": 0.06,
       "cume": 30.43,
-      "showings": 5397,
+      "showings": 5401,
       "admissions": 13356,
       "rank": 11,
       "days": 30,
@@ -127,8 +127,8 @@
       "title": "Vanishing Point",
       "gross": 0.05,
       "cume": 84.78,
-      "showings": 3139,
-      "admissions": 10780,
+      "showings": 3141,
+      "admissions": 10786,
       "rank": 12,
       "days": 71,
       "day": "11th Fri"
@@ -138,8 +138,8 @@
       "title": "SHADOW",
       "gross": 0.03,
       "cume": 0.04,
-      "showings": 4926,
-      "admissions": 6651,
+      "showings": 4928,
+      "admissions": 6677,
       "rank": 13,
       "days": 1,
       "day": "1st Fri"
@@ -149,8 +149,8 @@
       "title": "IT'S MY TIME",
       "gross": 0.02,
       "cume": 2.34,
-      "showings": 3897,
-      "admissions": 6338,
+      "showings": 3900,
+      "admissions": 6341,
       "rank": 14,
       "days": 11,
       "day": "4th Fri"
@@ -160,7 +160,7 @@
       "title": "Star Wars: The Mandalorian & Grogu",
       "gross": 0.02,
       "cume": 13.84,
-      "showings": 219,
+      "showings": 220,
       "admissions": 1652,
       "rank": 15,
       "days": 50,
@@ -172,7 +172,7 @@
       "gross": 0.02,
       "cume": 2.11,
       "showings": 65,
-      "admissions": 2828,
+      "admissions": 2825,
       "rank": 16,
       "days": 82,
       "day": "12th Fri"
@@ -189,13 +189,24 @@
       "day": "2nd Fri"
     },
     {
+      "movie_id": 628997,
+      "title": "The Actions Inside",
+      "gross": 0.01,
+      "cume": 4.06,
+      "showings": 4,
+      "admissions": 2476,
+      "rank": 18,
+      "days": 4343,
+      "day": "621st Fri"
+    },
+    {
       "movie_id": 711322,
       "title": "WEST BY NORTHWEST",
       "gross": 0.01,
       "cume": 0.37,
       "showings": 58,
       "admissions": 2117,
-      "rank": 18,
+      "rank": 19,
       "days": 15,
       "day": "4th Fri"
     },
@@ -206,20 +217,9 @@
       "cume": 0.57,
       "showings": 56,
       "admissions": 2038,
-      "rank": 19,
+      "rank": 20,
       "days": 106,
       "day": "16th Fri"
-    },
-    {
-      "movie_id": 629002,
-      "title": "The Kingdom Of Saber·Tooth",
-      "gross": 0.01,
-      "cume": 1.08,
-      "showings": 1,
-      "admissions": 1398,
-      "rank": 20,
-      "days": 5064,
-      "day": "724th Fri"
     }
   ]
 }
