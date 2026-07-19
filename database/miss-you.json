@@ -19,19 +19,29 @@
       "gross": 5.89,
       "cume": 5.9,
       "showings": 61588,
-      "admissions": 1220138,
+      "admissions": 1220106,
       "days": 1,
       "day": "1st Fri"
     },
     {
       "date": "18-07-2026",
       "rank": 3,
-      "gross": 4.24,
-      "cume": 10.14,
-      "showings": 71707,
-      "admissions": 892512,
+      "gross": 4.39,
+      "cume": 10.3,
+      "showings": 72145,
+      "admissions": 918309,
       "days": 2,
       "day": "1st Sat"
+    },
+    {
+      "date": "19-07-2026",
+      "rank": 3,
+      "gross": 3.23,
+      "cume": 13.52,
+      "showings": 64374,
+      "admissions": 668677,
+      "days": 3,
+      "day": "1st Sun"
     }
   ]
 }
