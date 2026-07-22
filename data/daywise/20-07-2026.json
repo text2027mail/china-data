@@ -4,10 +4,10 @@
     {
       "movie_id": 679886,
       "title": "",
-      "gross": 11.66,
-      "cume": 227.18,
-      "showings": 186821,
-      "admissions": 2315164,
+      "gross": 11.67,
+      "cume": 227.2,
+      "showings": 186854,
+      "admissions": 2316528,
       "rank": 1,
       "days": 10,
       "day": "2nd Mon"
@@ -15,10 +15,10 @@
     {
       "movie_id": 751240,
       "title": "All Wishes Come True！",
-      "gross": 6.46,
-      "cume": 46.37,
-      "showings": 98334,
-      "admissions": 1221982,
+      "gross": 6.47,
+      "cume": 46.39,
+      "showings": 98368,
+      "admissions": 1222962,
       "rank": 2,
       "days": 3,
       "day": "2nd Mon"
@@ -28,8 +28,8 @@
       "title": "Miss You",
       "gross": 1.75,
       "cume": 15.42,
-      "showings": 52495,
-      "admissions": 362807,
+      "showings": 52532,
+      "admissions": 363033,
       "rank": 3,
       "days": 4,
       "day": "1st Mon"
@@ -39,8 +39,8 @@
       "title": "Triangle",
       "gross": 0.65,
       "cume": 4.62,
-      "showings": 20889,
-      "admissions": 118480,
+      "showings": 20917,
+      "admissions": 118616,
       "rank": 4,
       "days": 4,
       "day": "1st Mon"
@@ -50,8 +50,8 @@
       "title": "Minions & Monsters",
       "gross": 0.52,
       "cume": 41.09,
-      "showings": 21238,
-      "admissions": 94128,
+      "showings": 21270,
+      "admissions": 94230,
       "rank": 5,
       "days": 18,
       "day": "3rd Mon"
@@ -61,8 +61,8 @@
       "title": "THE DECISIVE MOMENT",
       "gross": 0.3,
       "cume": 1.24,
-      "showings": 5487,
-      "admissions": 52014,
+      "showings": 5488,
+      "admissions": 52075,
       "rank": 6,
       "days": null,
       "day": "1st Mon"
@@ -72,8 +72,8 @@
       "title": "THREE KINGDOMS: THE BEGINNING",
       "gross": 0.28,
       "cume": 10.68,
-      "showings": 11853,
-      "admissions": 52072,
+      "showings": 11865,
+      "admissions": 52133,
       "rank": 7,
       "days": 11,
       "day": "4th Mon"
@@ -83,8 +83,8 @@
       "title": "Backrooms",
       "gross": 0.24,
       "cume": 25.94,
-      "showings": 7878,
-      "admissions": 43486,
+      "showings": 7895,
+      "admissions": 43510,
       "rank": 8,
       "days": 25,
       "day": "4th Mon"
@@ -94,8 +94,8 @@
       "title": "Crossing",
       "gross": 0.2,
       "cume": 37.71,
-      "showings": 5690,
-      "admissions": 43328,
+      "showings": 5698,
+      "admissions": 43331,
       "rank": 9,
       "days": 25,
       "day": "5th Mon"
@@ -105,7 +105,7 @@
       "title": "DEAR YOU",
       "gross": 0.1,
       "cume": 295.07,
-      "showings": 4299,
+      "showings": 4304,
       "admissions": 20220,
       "rank": 10,
       "days": 82,
@@ -116,8 +116,8 @@
       "title": "Keep Real",
       "gross": 0.07,
       "cume": 20.28,
-      "showings": 4168,
-      "admissions": 12526,
+      "showings": 4185,
+      "admissions": 12570,
       "rank": 11,
       "days": 18,
       "day": "4th Mon"
@@ -127,8 +127,8 @@
       "title": "Toy Story 5",
       "gross": 0.06,
       "cume": 41.34,
-      "showings": 2813,
-      "admissions": 10635,
+      "showings": 2819,
+      "admissions": 10638,
       "rank": 12,
       "days": 32,
       "day": "5th Mon"
@@ -137,9 +137,9 @@
       "movie_id": 744885,
       "title": "Wan TongShu",
       "gross": 0.01,
-      "cume": 2.22,
-      "showings": 30,
-      "admissions": 1724,
+      "cume": 2.23,
+      "showings": 33,
+      "admissions": 1793,
       "rank": 13,
       "days": 92,
       "day": "14th Mon"
@@ -149,8 +149,8 @@
       "title": "Moana",
       "gross": 0.01,
       "cume": 1.54,
-      "showings": 708,
-      "admissions": 1467,
+      "showings": 713,
+      "admissions": 1475,
       "rank": 14,
       "days": 11,
       "day": "2nd Mon"
@@ -160,7 +160,7 @@
       "title": "GENERAL XU FANTING",
       "gross": 0.01,
       "cume": 0.09,
-      "showings": 5441,
+      "showings": 5454,
       "admissions": 1393,
       "rank": 15,
       "days": 23,
@@ -171,7 +171,7 @@
       "title": "I Know Who You Are",
       "gross": 0.01,
       "cume": 17.6,
-      "showings": 309,
+      "showings": 310,
       "admissions": 1041,
       "rank": 16,
       "days": 32,
@@ -189,26 +189,26 @@
       "day": "1st Mon"
     },
     {
+      "movie_id": 912469,
+      "title": "Vanishing Point",
+      "gross": 0.0,
+      "cume": 85.06,
+      "showings": 276,
+      "admissions": 914,
+      "rank": 18,
+      "days": 81,
+      "day": "12th Mon"
+    },
+    {
       "movie_id": 782881,
       "title": "LUCID WATERS AND LUSH MOUNTAINS",
       "gross": 0.0,
       "cume": 0.08,
       "showings": 28,
       "admissions": 830,
-      "rank": 18,
+      "rank": 19,
       "days": null,
       "day": "1st Mon"
-    },
-    {
-      "movie_id": 912469,
-      "title": "Vanishing Point",
-      "gross": 0.0,
-      "cume": 85.06,
-      "showings": 275,
-      "admissions": 914,
-      "rank": 19,
-      "days": 81,
-      "day": "12th Mon"
     },
     {
       "movie_id": 1212910,
@@ -219,7 +219,7 @@
       "admissions": 293,
       "rank": 20,
       "days": 15,
-      "day": "1st Mon"
+      "day": "3rd Mon"
     }
   ]
 }
