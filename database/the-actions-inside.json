@@ -584,12 +584,22 @@
       "day": "622nd Tue"
     },
     {
+      "date": "15-07-2026",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 4.11,
+      "showings": 4,
+      "admissions": 2551,
+      "days": 4348,
+      "day": "622nd Wed"
+    },
+    {
       "date": "16-07-2026",
       "rank": 16,
       "gross": 0.01,
       "cume": 4.12,
       "showings": 4,
-      "admissions": 2305,
+      "admissions": 2602,
       "days": 4349,
       "day": "622nd Thu"
     },
@@ -604,24 +614,24 @@
       "day": "622nd Fri"
     },
     {
-      "date": "15-07-2026",
-      "rank": 17,
-      "gross": 0.01,
-      "cume": 4.11,
-      "showings": 4,
-      "admissions": 2551,
-      "days": 4348,
-      "day": "622nd Wed"
-    },
-    {
       "date": "21-07-2026",
       "rank": 16,
       "gross": 0.01,
-      "cume": 4.15,
+      "cume": 4.16,
       "showings": 3,
       "admissions": 1112,
       "days": 4354,
       "day": "623rd Tue"
+    },
+    {
+      "date": "22-07-2026",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 4.16,
+      "showings": 4,
+      "admissions": 1122,
+      "days": 4355,
+      "day": "623rd Wed"
     }
   ]
 }
