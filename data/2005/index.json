@@ -1,19 +1,11 @@
 [
   {
-    "movie_id": 339972,
-    "title": "Harry Potter and the Goblet of Fire",
-    "releaseDate": "17-11-2005",
-    "total_gross": 5.039999999999998,
-    "total_admissions": 828532,
-    "total_showings": 114240
-  },
-  {
-    "movie_id": 726,
-    "title": "Jiejie cidian",
-    "releaseDate": "09-06-2005",
+    "movie_id": 568076,
+    "title": "Zhe Li De Li Ming Jing Qiao Qiao",
+    "releaseDate": "04-12-2005",
     "total_gross": 0.0,
-    "total_admissions": 410,
-    "total_showings": 4
+    "total_admissions": 916,
+    "total_showings": 2
   },
   {
     "movie_id": 5985,
@@ -24,20 +16,12 @@
     "total_showings": 51
   },
   {
-    "movie_id": 568076,
-    "title": "Zhe Li De Li Ming Jing Qiao Qiao",
-    "releaseDate": "04-12-2005",
+    "movie_id": 726,
+    "title": "Jiejie cidian",
+    "releaseDate": "09-06-2005",
     "total_gross": 0.0,
-    "total_admissions": 916,
-    "total_showings": 2
-  },
-  {
-    "movie_id": 560513,
-    "title": "Tie Xue",
-    "releaseDate": "31-08-2005",
-    "total_gross": 0.0,
-    "total_admissions": 1971,
-    "total_showings": 9
+    "total_admissions": 410,
+    "total_showings": 4
   },
   {
     "movie_id": 426671,
@@ -48,11 +32,27 @@
     "total_showings": 142422
   },
   {
+    "movie_id": 339972,
+    "title": "Harry Potter and the Goblet of Fire",
+    "releaseDate": "17-11-2005",
+    "total_gross": 5.039999999999998,
+    "total_admissions": 828532,
+    "total_showings": 114240
+  },
+  {
     "movie_id": 560465,
     "title": "Sheng Si Niuyu Ru",
     "releaseDate": "19-10-2005",
     "total_gross": 0.0,
     "total_admissions": 685,
+    "total_showings": 9
+  },
+  {
+    "movie_id": 560513,
+    "title": "Tie Xue",
+    "releaseDate": "31-08-2005",
+    "total_gross": 0.0,
+    "total_admissions": 1971,
     "total_showings": 9
   }
 ]

@@ -5,7 +5,7 @@
   "entries": [
     {
       "date": "17-07-2026",
-      "rank": 19,
+      "rank": 20,
       "gross": 0.01,
       "cume": 0.08,
       "showings": 46,
@@ -48,10 +48,20 @@
       "rank": 20,
       "gross": 0.0,
       "cume": 0.09,
-      "showings": 19,
-      "admissions": 566,
+      "showings": 28,
+      "admissions": 883,
       "days": null,
       "day": "1st Thu"
+    },
+    {
+      "date": "24-07-2026",
+      "rank": 18,
+      "gross": 0.01,
+      "cume": 0.1,
+      "showings": 22,
+      "admissions": 935,
+      "days": null,
+      "day": "2nd Fri"
     }
   ]
 }

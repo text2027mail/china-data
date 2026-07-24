@@ -4,10 +4,10 @@
     {
       "movie_id": 679886,
       "title": "",
-      "gross": 17.04,
-      "cume": 158.51,
-      "showings": 206656,
-      "admissions": 3352803,
+      "gross": 17.08,
+      "cume": 158.56,
+      "showings": 206658,
+      "admissions": 3360228,
       "rank": 1,
       "days": 7,
       "day": "2nd Fri"
@@ -17,8 +17,8 @@
       "title": "Miss You",
       "gross": 5.9,
       "cume": 5.91,
-      "showings": 61590,
-      "admissions": 1220048,
+      "showings": 61594,
+      "admissions": 1220834,
       "rank": 2,
       "days": 1,
       "day": "1st Fri"
@@ -26,10 +26,10 @@
     {
       "movie_id": 751240,
       "title": "All Wishes Come True！",
-      "gross": 3.73,
+      "gross": 3.74,
       "cume": 12.91,
-      "showings": 62398,
-      "admissions": 690431,
+      "showings": 62407,
+      "admissions": 691524,
       "rank": 3,
       "days": null,
       "day": "2nd Fri"
@@ -39,8 +39,8 @@
       "title": "Triangle",
       "gross": 1.19,
       "cume": 1.45,
-      "showings": 17134,
-      "admissions": 213675,
+      "showings": 17140,
+      "admissions": 213931,
       "rank": 4,
       "days": 1,
       "day": "1st Fri"
@@ -50,8 +50,8 @@
       "title": "Minions & Monsters",
       "gross": 0.77,
       "cume": 37.63,
-      "showings": 28873,
-      "admissions": 138523,
+      "showings": 28882,
+      "admissions": 138659,
       "rank": 5,
       "days": 15,
       "day": "3rd Fri"
@@ -61,8 +61,8 @@
       "title": "Crossing",
       "gross": 0.72,
       "cume": 36.97,
-      "showings": 9410,
-      "admissions": 153124,
+      "showings": 9420,
+      "admissions": 153168,
       "rank": 6,
       "days": 22,
       "day": "4th Fri"
@@ -72,8 +72,8 @@
       "title": "Backrooms",
       "gross": 0.36,
       "cume": 24.87,
-      "showings": 11577,
-      "admissions": 64239,
+      "showings": 11585,
+      "admissions": 64325,
       "rank": 7,
       "days": 22,
       "day": "4th Fri"
@@ -83,8 +83,8 @@
       "title": "THREE KINGDOMS: THE BEGINNING",
       "gross": 0.31,
       "cume": 8.57,
-      "showings": 13029,
-      "admissions": 57926,
+      "showings": 13034,
+      "admissions": 57995,
       "rank": 8,
       "days": 8,
       "day": "3rd Fri"
@@ -94,8 +94,8 @@
       "title": "DEAR YOU",
       "gross": 0.13,
       "cume": 294.61,
-      "showings": 6382,
-      "admissions": 26759,
+      "showings": 6387,
+      "admissions": 26770,
       "rank": 9,
       "days": 79,
       "day": "13th Fri"
@@ -105,8 +105,8 @@
       "title": "Keep Real",
       "gross": 0.13,
       "cume": 19.86,
-      "showings": 7566,
-      "admissions": 24229,
+      "showings": 7569,
+      "admissions": 24319,
       "rank": 10,
       "days": 15,
       "day": "3rd Fri"
@@ -116,8 +116,8 @@
       "title": "Toy Story 5",
       "gross": 0.1,
       "cume": 40.87,
-      "showings": 5009,
-      "admissions": 17815,
+      "showings": 5016,
+      "admissions": 17834,
       "rank": 11,
       "days": 29,
       "day": "5th Fri"
@@ -138,7 +138,7 @@
       "title": "Moana",
       "gross": 0.02,
       "cume": 1.48,
-      "showings": 1801,
+      "showings": 1802,
       "admissions": 3536,
       "rank": 13,
       "days": 8,
@@ -149,22 +149,11 @@
       "title": "I Know Who You Are",
       "gross": 0.02,
       "cume": 17.56,
-      "showings": 667,
+      "showings": 669,
       "admissions": 3654,
       "rank": 14,
       "days": 29,
       "day": "5th Fri"
-    },
-    {
-      "movie_id": 628997,
-      "title": "The Actions Inside",
-      "gross": 0.02,
-      "cume": 4.14,
-      "showings": 4,
-      "admissions": 3138,
-      "rank": 15,
-      "days": 4350,
-      "day": "622nd Fri"
     },
     {
       "movie_id": 1122365,
@@ -173,7 +162,7 @@
       "cume": 13.89,
       "showings": 69,
       "admissions": 1906,
-      "rank": 16,
+      "rank": 15,
       "days": 57,
       "day": "9th Fri"
     },
@@ -184,9 +173,20 @@
       "cume": 2.2,
       "showings": 41,
       "admissions": 2295,
-      "rank": 17,
+      "rank": 16,
       "days": 89,
       "day": "13th Fri"
+    },
+    {
+      "movie_id": 628997,
+      "title": "The Actions Inside",
+      "gross": 0.01,
+      "cume": 4.14,
+      "showings": 4,
+      "admissions": 2560,
+      "rank": 17,
+      "days": 4350,
+      "day": "622nd Fri"
     },
     {
       "movie_id": 1212714,
@@ -200,23 +200,23 @@
       "day": "3rd Fri"
     },
     {
+      "movie_id": 629002,
+      "title": "The Kingdom Of Saber·Tooth",
+      "gross": 0.01,
+      "cume": 1.13,
+      "showings": 1,
+      "admissions": 1757,
+      "rank": 19,
+      "days": 5071,
+      "day": "725th Fri"
+    },
+    {
       "movie_id": 782881,
       "title": "LUCID WATERS AND LUSH MOUNTAINS",
       "gross": 0.01,
       "cume": 0.08,
       "showings": 46,
       "admissions": 1885,
-      "rank": 19,
-      "days": null,
-      "day": "1st Fri"
-    },
-    {
-      "movie_id": 789012,
-      "title": "Linjia Residence No. 37",
-      "gross": 0.01,
-      "cume": 0.01,
-      "showings": 1441,
-      "admissions": 1708,
       "rank": 20,
       "days": null,
       "day": "1st Fri"

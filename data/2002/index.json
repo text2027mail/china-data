@@ -1,19 +1,19 @@
 [
   {
-    "movie_id": 412178,
-    "title": "Harry Potter and the Sorcerer's Stone",
-    "releaseDate": "30-01-2002",
-    "total_gross": 39.43000000000002,
-    "total_admissions": 7203899,
-    "total_showings": 825050
-  },
-  {
     "movie_id": 354587,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "releaseDate": "07-04-2002",
     "total_gross": 8.879999999999999,
     "total_admissions": 1581591,
     "total_showings": 310734
+  },
+  {
+    "movie_id": 412178,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "releaseDate": "30-01-2002",
+    "total_gross": 39.43000000000002,
+    "total_admissions": 7203899,
+    "total_showings": 825050
   },
   {
     "movie_id": 365051,
