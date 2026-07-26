@@ -1,0 +1,37 @@
+{
+  "movie_id": 890525,
+  "title": "MAKE ZHONGHE GREAT AGAIN",
+  "releaseDate": "24-07-2026",
+  "entries": [
+    {
+      "date": "24-07-2026",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 11,
+      "admissions": 1519,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
+      "date": "25-07-2026",
+      "rank": 6,
+      "gross": 0.58,
+      "cume": 0.59,
+      "showings": 1472,
+      "admissions": 96355,
+      "days": null,
+      "day": "1st Sat"
+    },
+    {
+      "date": "26-07-2026",
+      "rank": 5,
+      "gross": 1.09,
+      "cume": 1.68,
+      "showings": 5610,
+      "admissions": 187000,
+      "days": null,
+      "day": "1st Sun"
+    }
+  ]
+}

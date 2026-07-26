@@ -1,11 +1,11 @@
 {
   "movie_id": 710629,
   "title": "WE FOUGHT PASSIONATELY",
-  "releaseDate": "24-07-2026",
+  "releaseDate": "23-07-2026",
   "entries": [
     {
       "date": "24-07-2026",
-      "rank": 19,
+      "rank": 20,
       "gross": 0.01,
       "cume": 0.01,
       "showings": 5,
@@ -22,6 +22,16 @@
       "admissions": 467,
       "days": 2,
       "day": "1st Sat"
+    },
+    {
+      "date": "26-07-2026",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 7,
+      "admissions": 827,
+      "days": 3,
+      "day": "1st Sun"
     }
   ]
 }

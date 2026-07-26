@@ -5,9 +5,9 @@
       "movie_id": 751240,
       "title": "",
       "gross": 8.94,
-      "cume": 75.5,
+      "cume": 75.51,
       "showings": 116516,
-      "admissions": 1676931,
+      "admissions": 1676933,
       "rank": 1,
       "days": 7,
       "day": "3rd Fri"
@@ -16,9 +16,9 @@
       "movie_id": 679886,
       "title": "Kung Fu Soccer",
       "gross": 8.25,
-      "cume": 262.31,
+      "cume": 262.33,
       "showings": 171591,
-      "admissions": 1638384,
+      "admissions": 1638627,
       "rank": 2,
       "days": 14,
       "day": "3rd Fri"
@@ -29,7 +29,7 @@
       "gross": 1.41,
       "cume": 1.44,
       "showings": 32683,
-      "admissions": 249182,
+      "admissions": 249198,
       "rank": 3,
       "days": 1,
       "day": "1st Fri"
@@ -38,9 +38,9 @@
       "movie_id": 769333,
       "title": "Miss You",
       "gross": 1.04,
-      "cume": 20.15,
+      "cume": 20.16,
       "showings": 36441,
-      "admissions": 215767,
+      "admissions": 215791,
       "rank": 4,
       "days": 8,
       "day": "2nd Fri"
@@ -51,7 +51,7 @@
       "gross": 0.61,
       "cume": 39.31,
       "showings": 6452,
-      "admissions": 128218,
+      "admissions": 128223,
       "rank": 5,
       "days": 29,
       "day": "5th Fri"
@@ -71,7 +71,7 @@
       "movie_id": 424199,
       "title": "Triangle",
       "gross": 0.36,
-      "cume": 6.52,
+      "cume": 6.51,
       "showings": 15445,
       "admissions": 64801,
       "rank": 7,
@@ -178,13 +178,24 @@
       "day": "14th Fri"
     },
     {
+      "movie_id": 890525,
+      "title": "MAKE ZHONGHE GREAT AGAIN",
+      "gross": 0.01,
+      "cume": 0.01,
+      "showings": 11,
+      "admissions": 1519,
+      "rank": 17,
+      "days": null,
+      "day": "1st Fri"
+    },
+    {
       "movie_id": 782935,
       "title": "GENERAL XU FANTING",
       "gross": 0.01,
       "cume": 0.19,
       "showings": 632,
       "admissions": 1465,
-      "rank": 17,
+      "rank": 18,
       "days": 27,
       "day": "4th Fri"
     },
@@ -195,7 +206,7 @@
       "cume": 5.18,
       "showings": 1,
       "admissions": 1574,
-      "rank": 18,
+      "rank": 19,
       "days": 64,
       "day": "10th Fri"
     },
@@ -206,20 +217,9 @@
       "cume": 0.01,
       "showings": 5,
       "admissions": 1182,
-      "rank": 19,
+      "rank": 20,
       "days": 1,
       "day": "1st Fri"
-    },
-    {
-      "movie_id": 628997,
-      "title": "The Actions Inside",
-      "gross": 0.01,
-      "cume": 4.17,
-      "showings": 4,
-      "admissions": 1136,
-      "rank": 20,
-      "days": 4357,
-      "day": "623rd Fri"
     }
   ]
 }
