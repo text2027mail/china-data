@@ -88,8 +88,8 @@
       "rank": 2,
       "gross": 2.99,
       "cume": 29.49,
-      "showings": 52772,
-      "admissions": 531892,
+      "showings": 52773,
+      "admissions": 531885,
       "days": 9,
       "day": "2nd Sat"
     },
@@ -157,7 +157,7 @@
       "date": "18-07-2026",
       "rank": 4,
       "gross": 1.37,
-      "cume": 38.98,
+      "cume": 38.97,
       "showings": 21242,
       "admissions": 245571,
       "days": 16,
@@ -167,9 +167,9 @@
       "date": "19-07-2026",
       "rank": 4,
       "gross": 1.57,
-      "cume": 40.54,
-      "showings": 24046,
-      "admissions": 281524,
+      "cume": 40.55,
+      "showings": 24051,
+      "admissions": 281970,
       "days": 17,
       "day": "3rd Sun"
     },
@@ -178,8 +178,8 @@
       "rank": 5,
       "gross": 0.52,
       "cume": 41.07,
-      "showings": 21271,
-      "admissions": 94255,
+      "showings": 21306,
+      "admissions": 94399,
       "days": 18,
       "day": "3rd Mon"
     },
@@ -209,7 +209,7 @@
       "gross": 0.39,
       "cume": 42.36,
       "showings": 20758,
-      "admissions": 71297,
+      "admissions": 71295,
       "days": 21,
       "day": "4th Thu"
     },
@@ -218,7 +218,7 @@
       "rank": 8,
       "gross": 0.36,
       "cume": 42.72,
-      "showings": 18534,
+      "showings": 18541,
       "admissions": 65659,
       "days": 22,
       "day": "4th Fri"
@@ -227,21 +227,31 @@
       "date": "25-07-2026",
       "rank": 7,
       "gross": 0.48,
-      "cume": 43.2,
-      "showings": 10547,
-      "admissions": 86710,
+      "cume": 43.21,
+      "showings": 10569,
+      "admissions": 86713,
       "days": 23,
       "day": "4th Sat"
     },
     {
       "date": "26-07-2026",
       "rank": 7,
-      "gross": 0.6,
-      "cume": 43.8,
-      "showings": 13679,
-      "admissions": 108965,
+      "gross": 0.61,
+      "cume": 43.82,
+      "showings": 14063,
+      "admissions": 110732,
       "days": 24,
       "day": "4th Sun"
+    },
+    {
+      "date": "27-07-2026",
+      "rank": 7,
+      "gross": 0.23,
+      "cume": 44.04,
+      "showings": 11883,
+      "admissions": 40992,
+      "days": 25,
+      "day": "4th Mon"
     }
   ]
 }
