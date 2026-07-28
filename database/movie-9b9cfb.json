@@ -27,9 +27,9 @@
       "date": "13-07-2026",
       "rank": 1,
       "gross": 19.46,
-      "cume": 93.46,
+      "cume": 93.47,
       "showings": 227120,
-      "admissions": 3820677,
+      "admissions": 3820735,
       "days": 3,
       "day": "1st Mon"
     },
@@ -108,8 +108,8 @@
       "rank": 1,
       "gross": 10.2,
       "cume": 237.37,
-      "showings": 182854,
-      "admissions": 2035011,
+      "showings": 182859,
+      "admissions": 2036768,
       "days": 11,
       "day": "2nd Tue"
     },
@@ -117,7 +117,7 @@
       "date": "22-07-2026",
       "rank": 1,
       "gross": 8.87,
-      "cume": 246.23,
+      "cume": 246.24,
       "showings": 181465,
       "admissions": 1771215,
       "days": 12,
@@ -127,7 +127,7 @@
       "date": "23-07-2026",
       "rank": 1,
       "gross": 7.89,
-      "cume": 254.12,
+      "cume": 254.13,
       "showings": 179685,
       "admissions": 1570377,
       "days": 13,
@@ -137,9 +137,9 @@
       "date": "24-07-2026",
       "rank": 2,
       "gross": 8.25,
-      "cume": 262.37,
+      "cume": 262.38,
       "showings": 171594,
-      "admissions": 1638683,
+      "admissions": 1638764,
       "days": 14,
       "day": "3rd Fri"
     },
@@ -149,7 +149,7 @@
       "gross": 12.98,
       "cume": 275.35,
       "showings": 153954,
-      "admissions": 2551687,
+      "admissions": 2551674,
       "days": 15,
       "day": "3rd Sat"
     },
@@ -158,20 +158,30 @@
       "rank": 2,
       "gross": 12.88,
       "cume": 288.23,
-      "showings": 144157,
-      "admissions": 2545638,
+      "showings": 144173,
+      "admissions": 2545858,
       "days": 16,
       "day": "3rd Sun"
     },
     {
       "date": "27-07-2026",
       "rank": 2,
-      "gross": 5.38,
-      "cume": 293.61,
-      "showings": 128832,
-      "admissions": 1088693,
+      "gross": 5.52,
+      "cume": 293.76,
+      "showings": 129213,
+      "admissions": 1106767,
       "days": 17,
       "day": "3rd Mon"
+    },
+    {
+      "date": "28-07-2026",
+      "rank": 2,
+      "gross": 4.61,
+      "cume": 298.36,
+      "showings": 130715,
+      "admissions": 934702,
+      "days": 18,
+      "day": "3rd Tue"
     }
   ]
 }
