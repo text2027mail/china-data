@@ -5,9 +5,9 @@
       "movie_id": 679886,
       "title": "",
       "gross": 8.87,
-      "cume": 246.24,
+      "cume": 246.25,
       "showings": 181465,
-      "admissions": 1771215,
+      "admissions": 1772340,
       "rank": 1,
       "days": 12,
       "day": "2nd Wed"
@@ -18,7 +18,7 @@
       "gross": 6.56,
       "cume": 59.64,
       "showings": 105318,
-      "admissions": 1241975,
+      "admissions": 1242744,
       "rank": 2,
       "days": 5,
       "day": "3rd Wed"
@@ -28,8 +28,8 @@
       "title": "Miss You",
       "gross": 1.2,
       "cume": 18.05,
-      "showings": 47902,
-      "admissions": 247592,
+      "showings": 47904,
+      "admissions": 247660,
       "rank": 3,
       "days": 6,
       "day": "2nd Wed"
@@ -39,8 +39,8 @@
       "title": "Triangle",
       "gross": 0.51,
       "cume": 5.7,
-      "showings": 20757,
-      "admissions": 91948,
+      "showings": 20759,
+      "admissions": 91961,
       "rank": 4,
       "days": 6,
       "day": "2nd Wed"
@@ -50,8 +50,8 @@
       "title": "Minions & Monsters",
       "gross": 0.42,
       "cume": 41.97,
-      "showings": 20684,
-      "admissions": 76974,
+      "showings": 20687,
+      "admissions": 77005,
       "rank": 5,
       "days": 20,
       "day": "3rd Wed"
@@ -61,8 +61,8 @@
       "title": "THE DECISIVE MOMENT",
       "gross": 0.35,
       "cume": 1.95,
-      "showings": 5912,
-      "admissions": 60725,
+      "showings": 5913,
+      "admissions": 60734,
       "rank": 6,
       "days": null,
       "day": "1st Wed"
@@ -72,8 +72,8 @@
       "title": "Crossing",
       "gross": 0.32,
       "cume": 38.27,
-      "showings": 6253,
-      "admissions": 66873,
+      "showings": 6254,
+      "admissions": 66943,
       "rank": 7,
       "days": 27,
       "day": "5th Wed"
@@ -83,8 +83,8 @@
       "title": "THREE KINGDOMS: THE BEGINNING",
       "gross": 0.25,
       "cume": 11.2,
-      "showings": 11438,
-      "admissions": 47049,
+      "showings": 11439,
+      "admissions": 47063,
       "rank": 8,
       "days": 13,
       "day": "4th Wed"
@@ -94,8 +94,8 @@
       "title": "Backrooms",
       "gross": 0.21,
       "cume": 26.35,
-      "showings": 7939,
-      "admissions": 36792,
+      "showings": 7940,
+      "admissions": 36808,
       "rank": 9,
       "days": 27,
       "day": "4th Wed"
@@ -127,7 +127,7 @@
       "title": "Keep Real",
       "gross": 0.05,
       "cume": 20.38,
-      "showings": 3872,
+      "showings": 3873,
       "admissions": 10437,
       "rank": 12,
       "days": 20,
@@ -138,11 +138,33 @@
       "title": "GENERAL XU FANTING",
       "gross": 0.04,
       "cume": 0.14,
-      "showings": 5323,
-      "admissions": 5233,
+      "showings": 5327,
+      "admissions": 5235,
       "rank": 13,
       "days": 25,
       "day": "4th Wed"
+    },
+    {
+      "movie_id": 628997,
+      "title": "The Actions Inside",
+      "gross": 0.01,
+      "cume": 4.18,
+      "showings": 4,
+      "admissions": 2610,
+      "rank": 14,
+      "days": 4355,
+      "day": "623rd Wed"
+    },
+    {
+      "movie_id": 629002,
+      "title": "The Kingdom Of Saber·Tooth",
+      "gross": 0.01,
+      "cume": 1.19,
+      "showings": 1,
+      "admissions": 2185,
+      "rank": 15,
+      "days": 5076,
+      "day": "726th Wed"
     },
     {
       "movie_id": 744885,
@@ -151,7 +173,7 @@
       "cume": 2.25,
       "showings": 36,
       "admissions": 1873,
-      "rank": 14,
+      "rank": 16,
       "days": 94,
       "day": "14th Wed"
     },
@@ -162,7 +184,7 @@
       "cume": 17.6,
       "showings": 316,
       "admissions": 1705,
-      "rank": 15,
+      "rank": 17,
       "days": 34,
       "day": "5th Wed"
     },
@@ -172,21 +194,10 @@
       "gross": 0.01,
       "cume": 1.55,
       "showings": 675,
-      "admissions": 1413,
-      "rank": 16,
+      "admissions": 1414,
+      "rank": 18,
       "days": 13,
       "day": "2nd Wed"
-    },
-    {
-      "movie_id": 628997,
-      "title": "The Actions Inside",
-      "gross": 0.01,
-      "cume": 4.18,
-      "showings": 4,
-      "admissions": 1122,
-      "rank": 17,
-      "days": 4355,
-      "day": "623rd Wed"
     },
     {
       "movie_id": 636475,
@@ -195,7 +206,7 @@
       "cume": 0.08,
       "showings": 221,
       "admissions": 879,
-      "rank": 18,
+      "rank": 19,
       "days": 5,
       "day": "1st Wed"
     },
@@ -206,20 +217,9 @@
       "cume": 0.0,
       "showings": 1,
       "admissions": 639,
-      "rank": 19,
+      "rank": 20,
       "days": null,
       "day": "1st Wed"
-    },
-    {
-      "movie_id": 912469,
-      "title": "Vanishing Point",
-      "gross": 0.0,
-      "cume": 85.01,
-      "showings": 273,
-      "admissions": 756,
-      "rank": 20,
-      "days": 83,
-      "day": "12th Wed"
     }
   ]
 }
