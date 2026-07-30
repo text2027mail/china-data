@@ -5,9 +5,9 @@
       "movie_id": 679886,
       "title": "",
       "gross": 7.89,
-      "cume": 254.13,
-      "showings": 179685,
-      "admissions": 1570377,
+      "cume": 254.14,
+      "showings": 179692,
+      "admissions": 1572112,
       "rank": 1,
       "days": 13,
       "day": "2nd Thu"
@@ -17,8 +17,8 @@
       "title": "All Wishes Come True！",
       "gross": 6.97,
       "cume": 66.61,
-      "showings": 109222,
-      "admissions": 1321235,
+      "showings": 109239,
+      "admissions": 1322566,
       "rank": 2,
       "days": 6,
       "day": "3rd Thu"
@@ -28,8 +28,8 @@
       "title": "Miss You",
       "gross": 1.07,
       "cume": 19.12,
-      "showings": 46717,
-      "admissions": 219045,
+      "showings": 46724,
+      "admissions": 219125,
       "rank": 3,
       "days": 7,
       "day": "2nd Thu"
@@ -39,8 +39,8 @@
       "title": "Triangle",
       "gross": 0.46,
       "cume": 6.16,
-      "showings": 20716,
-      "admissions": 82200,
+      "showings": 20721,
+      "admissions": 82280,
       "rank": 4,
       "days": 7,
       "day": "2nd Thu"
@@ -50,8 +50,8 @@
       "title": "Crossing",
       "gross": 0.43,
       "cume": 38.7,
-      "showings": 6759,
-      "admissions": 90066,
+      "showings": 6763,
+      "admissions": 90157,
       "rank": 5,
       "days": 28,
       "day": "5th Thu"
@@ -59,10 +59,10 @@
     {
       "movie_id": 1144067,
       "title": "Minions & Monsters",
-      "gross": 0.39,
+      "gross": 0.4,
       "cume": 42.36,
-      "showings": 20758,
-      "admissions": 71295,
+      "showings": 20766,
+      "admissions": 71332,
       "rank": 6,
       "days": 21,
       "day": "4th Thu"
@@ -72,8 +72,8 @@
       "title": "THE DECISIVE MOMENT",
       "gross": 0.28,
       "cume": 2.22,
-      "showings": 4254,
-      "admissions": 48270,
+      "showings": 4255,
+      "admissions": 48315,
       "rank": 7,
       "days": null,
       "day": "1st Thu"
@@ -83,8 +83,8 @@
       "title": "THREE KINGDOMS: THE BEGINNING",
       "gross": 0.25,
       "cume": 11.45,
-      "showings": 11505,
-      "admissions": 47501,
+      "showings": 11508,
+      "admissions": 47518,
       "rank": 8,
       "days": 14,
       "day": "4th Thu"
@@ -94,8 +94,8 @@
       "title": "Backrooms",
       "gross": 0.19,
       "cume": 26.54,
-      "showings": 8130,
-      "admissions": 34012,
+      "showings": 8134,
+      "admissions": 34024,
       "rank": 9,
       "days": 28,
       "day": "5th Thu"
@@ -105,8 +105,8 @@
       "title": "DEAR YOU",
       "gross": 0.09,
       "cume": 295.14,
-      "showings": 4589,
-      "admissions": 18115,
+      "showings": 4591,
+      "admissions": 18178,
       "rank": 10,
       "days": 85,
       "day": "14th Thu"
@@ -116,8 +116,8 @@
       "title": "Toy Story 5",
       "gross": 0.06,
       "cume": 41.48,
-      "showings": 2896,
-      "admissions": 10163,
+      "showings": 2897,
+      "admissions": 10164,
       "rank": 11,
       "days": 35,
       "day": "6th Thu"
@@ -128,7 +128,7 @@
       "gross": 0.05,
       "cume": 20.43,
       "showings": 3900,
-      "admissions": 9810,
+      "admissions": 9815,
       "rank": 12,
       "days": 21,
       "day": "4th Thu"
@@ -138,7 +138,7 @@
       "title": "GENERAL XU FANTING",
       "gross": 0.04,
       "cume": 0.18,
-      "showings": 4769,
+      "showings": 4771,
       "admissions": 5625,
       "rank": 13,
       "days": 26,
@@ -156,13 +156,35 @@
       "day": "1st Thu"
     },
     {
+      "movie_id": 628997,
+      "title": "The Actions Inside",
+      "gross": 0.01,
+      "cume": 4.2,
+      "showings": 4,
+      "admissions": 2571,
+      "rank": 15,
+      "days": 4356,
+      "day": "623rd Thu"
+    },
+    {
+      "movie_id": 629002,
+      "title": "The Kingdom Of Saber·Tooth",
+      "gross": 0.01,
+      "cume": 1.2,
+      "showings": 1,
+      "admissions": 1968,
+      "rank": 16,
+      "days": 5077,
+      "day": "726th Thu"
+    },
+    {
       "movie_id": 750109,
       "title": "I Know Who You Are",
       "gross": 0.01,
       "cume": 17.62,
       "showings": 355,
       "admissions": 2055,
-      "rank": 15,
+      "rank": 17,
       "days": 35,
       "day": "6th Thu"
     },
@@ -173,7 +195,7 @@
       "cume": 2.26,
       "showings": 32,
       "admissions": 1722,
-      "rank": 16,
+      "rank": 18,
       "days": 95,
       "day": "14th Thu"
     },
@@ -182,22 +204,11 @@
       "title": "Moana",
       "gross": 0.01,
       "cume": 1.56,
-      "showings": 696,
-      "admissions": 1292,
-      "rank": 17,
+      "showings": 699,
+      "admissions": 1293,
+      "rank": 19,
       "days": 14,
       "day": "3rd Thu"
-    },
-    {
-      "movie_id": 628997,
-      "title": "The Actions Inside",
-      "gross": 0.01,
-      "cume": 4.19,
-      "showings": 4,
-      "admissions": 1105,
-      "rank": 18,
-      "days": 4356,
-      "day": "623rd Thu"
     },
     {
       "movie_id": 636475,
@@ -206,19 +217,8 @@
       "cume": 0.09,
       "showings": 205,
       "admissions": 854,
-      "rank": 19,
-      "days": 6,
-      "day": "1st Thu"
-    },
-    {
-      "movie_id": 782881,
-      "title": "LUCID WATERS AND LUSH MOUNTAINS",
-      "gross": 0.0,
-      "cume": 0.09,
-      "showings": 28,
-      "admissions": 883,
       "rank": 20,
-      "days": null,
+      "days": 6,
       "day": "1st Thu"
     }
   ]

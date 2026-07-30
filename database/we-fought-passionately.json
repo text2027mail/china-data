@@ -52,6 +52,26 @@
       "admissions": 2181,
       "days": 5,
       "day": "1st Tue"
+    },
+    {
+      "date": "29-07-2026",
+      "rank": 17,
+      "gross": 0.01,
+      "cume": 0.06,
+      "showings": 3,
+      "admissions": 1999,
+      "days": 6,
+      "day": "1st Wed"
+    },
+    {
+      "date": "30-07-2026",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 0.07,
+      "showings": 5,
+      "admissions": 600,
+      "days": 7,
+      "day": "2nd Thu"
     }
   ]
 }
