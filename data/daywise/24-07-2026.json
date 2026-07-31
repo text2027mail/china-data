@@ -4,10 +4,10 @@
     {
       "movie_id": 751240,
       "title": "",
-      "gross": 8.94,
-      "cume": 75.55,
-      "showings": 116522,
-      "admissions": 1676956,
+      "gross": 8.95,
+      "cume": 75.56,
+      "showings": 116529,
+      "admissions": 1678024,
       "rank": 1,
       "days": 7,
       "day": "3rd Fri"
@@ -17,8 +17,8 @@
       "title": "Kung Fu Soccer",
       "gross": 8.25,
       "cume": 262.39,
-      "showings": 171594,
-      "admissions": 1638764,
+      "showings": 171605,
+      "admissions": 1640097,
       "rank": 2,
       "days": 14,
       "day": "3rd Fri"
@@ -28,8 +28,8 @@
       "title": "Obsession",
       "gross": 1.41,
       "cume": 1.44,
-      "showings": 32689,
-      "admissions": 249237,
+      "showings": 32693,
+      "admissions": 249374,
       "rank": 3,
       "days": 1,
       "day": "1st Fri"
@@ -37,10 +37,10 @@
     {
       "movie_id": 769333,
       "title": "Miss You",
-      "gross": 1.04,
+      "gross": 1.05,
       "cume": 20.16,
-      "showings": 36449,
-      "admissions": 215789,
+      "showings": 36456,
+      "admissions": 215982,
       "rank": 4,
       "days": 8,
       "day": "2nd Fri"
@@ -50,8 +50,8 @@
       "title": "Crossing",
       "gross": 0.61,
       "cume": 39.31,
-      "showings": 6458,
-      "admissions": 128223,
+      "showings": 6460,
+      "admissions": 128291,
       "rank": 5,
       "days": 29,
       "day": "5th Fri"
@@ -61,8 +61,8 @@
       "title": "THE DECISIVE MOMENT",
       "gross": 0.41,
       "cume": 2.63,
-      "showings": 4629,
-      "admissions": 70943,
+      "showings": 4630,
+      "admissions": 70959,
       "rank": 6,
       "days": null,
       "day": "2nd Fri"
@@ -72,8 +72,8 @@
       "title": "Triangle",
       "gross": 0.36,
       "cume": 6.52,
-      "showings": 15450,
-      "admissions": 64801,
+      "showings": 15457,
+      "admissions": 64838,
       "rank": 7,
       "days": 8,
       "day": "2nd Fri"
@@ -83,8 +83,8 @@
       "title": "Minions & Monsters",
       "gross": 0.36,
       "cume": 42.73,
-      "showings": 18541,
-      "admissions": 65659,
+      "showings": 18555,
+      "admissions": 65661,
       "rank": 8,
       "days": 22,
       "day": "4th Fri"
@@ -94,8 +94,8 @@
       "title": "THREE KINGDOMS: THE BEGINNING",
       "gross": 0.25,
       "cume": 11.7,
-      "showings": 9495,
-      "admissions": 46627,
+      "showings": 9499,
+      "admissions": 46878,
       "rank": 9,
       "days": 15,
       "day": "4th Fri"
@@ -105,8 +105,8 @@
       "title": "Backrooms",
       "gross": 0.14,
       "cume": 26.68,
-      "showings": 5496,
-      "admissions": 24559,
+      "showings": 5501,
+      "admissions": 24575,
       "rank": 10,
       "days": 29,
       "day": "5th Fri"
@@ -149,8 +149,8 @@
       "title": "Keep Real",
       "gross": 0.04,
       "cume": 20.47,
-      "showings": 2882,
-      "admissions": 8236,
+      "showings": 2884,
+      "admissions": 8243,
       "rank": 14,
       "days": 22,
       "day": "4th Fri"
@@ -167,15 +167,37 @@
       "day": "6th Fri"
     },
     {
+      "movie_id": 628997,
+      "title": "The Actions Inside",
+      "gross": 0.01,
+      "cume": 4.21,
+      "showings": 4,
+      "admissions": 2616,
+      "rank": 16,
+      "days": 4357,
+      "day": "623rd Fri"
+    },
+    {
       "movie_id": 744885,
       "title": "Wan TongShu",
       "gross": 0.01,
       "cume": 2.27,
       "showings": 38,
-      "admissions": 2135,
-      "rank": 16,
+      "admissions": 2099,
+      "rank": 17,
       "days": 96,
       "day": "14th Fri"
+    },
+    {
+      "movie_id": 629002,
+      "title": "The Kingdom Of Saber·Tooth",
+      "gross": 0.01,
+      "cume": 1.21,
+      "showings": 1,
+      "admissions": 1921,
+      "rank": 18,
+      "days": 5078,
+      "day": "726th Fri"
     },
     {
       "movie_id": 890525,
@@ -184,7 +206,7 @@
       "cume": 0.01,
       "showings": 11,
       "admissions": 1519,
-      "rank": 17,
+      "rank": 19,
       "days": null,
       "day": "1st Fri"
     },
@@ -193,33 +215,11 @@
       "title": "GENERAL XU FANTING",
       "gross": 0.01,
       "cume": 0.19,
-      "showings": 634,
-      "admissions": 1465,
-      "rank": 18,
+      "showings": 636,
+      "admissions": 1457,
+      "rank": 20,
       "days": 27,
       "day": "4th Fri"
-    },
-    {
-      "movie_id": 1167037,
-      "title": "The 28th Shanghai International Film Festival",
-      "gross": 0.01,
-      "cume": 5.18,
-      "showings": 1,
-      "admissions": 1574,
-      "rank": 19,
-      "days": 64,
-      "day": "10th Fri"
-    },
-    {
-      "movie_id": 710629,
-      "title": "WE FOUGHT PASSIONATELY",
-      "gross": 0.01,
-      "cume": 0.01,
-      "showings": 5,
-      "admissions": 1182,
-      "rank": 20,
-      "days": 1,
-      "day": "1st Fri"
     }
   ]
 }
