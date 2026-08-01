@@ -19,7 +19,7 @@
     "movie_id": 879463,
     "title": "Being Toward Death",
     "releaseDate": "24-04-2026",
-    "total_gross": 10.58,
+    "total_gross": 10.610000000000001,
     "total_admissions": 2095048,
     "total_showings": 674498
   },
@@ -43,7 +43,7 @@
     "movie_id": 737278,
     "title": "IT'S MY TIME",
     "releaseDate": "19-06-2026",
-    "total_gross": 2.4299999999999984,
+    "total_gross": 2.4399999999999986,
     "total_admissions": 492104,
     "total_showings": 194810
   },
@@ -67,7 +67,7 @@
     "movie_id": 769435,
     "title": "It's OK",
     "releaseDate": "21-03-2026",
-    "total_gross": 28.350000000000012,
+    "total_gross": 28.490000000000006,
     "total_admissions": 5616050,
     "total_showings": 1954950
   },
@@ -75,15 +75,15 @@
     "movie_id": 735535,
     "title": "THE DECISIVE MOMENT",
     "releaseDate": "17-07-2026",
-    "total_gross": 10.889999999999999,
-    "total_admissions": 1941722,
-    "total_showings": 251514
+    "total_gross": 10.92,
+    "total_admissions": 1941756,
+    "total_showings": 251523
   },
   {
     "movie_id": 1086488,
     "title": "THE CACED BUTTERFLY",
     "releaseDate": "01-04-2026",
-    "total_gross": 16.84000000000003,
+    "total_gross": 16.890000000000025,
     "total_admissions": 3451505,
     "total_showings": 1429676
   },
@@ -99,9 +99,9 @@
     "movie_id": 760896,
     "title": "Keep Real",
     "releaseDate": "27-06-2026",
-    "total_gross": 20.560000000000006,
-    "total_admissions": 3886871,
-    "total_showings": 879580
+    "total_gross": 20.66000000000001,
+    "total_admissions": 3888197,
+    "total_showings": 879920
   },
   {
     "movie_id": 681895,
@@ -115,7 +115,7 @@
     "movie_id": 912469,
     "title": "Vanishing Point",
     "releaseDate": "30-04-2026",
-    "total_gross": 84.98000000000002,
+    "total_gross": 85.22,
     "total_admissions": 16628898,
     "total_showings": 2888735
   },
@@ -147,9 +147,17 @@
     "movie_id": 357789,
     "title": "Masters of the Universe",
     "releaseDate": "04-06-2026",
-    "total_gross": 1.5800000000000003,
+    "total_gross": 1.5900000000000003,
     "total_admissions": 266410,
     "total_showings": 207129
+  },
+  {
+    "movie_id": 1212561,
+    "title": "The Odyssey",
+    "releaseDate": "30-07-2026",
+    "total_gross": 0.26,
+    "total_admissions": 12966,
+    "total_showings": 89
   },
   {
     "movie_id": 1167037,
@@ -179,7 +187,7 @@
     "movie_id": 706635,
     "title": "My friend Andre",
     "releaseDate": "15-01-2026",
-    "total_gross": 2.31,
+    "total_gross": 2.3200000000000003,
     "total_admissions": 441071,
     "total_showings": 297599
   },
@@ -195,7 +203,7 @@
     "movie_id": 797006,
     "title": "PEGASUS 3",
     "releaseDate": "16-02-2026",
-    "total_gross": 654.2299999999996,
+    "total_gross": 656.2899999999998,
     "total_admissions": 94753280,
     "total_showings": 6174656
   },
@@ -203,7 +211,7 @@
     "movie_id": 1044824,
     "title": "National Theatre Live: Inter Alia",
     "releaseDate": "28-02-2026",
-    "total_gross": 1.4300000000000004,
+    "total_gross": 1.4400000000000004,
     "total_admissions": 243863,
     "total_showings": 85339
   },
@@ -219,7 +227,7 @@
     "movie_id": 737454,
     "title": "TAKE OFF",
     "releaseDate": "12-01-2026",
-    "total_gross": 11.939999999999996,
+    "total_gross": 11.999999999999995,
     "total_admissions": 2281403,
     "total_showings": 781347
   },
@@ -227,9 +235,9 @@
     "movie_id": 783157,
     "title": "Crossing",
     "releaseDate": "22-06-2026",
-    "total_gross": 40.910000000000004,
-    "total_admissions": 8486968,
-    "total_showings": 1274006
+    "total_gross": 41.120000000000005,
+    "total_admissions": 8510909,
+    "total_showings": 1276292
   },
   {
     "movie_id": 693739,
@@ -251,9 +259,9 @@
     "movie_id": 746664,
     "title": "DEAR YOU",
     "releaseDate": "18-04-2026",
-    "total_gross": 295.5900000000001,
-    "total_admissions": 58740366,
-    "total_showings": 7789606
+    "total_gross": 296.58000000000004,
+    "total_admissions": 58750318,
+    "total_showings": 7790324
   },
   {
     "movie_id": 1007533,
@@ -267,7 +275,7 @@
     "movie_id": 735503,
     "title": "NOW I MET HER",
     "releaseDate": "31-03-2026",
-    "total_gross": 11.350000000000003,
+    "total_gross": 11.360000000000003,
     "total_admissions": 2076138,
     "total_showings": 1051848
   },
@@ -291,7 +299,7 @@
     "movie_id": 1086487,
     "title": "The Devil Wears Prada 2",
     "releaseDate": "29-04-2026",
-    "total_gross": 15.409999999999997,
+    "total_gross": 15.449999999999996,
     "total_admissions": 2513841,
     "total_showings": 589613
   },
@@ -308,8 +316,8 @@
     "title": "WE FOUGHT PASSIONATELY",
     "releaseDate": "23-07-2026",
     "total_gross": 0.07999999999999999,
-    "total_admissions": 10103,
-    "total_showings": 50
+    "total_admissions": 10110,
+    "total_showings": 51
   },
   {
     "movie_id": 1044826,
@@ -355,7 +363,7 @@
     "movie_id": 739726,
     "title": "Blades of the Guardians",
     "releaseDate": "16-02-2026",
-    "total_gross": 214.23,
+    "total_gross": 214.89999999999992,
     "total_admissions": 31484802,
     "total_showings": 3376914
   },
@@ -387,7 +395,7 @@
     "movie_id": 640485,
     "title": "NO OTHER LOVE",
     "releaseDate": "21-03-2026",
-    "total_gross": 1.8300000000000003,
+    "total_gross": 1.84,
     "total_admissions": 354050,
     "total_showings": 245345
   },
@@ -427,7 +435,7 @@
     "movie_id": 708646,
     "title": "The Boy Who Counted Cars",
     "releaseDate": "18-06-2026",
-    "total_gross": 7.909999999999998,
+    "total_gross": 7.929999999999998,
     "total_admissions": 1510616,
     "total_showings": 352702
   },
@@ -443,15 +451,15 @@
     "movie_id": 1204825,
     "title": "PAW Patrol: The Dino Movie",
     "releaseDate": "25-07-2026",
-    "total_gross": 0.7600000000000001,
-    "total_admissions": 138771,
-    "total_showings": 23940
+    "total_gross": 1.13,
+    "total_admissions": 206896,
+    "total_showings": 31538
   },
   {
     "movie_id": 1080499,
     "title": "Sunshine Women's Choir",
     "releaseDate": "27-03-2026",
-    "total_gross": 2.799999999999998,
+    "total_gross": 2.809999999999998,
     "total_admissions": 501796,
     "total_showings": 263374
   },
@@ -491,9 +499,9 @@
     "movie_id": 1141043,
     "title": "Spider-Man: Brand New Day",
     "releaseDate": "28-07-2026",
-    "total_gross": 70.36,
-    "total_admissions": 12036115,
-    "total_showings": 498377
+    "total_gross": 97.54,
+    "total_admissions": 16541096,
+    "total_showings": 662721
   },
   {
     "movie_id": 777532,
@@ -531,7 +539,7 @@
     "movie_id": 991458,
     "title": "Return to Silent Hill",
     "releaseDate": "22-01-2026",
-    "total_gross": 21.000000000000014,
+    "total_gross": 21.060000000000016,
     "total_admissions": 3744283,
     "total_showings": 1321601
   },
@@ -547,7 +555,7 @@
     "movie_id": 751111,
     "title": "Cold War 1994",
     "releaseDate": "30-04-2026",
-    "total_gross": 43.80000000000001,
+    "total_gross": 43.95,
     "total_admissions": 7992104,
     "total_showings": 1579062
   },
@@ -571,9 +579,9 @@
     "movie_id": 750109,
     "title": "I Know Who You Are",
     "releaseDate": "18-06-2026",
-    "total_gross": 17.680000000000017,
-    "total_admissions": 3226556,
-    "total_showings": 830222
+    "total_gross": 17.760000000000016,
+    "total_admissions": 3227148,
+    "total_showings": 830321
   },
   {
     "movie_id": 573855,
@@ -587,15 +595,15 @@
     "movie_id": 751240,
     "title": "All Wishes Come True！",
     "releaseDate": "08-07-2026",
-    "total_gross": 147.06,
-    "total_admissions": 27512378,
-    "total_showings": 1738122
+    "total_gross": 159.92,
+    "total_admissions": 29859668,
+    "total_showings": 1820791
   },
   {
     "movie_id": 988161,
     "title": "Mercy",
     "releaseDate": "20-01-2026",
-    "total_gross": 9.070000000000002,
+    "total_gross": 9.100000000000001,
     "total_admissions": 1455809,
     "total_showings": 509484
   },
@@ -603,7 +611,7 @@
     "movie_id": 1062605,
     "title": "The Super Mario Galaxy Movie",
     "releaseDate": "02-04-2026",
-    "total_gross": 22.740000000000002,
+    "total_gross": 22.799999999999997,
     "total_admissions": 3861761,
     "total_showings": 1362037
   },
@@ -611,9 +619,9 @@
     "movie_id": 679886,
     "title": "Kung Fu Soccer",
     "releaseDate": "10-07-2026",
-    "total_gross": 309.8,
-    "total_admissions": 60897026,
-    "total_showings": 3662148
+    "total_gross": 315.67999999999995,
+    "total_admissions": 61886791,
+    "total_showings": 3715133
   },
   {
     "movie_id": 1113986,
@@ -635,15 +643,15 @@
     "movie_id": 424199,
     "title": "Triangle",
     "releaseDate": "15-07-2026",
-    "total_gross": 7.710000000000001,
-    "total_admissions": 1382800,
-    "total_showings": 212284
+    "total_gross": 7.800000000000001,
+    "total_admissions": 1393934,
+    "total_showings": 214272
   },
   {
     "movie_id": 709198,
     "title": "LOVE GO GO GO!",
     "releaseDate": "13-02-2026",
-    "total_gross": 5.679999999999999,
+    "total_gross": 5.689999999999999,
     "total_admissions": 1037968,
     "total_showings": 176108
   },
@@ -651,7 +659,7 @@
     "movie_id": 659134,
     "title": "The Shining",
     "releaseDate": "29-01-2026",
-    "total_gross": 7.359999999999997,
+    "total_gross": 7.379999999999996,
     "total_admissions": 1181441,
     "total_showings": 351595
   },
@@ -683,7 +691,7 @@
     "movie_id": 1094302,
     "title": "Michael",
     "releaseDate": "23-04-2026",
-    "total_gross": 10.359999999999992,
+    "total_gross": 10.379999999999992,
     "total_admissions": 1588359,
     "total_showings": 588359
   },
@@ -699,7 +707,7 @@
     "movie_id": 694935,
     "title": "Master Zhong",
     "releaseDate": "29-05-2026",
-    "total_gross": 3.4099999999999997,
+    "total_gross": 3.4199999999999995,
     "total_admissions": 713656,
     "total_showings": 282091
   },
@@ -715,7 +723,7 @@
     "movie_id": 701527,
     "title": "Qingtong&Kuihua",
     "releaseDate": "07-05-2026",
-    "total_gross": 0.33000000000000007,
+    "total_gross": 0.3400000000000001,
     "total_admissions": 68802,
     "total_showings": 12178
   },
@@ -739,7 +747,7 @@
     "movie_id": 751109,
     "title": "A Man and a Woman",
     "releaseDate": "10-05-2026",
-    "total_gross": 0.52,
+    "total_gross": 0.53,
     "total_admissions": 102556,
     "total_showings": 106310
   },
@@ -747,7 +755,7 @@
     "movie_id": 749895,
     "title": "Nobody But You2",
     "releaseDate": "17-04-2026",
-    "total_gross": 4.350000000000001,
+    "total_gross": 4.360000000000001,
     "total_admissions": 791880,
     "total_showings": 483916
   },
@@ -771,7 +779,7 @@
     "movie_id": 3189,
     "title": "The furious",
     "releaseDate": "10-06-2026",
-    "total_gross": 30.58,
+    "total_gross": 30.65,
     "total_admissions": 5870559,
     "total_showings": 1473064
   },
@@ -779,7 +787,7 @@
     "movie_id": 1173257,
     "title": "Disclosure Day",
     "releaseDate": "11-06-2026",
-    "total_gross": 4.839999999999995,
+    "total_gross": 4.849999999999995,
     "total_admissions": 756983,
     "total_showings": 312288
   },
@@ -787,7 +795,7 @@
     "movie_id": 297720,
     "title": "ONCE A THIEF",
     "releaseDate": "02-05-2026",
-    "total_gross": 1.8100000000000005,
+    "total_gross": 1.8200000000000005,
     "total_admissions": 341148,
     "total_showings": 130039
   },
@@ -803,7 +811,7 @@
     "movie_id": 973335,
     "title": "Hoppers",
     "releaseDate": "19-03-2026",
-    "total_gross": 27.240000000000002,
+    "total_gross": 27.330000000000005,
     "total_admissions": 4729258,
     "total_showings": 1443521
   },
@@ -811,7 +819,7 @@
     "movie_id": 744885,
     "title": "Wan TongShu",
     "releaseDate": "19-04-2026",
-    "total_gross": 2.1099999999999985,
+    "total_gross": 2.1199999999999983,
     "total_admissions": 337257,
     "total_showings": 24692
   },
@@ -835,7 +843,7 @@
     "movie_id": 986637,
     "title": "96 Minutes",
     "releaseDate": "03-01-2026",
-    "total_gross": 1.1100000000000003,
+    "total_gross": 1.1200000000000003,
     "total_admissions": 199002,
     "total_showings": 171077
   },
@@ -851,7 +859,7 @@
     "movie_id": 739885,
     "title": "A Table For Two",
     "releaseDate": "12-03-2026",
-    "total_gross": 1.05,
+    "total_gross": 1.06,
     "total_admissions": 179941,
     "total_showings": 179592
   },
@@ -859,7 +867,7 @@
     "movie_id": 1113988,
     "title": "The 16th Beijing International Film Festival",
     "releaseDate": "09-04-2026",
-    "total_gross": 1.8500000000000003,
+    "total_gross": 1.86,
     "total_admissions": 126022,
     "total_showings": 193
   },
@@ -875,15 +883,15 @@
     "movie_id": 749898,
     "title": "sanguodiyibu：zhengluoyang",
     "releaseDate": "27-06-2026",
-    "total_gross": 13.12,
-    "total_admissions": 2430321,
-    "total_showings": 456140
+    "total_gross": 13.290000000000001,
+    "total_admissions": 2449856,
+    "total_showings": 457603
   },
   {
     "movie_id": 1151920,
     "title": "The Housemaid",
     "releaseDate": "23-05-2026",
-    "total_gross": 1.6900000000000006,
+    "total_gross": 1.7100000000000006,
     "total_admissions": 297769,
     "total_showings": 136313
   },
@@ -923,7 +931,7 @@
     "movie_id": 1038596,
     "title": "Marty Supreme",
     "releaseDate": "10-03-2026",
-    "total_gross": 0.49000000000000005,
+    "total_gross": 0.5,
     "total_admissions": 82206,
     "total_showings": 59155
   },
@@ -931,7 +939,7 @@
     "movie_id": 737442,
     "title": "NO ONE IS CLOSER THAN WE",
     "releaseDate": "30-04-2026",
-    "total_gross": 5.6499999999999995,
+    "total_gross": 5.669999999999999,
     "total_admissions": 770593,
     "total_showings": 67008
   },
@@ -955,7 +963,7 @@
     "movie_id": 988152,
     "title": "Shuke and Beita：The Miniature Humans",
     "releaseDate": "17-01-2026",
-    "total_gross": 0.9900000000000003,
+    "total_gross": 1.0100000000000002,
     "total_admissions": 207254,
     "total_showings": 157302
   },
@@ -980,14 +988,14 @@
     "title": "GENERAL XU FANTING",
     "releaseDate": "27-06-2026",
     "total_gross": 0.22,
-    "total_admissions": 31489,
-    "total_showings": 51540
+    "total_admissions": 31486,
+    "total_showings": 51579
   },
   {
     "movie_id": 737451,
     "title": "All The Good Eyes",
     "releaseDate": "25-04-2026",
-    "total_gross": 2.3200000000000003,
+    "total_gross": 2.34,
     "total_admissions": 461309,
     "total_showings": 209261
   },
@@ -1011,7 +1019,7 @@
     "movie_id": 988180,
     "title": "Project Hail Mary",
     "releaseDate": "19-03-2026",
-    "total_gross": 41.52000000000003,
+    "total_gross": 41.660000000000025,
     "total_admissions": 6252117,
     "total_showings": 1448502
   },
@@ -1027,9 +1035,9 @@
     "movie_id": 769333,
     "title": "Miss You",
     "releaseDate": "15-07-2026",
-    "total_gross": 23.69,
-    "total_admissions": 4907609,
-    "total_showings": 549400
+    "total_gross": 23.95,
+    "total_admissions": 4952079,
+    "total_showings": 554810
   },
   {
     "movie_id": 988165,
@@ -1043,7 +1051,7 @@
     "movie_id": 750387,
     "title": "Per Aspera ad Astra",
     "releaseDate": "16-02-2026",
-    "total_gross": 15.07,
+    "total_gross": 15.12,
     "total_admissions": 2273784,
     "total_showings": 323394
   },
@@ -1051,7 +1059,7 @@
     "movie_id": 701834,
     "title": "Game of Identity",
     "releaseDate": "03-04-2026",
-    "total_gross": 8.239999999999997,
+    "total_gross": 8.269999999999998,
     "total_admissions": 1661131,
     "total_showings": 853659
   },
@@ -1067,9 +1075,9 @@
     "movie_id": 741516,
     "title": "JUST GO NAILA",
     "releaseDate": "05-06-2026",
-    "total_gross": 0.51,
-    "total_admissions": 48366,
-    "total_showings": 9037
+    "total_gross": 0.53,
+    "total_admissions": 49595,
+    "total_showings": 9052
   },
   {
     "movie_id": 782906,
@@ -1099,7 +1107,7 @@
     "movie_id": 1124996,
     "title": "Pressure",
     "releaseDate": "31-05-2026",
-    "total_gross": 3.3999999999999977,
+    "total_gross": 3.4099999999999975,
     "total_admissions": 590998,
     "total_showings": 302439
   },
@@ -1115,7 +1123,7 @@
     "movie_id": 785326,
     "title": "Panda Plan:The Magical Tribe",
     "releaseDate": "16-02-2026",
-    "total_gross": 42.54000000000002,
+    "total_gross": 42.630000000000024,
     "total_admissions": 6897724,
     "total_showings": 977441
   },
@@ -1123,7 +1131,7 @@
     "movie_id": 879892,
     "title": "Boonie Bears: The Hidden Protector",
     "releaseDate": "16-02-2026",
-    "total_gross": 157.90000000000015,
+    "total_gross": 158.3900000000002,
     "total_admissions": 23917746,
     "total_showings": 1750211
   },
@@ -1131,23 +1139,23 @@
     "movie_id": 1144068,
     "title": "Toy Story 5",
     "releaseDate": "18-06-2026",
-    "total_gross": 41.79000000000003,
-    "total_admissions": 7144025,
-    "total_showings": 1376750
+    "total_gross": 41.96000000000002,
+    "total_admissions": 7149098,
+    "total_showings": 1377387
   },
   {
     "movie_id": 1213187,
     "title": "Obsession",
     "releaseDate": "23-07-2026",
-    "total_gross": 11.110000000000001,
-    "total_admissions": 1979408,
-    "total_showings": 210251
+    "total_gross": 12.73,
+    "total_admissions": 2267585,
+    "total_showings": 229277
   },
   {
     "movie_id": 769434,
     "title": "Midnight Garage",
     "releaseDate": "04-06-2026",
-    "total_gross": 0.5500000000000002,
+    "total_gross": 0.5600000000000002,
     "total_admissions": 116924,
     "total_showings": 76083
   },
@@ -1155,7 +1163,7 @@
     "movie_id": 788850,
     "title": "Invictus",
     "releaseDate": "12-06-2026",
-    "total_gross": 5.470000000000001,
+    "total_gross": 5.490000000000001,
     "total_admissions": 935135,
     "total_showings": 312091
   },
@@ -1171,7 +1179,7 @@
     "movie_id": 796840,
     "title": "Scare Out",
     "releaseDate": "16-02-2026",
-    "total_gross": 202.09000000000015,
+    "total_gross": 202.7000000000001,
     "total_admissions": 29929917,
     "total_showings": 3097184
   },
@@ -1179,7 +1187,7 @@
     "movie_id": 716568,
     "title": "Be Yourself",
     "releaseDate": "19-05-2026",
-    "total_gross": 11.499999999999996,
+    "total_gross": 11.539999999999997,
     "total_admissions": 2148900,
     "total_showings": 470101
   },
@@ -1219,7 +1227,7 @@
     "movie_id": 1007537,
     "title": "Shelter",
     "releaseDate": "29-01-2026",
-    "total_gross": 3.7399999999999998,
+    "total_gross": 3.769999999999999,
     "total_admissions": 660341,
     "total_showings": 445275
   },
@@ -1227,7 +1235,7 @@
     "movie_id": 703775,
     "title": "yongzhewujiang",
     "releaseDate": "21-04-2026",
-    "total_gross": 0.05,
+    "total_gross": 0.060000000000000005,
     "total_admissions": 11397,
     "total_showings": 3168
   },
@@ -1251,7 +1259,7 @@
     "movie_id": 972734,
     "title": "Busted Water Pipes",
     "releaseDate": "22-01-2026",
-    "total_gross": 19.49,
+    "total_gross": 19.529999999999998,
     "total_admissions": 3788693,
     "total_showings": 1272822
   },
@@ -1275,9 +1283,9 @@
     "movie_id": 1144067,
     "title": "Minions & Monsters",
     "releaseDate": "02-07-2026",
-    "total_gross": 44.609999999999985,
-    "total_admissions": 7853740,
-    "total_showings": 1405937
+    "total_gross": 44.93999999999999,
+    "total_admissions": 7886061,
+    "total_showings": 1410829
   },
   {
     "movie_id": 708430,
@@ -1315,7 +1323,7 @@
     "movie_id": 1038599,
     "title": "Night King",
     "releaseDate": "19-02-2026",
-    "total_gross": 33.27000000000003,
+    "total_gross": 33.35000000000003,
     "total_admissions": 5515617,
     "total_showings": 622387
   },
@@ -1323,7 +1331,7 @@
     "movie_id": 1030019,
     "title": "GOAT",
     "releaseDate": "13-03-2026",
-    "total_gross": 4.319999999999998,
+    "total_gross": 4.339999999999997,
     "total_admissions": 764170,
     "total_showings": 324729
   },
@@ -1339,7 +1347,7 @@
     "movie_id": 358500,
     "title": "Memento",
     "releaseDate": "23-05-2026",
-    "total_gross": 3.3799999999999994,
+    "total_gross": 3.4099999999999997,
     "total_admissions": 541529,
     "total_showings": 253979
   },
@@ -1347,7 +1355,7 @@
     "movie_id": 1122365,
     "title": "Star Wars: The Mandalorian & Grogu",
     "releaseDate": "21-05-2026",
-    "total_gross": 13.76,
+    "total_gross": 13.819999999999999,
     "total_admissions": 2178476,
     "total_showings": 712332
   },
@@ -1355,9 +1363,9 @@
     "movie_id": 890525,
     "title": "MAKE ZHONGHE GREAT AGAIN",
     "releaseDate": "24-07-2026",
-    "total_gross": 3.619999999999999,
-    "total_admissions": 647006,
-    "total_showings": 41224
+    "total_gross": 8.379999999999999,
+    "total_admissions": 1538511,
+    "total_showings": 118450
   },
   {
     "movie_id": 788638,
@@ -1371,9 +1379,9 @@
     "movie_id": 963176,
     "title": "Backrooms",
     "releaseDate": "25-06-2026",
-    "total_gross": 27.110000000000003,
-    "total_admissions": 4806292,
-    "total_showings": 904663
+    "total_gross": 27.250000000000007,
+    "total_admissions": 4811324,
+    "total_showings": 905347
   },
   {
     "movie_id": 796923,
@@ -1384,11 +1392,27 @@
     "total_showings": 2
   },
   {
-    "movie_id": 1212561,
-    "title": "The Odyssey",
-    "releaseDate": "30-07-2026",
+    "movie_id": 1213975,
+    "title": "2026 Canadian Film Week, Shanghai",
+    "releaseDate": "31-07-2026",
+    "total_gross": 0.02,
+    "total_admissions": 1347,
+    "total_showings": 1
+  },
+  {
+    "movie_id": 739611,
+    "title": "To Your Island",
+    "releaseDate": "01-08-2026",
     "total_gross": 0.01,
-    "total_admissions": 1180,
-    "total_showings": 4
+    "total_admissions": 960,
+    "total_showings": 8
+  },
+  {
+    "movie_id": 1213804,
+    "title": "Blue Whales: Return of the Giants",
+    "releaseDate": "01-08-2026",
+    "total_gross": 0.0,
+    "total_admissions": 276,
+    "total_showings": 1
   }
 ]
