@@ -5,13 +5,23 @@
   "entries": [
     {
       "date": "01-08-2026",
-      "rank": 17,
+      "rank": 19,
       "gross": 0.01,
       "cume": 0.01,
       "showings": 8,
-      "admissions": 960,
+      "admissions": 1623,
       "days": null,
       "day": "1st Sat"
+    },
+    {
+      "date": "02-08-2026",
+      "rank": 16,
+      "gross": 0.01,
+      "cume": 0.02,
+      "showings": 8,
+      "admissions": 984,
+      "days": null,
+      "day": "1st Sun"
     }
   ]
 }

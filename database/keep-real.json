@@ -178,7 +178,7 @@
       "rank": 10,
       "gross": 0.13,
       "cume": 19.91,
-      "showings": 7569,
+      "showings": 7570,
       "admissions": 24319,
       "days": 15,
       "day": "3rd Fri"
@@ -258,8 +258,8 @@
       "rank": 16,
       "gross": 0.03,
       "cume": 20.57,
-      "showings": 914,
-      "admissions": 6372,
+      "showings": 917,
+      "admissions": 6390,
       "days": 23,
       "day": "5th Sat"
     },
@@ -332,6 +332,16 @@
       "admissions": 1146,
       "days": 30,
       "day": "6th Sat"
+    },
+    {
+      "date": "02-08-2026",
+      "rank": 19,
+      "gross": 0.01,
+      "cume": 20.67,
+      "showings": 336,
+      "admissions": 1406,
+      "days": 31,
+      "day": "6th Sun"
     }
   ]
 }

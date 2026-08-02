@@ -1,7 +1,7 @@
 {
   "movie_id": 1213975,
   "title": "2026 Canadian Film Week, Shanghai",
-  "releaseDate": "31-07-2026",
+  "releaseDate": "28-07-2026",
   "entries": [
     {
       "date": "31-07-2026",
@@ -12,6 +12,16 @@
       "admissions": 1347,
       "days": 3,
       "day": "1st Fri"
+    },
+    {
+      "date": "01-08-2026",
+      "rank": 16,
+      "gross": 0.02,
+      "cume": 0.03,
+      "showings": 1,
+      "admissions": 1566,
+      "days": 4,
+      "day": "1st Sat"
     }
   ]
 }
