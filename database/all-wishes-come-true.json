@@ -129,7 +129,7 @@
       "gross": 6.49,
       "cume": 46.55,
       "showings": 98416,
-      "admissions": 1225213,
+      "admissions": 1225197,
       "days": 3,
       "day": "2nd Mon"
     },
@@ -209,7 +209,7 @@
       "gross": 7.48,
       "cume": 129.21,
       "showings": 132130,
-      "admissions": 1412779,
+      "admissions": 1413229,
       "days": 11,
       "day": "3rd Tue"
     },
@@ -239,7 +239,7 @@
       "gross": 6.75,
       "cume": 147.73,
       "showings": 89187,
-      "admissions": 1295162,
+      "admissions": 1295177,
       "days": 14,
       "day": "4th Fri"
     },
@@ -249,7 +249,7 @@
       "gross": 12.65,
       "cume": 160.38,
       "showings": 82667,
-      "admissions": 2377533,
+      "admissions": 2377460,
       "days": 15,
       "day": "4th Sat"
     },
@@ -258,20 +258,30 @@
       "rank": 2,
       "gross": 12.62,
       "cume": 173.0,
-      "showings": 90274,
-      "admissions": 2387396,
+      "showings": 90275,
+      "admissions": 2387445,
       "days": 16,
       "day": "4th Sun"
     },
     {
       "date": "03-08-2026",
       "rank": 2,
-      "gross": 5.16,
-      "cume": 178.16,
-      "showings": 89176,
-      "admissions": 1003687,
+      "gross": 5.27,
+      "cume": 178.27,
+      "showings": 89635,
+      "admissions": 1014429,
       "days": 17,
       "day": "4th Mon"
+    },
+    {
+      "date": "04-08-2026",
+      "rank": 2,
+      "gross": 4.68,
+      "cume": 182.95,
+      "showings": 90699,
+      "admissions": 911690,
+      "days": 18,
+      "day": "4th Tue"
     }
   ]
 }

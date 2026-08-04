@@ -75,13 +75,23 @@
     },
     {
       "date": "03-08-2026",
-      "rank": 18,
+      "rank": 17,
       "gross": 0.0,
       "cume": 0.12,
-      "showings": 19,
-      "admissions": 335,
+      "showings": 26,
+      "admissions": 656,
       "days": null,
       "day": "3rd Mon"
+    },
+    {
+      "date": "04-08-2026",
+      "rank": 19,
+      "gross": 0.0,
+      "cume": 0.13,
+      "showings": 11,
+      "admissions": 313,
+      "days": null,
+      "day": "3rd Tue"
     }
   ]
 }
