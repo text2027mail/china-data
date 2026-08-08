@@ -1,19 +1,19 @@
 [
   {
-    "movie_id": 354593,
-    "title": "The Lord of the Rings: The Two Towers",
-    "releaseDate": "24-04-2003",
-    "total_gross": 7.389999999999999,
-    "total_admissions": 1286278,
-    "total_showings": 275794
-  },
-  {
     "movie_id": 402729,
     "title": "X2",
     "releaseDate": "18-09-2003",
     "total_gross": 0.060000000000000005,
     "total_admissions": 13486,
     "total_showings": 412
+  },
+  {
+    "movie_id": 354593,
+    "title": "The Lord of the Rings: The Two Towers",
+    "releaseDate": "24-04-2003",
+    "total_gross": 7.389999999999999,
+    "total_admissions": 1286278,
+    "total_showings": 275794
   },
   {
     "movie_id": 339968,
