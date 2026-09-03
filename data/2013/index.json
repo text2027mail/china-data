@@ -1,347 +1,43 @@
 [
   {
-    "movie_id": 594393,
-    "title": "7 Assassins",
-    "releaseDate": "08-06-2013",
-    "total_gross": 0.52,
-    "total_admissions": 121155,
-    "total_showings": 30320
+    "movie_id": 566774,
+    "title": "No Man's Land",
+    "releaseDate": "02-12-2013",
+    "total_gross": 38.45,
+    "total_admissions": 8285260,
+    "total_showings": 392340
   },
   {
-    "movie_id": 596097,
-    "title": "Train Heroes",
-    "releaseDate": "15-08-2013",
-    "total_gross": 0.17000000000000004,
-    "total_admissions": 40519,
-    "total_showings": 7076
-  },
-  {
-    "movie_id": 613829,
-    "title": "The Love Songs of Tiedan",
-    "releaseDate": "17-10-2013",
-    "total_gross": 0.07,
-    "total_admissions": 17159,
-    "total_showings": 4895
-  },
-  {
-    "movie_id": 608248,
-    "title": "Kidnapping Of A Big Star",
-    "releaseDate": "01-08-2013",
-    "total_gross": 0.15,
-    "total_admissions": 33347,
-    "total_showings": 8030
-  },
-  {
-    "movie_id": 611210,
-    "title": "China Heavyweight",
-    "releaseDate": "19-12-2013",
-    "total_gross": 0.0,
-    "total_admissions": 1900,
-    "total_showings": 396
-  },
-  {
-    "movie_id": 590271,
-    "title": "My Wife is A Cat",
-    "releaseDate": "13-02-2013",
-    "total_gross": 0.22000000000000003,
-    "total_admissions": 49968,
-    "total_showings": 6713
-  },
-  {
-    "movie_id": 610860,
-    "title": "The Deadly Bullet",
-    "releaseDate": "18-04-2013",
-    "total_gross": 0.09999999999999999,
-    "total_admissions": 22529,
-    "total_showings": 11040
-  },
-  {
-    "movie_id": 595606,
-    "title": "Drug War",
-    "releaseDate": "01-04-2013",
-    "total_gross": 21.740000000000006,
-    "total_admissions": 4580675,
-    "total_showings": 223461
-  },
-  {
-    "movie_id": 616718,
-    "title": "Black Mirror",
-    "releaseDate": "10-11-2013",
-    "total_gross": 0.37000000000000005,
-    "total_admissions": 84791,
-    "total_showings": 19133
-  },
-  {
-    "movie_id": 610839,
-    "title": "Redemption",
-    "releaseDate": "08-06-2013",
-    "total_gross": 1.3600000000000003,
-    "total_admissions": 299345,
-    "total_showings": 44581
-  },
-  {
-    "movie_id": 610888,
-    "title": "Silent Code",
-    "releaseDate": "13-03-2013",
-    "total_gross": 0.40000000000000013,
-    "total_admissions": 93645,
-    "total_showings": 24433
-  },
-  {
-    "movie_id": 596734,
-    "title": "Desperate Rescue",
-    "releaseDate": "11-01-2013",
-    "total_gross": 0.14,
-    "total_admissions": 32808,
-    "total_showings": 9671
-  },
-  {
-    "movie_id": 594678,
-    "title": "Flash Play",
-    "releaseDate": "29-08-2013",
-    "total_gross": 0.10999999999999999,
-    "total_admissions": 23502,
-    "total_showings": 8539
-  },
-  {
-    "movie_id": 616113,
-    "title": "Fake Fiction",
-    "releaseDate": "22-08-2013",
-    "total_gross": 10.14,
-    "total_admissions": 2309548,
-    "total_showings": 152068
-  },
-  {
-    "movie_id": 593943,
-    "title": "Beyond the Bounds",
-    "releaseDate": "15-01-2013",
-    "total_gross": 0.05,
-    "total_admissions": 8721,
-    "total_showings": 4750
-  },
-  {
-    "movie_id": 618625,
-    "title": "Legendary: Tomb of the Dragon",
-    "releaseDate": "30-12-2013",
-    "total_gross": 5.1599999999999975,
-    "total_admissions": 982605,
-    "total_showings": 75508
-  },
-  {
-    "movie_id": 616330,
-    "title": "The Wedding Diary",
-    "releaseDate": "30-05-2013",
-    "total_gross": 0.3600000000000001,
-    "total_admissions": 84611,
-    "total_showings": 20720
-  },
-  {
-    "movie_id": 596800,
-    "title": "Finding Mr.Right",
-    "releaseDate": "20-03-2013",
-    "total_gross": 77.02000000000007,
-    "total_admissions": 16477173,
-    "total_showings": 529753
-  },
-  {
-    "movie_id": 573880,
-    "title": "The Grandmasters",
-    "releaseDate": "07-01-2013",
-    "total_gross": 42.83999999999999,
-    "total_admissions": 7981920,
-    "total_showings": 319233
-  },
-  {
-    "movie_id": 615792,
-    "title": "Mr. & Mrs. Gambler",
-    "releaseDate": "27-04-2013",
-    "total_gross": 0.31000000000000005,
-    "total_admissions": 76848,
-    "total_showings": 19311
-  },
-  {
-    "movie_id": 617484,
-    "title": "Farm House 81",
-    "releaseDate": "27-09-2013",
-    "total_gross": 3.5899999999999985,
-    "total_admissions": 860442,
-    "total_showings": 76124
-  },
-  {
-    "movie_id": 559047,
-    "title": "Spring Comes and Wenter Goes",
-    "releaseDate": "24-10-2013",
-    "total_gross": 0.02,
-    "total_admissions": 10716,
-    "total_showings": 36
-  },
-  {
-    "movie_id": 618380,
-    "title": "Baby Blues",
-    "releaseDate": "30-10-2013",
-    "total_gross": 2.6799999999999984,
-    "total_admissions": 489679,
-    "total_showings": 47392
-  },
-  {
-    "movie_id": 615840,
-    "title": "Lost",
-    "releaseDate": "27-12-2013",
-    "total_gross": 0.5200000000000001,
-    "total_admissions": 116629,
-    "total_showings": 20262
-  },
-  {
-    "movie_id": 613467,
-    "title": "The Mythical Ark: Adventures in Love & Happiness",
-    "releaseDate": "23-01-2013",
-    "total_gross": 18.499999999999993,
-    "total_admissions": 4175333,
-    "total_showings": 209155
-  },
-  {
-    "movie_id": 615845,
-    "title": "Space Panda",
-    "releaseDate": "27-12-2013",
-    "total_gross": 0.31000000000000005,
-    "total_admissions": 67048,
-    "total_showings": 9010
-  },
-  {
-    "movie_id": 616731,
-    "title": "Epic",
+    "movie_id": 612622,
+    "title": "The Falling Feather",
     "releaseDate": "28-11-2013",
-    "total_gross": 7.399999999999996,
-    "total_admissions": 1463288,
-    "total_showings": 91531
+    "total_gross": 0.03,
+    "total_admissions": 7864,
+    "total_showings": 4592
   },
   {
-    "movie_id": 610928,
-    "title": "Personal Tailor",
-    "releaseDate": "18-12-2013",
-    "total_gross": 105.70000000000003,
-    "total_admissions": 20068347,
-    "total_showings": 666216
+    "movie_id": 611357,
+    "title": "My Boyfriends",
+    "releaseDate": "14-11-2013",
+    "total_gross": 1.1200000000000003,
+    "total_admissions": 253667,
+    "total_showings": 49578
   },
   {
-    "movie_id": 596038,
-    "title": "Pricess Show",
-    "releaseDate": "24-10-2013",
-    "total_gross": 0.23,
-    "total_admissions": 51345,
-    "total_showings": 17891
+    "movie_id": 602795,
+    "title": "Hotel Transylvania",
+    "releaseDate": "31-10-2013",
+    "total_gross": 10.949999999999996,
+    "total_admissions": 2046084,
+    "total_showings": 147469
   },
   {
-    "movie_id": 619660,
-    "title": "Mind Decoding",
-    "releaseDate": "19-12-2013",
-    "total_gross": 0.0,
-    "total_admissions": 153,
-    "total_showings": 2
-  },
-  {
-    "movie_id": 593849,
-    "title": "Monsters University",
-    "releaseDate": "22-08-2013",
-    "total_gross": 31.060000000000002,
-    "total_admissions": 5682391,
-    "total_showings": 262109
-  },
-  {
-    "movie_id": 341723,
-    "title": "The Hobbit: An Unexpected Journey",
-    "releaseDate": "21-02-2013",
-    "total_gross": 46.769999999999996,
-    "total_admissions": 7140880,
-    "total_showings": 261043
-  },
-  {
-    "movie_id": 614536,
-    "title": "Better And Better",
-    "releaseDate": "09-02-2013",
-    "total_gross": 4.419999999999998,
-    "total_admissions": 922738,
-    "total_showings": 66311
-  },
-  {
-    "movie_id": 617267,
-    "title": "Love Will Tear Us Apart",
-    "releaseDate": "11-10-2013",
-    "total_gross": 12.979999999999999,
-    "total_admissions": 2788909,
-    "total_showings": 201022
-  },
-  {
-    "movie_id": 596419,
-    "title": "Little Tigers",
-    "releaseDate": "24-01-2013",
-    "total_gross": 0.22000000000000006,
-    "total_admissions": 51713,
-    "total_showings": 7554
-  },
-  {
-    "movie_id": 596429,
-    "title": "Ripples of Desire",
-    "releaseDate": "05-09-2013",
-    "total_gross": 0.32000000000000006,
-    "total_admissions": 69940,
-    "total_showings": 21517
-  },
-  {
-    "movie_id": 595696,
-    "title": "Time to Show",
-    "releaseDate": "13-06-2013",
-    "total_gross": 0.05,
-    "total_admissions": 13159,
-    "total_showings": 1019
-  },
-  {
-    "movie_id": 616420,
-    "title": "Farewell My Concubine The Beijing Opera",
-    "releaseDate": "30-10-2013",
-    "total_gross": 0.05,
-    "total_admissions": 10819,
-    "total_showings": 213
-  },
-  {
-    "movie_id": 617278,
-    "title": "Saving Mother Robot",
-    "releaseDate": "08-08-2013",
-    "total_gross": 0.16,
-    "total_admissions": 35184,
-    "total_showings": 11006
-  },
-  {
-    "movie_id": 617277,
-    "title": "Time-travel Love",
-    "releaseDate": "05-09-2013",
-    "total_gross": 0.62,
-    "total_admissions": 134997,
-    "total_showings": 27547
-  },
-  {
-    "movie_id": 615223,
-    "title": "Oz The Great and Powerful",
-    "releaseDate": "28-03-2013",
-    "total_gross": 24.320000000000007,
-    "total_admissions": 4081185,
-    "total_showings": 173298
-  },
-  {
-    "movie_id": 346818,
-    "title": "Iron Man 3",
-    "releaseDate": "30-04-2013",
-    "total_gross": 111.82000000000001,
-    "total_admissions": 18005916,
-    "total_showings": 538795
-  },
-  {
-    "movie_id": 617190,
-    "title": "I Love Wolffy 2",
-    "releaseDate": "31-07-2013",
-    "total_gross": 11.169999999999998,
-    "total_admissions": 2539543,
-    "total_showings": 128163
+    "movie_id": 608116,
+    "title": "Murcielago",
+    "releaseDate": "29-09-2013",
+    "total_gross": 0.36000000000000004,
+    "total_admissions": 84158,
+    "total_showings": 16718
   },
   {
     "movie_id": 615765,
@@ -352,84 +48,60 @@
     "total_showings": 225484
   },
   {
-    "movie_id": 615230,
-    "title": "Happy life of YangGuang",
-    "releaseDate": "25-02-2013",
-    "total_gross": 0.32000000000000006,
-    "total_admissions": 69999,
-    "total_showings": 12944
-  },
-  {
-    "movie_id": 612120,
-    "title": "The White Storm",
-    "releaseDate": "28-11-2013",
-    "total_gross": 35.220000000000006,
-    "total_admissions": 7450276,
-    "total_showings": 344132
-  },
-  {
-    "movie_id": 614089,
-    "title": "Luo Jing Shan",
-    "releaseDate": "16-09-2013",
+    "movie_id": 395962,
+    "title": "Under the Sea 3D",
+    "releaseDate": "09-04-2013",
     "total_gross": 0.0,
-    "total_admissions": 878,
-    "total_showings": 588
+    "total_admissions": 3799,
+    "total_showings": 21
   },
   {
-    "movie_id": 618407,
-    "title": "Escape Plan",
-    "releaseDate": "03-11-2013",
-    "total_gross": 37.61,
-    "total_admissions": 8128877,
-    "total_showings": 366865
+    "movie_id": 610860,
+    "title": "The Deadly Bullet",
+    "releaseDate": "18-04-2013",
+    "total_gross": 0.09999999999999999,
+    "total_admissions": 22529,
+    "total_showings": 11040
   },
   {
-    "movie_id": 616252,
-    "title": "Running All The Way",
-    "releaseDate": "23-05-2013",
-    "total_gross": 0.8500000000000002,
-    "total_admissions": 186566,
-    "total_showings": 34335
+    "movie_id": 619660,
+    "title": "Mind Decoding",
+    "releaseDate": "19-12-2013",
+    "total_gross": 0.0,
+    "total_admissions": 153,
+    "total_showings": 2
   },
   {
-    "movie_id": 594163,
-    "title": "Angel Warriors",
+    "movie_id": 616330,
+    "title": "The Wedding Diary",
+    "releaseDate": "30-05-2013",
+    "total_gross": 0.3600000000000001,
+    "total_admissions": 84611,
+    "total_showings": 20720
+  },
+  {
+    "movie_id": 612655,
+    "title": "Together",
+    "releaseDate": "11-02-2013",
+    "total_gross": 4.759999999999999,
+    "total_admissions": 932457,
+    "total_showings": 61125
+  },
+  {
+    "movie_id": 616515,
+    "title": "Dating Fever",
     "releaseDate": "31-10-2013",
-    "total_gross": 0.7300000000000002,
-    "total_admissions": 152729,
-    "total_showings": 27291
+    "total_gross": 0.7200000000000002,
+    "total_admissions": 154975,
+    "total_showings": 23196
   },
   {
-    "movie_id": 590109,
-    "title": "Unidentified",
-    "releaseDate": "22-08-2013",
-    "total_gross": 0.02,
-    "total_admissions": 6037,
-    "total_showings": 3158
-  },
-  {
-    "movie_id": 613083,
-    "title": "The Love Expert",
-    "releaseDate": "26-12-2013",
-    "total_gross": 0.05,
-    "total_admissions": 10959,
-    "total_showings": 5234
-  },
-  {
-    "movie_id": 617181,
-    "title": "LeLe Xiong Qi Huan Zhui Zong",
-    "releaseDate": "28-06-2013",
-    "total_gross": 0.0,
-    "total_admissions": 449,
-    "total_showings": 61
-  },
-  {
-    "movie_id": 614166,
-    "title": "Mysterious Island 2",
-    "releaseDate": "25-01-2013",
-    "total_gross": 2.439999999999999,
-    "total_admissions": 549096,
-    "total_showings": 43369
+    "movie_id": 617258,
+    "title": "White House Down",
+    "releaseDate": "21-07-2013",
+    "total_gross": 26.250000000000007,
+    "total_admissions": 5420969,
+    "total_showings": 213874
   },
   {
     "movie_id": 612420,
@@ -440,180 +112,20 @@
     "total_showings": 291221
   },
   {
-    "movie_id": 610030,
-    "title": "Zui Ai Ni De Ren Shi Wo",
-    "releaseDate": "25-02-2013",
-    "total_gross": 0.0,
-    "total_admissions": 782,
-    "total_showings": 11
+    "movie_id": 589743,
+    "title": "Crimes of Passion",
+    "releaseDate": "07-08-2013",
+    "total_gross": 3.35,
+    "total_admissions": 710980,
+    "total_showings": 55847
   },
   {
-    "movie_id": 612689,
-    "title": "Memories Look At Me",
-    "releaseDate": "04-05-2013",
-    "total_gross": 0.0,
-    "total_admissions": 175,
-    "total_showings": 1
-  },
-  {
-    "movie_id": 596887,
-    "title": "Hange Jincheng",
-    "releaseDate": "16-02-2013",
-    "total_gross": 0.7000000000000002,
-    "total_admissions": 184160,
-    "total_showings": 1540
-  },
-  {
-    "movie_id": 604129,
-    "title": "Stolen",
-    "releaseDate": "28-02-2013",
-    "total_gross": 6.549999999999996,
-    "total_admissions": 1427302,
-    "total_showings": 110775
-  },
-  {
-    "movie_id": 566774,
-    "title": "No Man's Land",
-    "releaseDate": "02-12-2013",
-    "total_gross": 38.45,
-    "total_admissions": 8285260,
-    "total_showings": 392340
-  },
-  {
-    "movie_id": 592927,
-    "title": "Colombiana",
-    "releaseDate": "06-06-2013",
-    "total_gross": 7.43,
-    "total_admissions": 1581330,
-    "total_showings": 122572
-  },
-  {
-    "movie_id": 618536,
-    "title": "Stalingrad",
-    "releaseDate": "30-10-2013",
-    "total_gross": 10.649999999999999,
-    "total_admissions": 1805799,
-    "total_showings": 139495
-  },
-  {
-    "movie_id": 592980,
-    "title": "The Thieves",
-    "releaseDate": "14-01-2013",
-    "total_gross": 3.239999999999999,
-    "total_admissions": 720313,
-    "total_showings": 53003
-  },
-  {
-    "movie_id": 615130,
-    "title": "Gu Lu",
-    "releaseDate": "30-04-2013",
-    "total_gross": 0.02,
-    "total_admissions": 5427,
-    "total_showings": 4
-  },
-  {
-    "movie_id": 615496,
-    "title": "The Sweet Smile",
-    "releaseDate": "04-03-2013",
-    "total_gross": 0.01,
-    "total_admissions": 11517,
-    "total_showings": 412
-  },
-  {
-    "movie_id": 612621,
-    "title": "The Palace",
-    "releaseDate": "12-08-2013",
-    "total_gross": 8.049999999999999,
-    "total_admissions": 1713345,
-    "total_showings": 106263
-  },
-  {
-    "movie_id": 613961,
-    "title": "Bunshinsaba 2",
-    "releaseDate": "15-07-2013",
-    "total_gross": 12.159999999999997,
-    "total_admissions": 2654713,
-    "total_showings": 152478
-  },
-  {
-    "movie_id": 617254,
-    "title": "Sweet Summer Love",
-    "releaseDate": "29-08-2013",
-    "total_gross": 0.10999999999999999,
-    "total_admissions": 22557,
-    "total_showings": 10580
-  },
-  {
-    "movie_id": 606699,
-    "title": "Un Plan Parfait",
-    "releaseDate": "24-10-2013",
-    "total_gross": 4.759999999999998,
-    "total_admissions": 1061400,
-    "total_showings": 90488
-  },
-  {
-    "movie_id": 615250,
-    "title": "A Good Day to Die Hard",
-    "releaseDate": "13-03-2013",
-    "total_gross": 29.789999999999996,
-    "total_admissions": 6233127,
-    "total_showings": 321427
-  },
-  {
-    "movie_id": 615668,
-    "title": "Fast & Furious 6",
-    "releaseDate": "25-07-2013",
-    "total_gross": 61.25000000000001,
-    "total_admissions": 12416774,
-    "total_showings": 377543
-  },
-  {
-    "movie_id": 618533,
-    "title": "The Constable",
-    "releaseDate": "31-10-2013",
-    "total_gross": 0.7200000000000002,
-    "total_admissions": 155048,
-    "total_showings": 27145
-  },
-  {
-    "movie_id": 596648,
-    "title": "Midnight Microblog",
-    "releaseDate": "28-02-2013",
-    "total_gross": 0.78,
-    "total_admissions": 175206,
-    "total_showings": 26980
-  },
-  {
-    "movie_id": 589509,
-    "title": "Amazing",
-    "releaseDate": "29-09-2013",
-    "total_gross": 6.759999999999992,
-    "total_admissions": 982606,
-    "total_showings": 64812
-  },
-  {
-    "movie_id": 617699,
-    "title": "Love Distance",
-    "releaseDate": "17-09-2013",
-    "total_gross": 0.18000000000000005,
-    "total_admissions": 41318,
-    "total_showings": 12452
-  },
-  {
-    "movie_id": 602981,
-    "title": "Gravity",
-    "releaseDate": "18-11-2013",
-    "total_gross": 64.53000000000002,
-    "total_admissions": 10514200,
-    "total_showings": 465844
-  },
-  {
-    "movie_id": 615451,
-    "title": "Love Speaks",
-    "releaseDate": "07-11-2013",
-    "total_gross": 3.5099999999999985,
-    "total_admissions": 743134,
-    "total_showings": 97026
+    "movie_id": 617713,
+    "title": "Mayday Nowhere 3D",
+    "releaseDate": "18-09-2013",
+    "total_gross": 3.0699999999999985,
+    "total_admissions": 517909,
+    "total_showings": 45047
   },
   {
     "movie_id": 615231,
@@ -624,348 +136,36 @@
     "total_showings": 47443
   },
   {
+    "movie_id": 614548,
+    "title": "Pororo, The Racing Adventure",
+    "releaseDate": "24-01-2013",
+    "total_gross": 1.7800000000000005,
+    "total_admissions": 363045,
+    "total_showings": 35125
+  },
+  {
+    "movie_id": 614346,
+    "title": "Firestorm",
+    "releaseDate": "11-12-2013",
+    "total_gross": 46.599999999999994,
+    "total_admissions": 8134765,
+    "total_showings": 353279
+  },
+  {
+    "movie_id": 617190,
+    "title": "I Love Wolffy 2",
+    "releaseDate": "31-07-2013",
+    "total_gross": 11.169999999999998,
+    "total_admissions": 2539543,
+    "total_showings": 128163
+  },
+  {
     "movie_id": 596555,
     "title": "Man of TaiChi",
     "releaseDate": "04-07-2013",
     "total_gross": 4.0699999999999985,
     "total_admissions": 788010,
     "total_showings": 68465
-  },
-  {
-    "movie_id": 614305,
-    "title": "Tiny Times",
-    "releaseDate": "26-06-2013",
-    "total_gross": 71.72000000000003,
-    "total_admissions": 15211451,
-    "total_showings": 475051
-  },
-  {
-    "movie_id": 610867,
-    "title": "American Dreams in China",
-    "releaseDate": "16-05-2013",
-    "total_gross": 79.80000000000003,
-    "total_admissions": 16721820,
-    "total_showings": 623673
-  },
-  {
-    "movie_id": 605823,
-    "title": "Resident Evil: Retribution",
-    "releaseDate": "16-03-2013",
-    "total_gross": 16.400000000000013,
-    "total_admissions": 2760641,
-    "total_showings": 200666
-  },
-  {
-    "movie_id": 590044,
-    "title": "The House",
-    "releaseDate": "27-03-2013",
-    "total_gross": 0.5100000000000001,
-    "total_admissions": 126308,
-    "total_showings": 34860
-  },
-  {
-    "movie_id": 615204,
-    "title": "The Last Stand",
-    "releaseDate": "23-10-2013",
-    "total_gross": 7.190000000000001,
-    "total_admissions": 1591465,
-    "total_showings": 136709
-  },
-  {
-    "movie_id": 589156,
-    "title": "Game of Assassins",
-    "releaseDate": "25-12-2013",
-    "total_gross": 0.01,
-    "total_admissions": 1981,
-    "total_showings": 1425
-  },
-  {
-    "movie_id": 612957,
-    "title": "A Moment Of Love",
-    "releaseDate": "22-08-2013",
-    "total_gross": 1.62,
-    "total_admissions": 359538,
-    "total_showings": 38060
-  },
-  {
-    "movie_id": 605052,
-    "title": "Starbuck",
-    "releaseDate": "28-04-2013",
-    "total_gross": 0.09999999999999999,
-    "total_admissions": 25657,
-    "total_showings": 6571
-  },
-  {
-    "movie_id": 614979,
-    "title": "The Impossible",
-    "releaseDate": "28-08-2013",
-    "total_gross": 8.159999999999998,
-    "total_admissions": 1783839,
-    "total_showings": 117950
-  },
-  {
-    "movie_id": 611718,
-    "title": "Love Story",
-    "releaseDate": "01-08-2013",
-    "total_gross": 0.29000000000000004,
-    "total_admissions": 69205,
-    "total_showings": 13470
-  },
-  {
-    "movie_id": 589499,
-    "title": "Piano Trojan",
-    "releaseDate": "09-05-2013",
-    "total_gross": 0.10999999999999999,
-    "total_admissions": 30123,
-    "total_showings": 15482
-  },
-  {
-    "movie_id": 614212,
-    "title": "A Chilling Cosplay",
-    "releaseDate": "28-10-2013",
-    "total_gross": 1.8900000000000001,
-    "total_admissions": 443387,
-    "total_showings": 53965
-  },
-  {
-    "movie_id": 593283,
-    "title": "Switch",
-    "releaseDate": "08-06-2013",
-    "total_gross": 44.50999999999996,
-    "total_admissions": 7792618,
-    "total_showings": 326394
-  },
-  {
-    "movie_id": 617573,
-    "title": "Turbo",
-    "releaseDate": "17-09-2013",
-    "total_gross": 16.759999999999998,
-    "total_admissions": 3154746,
-    "total_showings": 169829
-  },
-  {
-    "movie_id": 616714,
-    "title": "The Soccer Way",
-    "releaseDate": "09-06-2013",
-    "total_gross": 0.8400000000000001,
-    "total_admissions": 205862,
-    "total_showings": 20929
-  },
-  {
-    "movie_id": 589743,
-    "title": "Crimes of Passion",
-    "releaseDate": "07-08-2013",
-    "total_gross": 3.35,
-    "total_admissions": 710980,
-    "total_showings": 55847
-  },
-  {
-    "movie_id": 604711,
-    "title": "Sur la piste du Marsupilami",
-    "releaseDate": "16-07-2013",
-    "total_gross": 0.9900000000000002,
-    "total_admissions": 227783,
-    "total_showings": 22479
-  },
-  {
-    "movie_id": 595213,
-    "title": "Falling Flowers",
-    "releaseDate": "07-03-2013",
-    "total_gross": 0.30000000000000004,
-    "total_admissions": 62231,
-    "total_showings": 5297
-  },
-  {
-    "movie_id": 594194,
-    "title": "Xiang Jian Tong Yao",
-    "releaseDate": "31-05-2013",
-    "total_gross": 0.0,
-    "total_admissions": 961,
-    "total_showings": 10
-  },
-  {
-    "movie_id": 613462,
-    "title": "The Midas Touch",
-    "releaseDate": "05-09-2013",
-    "total_gross": 4.249999999999997,
-    "total_admissions": 936166,
-    "total_showings": 83778
-  },
-  {
-    "movie_id": 616713,
-    "title": "After Earth",
-    "releaseDate": "11-07-2013",
-    "total_gross": 31.770000000000014,
-    "total_admissions": 6541920,
-    "total_showings": 260535
-  },
-  {
-    "movie_id": 617159,
-    "title": "Day of Redemption",
-    "releaseDate": "18-07-2013",
-    "total_gross": 0.3500000000000001,
-    "total_admissions": 75178,
-    "total_showings": 13120
-  },
-  {
-    "movie_id": 592544,
-    "title": "Say Yes",
-    "releaseDate": "11-02-2013",
-    "total_gross": 29.60000000000001,
-    "total_admissions": 5966172,
-    "total_showings": 236838
-  },
-  {
-    "movie_id": 1583,
-    "title": "Useless",
-    "releaseDate": "14-12-2013",
-    "total_gross": 0.02,
-    "total_admissions": 3700,
-    "total_showings": 95
-  },
-  {
-    "movie_id": 617270,
-    "title": "The Lone Ranger",
-    "releaseDate": "04-10-2013",
-    "total_gross": 12.059999999999997,
-    "total_admissions": 2460590,
-    "total_showings": 149716
-  },
-  {
-    "movie_id": 616427,
-    "title": "The Stolen Years",
-    "releaseDate": "28-08-2013",
-    "total_gross": 22.009999999999998,
-    "total_admissions": 4719651,
-    "total_showings": 259642
-  },
-  {
-    "movie_id": 609600,
-    "title": "Return The Money",
-    "releaseDate": "12-12-2013",
-    "total_gross": 0.37000000000000005,
-    "total_admissions": 62303,
-    "total_showings": 22617
-  },
-  {
-    "movie_id": 658962,
-    "title": "faguodianyingzhanying",
-    "releaseDate": "02-06-2013",
-    "total_gross": 0.0,
-    "total_admissions": 2744,
-    "total_showings": 20
-  },
-  {
-    "movie_id": 616804,
-    "title": "Target Locked",
-    "releaseDate": "17-10-2013",
-    "total_gross": 0.02,
-    "total_admissions": 6523,
-    "total_showings": 4417
-  },
-  {
-    "movie_id": 614325,
-    "title": "Jin Tai Lang De Xing Fu Sheng Huo",
-    "releaseDate": "11-04-2013",
-    "total_gross": 0.8300000000000002,
-    "total_admissions": 181791,
-    "total_showings": 37926
-  },
-  {
-    "movie_id": 573102,
-    "title": "Da Nao Wu Zi Cheng",
-    "releaseDate": "23-12-2013",
-    "total_gross": 0.01,
-    "total_admissions": 16813,
-    "total_showings": 65
-  },
-  {
-    "movie_id": 617127,
-    "title": "Fantastic Adventure",
-    "releaseDate": "19-07-2013",
-    "total_gross": 0.6400000000000001,
-    "total_admissions": 134747,
-    "total_showings": 17619
-  },
-  {
-    "movie_id": 617706,
-    "title": "4B Qing Nian zhi 4 Lou B Zuo",
-    "releaseDate": "09-09-2013",
-    "total_gross": 0.6599999999999999,
-    "total_admissions": 157451,
-    "total_showings": 32667
-  },
-  {
-    "movie_id": 617710,
-    "title": "Bump In The Road",
-    "releaseDate": "28-09-2013",
-    "total_gross": 2.099999999999999,
-    "total_admissions": 491501,
-    "total_showings": 57281
-  },
-  {
-    "movie_id": 612880,
-    "title": "Sammy's Adventures 2",
-    "releaseDate": "27-06-2013",
-    "total_gross": 1.8400000000000003,
-    "total_admissions": 364449,
-    "total_showings": 34902
-  },
-  {
-    "movie_id": 615471,
-    "title": "Up in the Wind",
-    "releaseDate": "30-12-2013",
-    "total_gross": 11.809999999999993,
-    "total_admissions": 2570840,
-    "total_showings": 163954
-  },
-  {
-    "movie_id": 617393,
-    "title": "The Best Kids",
-    "releaseDate": "14-08-2013",
-    "total_gross": 0.15000000000000002,
-    "total_admissions": 33367,
-    "total_showings": 5325
-  },
-  {
-    "movie_id": 616528,
-    "title": "Singing When We Are Young",
-    "releaseDate": "03-07-2013",
-    "total_gross": 0.30000000000000004,
-    "total_admissions": 72834,
-    "total_showings": 22482
-  },
-  {
-    "movie_id": 615212,
-    "title": "The Frog Kingdom",
-    "releaseDate": "27-12-2013",
-    "total_gross": 2.5799999999999983,
-    "total_admissions": 536894,
-    "total_showings": 41413
-  },
-  {
-    "movie_id": 612885,
-    "title": "The Rooftop",
-    "releaseDate": "10-07-2013",
-    "total_gross": 17.750000000000004,
-    "total_admissions": 3716798,
-    "total_showings": 191780
-  },
-  {
-    "movie_id": 614857,
-    "title": "Hao Hao Wen Zi Guo Li Xian JI Zhi Zhi Dou Mi Yu Cheng",
-    "releaseDate": "06-01-2013",
-    "total_gross": 0.01,
-    "total_admissions": 7563,
-    "total_showings": 10
-  },
-  {
-    "movie_id": 615831,
-    "title": "Block Buster",
-    "releaseDate": "10-06-2013",
-    "total_gross": 0.51,
-    "total_admissions": 116406,
-    "total_showings": 25143
   },
   {
     "movie_id": 613262,
@@ -976,260 +176,20 @@
     "total_showings": 3540
   },
   {
-    "movie_id": 614864,
-    "title": "Jack Reacher",
-    "releaseDate": "15-02-2013",
-    "total_gross": 14.369999999999996,
-    "total_admissions": 3038970,
-    "total_showings": 143512
-  },
-  {
-    "movie_id": 613384,
-    "title": "Police Story 2013",
-    "releaseDate": "23-12-2013",
-    "total_gross": 79.15,
-    "total_admissions": 13497756,
-    "total_showings": 542378
-  },
-  {
-    "movie_id": 594290,
-    "title": "Sweet Eighteen",
-    "releaseDate": "18-04-2013",
-    "total_gross": 0.05,
-    "total_admissions": 14738,
-    "total_showings": 8085
-  },
-  {
-    "movie_id": 592550,
-    "title": "The Iron Lady",
-    "releaseDate": "07-03-2013",
-    "total_gross": 0.7900000000000001,
-    "total_admissions": 167603,
-    "total_showings": 20440
-  },
-  {
-    "movie_id": 658916,
-    "title": "2013deguodianyingzhan",
-    "releaseDate": "16-10-2013",
+    "movie_id": 60,
+    "title": "Farewell My Concubine",
+    "releaseDate": "01-04-2013",
     "total_gross": 0.0,
-    "total_admissions": 6707,
-    "total_showings": 61
+    "total_admissions": 1460,
+    "total_showings": 20
   },
   {
-    "movie_id": 614850,
-    "title": "Votage Extraordinaire",
-    "releaseDate": "28-11-2013",
-    "total_gross": 0.20000000000000007,
-    "total_admissions": 45357,
-    "total_showings": 10043
-  },
-  {
-    "movie_id": 597203,
-    "title": "Mark Of Youth",
-    "releaseDate": "04-02-2013",
-    "total_gross": 0.44000000000000017,
-    "total_admissions": 111912,
-    "total_showings": 13710
-  },
-  {
-    "movie_id": 589970,
-    "title": "Beijing Flickers",
-    "releaseDate": "07-11-2013",
-    "total_gross": 0.03,
-    "total_admissions": 6048,
-    "total_showings": 3031
-  },
-  {
-    "movie_id": 616716,
-    "title": "Sun Face",
-    "releaseDate": "30-05-2013",
-    "total_gross": 0.0,
-    "total_admissions": 3865,
-    "total_showings": 153
-  },
-  {
-    "movie_id": 615519,
-    "title": "A Cherry on a Pomegranate Tree",
-    "releaseDate": "03-04-2013",
-    "total_gross": 0.02,
-    "total_admissions": 15995,
-    "total_showings": 528
-  },
-  {
-    "movie_id": 617501,
-    "title": "Red 2",
-    "releaseDate": "14-11-2013",
-    "total_gross": 8.239999999999997,
-    "total_admissions": 1803601,
-    "total_showings": 142516
-  },
-  {
-    "movie_id": 612672,
-    "title": "Silent Witness",
-    "releaseDate": "12-09-2013",
-    "total_gross": 26.82,
-    "total_admissions": 5695817,
-    "total_showings": 301836
-  },
-  {
-    "movie_id": 566117,
-    "title": "Dredd",
-    "releaseDate": "28-02-2013",
-    "total_gross": 4.4399999999999995,
-    "total_admissions": 821992,
-    "total_showings": 84932
-  },
-  {
-    "movie_id": 615855,
-    "title": "Dead Sign",
-    "releaseDate": "05-09-2013",
-    "total_gross": 1.5700000000000005,
-    "total_admissions": 363751,
-    "total_showings": 46517
-  },
-  {
-    "movie_id": 610627,
-    "title": "Christmas Rose",
-    "releaseDate": "23-05-2013",
-    "total_gross": 3.439999999999998,
-    "total_admissions": 761181,
-    "total_showings": 80933
-  },
-  {
-    "movie_id": 612538,
-    "title": "The Hunger Games: Catching Fire",
-    "releaseDate": "20-11-2013",
-    "total_gross": 25.460000000000004,
-    "total_admissions": 5292995,
-    "total_showings": 265352
-  },
-  {
-    "movie_id": 612696,
-    "title": "My Beautiful Kingdom",
-    "releaseDate": "12-12-2013",
-    "total_gross": 0.08999999999999998,
-    "total_admissions": 18166,
-    "total_showings": 8473
-  },
-  {
-    "movie_id": 613553,
-    "title": "The Fox Lover",
-    "releaseDate": "27-09-2013",
-    "total_gross": 4.639999999999999,
-    "total_admissions": 841589,
-    "total_showings": 64590
-  },
-  {
-    "movie_id": 472148,
-    "title": "Iep!",
-    "releaseDate": "10-06-2013",
-    "total_gross": 0.01,
-    "total_admissions": 5214,
-    "total_showings": 374
-  },
-  {
-    "movie_id": 614308,
-    "title": "A Werewolf Boy",
-    "releaseDate": "18-12-2013",
-    "total_gross": 0.5800000000000001,
-    "total_admissions": 128004,
-    "total_showings": 22156
-  },
-  {
-    "movie_id": 592255,
-    "title": "Mr.GO",
-    "releaseDate": "17-07-2013",
-    "total_gross": 16.690000000000005,
-    "total_admissions": 3062583,
-    "total_showings": 159250
-  },
-  {
-    "movie_id": 612627,
-    "title": "Bring Happiness Home",
-    "releaseDate": "14-01-2013",
-    "total_gross": 22.760000000000005,
-    "total_admissions": 5236472,
-    "total_showings": 242811
-  },
-  {
-    "movie_id": 592690,
-    "title": "Lemon",
-    "releaseDate": "18-04-2013",
-    "total_gross": 0.22999999999999995,
-    "total_admissions": 52008,
-    "total_showings": 11578
-  },
-  {
-    "movie_id": 596973,
-    "title": "So Young",
-    "releaseDate": "25-04-2013",
-    "total_gross": 106.47000000000006,
-    "total_admissions": 22463006,
-    "total_showings": 617355
-  },
-  {
-    "movie_id": 608944,
-    "title": "The Ideal City",
-    "releaseDate": "17-09-2013",
-    "total_gross": 1.01,
-    "total_admissions": 221173,
-    "total_showings": 39349
-  },
-  {
-    "movie_id": 614593,
-    "title": "Hotel Deluxe",
-    "releaseDate": "31-01-2013",
-    "total_gross": 8.629999999999999,
-    "total_admissions": 1807847,
-    "total_showings": 102288
-  },
-  {
-    "movie_id": 618126,
-    "title": "Lao Biao Yi Shi（Hua Gu Xi）",
-    "releaseDate": "16-12-2013",
-    "total_gross": 0.02,
-    "total_admissions": 5498,
-    "total_showings": 51
-  },
-  {
-    "movie_id": 614757,
-    "title": "The Incredible Truth",
-    "releaseDate": "27-04-2013",
-    "total_gross": 0.6200000000000001,
-    "total_admissions": 144395,
-    "total_showings": 26946
-  },
-  {
-    "movie_id": 615227,
-    "title": "Forever Love",
-    "releaseDate": "21-02-2013",
-    "total_gross": 0.060000000000000005,
-    "total_admissions": 13966,
-    "total_showings": 4891
-  },
-  {
-    "movie_id": 628890,
-    "title": "Yu Long Yong Shi",
-    "releaseDate": "11-04-2013",
-    "total_gross": 0.0,
-    "total_admissions": 209,
-    "total_showings": 4
-  },
-  {
-    "movie_id": 615766,
-    "title": "Olympus Has Fallen",
-    "releaseDate": "28-12-2013",
-    "total_gross": 5.969999999999998,
-    "total_admissions": 1233915,
-    "total_showings": 79325
-  },
-  {
-    "movie_id": 642026,
-    "title": "Hao Ren Gao Feng",
-    "releaseDate": "23-05-2013",
-    "total_gross": 0.74,
-    "total_admissions": 124907,
-    "total_showings": 794
+    "movie_id": 613829,
+    "title": "The Love Songs of Tiedan",
+    "releaseDate": "17-10-2013",
+    "total_gross": 0.07,
+    "total_admissions": 17159,
+    "total_showings": 4895
   },
   {
     "movie_id": 614538,
@@ -1240,36 +200,76 @@
     "total_showings": 4481
   },
   {
-    "movie_id": 596971,
-    "title": "The Cosplayers",
-    "releaseDate": "08-06-2013",
-    "total_gross": 0.09999999999999999,
-    "total_admissions": 24430,
-    "total_showings": 8609
+    "movie_id": 592927,
+    "title": "Colombiana",
+    "releaseDate": "06-06-2013",
+    "total_gross": 7.43,
+    "total_admissions": 1581330,
+    "total_showings": 122572
   },
   {
-    "movie_id": 589924,
-    "title": "Big Thief",
-    "releaseDate": "21-08-2013",
-    "total_gross": 0.07,
-    "total_admissions": 16243,
-    "total_showings": 4316
+    "movie_id": 615499,
+    "title": "The Croods",
+    "releaseDate": "19-04-2013",
+    "total_gross": 58.45999999999999,
+    "total_admissions": 10702367,
+    "total_showings": 375779
   },
   {
-    "movie_id": 60,
-    "title": "Farewell My Concubine",
-    "releaseDate": "01-04-2013",
-    "total_gross": 0.0,
-    "total_admissions": 1460,
-    "total_showings": 20
+    "movie_id": 618187,
+    "title": "72 Hours of Sword Robbing",
+    "releaseDate": "29-09-2013",
+    "total_gross": 0.10999999999999999,
+    "total_admissions": 26814,
+    "total_showings": 6316
   },
   {
-    "movie_id": 614304,
-    "title": "An Irasclble Angel",
-    "releaseDate": "21-11-2013",
-    "total_gross": 0.16000000000000003,
-    "total_admissions": 40434,
-    "total_showings": 18446
+    "movie_id": 612621,
+    "title": "The Palace",
+    "releaseDate": "12-08-2013",
+    "total_gross": 8.049999999999999,
+    "total_admissions": 1713345,
+    "total_showings": 106263
+  },
+  {
+    "movie_id": 617176,
+    "title": "Young Style",
+    "releaseDate": "01-08-2013",
+    "total_gross": 4.139999999999998,
+    "total_admissions": 973332,
+    "total_showings": 70196
+  },
+  {
+    "movie_id": 473370,
+    "title": "Le Petit Nicolas",
+    "releaseDate": "09-02-2013",
+    "total_gross": 0.28,
+    "total_admissions": 58298,
+    "total_showings": 3522
+  },
+  {
+    "movie_id": 618126,
+    "title": "Lao Biao Yi Shi（Hua Gu Xi）",
+    "releaseDate": "16-12-2013",
+    "total_gross": 0.02,
+    "total_admissions": 5498,
+    "total_showings": 51
+  },
+  {
+    "movie_id": 594093,
+    "title": "Lucky Dog",
+    "releaseDate": "27-04-2013",
+    "total_gross": 0.03,
+    "total_admissions": 9310,
+    "total_showings": 4076
+  },
+  {
+    "movie_id": 596887,
+    "title": "Hange Jincheng",
+    "releaseDate": "16-02-2013",
+    "total_gross": 0.7000000000000002,
+    "total_admissions": 184160,
+    "total_showings": 1540
   },
   {
     "movie_id": 594281,
@@ -1280,12 +280,1988 @@
     "total_showings": 342479
   },
   {
+    "movie_id": 596088,
+    "title": "The Adventures of Sinbad 2013",
+    "releaseDate": "30-05-2013",
+    "total_gross": 5.919999999999998,
+    "total_admissions": 1438901,
+    "total_showings": 77561
+  },
+  {
+    "movie_id": 617706,
+    "title": "4B Qing Nian zhi 4 Lou B Zuo",
+    "releaseDate": "09-09-2013",
+    "total_gross": 0.6599999999999999,
+    "total_admissions": 157451,
+    "total_showings": 32667
+  },
+  {
+    "movie_id": 615230,
+    "title": "Happy life of YangGuang",
+    "releaseDate": "25-02-2013",
+    "total_gross": 0.32000000000000006,
+    "total_admissions": 69999,
+    "total_showings": 12944
+  },
+  {
+    "movie_id": 602809,
+    "title": "Bullet to the Head",
+    "releaseDate": "08-07-2013",
+    "total_gross": 1.8800000000000006,
+    "total_admissions": 412226,
+    "total_showings": 53182
+  },
+  {
+    "movie_id": 612772,
+    "title": "Touch of the Light",
+    "releaseDate": "07-06-2013",
+    "total_gross": 1.2800000000000002,
+    "total_admissions": 275549,
+    "total_showings": 34404
+  },
+  {
+    "movie_id": 589797,
+    "title": "Journey to the West: Conquering the Demons",
+    "releaseDate": "09-02-2013",
+    "total_gross": 184.69999999999993,
+    "total_admissions": 31045192,
+    "total_showings": 763294
+  },
+  {
+    "movie_id": 573880,
+    "title": "The Grandmasters",
+    "releaseDate": "07-01-2013",
+    "total_gross": 42.83999999999999,
+    "total_admissions": 7981920,
+    "total_showings": 319233
+  },
+  {
+    "movie_id": 591779,
+    "title": "Young Detective Dee: Rise of the Sea Dragon",
+    "releaseDate": "27-09-2013",
+    "total_gross": 88.92999999999998,
+    "total_admissions": 15010687,
+    "total_showings": 503788
+  },
+  {
+    "movie_id": 596734,
+    "title": "Desperate Rescue",
+    "releaseDate": "11-01-2013",
+    "total_gross": 0.14,
+    "total_admissions": 32808,
+    "total_showings": 9671
+  },
+  {
+    "movie_id": 573137,
+    "title": "Fallen City",
+    "releaseDate": "09-05-2013",
+    "total_gross": 0.07,
+    "total_admissions": 21099,
+    "total_showings": 8187
+  },
+  {
+    "movie_id": 615845,
+    "title": "Space Panda",
+    "releaseDate": "27-12-2013",
+    "total_gross": 0.31000000000000005,
+    "total_admissions": 67048,
+    "total_showings": 9010
+  },
+  {
+    "movie_id": 589309,
+    "title": "Star Trek Into Darkness",
+    "releaseDate": "27-05-2013",
+    "total_gross": 52.269999999999996,
+    "total_admissions": 8618003,
+    "total_showings": 367657
+  },
+  {
+    "movie_id": 615788,
+    "title": "Neverland",
+    "releaseDate": "28-03-2013",
+    "total_gross": 0.31000000000000005,
+    "total_admissions": 58701,
+    "total_showings": 2531
+  },
+  {
+    "movie_id": 593283,
+    "title": "Switch",
+    "releaseDate": "08-06-2013",
+    "total_gross": 44.50999999999996,
+    "total_admissions": 7792618,
+    "total_showings": 326394
+  },
+  {
+    "movie_id": 617501,
+    "title": "Red 2",
+    "releaseDate": "14-11-2013",
+    "total_gross": 8.239999999999997,
+    "total_admissions": 1803601,
+    "total_showings": 142516
+  },
+  {
+    "movie_id": 618536,
+    "title": "Stalingrad",
+    "releaseDate": "30-10-2013",
+    "total_gross": 10.649999999999999,
+    "total_admissions": 1805799,
+    "total_showings": 139495
+  },
+  {
+    "movie_id": 609344,
+    "title": "Chasing is Hurting",
+    "releaseDate": "07-03-2013",
+    "total_gross": 0.01,
+    "total_admissions": 2919,
+    "total_showings": 654
+  },
+  {
+    "movie_id": 617126,
+    "title": "Nightmare",
+    "releaseDate": "15-08-2013",
+    "total_gross": 0.52,
+    "total_admissions": 121028,
+    "total_showings": 17475
+  },
+  {
+    "movie_id": 595857,
+    "title": "An End To Killing",
+    "releaseDate": "21-03-2013",
+    "total_gross": 0.6400000000000001,
+    "total_admissions": 148331,
+    "total_showings": 37810
+  },
+  {
+    "movie_id": 592544,
+    "title": "Say Yes",
+    "releaseDate": "11-02-2013",
+    "total_gross": 29.60000000000001,
+    "total_admissions": 5966172,
+    "total_showings": 236838
+  },
+  {
+    "movie_id": 604711,
+    "title": "Sur la piste du Marsupilami",
+    "releaseDate": "16-07-2013",
+    "total_gross": 0.9900000000000002,
+    "total_admissions": 227783,
+    "total_showings": 22479
+  },
+  {
+    "movie_id": 611580,
+    "title": "My Lucky Star",
+    "releaseDate": "16-09-2013",
+    "total_gross": 20.230000000000008,
+    "total_admissions": 4208741,
+    "total_showings": 244655
+  },
+  {
+    "movie_id": 610627,
+    "title": "Christmas Rose",
+    "releaseDate": "23-05-2013",
+    "total_gross": 3.439999999999998,
+    "total_admissions": 761181,
+    "total_showings": 80933
+  },
+  {
+    "movie_id": 614850,
+    "title": "Votage Extraordinaire",
+    "releaseDate": "28-11-2013",
+    "total_gross": 0.20000000000000007,
+    "total_admissions": 45357,
+    "total_showings": 10043
+  },
+  {
+    "movie_id": 590271,
+    "title": "My Wife is A Cat",
+    "releaseDate": "13-02-2013",
+    "total_gross": 0.22000000000000003,
+    "total_admissions": 49968,
+    "total_showings": 6713
+  },
+  {
+    "movie_id": 612718,
+    "title": "Striving in Beijing With Love",
+    "releaseDate": "28-10-2013",
+    "total_gross": 0.09,
+    "total_admissions": 20694,
+    "total_showings": 6260
+  },
+  {
+    "movie_id": 618380,
+    "title": "Baby Blues",
+    "releaseDate": "30-10-2013",
+    "total_gross": 2.6799999999999984,
+    "total_admissions": 489679,
+    "total_showings": 47392
+  },
+  {
+    "movie_id": 589883,
+    "title": "Cross",
+    "releaseDate": "02-10-2013",
+    "total_gross": 1.5600000000000003,
+    "total_admissions": 331794,
+    "total_showings": 49908
+  },
+  {
+    "movie_id": 595235,
+    "title": "Midnight Train",
+    "releaseDate": "07-03-2013",
+    "total_gross": 0.98,
+    "total_admissions": 225573,
+    "total_showings": 30633
+  },
+  {
+    "movie_id": 617573,
+    "title": "Turbo",
+    "releaseDate": "17-09-2013",
+    "total_gross": 16.759999999999998,
+    "total_admissions": 3154746,
+    "total_showings": 169829
+  },
+  {
+    "movie_id": 618166,
+    "title": "Zhan Zheng Kuang Ren",
+    "releaseDate": "23-08-2013",
+    "total_gross": 0.01,
+    "total_admissions": 4579,
+    "total_showings": 152
+  },
+  {
+    "movie_id": 615451,
+    "title": "Love Speaks",
+    "releaseDate": "07-11-2013",
+    "total_gross": 3.5099999999999985,
+    "total_admissions": 743134,
+    "total_showings": 97026
+  },
+  {
+    "movie_id": 602981,
+    "title": "Gravity",
+    "releaseDate": "18-11-2013",
+    "total_gross": 64.53000000000002,
+    "total_admissions": 10514200,
+    "total_showings": 465844
+  },
+  {
+    "movie_id": 615831,
+    "title": "Block Buster",
+    "releaseDate": "10-06-2013",
+    "total_gross": 0.51,
+    "total_admissions": 116406,
+    "total_showings": 25143
+  },
+  {
+    "movie_id": 616804,
+    "title": "Target Locked",
+    "releaseDate": "17-10-2013",
+    "total_gross": 0.02,
+    "total_admissions": 6523,
+    "total_showings": 4417
+  },
+  {
+    "movie_id": 608199,
+    "title": "Transcendence",
+    "releaseDate": "07-05-2013",
+    "total_gross": 0.02,
+    "total_admissions": 4449,
+    "total_showings": 89
+  },
+  {
+    "movie_id": 595213,
+    "title": "Falling Flowers",
+    "releaseDate": "07-03-2013",
+    "total_gross": 0.30000000000000004,
+    "total_admissions": 62231,
+    "total_showings": 5297
+  },
+  {
+    "movie_id": 610087,
+    "title": "The Love Flu",
+    "releaseDate": "28-02-2013",
+    "total_gross": 0.2,
+    "total_admissions": 41319,
+    "total_showings": 13862
+  },
+  {
+    "movie_id": 616714,
+    "title": "The Soccer Way",
+    "releaseDate": "09-06-2013",
+    "total_gross": 0.8400000000000001,
+    "total_admissions": 205862,
+    "total_showings": 20929
+  },
+  {
+    "movie_id": 595634,
+    "title": "The Empire Symbol",
+    "releaseDate": "17-09-2013",
+    "total_gross": 0.5,
+    "total_admissions": 112350,
+    "total_showings": 24244
+  },
+  {
+    "movie_id": 628890,
+    "title": "Yu Long Yong Shi",
+    "releaseDate": "11-04-2013",
+    "total_gross": 0.0,
+    "total_admissions": 209,
+    "total_showings": 4
+  },
+  {
+    "movie_id": 614857,
+    "title": "Hao Hao Wen Zi Guo Li Xian JI Zhi Zhi Dou Mi Yu Cheng",
+    "releaseDate": "06-01-2013",
+    "total_gross": 0.01,
+    "total_admissions": 7563,
+    "total_showings": 10
+  },
+  {
+    "movie_id": 610867,
+    "title": "American Dreams in China",
+    "releaseDate": "16-05-2013",
+    "total_gross": 79.80000000000003,
+    "total_admissions": 16721820,
+    "total_showings": 623673
+  },
+  {
+    "movie_id": 614304,
+    "title": "An Irasclble Angel",
+    "releaseDate": "21-11-2013",
+    "total_gross": 0.16000000000000003,
+    "total_admissions": 40434,
+    "total_showings": 18446
+  },
+  {
+    "movie_id": 592690,
+    "title": "Lemon",
+    "releaseDate": "18-04-2013",
+    "total_gross": 0.22999999999999995,
+    "total_admissions": 52008,
+    "total_showings": 11578
+  },
+  {
+    "movie_id": 590372,
+    "title": "Jungle Master",
+    "releaseDate": "18-01-2013",
+    "total_gross": 1.2500000000000002,
+    "total_admissions": 273920,
+    "total_showings": 31184
+  },
+  {
+    "movie_id": 617189,
+    "title": "Carpooling Shock",
+    "releaseDate": "07-11-2013",
+    "total_gross": 0.29,
+    "total_admissions": 64602,
+    "total_showings": 13754
+  },
+  {
+    "movie_id": 612120,
+    "title": "The White Storm",
+    "releaseDate": "28-11-2013",
+    "total_gross": 35.220000000000006,
+    "total_admissions": 7450276,
+    "total_showings": 344132
+  },
+  {
+    "movie_id": 612262,
+    "title": "Shao Nian Lin Xiang Qian",
+    "releaseDate": "22-04-2013",
+    "total_gross": 0.0,
+    "total_admissions": 5063,
+    "total_showings": 12
+  },
+  {
+    "movie_id": 616573,
+    "title": "Wo Yao Hui Cheng",
+    "releaseDate": "30-12-2013",
+    "total_gross": 0.0,
+    "total_admissions": 173,
+    "total_showings": 2
+  },
+  {
+    "movie_id": 614305,
+    "title": "Tiny Times",
+    "releaseDate": "26-06-2013",
+    "total_gross": 71.72000000000003,
+    "total_admissions": 15211451,
+    "total_showings": 475051
+  },
+  {
+    "movie_id": 613518,
+    "title": "Fall of Ming",
+    "releaseDate": "24-10-2013",
+    "total_gross": 0.6100000000000001,
+    "total_admissions": 135582,
+    "total_showings": 22017
+  },
+  {
+    "movie_id": 615840,
+    "title": "Lost",
+    "releaseDate": "27-12-2013",
+    "total_gross": 0.5200000000000001,
+    "total_admissions": 116629,
+    "total_showings": 20262
+  },
+  {
+    "movie_id": 612702,
+    "title": "The Supernatural Events on Campus",
+    "releaseDate": "11-07-2013",
+    "total_gross": 1.1800000000000004,
+    "total_admissions": 284679,
+    "total_showings": 32889
+  },
+  {
     "movie_id": 641201,
     "title": "Wei Ying Ye",
     "releaseDate": "19-04-2013",
     "total_gross": 0.0,
     "total_admissions": 1521,
     "total_showings": 538
+  },
+  {
+    "movie_id": 658914,
+    "title": "Shanghai international film festival",
+    "releaseDate": "15-06-2013",
+    "total_gross": 3.879999999999998,
+    "total_admissions": 440176,
+    "total_showings": 1806
+  },
+  {
+    "movie_id": 606699,
+    "title": "Un Plan Parfait",
+    "releaseDate": "24-10-2013",
+    "total_gross": 4.759999999999998,
+    "total_admissions": 1061400,
+    "total_showings": 90488
+  },
+  {
+    "movie_id": 612736,
+    "title": "The Wrath of Vajra",
+    "releaseDate": "23-09-2013",
+    "total_gross": 1.8600000000000003,
+    "total_admissions": 401726,
+    "total_showings": 54597
+  },
+  {
+    "movie_id": 605809,
+    "title": "Django Unchained",
+    "releaseDate": "11-05-2013",
+    "total_gross": 2.639999999999996,
+    "total_admissions": 513128,
+    "total_showings": 48512
+  },
+  {
+    "movie_id": 612689,
+    "title": "Memories Look At Me",
+    "releaseDate": "04-05-2013",
+    "total_gross": 0.0,
+    "total_admissions": 175,
+    "total_showings": 1
+  },
+  {
+    "movie_id": 614860,
+    "title": "Shui Hold Zhu Shui",
+    "releaseDate": "09-02-2013",
+    "total_gross": 0.0,
+    "total_admissions": 6344,
+    "total_showings": 274
+  },
+  {
+    "movie_id": 658962,
+    "title": "faguodianyingzhanying",
+    "releaseDate": "02-06-2013",
+    "total_gross": 0.0,
+    "total_admissions": 2744,
+    "total_showings": 20
+  },
+  {
+    "movie_id": 609005,
+    "title": "Control",
+    "releaseDate": "21-11-2013",
+    "total_gross": 6.439999999999999,
+    "total_admissions": 1404083,
+    "total_showings": 130388
+  },
+  {
+    "movie_id": 617191,
+    "title": "Jobs",
+    "releaseDate": "26-09-2013",
+    "total_gross": 1.8400000000000005,
+    "total_admissions": 352448,
+    "total_showings": 35020
+  },
+  {
+    "movie_id": 615202,
+    "title": "The Action Zero",
+    "releaseDate": "18-04-2013",
+    "total_gross": 0.3400000000000001,
+    "total_admissions": 79114,
+    "total_showings": 19274
+  },
+  {
+    "movie_id": 616712,
+    "title": "Rhythm of the rain",
+    "releaseDate": "12-12-2013",
+    "total_gross": 0.25,
+    "total_admissions": 54937,
+    "total_showings": 23720
+  },
+  {
+    "movie_id": 596097,
+    "title": "Train Heroes",
+    "releaseDate": "15-08-2013",
+    "total_gross": 0.17000000000000004,
+    "total_admissions": 40519,
+    "total_showings": 7076
+  },
+  {
+    "movie_id": 615855,
+    "title": "Dead Sign",
+    "releaseDate": "05-09-2013",
+    "total_gross": 1.5700000000000005,
+    "total_admissions": 363751,
+    "total_showings": 46517
+  },
+  {
+    "movie_id": 612221,
+    "title": "Cha Cha for Twins",
+    "releaseDate": "09-01-2013",
+    "total_gross": 0.060000000000000005,
+    "total_admissions": 12898,
+    "total_showings": 5771
+  },
+  {
+    "movie_id": 612696,
+    "title": "My Beautiful Kingdom",
+    "releaseDate": "12-12-2013",
+    "total_gross": 0.08999999999999998,
+    "total_admissions": 18166,
+    "total_showings": 8473
+  },
+  {
+    "movie_id": 595606,
+    "title": "Drug War",
+    "releaseDate": "01-04-2013",
+    "total_gross": 21.740000000000006,
+    "total_admissions": 4580675,
+    "total_showings": 223461
+  },
+  {
+    "movie_id": 596800,
+    "title": "Finding Mr.Right",
+    "releaseDate": "20-03-2013",
+    "total_gross": 77.02000000000007,
+    "total_admissions": 16477173,
+    "total_showings": 529753
+  },
+  {
+    "movie_id": 596973,
+    "title": "So Young",
+    "releaseDate": "25-04-2013",
+    "total_gross": 106.47000000000006,
+    "total_admissions": 22463006,
+    "total_showings": 617355
+  },
+  {
+    "movie_id": 613462,
+    "title": "The Midas Touch",
+    "releaseDate": "05-09-2013",
+    "total_gross": 4.249999999999997,
+    "total_admissions": 936166,
+    "total_showings": 83778
+  },
+  {
+    "movie_id": 618407,
+    "title": "Escape Plan",
+    "releaseDate": "03-11-2013",
+    "total_gross": 37.61,
+    "total_admissions": 8128877,
+    "total_showings": 366865
+  },
+  {
+    "movie_id": 608197,
+    "title": "Blind Detective",
+    "releaseDate": "03-07-2013",
+    "total_gross": 31.550000000000015,
+    "total_admissions": 6621350,
+    "total_showings": 251576
+  },
+  {
+    "movie_id": 589924,
+    "title": "Big Thief",
+    "releaseDate": "21-08-2013",
+    "total_gross": 0.07,
+    "total_admissions": 16243,
+    "total_showings": 4316
+  },
+  {
+    "movie_id": 610050,
+    "title": "Run Away，Woman",
+    "releaseDate": "07-03-2013",
+    "total_gross": 0.27,
+    "total_admissions": 63193,
+    "total_showings": 11900
+  },
+  {
+    "movie_id": 614154,
+    "title": "Balala the Fairies",
+    "releaseDate": "30-01-2013",
+    "total_gross": 7.670000000000001,
+    "total_admissions": 1730743,
+    "total_showings": 102291
+  },
+  {
+    "movie_id": 612278,
+    "title": "Mysterious Face",
+    "releaseDate": "13-06-2013",
+    "total_gross": 3.4999999999999982,
+    "total_admissions": 812834,
+    "total_showings": 88137
+  },
+  {
+    "movie_id": 596765,
+    "title": "Angry Kid",
+    "releaseDate": "28-01-2013",
+    "total_gross": 1.2000000000000002,
+    "total_admissions": 290072,
+    "total_showings": 26543
+  },
+  {
+    "movie_id": 616744,
+    "title": "Now You See Me",
+    "releaseDate": "09-10-2013",
+    "total_gross": 21.180000000000007,
+    "total_admissions": 4521246,
+    "total_showings": 254908
+  },
+  {
+    "movie_id": 588923,
+    "title": "The Flying Machine 3D",
+    "releaseDate": "01-02-2013",
+    "total_gross": 0.09999999999999999,
+    "total_admissions": 18589,
+    "total_showings": 6371
+  },
+  {
+    "movie_id": 596789,
+    "title": "Avalokitesvara",
+    "releaseDate": "25-07-2013",
+    "total_gross": 0.24000000000000002,
+    "total_admissions": 57565,
+    "total_showings": 6692
+  },
+  {
+    "movie_id": 614536,
+    "title": "Better And Better",
+    "releaseDate": "09-02-2013",
+    "total_gross": 4.419999999999998,
+    "total_admissions": 922738,
+    "total_showings": 66311
+  },
+  {
+    "movie_id": 616718,
+    "title": "Black Mirror",
+    "releaseDate": "10-11-2013",
+    "total_gross": 0.37000000000000005,
+    "total_admissions": 84791,
+    "total_showings": 19133
+  },
+  {
+    "movie_id": 614864,
+    "title": "Jack Reacher",
+    "releaseDate": "15-02-2013",
+    "total_gross": 14.369999999999996,
+    "total_admissions": 3038970,
+    "total_showings": 143512
+  },
+  {
+    "movie_id": 615519,
+    "title": "A Cherry on a Pomegranate Tree",
+    "releaseDate": "03-04-2013",
+    "total_gross": 0.02,
+    "total_admissions": 15995,
+    "total_showings": 528
+  },
+  {
+    "movie_id": 616713,
+    "title": "After Earth",
+    "releaseDate": "11-07-2013",
+    "total_gross": 31.770000000000014,
+    "total_admissions": 6541920,
+    "total_showings": 260535
+  },
+  {
+    "movie_id": 614593,
+    "title": "Hotel Deluxe",
+    "releaseDate": "31-01-2013",
+    "total_gross": 8.629999999999999,
+    "total_admissions": 1807847,
+    "total_showings": 102288
+  },
+  {
+    "movie_id": 611817,
+    "title": "Born To Love You",
+    "releaseDate": "10-01-2013",
+    "total_gross": 0.6800000000000002,
+    "total_admissions": 154857,
+    "total_showings": 27699
+  },
+  {
+    "movie_id": 595696,
+    "title": "Time to Show",
+    "releaseDate": "13-06-2013",
+    "total_gross": 0.05,
+    "total_admissions": 13159,
+    "total_showings": 1019
+  },
+  {
+    "movie_id": 610928,
+    "title": "Personal Tailor",
+    "releaseDate": "18-12-2013",
+    "total_gross": 105.70000000000003,
+    "total_admissions": 20068347,
+    "total_showings": 666216
+  },
+  {
+    "movie_id": 615513,
+    "title": "The Wild Strawberries",
+    "releaseDate": "28-11-2013",
+    "total_gross": 0.01,
+    "total_admissions": 3541,
+    "total_showings": 2109
+  },
+  {
+    "movie_id": 592255,
+    "title": "Mr.GO",
+    "releaseDate": "17-07-2013",
+    "total_gross": 16.690000000000005,
+    "total_admissions": 3062583,
+    "total_showings": 159250
+  },
+  {
+    "movie_id": 341723,
+    "title": "The Hobbit: An Unexpected Journey",
+    "releaseDate": "21-02-2013",
+    "total_gross": 46.769999999999996,
+    "total_admissions": 7140880,
+    "total_showings": 261043
+  },
+  {
+    "movie_id": 559047,
+    "title": "Spring Comes and Wenter Goes",
+    "releaseDate": "24-10-2013",
+    "total_gross": 0.02,
+    "total_admissions": 10716,
+    "total_showings": 36
+  },
+  {
+    "movie_id": 613553,
+    "title": "The Fox Lover",
+    "releaseDate": "27-09-2013",
+    "total_gross": 4.639999999999999,
+    "total_admissions": 841589,
+    "total_showings": 64590
+  },
+  {
+    "movie_id": 618277,
+    "title": "Love Transplantation",
+    "releaseDate": "28-11-2013",
+    "total_gross": 0.08,
+    "total_admissions": 24889,
+    "total_showings": 14382
+  },
+  {
+    "movie_id": 472148,
+    "title": "Iep!",
+    "releaseDate": "10-06-2013",
+    "total_gross": 0.01,
+    "total_admissions": 5214,
+    "total_showings": 374
+  },
+  {
+    "movie_id": 615152,
+    "title": "The Story of Zhou Enlai",
+    "releaseDate": "15-07-2013",
+    "total_gross": 8.639999999999981,
+    "total_admissions": 1850919,
+    "total_showings": 23706
+  },
+  {
+    "movie_id": 618328,
+    "title": "Forever Love",
+    "releaseDate": "31-12-2013",
+    "total_gross": 0.05,
+    "total_admissions": 15128,
+    "total_showings": 5735
+  },
+  {
+    "movie_id": 612957,
+    "title": "A Moment Of Love",
+    "releaseDate": "22-08-2013",
+    "total_gross": 1.62,
+    "total_admissions": 359538,
+    "total_showings": 38060
+  },
+  {
+    "movie_id": 566117,
+    "title": "Dredd",
+    "releaseDate": "28-02-2013",
+    "total_gross": 4.4399999999999995,
+    "total_admissions": 821992,
+    "total_showings": 84932
+  },
+  {
+    "movie_id": 618625,
+    "title": "Legendary: Tomb of the Dragon",
+    "releaseDate": "30-12-2013",
+    "total_gross": 5.1599999999999975,
+    "total_admissions": 982605,
+    "total_showings": 75508
+  },
+  {
+    "movie_id": 608944,
+    "title": "The Ideal City",
+    "releaseDate": "17-09-2013",
+    "total_gross": 1.01,
+    "total_admissions": 221173,
+    "total_showings": 39349
+  },
+  {
+    "movie_id": 610888,
+    "title": "Silent Code",
+    "releaseDate": "13-03-2013",
+    "total_gross": 0.40000000000000013,
+    "total_admissions": 93645,
+    "total_showings": 24433
+  },
+  {
+    "movie_id": 597203,
+    "title": "Mark Of Youth",
+    "releaseDate": "04-02-2013",
+    "total_gross": 0.44000000000000017,
+    "total_admissions": 111912,
+    "total_showings": 13710
+  },
+  {
+    "movie_id": 593849,
+    "title": "Monsters University",
+    "releaseDate": "22-08-2013",
+    "total_gross": 31.060000000000002,
+    "total_admissions": 5682391,
+    "total_showings": 262109
+  },
+  {
+    "movie_id": 617719,
+    "title": "Elysium",
+    "releaseDate": "04-09-2013",
+    "total_gross": 23.63999999999999,
+    "total_admissions": 4698121,
+    "total_showings": 281308
+  },
+  {
+    "movie_id": 614979,
+    "title": "The Impossible",
+    "releaseDate": "28-08-2013",
+    "total_gross": 8.159999999999998,
+    "total_admissions": 1783839,
+    "total_showings": 117950
+  },
+  {
+    "movie_id": 617278,
+    "title": "Saving Mother Robot",
+    "releaseDate": "08-08-2013",
+    "total_gross": 0.16,
+    "total_admissions": 35184,
+    "total_showings": 11006
+  },
+  {
+    "movie_id": 616113,
+    "title": "Fake Fiction",
+    "releaseDate": "22-08-2013",
+    "total_gross": 10.14,
+    "total_admissions": 2309548,
+    "total_showings": 152068
+  },
+  {
+    "movie_id": 590109,
+    "title": "Unidentified",
+    "releaseDate": "22-08-2013",
+    "total_gross": 0.02,
+    "total_admissions": 6037,
+    "total_showings": 3158
+  },
+  {
+    "movie_id": 596419,
+    "title": "Little Tigers",
+    "releaseDate": "24-01-2013",
+    "total_gross": 0.22000000000000006,
+    "total_admissions": 51713,
+    "total_showings": 7554
+  },
+  {
+    "movie_id": 604366,
+    "title": "Welcome to the Punch",
+    "releaseDate": "05-12-2013",
+    "total_gross": 0.8400000000000003,
+    "total_admissions": 186405,
+    "total_showings": 55401
+  },
+  {
+    "movie_id": 617181,
+    "title": "LeLe Xiong Qi Huan Zhui Zong",
+    "releaseDate": "28-06-2013",
+    "total_gross": 0.0,
+    "total_admissions": 449,
+    "total_showings": 61
+  },
+  {
+    "movie_id": 626510,
+    "title": "Today Tomorrow",
+    "releaseDate": "05-07-2013",
+    "total_gross": 0.01,
+    "total_admissions": 2834,
+    "total_showings": 12
+  },
+  {
+    "movie_id": 613384,
+    "title": "Police Story 2013",
+    "releaseDate": "23-12-2013",
+    "total_gross": 79.15,
+    "total_admissions": 13497756,
+    "total_showings": 542378
+  },
+  {
+    "movie_id": 613440,
+    "title": "Lei Feng Zai 1959",
+    "releaseDate": "04-03-2013",
+    "total_gross": 0.03,
+    "total_admissions": 11271,
+    "total_showings": 159
+  },
+  {
+    "movie_id": 616435,
+    "title": "Indomitable Soldiers",
+    "releaseDate": "10-05-2013",
+    "total_gross": 0.06,
+    "total_admissions": 7265,
+    "total_showings": 613
+  },
+  {
+    "movie_id": 614568,
+    "title": "Unbeatable",
+    "releaseDate": "15-08-2013",
+    "total_gross": 17.440000000000015,
+    "total_admissions": 3734120,
+    "total_showings": 168142
+  },
+  {
+    "movie_id": 615792,
+    "title": "Mr. & Mrs. Gambler",
+    "releaseDate": "27-04-2013",
+    "total_gross": 0.31000000000000005,
+    "total_admissions": 76848,
+    "total_showings": 19311
+  },
+  {
+    "movie_id": 615668,
+    "title": "Fast & Furious 6",
+    "releaseDate": "25-07-2013",
+    "total_gross": 61.25000000000001,
+    "total_admissions": 12416774,
+    "total_showings": 377543
+  },
+  {
+    "movie_id": 593943,
+    "title": "Beyond the Bounds",
+    "releaseDate": "15-01-2013",
+    "total_gross": 0.05,
+    "total_admissions": 8721,
+    "total_showings": 4750
+  },
+  {
+    "movie_id": 614757,
+    "title": "The Incredible Truth",
+    "releaseDate": "27-04-2013",
+    "total_gross": 0.6200000000000001,
+    "total_admissions": 144395,
+    "total_showings": 26946
+  },
+  {
+    "movie_id": 602828,
+    "title": "The Great Gatsby",
+    "releaseDate": "29-08-2013",
+    "total_gross": 12.57,
+    "total_admissions": 2092839,
+    "total_showings": 112054
+  },
+  {
+    "movie_id": 592909,
+    "title": "Thrilling Eve",
+    "releaseDate": "08-06-2013",
+    "total_gross": 0.4500000000000001,
+    "total_admissions": 114321,
+    "total_showings": 22016
+  },
+  {
+    "movie_id": 595639,
+    "title": "The Chrysalis",
+    "releaseDate": "31-01-2013",
+    "total_gross": 1.7699999999999998,
+    "total_admissions": 391090,
+    "total_showings": 37302
+  },
+  {
+    "movie_id": 608213,
+    "title": "Ip Man: Final Fight",
+    "releaseDate": "21-03-2013",
+    "total_gross": 1.6500000000000004,
+    "total_admissions": 371080,
+    "total_showings": 64273
+  },
+  {
+    "movie_id": 597113,
+    "title": "Xiao Deng",
+    "releaseDate": "26-05-2013",
+    "total_gross": 0.0,
+    "total_admissions": 458,
+    "total_showings": 14
+  },
+  {
+    "movie_id": 593851,
+    "title": "Affection to TaoRanTing",
+    "releaseDate": "28-12-2013",
+    "total_gross": 0.06,
+    "total_admissions": 6717,
+    "total_showings": 55
+  },
+  {
+    "movie_id": 608234,
+    "title": "Xi Bai Po 2:Wang Er Xiao",
+    "releaseDate": "27-04-2013",
+    "total_gross": 0.13999999999999999,
+    "total_admissions": 106917,
+    "total_showings": 500
+  },
+  {
+    "movie_id": 617484,
+    "title": "Farm House 81",
+    "releaseDate": "27-09-2013",
+    "total_gross": 3.5899999999999985,
+    "total_admissions": 860442,
+    "total_showings": 76124
+  },
+  {
+    "movie_id": 555111,
+    "title": "Les Miserables",
+    "releaseDate": "27-02-2013",
+    "total_gross": 9.35,
+    "total_admissions": 1772206,
+    "total_showings": 81460
+  },
+  {
+    "movie_id": 596971,
+    "title": "The Cosplayers",
+    "releaseDate": "08-06-2013",
+    "total_gross": 0.09999999999999999,
+    "total_admissions": 24430,
+    "total_showings": 8609
+  },
+  {
+    "movie_id": 612577,
+    "title": "Ba Ba Ma Ma Fu Hun Ji",
+    "releaseDate": "17-09-2013",
+    "total_gross": 0.7500000000000001,
+    "total_admissions": 124972,
+    "total_showings": 759
+  },
+  {
+    "movie_id": 612734,
+    "title": "Shadow of Charming",
+    "releaseDate": "25-07-2013",
+    "total_gross": 0.4700000000000001,
+    "total_admissions": 114430,
+    "total_showings": 23819
+  },
+  {
+    "movie_id": 617173,
+    "title": "Adventure at Flaming Mountains",
+    "releaseDate": "18-07-2013",
+    "total_gross": 0.8400000000000001,
+    "total_admissions": 207000,
+    "total_showings": 26639
+  },
+  {
+    "movie_id": 614325,
+    "title": "Jin Tai Lang De Xing Fu Sheng Huo",
+    "releaseDate": "11-04-2013",
+    "total_gross": 0.8300000000000002,
+    "total_admissions": 181791,
+    "total_showings": 37926
+  },
+  {
+    "movie_id": 617277,
+    "title": "Time-travel Love",
+    "releaseDate": "05-09-2013",
+    "total_gross": 0.62,
+    "total_admissions": 134997,
+    "total_showings": 27547
+  },
+  {
+    "movie_id": 610831,
+    "title": "Ren Sheng Bu Neng Chong Lai",
+    "releaseDate": "27-08-2013",
+    "total_gross": 0.0,
+    "total_admissions": 7193,
+    "total_showings": 94
+  },
+  {
+    "movie_id": 611718,
+    "title": "Love Story",
+    "releaseDate": "01-08-2013",
+    "total_gross": 0.29000000000000004,
+    "total_admissions": 69205,
+    "total_showings": 13470
+  },
+  {
+    "movie_id": 612880,
+    "title": "Sammy's Adventures 2",
+    "releaseDate": "27-06-2013",
+    "total_gross": 1.8400000000000003,
+    "total_admissions": 364449,
+    "total_showings": 34902
+  },
+  {
+    "movie_id": 617257,
+    "title": "Kunta",
+    "releaseDate": "01-08-2013",
+    "total_gross": 2.5999999999999983,
+    "total_admissions": 560752,
+    "total_showings": 52145
+  },
+  {
+    "movie_id": 608215,
+    "title": "Princess and Seven Kung Fu Masters",
+    "releaseDate": "07-03-2013",
+    "total_gross": 10.379999999999994,
+    "total_admissions": 2356558,
+    "total_showings": 164133
+  },
+  {
+    "movie_id": 596648,
+    "title": "Midnight Microblog",
+    "releaseDate": "28-02-2013",
+    "total_gross": 0.78,
+    "total_admissions": 175206,
+    "total_showings": 26980
+  },
+  {
+    "movie_id": 596592,
+    "title": "Pink Lady：Lover Run",
+    "releaseDate": "22-08-2013",
+    "total_gross": 0.5800000000000001,
+    "total_admissions": 120355,
+    "total_showings": 20347
+  },
+  {
+    "movie_id": 593120,
+    "title": "When A Wolf Falls In Love With A Sheep",
+    "releaseDate": "27-04-2013",
+    "total_gross": 0.06999999999999999,
+    "total_admissions": 26941,
+    "total_showings": 9602
+  },
+  {
+    "movie_id": 616186,
+    "title": "Happy Heroes",
+    "releaseDate": "27-06-2013",
+    "total_gross": 5.219999999999998,
+    "total_admissions": 1229956,
+    "total_showings": 69312
+  },
+  {
+    "movie_id": 609600,
+    "title": "Return The Money",
+    "releaseDate": "12-12-2013",
+    "total_gross": 0.37000000000000005,
+    "total_admissions": 62303,
+    "total_showings": 22617
+  },
+  {
+    "movie_id": 589509,
+    "title": "Amazing",
+    "releaseDate": "29-09-2013",
+    "total_gross": 6.759999999999992,
+    "total_admissions": 982606,
+    "total_showings": 64812
+  },
+  {
+    "movie_id": 616427,
+    "title": "The Stolen Years",
+    "releaseDate": "28-08-2013",
+    "total_gross": 22.009999999999998,
+    "total_admissions": 4719651,
+    "total_showings": 259642
+  },
+  {
+    "movie_id": 617710,
+    "title": "Bump In The Road",
+    "releaseDate": "28-09-2013",
+    "total_gross": 2.099999999999999,
+    "total_admissions": 491501,
+    "total_showings": 57281
+  },
+  {
+    "movie_id": 610355,
+    "title": "Love Retake",
+    "releaseDate": "09-02-2013",
+    "total_gross": 1.06,
+    "total_admissions": 209889,
+    "total_showings": 23097
+  },
+  {
+    "movie_id": 616532,
+    "title": "Avgust. Vosmogo",
+    "releaseDate": "12-09-2013",
+    "total_gross": 2.529999999999999,
+    "total_admissions": 561868,
+    "total_showings": 68396
+  },
+  {
+    "movie_id": 615497,
+    "title": "Scandals",
+    "releaseDate": "13-03-2013",
+    "total_gross": 0.10999999999999999,
+    "total_admissions": 24354,
+    "total_showings": 8357
+  },
+  {
+    "movie_id": 614213,
+    "title": "Bu Bu Zhui Hun",
+    "releaseDate": "14-11-2013",
+    "total_gross": 0.7200000000000002,
+    "total_admissions": 129274,
+    "total_showings": 19954
+  },
+  {
+    "movie_id": 617159,
+    "title": "Day of Redemption",
+    "releaseDate": "18-07-2013",
+    "total_gross": 0.3500000000000001,
+    "total_admissions": 75178,
+    "total_showings": 13120
+  },
+  {
+    "movie_id": 615471,
+    "title": "Up in the Wind",
+    "releaseDate": "30-12-2013",
+    "total_gross": 11.809999999999993,
+    "total_admissions": 2570840,
+    "total_showings": 163954
+  },
+  {
+    "movie_id": 614862,
+    "title": "The Smurfs 2",
+    "releaseDate": "11-09-2013",
+    "total_gross": 20.440000000000012,
+    "total_admissions": 3807382,
+    "total_showings": 215835
+  },
+  {
+    "movie_id": 612627,
+    "title": "Bring Happiness Home",
+    "releaseDate": "14-01-2013",
+    "total_gross": 22.760000000000005,
+    "total_admissions": 5236472,
+    "total_showings": 242811
+  },
+  {
+    "movie_id": 613096,
+    "title": "The Game of Hide and Seek",
+    "releaseDate": "10-10-2013",
+    "total_gross": 0.53,
+    "total_admissions": 123278,
+    "total_showings": 29826
+  },
+  {
+    "movie_id": 613150,
+    "title": "Niu Lao Han De Xing Fu Sheng Huo",
+    "releaseDate": "20-04-2013",
+    "total_gross": 0.7399999999999999,
+    "total_admissions": 124448,
+    "total_showings": 820
+  },
+  {
+    "movie_id": 610030,
+    "title": "Zui Ai Ni De Ren Shi Wo",
+    "releaseDate": "25-02-2013",
+    "total_gross": 0.0,
+    "total_admissions": 782,
+    "total_showings": 11
+  },
+  {
+    "movie_id": 610088,
+    "title": "Skyfall",
+    "releaseDate": "20-01-2013",
+    "total_gross": 55.72000000000001,
+    "total_admissions": 10813147,
+    "total_showings": 367654
+  },
+  {
+    "movie_id": 592078,
+    "title": "The Wolverine",
+    "releaseDate": "16-10-2013",
+    "total_gross": 36.96999999999998,
+    "total_admissions": 6663541,
+    "total_showings": 363372
+  },
+  {
+    "movie_id": 610046,
+    "title": "KungFu Fighter",
+    "releaseDate": "14-11-2013",
+    "total_gross": 0.18000000000000002,
+    "total_admissions": 36517,
+    "total_showings": 10668
+  },
+  {
+    "movie_id": 615767,
+    "title": "The Deadly Strands",
+    "releaseDate": "04-07-2013",
+    "total_gross": 1.09,
+    "total_admissions": 245905,
+    "total_showings": 30481
+  },
+  {
+    "movie_id": 615204,
+    "title": "The Last Stand",
+    "releaseDate": "23-10-2013",
+    "total_gross": 7.190000000000001,
+    "total_admissions": 1591465,
+    "total_showings": 136709
+  },
+  {
+    "movie_id": 614829,
+    "title": "Pay Back",
+    "releaseDate": "31-10-2013",
+    "total_gross": 0.8500000000000001,
+    "total_admissions": 190990,
+    "total_showings": 33564
+  },
+  {
+    "movie_id": 596069,
+    "title": "Kuiba 2",
+    "releaseDate": "30-05-2013",
+    "total_gross": 3.739999999999998,
+    "total_admissions": 738144,
+    "total_showings": 54938
+  },
+  {
+    "movie_id": 594393,
+    "title": "7 Assassins",
+    "releaseDate": "08-06-2013",
+    "total_gross": 0.52,
+    "total_admissions": 121155,
+    "total_showings": 30320
+  },
+  {
+    "movie_id": 348955,
+    "title": "Jurassic Park 3D",
+    "releaseDate": "19-08-2013",
+    "total_gross": 51.71999999999997,
+    "total_admissions": 9213781,
+    "total_showings": 353703
+  },
+  {
+    "movie_id": 596429,
+    "title": "Ripples of Desire",
+    "releaseDate": "05-09-2013",
+    "total_gross": 0.32000000000000006,
+    "total_admissions": 69940,
+    "total_showings": 21517
+  },
+  {
+    "movie_id": 615496,
+    "title": "The Sweet Smile",
+    "releaseDate": "04-03-2013",
+    "total_gross": 0.01,
+    "total_admissions": 11517,
+    "total_showings": 412
+  },
+  {
+    "movie_id": 617127,
+    "title": "Fantastic Adventure",
+    "releaseDate": "19-07-2013",
+    "total_gross": 0.6400000000000001,
+    "total_admissions": 134747,
+    "total_showings": 17619
+  },
+  {
+    "movie_id": 612121,
+    "title": "Out of Inferno",
+    "releaseDate": "29-09-2013",
+    "total_gross": 19.650000000000002,
+    "total_admissions": 3631852,
+    "total_showings": 198010
+  },
+  {
+    "movie_id": 596965,
+    "title": "Cold Pupil",
+    "releaseDate": "30-10-2013",
+    "total_gross": 0.42000000000000004,
+    "total_admissions": 95632,
+    "total_showings": 16548
+  },
+  {
+    "movie_id": 604129,
+    "title": "Stolen",
+    "releaseDate": "28-02-2013",
+    "total_gross": 6.549999999999996,
+    "total_admissions": 1427302,
+    "total_showings": 110775
+  },
+  {
+    "movie_id": 617712,
+    "title": "I am Director",
+    "releaseDate": "29-08-2013",
+    "total_gross": 0.7300000000000002,
+    "total_admissions": 166710,
+    "total_showings": 27747
+  },
+  {
+    "movie_id": 616626,
+    "title": "The Charge",
+    "releaseDate": "23-05-2013",
+    "total_gross": 0.09999999999999999,
+    "total_admissions": 22019,
+    "total_showings": 1658
+  },
+  {
+    "movie_id": 573102,
+    "title": "Da Nao Wu Zi Cheng",
+    "releaseDate": "23-12-2013",
+    "total_gross": 0.01,
+    "total_admissions": 16813,
+    "total_showings": 65
+  },
+  {
+    "movie_id": 612087,
+    "title": "Love In Time",
+    "releaseDate": "10-01-2013",
+    "total_gross": 1.0300000000000002,
+    "total_admissions": 252736,
+    "total_showings": 28259
+  },
+  {
+    "movie_id": 615994,
+    "title": "Mao Ze Dong Yu Qi Bai Shi",
+    "releaseDate": "28-06-2013",
+    "total_gross": 0.3300000000000001,
+    "total_admissions": 64232,
+    "total_showings": 961
+  },
+  {
+    "movie_id": 658916,
+    "title": "2013deguodianyingzhan",
+    "releaseDate": "16-10-2013",
+    "total_gross": 0.0,
+    "total_admissions": 6707,
+    "total_showings": 61
+  },
+  {
+    "movie_id": 617497,
+    "title": "Chinese Look",
+    "releaseDate": "23-07-2013",
+    "total_gross": 0.0,
+    "total_admissions": 1239,
+    "total_showings": 69
+  },
+  {
+    "movie_id": 615227,
+    "title": "Forever Love",
+    "releaseDate": "21-02-2013",
+    "total_gross": 0.060000000000000005,
+    "total_admissions": 13966,
+    "total_showings": 4891
+  },
+  {
+    "movie_id": 614660,
+    "title": "Happy Little Submarine 3：Rainbow Treasure",
+    "releaseDate": "30-05-2013",
+    "total_gross": 8.37,
+    "total_admissions": 1717200,
+    "total_showings": 88667
+  },
+  {
+    "movie_id": 608149,
+    "title": "Special ID",
+    "releaseDate": "17-10-2013",
+    "total_gross": 22.959999999999994,
+    "total_admissions": 4914765,
+    "total_showings": 311112
+  },
+  {
+    "movie_id": 612885,
+    "title": "The Rooftop",
+    "releaseDate": "10-07-2013",
+    "total_gross": 17.750000000000004,
+    "total_admissions": 3716798,
+    "total_showings": 191780
+  },
+  {
+    "movie_id": 606641,
+    "title": "The Reef 2: High Tide",
+    "releaseDate": "27-12-2013",
+    "total_gross": 3.889999999999999,
+    "total_admissions": 794474,
+    "total_showings": 52560
+  },
+  {
+    "movie_id": 589970,
+    "title": "Beijing Flickers",
+    "releaseDate": "07-11-2013",
+    "total_gross": 0.03,
+    "total_admissions": 6048,
+    "total_showings": 3031
+  },
+  {
+    "movie_id": 616735,
+    "title": "Tiny Times2",
+    "releaseDate": "07-08-2013",
+    "total_gross": 43.79,
+    "total_admissions": 9475537,
+    "total_showings": 322753
+  },
+  {
+    "movie_id": 592106,
+    "title": "Kung Fu Man",
+    "releaseDate": "18-07-2013",
+    "total_gross": 0.09,
+    "total_admissions": 19896,
+    "total_showings": 5172
+  },
+  {
+    "movie_id": 615250,
+    "title": "A Good Day to Die Hard",
+    "releaseDate": "13-03-2013",
+    "total_gross": 29.789999999999996,
+    "total_admissions": 6233127,
+    "total_showings": 321427
+  },
+  {
+    "movie_id": 589499,
+    "title": "Piano Trojan",
+    "releaseDate": "09-05-2013",
+    "total_gross": 0.10999999999999999,
+    "total_admissions": 30123,
+    "total_showings": 15482
+  },
+  {
+    "movie_id": 605052,
+    "title": "Starbuck",
+    "releaseDate": "28-04-2013",
+    "total_gross": 0.09999999999999999,
+    "total_admissions": 25657,
+    "total_showings": 6571
+  },
+  {
+    "movie_id": 611805,
+    "title": "The Twins' Code",
+    "releaseDate": "07-11-2013",
+    "total_gross": 0.11999999999999998,
+    "total_admissions": 22845,
+    "total_showings": 9400
+  },
+  {
+    "movie_id": 595180,
+    "title": "Saving General Yang",
+    "releaseDate": "03-04-2013",
+    "total_gross": 9.139999999999999,
+    "total_admissions": 1943515,
+    "total_showings": 120661
+  },
+  {
+    "movie_id": 590337,
+    "title": "The King of Comedy",
+    "releaseDate": "14-01-2013",
+    "total_gross": 0.07,
+    "total_admissions": 20976,
+    "total_showings": 6244
+  },
+  {
+    "movie_id": 610952,
+    "title": "The Four 2",
+    "releaseDate": "05-12-2013",
+    "total_gross": 25.790000000000013,
+    "total_admissions": 4725225,
+    "total_showings": 274171
+  },
+  {
+    "movie_id": 602831,
+    "title": "Jack the Giant Slayer",
+    "releaseDate": "24-03-2013",
+    "total_gross": 7.98,
+    "total_admissions": 1386085,
+    "total_showings": 106998
+  },
+  {
+    "movie_id": 595767,
+    "title": "A Style of Men in Beijing",
+    "releaseDate": "20-06-2013",
+    "total_gross": 0.45000000000000007,
+    "total_admissions": 90037,
+    "total_showings": 19908
+  },
+  {
+    "movie_id": 618533,
+    "title": "The Constable",
+    "releaseDate": "31-10-2013",
+    "total_gross": 0.7200000000000002,
+    "total_admissions": 155048,
+    "total_showings": 27145
+  },
+  {
+    "movie_id": 615212,
+    "title": "The Frog Kingdom",
+    "releaseDate": "27-12-2013",
+    "total_gross": 2.5799999999999983,
+    "total_admissions": 536894,
+    "total_showings": 41413
+  },
+  {
+    "movie_id": 589153,
+    "title": "The Family of Kongfu",
+    "releaseDate": "27-04-2013",
+    "total_gross": 0.0,
+    "total_admissions": 11215,
+    "total_showings": 80
+  },
+  {
+    "movie_id": 615130,
+    "title": "Gu Lu",
+    "releaseDate": "30-04-2013",
+    "total_gross": 0.02,
+    "total_admissions": 5427,
+    "total_showings": 4
+  },
+  {
+    "movie_id": 616716,
+    "title": "Sun Face",
+    "releaseDate": "30-05-2013",
+    "total_gross": 0.0,
+    "total_admissions": 3865,
+    "total_showings": 153
+  },
+  {
+    "movie_id": 1583,
+    "title": "Useless",
+    "releaseDate": "14-12-2013",
+    "total_gross": 0.02,
+    "total_admissions": 3700,
+    "total_showings": 95
+  },
+  {
+    "movie_id": 592550,
+    "title": "The Iron Lady",
+    "releaseDate": "07-03-2013",
+    "total_gross": 0.7900000000000001,
+    "total_admissions": 167603,
+    "total_showings": 20440
+  },
+  {
+    "movie_id": 617150,
+    "title": "Bachelors' love",
+    "releaseDate": "07-11-2013",
+    "total_gross": 0.08999999999999998,
+    "total_admissions": 20835,
+    "total_showings": 8303
+  },
+  {
+    "movie_id": 613083,
+    "title": "The Love Expert",
+    "releaseDate": "26-12-2013",
+    "total_gross": 0.05,
+    "total_admissions": 10959,
+    "total_showings": 5234
+  },
+  {
+    "movie_id": 617254,
+    "title": "Sweet Summer Love",
+    "releaseDate": "29-08-2013",
+    "total_gross": 0.10999999999999999,
+    "total_admissions": 22557,
+    "total_showings": 10580
+  },
+  {
+    "movie_id": 617699,
+    "title": "Love Distance",
+    "releaseDate": "17-09-2013",
+    "total_gross": 0.18000000000000005,
+    "total_admissions": 41318,
+    "total_showings": 12452
+  },
+  {
+    "movie_id": 618535,
+    "title": "Thor: The Dark World",
+    "releaseDate": "07-11-2013",
+    "total_gross": 50.73,
+    "total_admissions": 8800079,
+    "total_showings": 398019
+  },
+  {
+    "movie_id": 611374,
+    "title": "The Ferry",
+    "releaseDate": "27-12-2013",
+    "total_gross": 0.03,
+    "total_admissions": 7335,
+    "total_showings": 48
+  },
+  {
+    "movie_id": 388774,
+    "title": "Man of Steel",
+    "releaseDate": "19-06-2013",
+    "total_gross": 58.41999999999999,
+    "total_admissions": 9665245,
+    "total_showings": 346679
+  },
+  {
+    "movie_id": 592980,
+    "title": "The Thieves",
+    "releaseDate": "14-01-2013",
+    "total_gross": 3.239999999999999,
+    "total_admissions": 720313,
+    "total_showings": 53003
+  },
+  {
+    "movie_id": 590044,
+    "title": "The House",
+    "releaseDate": "27-03-2013",
+    "total_gross": 0.5100000000000001,
+    "total_admissions": 126308,
+    "total_showings": 34860
+  },
+  {
+    "movie_id": 605657,
+    "title": "Gone",
+    "releaseDate": "24-01-2013",
+    "total_gross": 1.2000000000000002,
+    "total_admissions": 267705,
+    "total_showings": 26396
+  },
+  {
+    "movie_id": 590327,
+    "title": "Love Bank",
+    "releaseDate": "13-03-2013",
+    "total_gross": 0.7400000000000002,
+    "total_admissions": 178700,
+    "total_showings": 39682
+  },
+  {
+    "movie_id": 609363,
+    "title": "Youthful Days",
+    "releaseDate": "03-03-2013",
+    "total_gross": 0.11999999999999997,
+    "total_admissions": 36552,
+    "total_showings": 3641
+  },
+  {
+    "movie_id": 642026,
+    "title": "Hao Ren Gao Feng",
+    "releaseDate": "23-05-2013",
+    "total_gross": 0.74,
+    "total_admissions": 124907,
+    "total_showings": 794
+  },
+  {
+    "movie_id": 609644,
+    "title": "Conspirators",
+    "releaseDate": "26-04-2013",
+    "total_gross": 3.319999999999998,
+    "total_admissions": 700633,
+    "total_showings": 71948
+  },
+  {
+    "movie_id": 613961,
+    "title": "Bunshinsaba 2",
+    "releaseDate": "15-07-2013",
+    "total_gross": 12.159999999999997,
+    "total_admissions": 2654713,
+    "total_showings": 152478
+  },
+  {
+    "movie_id": 611210,
+    "title": "China Heavyweight",
+    "releaseDate": "19-12-2013",
+    "total_gross": 0.0,
+    "total_admissions": 1900,
+    "total_showings": 396
+  },
+  {
+    "movie_id": 659266,
+    "title": "Feng Bao",
+    "releaseDate": "11-12-2013",
+    "total_gross": 0.0,
+    "total_admissions": 2559,
+    "total_showings": 213
+  },
+  {
+    "movie_id": 605823,
+    "title": "Resident Evil: Retribution",
+    "releaseDate": "16-03-2013",
+    "total_gross": 16.400000000000013,
+    "total_admissions": 2760641,
+    "total_showings": 200666
+  },
+  {
+    "movie_id": 566700,
+    "title": "Upside Down",
+    "releaseDate": "06-03-2013",
+    "total_gross": 10.929999999999996,
+    "total_admissions": 1955129,
+    "total_showings": 135087
+  },
+  {
+    "movie_id": 613423,
+    "title": "Oriental China Dream",
+    "releaseDate": "26-06-2013",
+    "total_gross": 0.060000000000000005,
+    "total_admissions": 17263,
+    "total_showings": 320
+  },
+  {
+    "movie_id": 626699,
+    "title": "We Are Brothers",
+    "releaseDate": "25-03-2013",
+    "total_gross": 0.0,
+    "total_admissions": 896,
+    "total_showings": 4
+  },
+  {
+    "movie_id": 614212,
+    "title": "A Chilling Cosplay",
+    "releaseDate": "28-10-2013",
+    "total_gross": 1.8900000000000001,
+    "total_admissions": 443387,
+    "total_showings": 53965
+  },
+  {
+    "movie_id": 616731,
+    "title": "Epic",
+    "releaseDate": "28-11-2013",
+    "total_gross": 7.399999999999996,
+    "total_admissions": 1463288,
+    "total_showings": 91531
+  },
+  {
+    "movie_id": 610839,
+    "title": "Redemption",
+    "releaseDate": "08-06-2013",
+    "total_gross": 1.3600000000000003,
+    "total_admissions": 299345,
+    "total_showings": 44581
+  },
+  {
+    "movie_id": 617185,
+    "title": "A Young Girl's Destiny",
+    "releaseDate": "05-09-2013",
+    "total_gross": 0.02,
+    "total_admissions": 4118,
+    "total_showings": 2236
+  },
+  {
+    "movie_id": 610462,
+    "title": "The Chef, the Actor, the Scoundrel",
+    "releaseDate": "28-03-2013",
+    "total_gross": 40.38999999999999,
+    "total_admissions": 8666172,
+    "total_showings": 330452
+  },
+  {
+    "movie_id": 612672,
+    "title": "Silent Witness",
+    "releaseDate": "12-09-2013",
+    "total_gross": 26.82,
+    "total_admissions": 5695817,
+    "total_showings": 301836
+  },
+  {
+    "movie_id": 614334,
+    "title": "Love You for Loving Me",
+    "releaseDate": "07-11-2013",
+    "total_gross": 4.469999999999997,
+    "total_admissions": 963823,
+    "total_showings": 96719
+  },
+  {
+    "movie_id": 346818,
+    "title": "Iron Man 3",
+    "releaseDate": "30-04-2013",
+    "total_gross": 111.82000000000001,
+    "total_admissions": 18005916,
+    "total_showings": 538795
+  },
+  {
+    "movie_id": 617267,
+    "title": "Love Will Tear Us Apart",
+    "releaseDate": "11-10-2013",
+    "total_gross": 12.979999999999999,
+    "total_admissions": 2788909,
+    "total_showings": 201022
+  },
+  {
+    "movie_id": 611390,
+    "title": "Apart Together",
+    "releaseDate": "18-09-2013",
+    "total_gross": 0.01,
+    "total_admissions": 2891,
+    "total_showings": 28
+  },
+  {
+    "movie_id": 594163,
+    "title": "Angel Warriors",
+    "releaseDate": "31-10-2013",
+    "total_gross": 0.7300000000000002,
+    "total_admissions": 152729,
+    "total_showings": 27291
+  },
+  {
+    "movie_id": 615249,
+    "title": "Let Panda Fly",
+    "releaseDate": "31-05-2013",
+    "total_gross": 0.27,
+    "total_admissions": 62583,
+    "total_showings": 4117
+  },
+  {
+    "movie_id": 613467,
+    "title": "The Mythical Ark: Adventures in Love & Happiness",
+    "releaseDate": "23-01-2013",
+    "total_gross": 18.499999999999993,
+    "total_admissions": 4175333,
+    "total_showings": 209155
+  },
+  {
+    "movie_id": 609070,
+    "title": "Beloved",
+    "releaseDate": "09-05-2013",
+    "total_gross": 0.05,
+    "total_admissions": 15770,
+    "total_showings": 3440
+  },
+  {
+    "movie_id": 616420,
+    "title": "Farewell My Concubine The Beijing Opera",
+    "releaseDate": "30-10-2013",
+    "total_gross": 0.05,
+    "total_admissions": 10819,
+    "total_showings": 213
+  },
+  {
+    "movie_id": 614547,
+    "title": "I Love Hong Kong 2013",
+    "releaseDate": "03-06-2013",
+    "total_gross": 1.7100000000000002,
+    "total_admissions": 386703,
+    "total_showings": 54325
   },
   {
     "movie_id": 615635,
@@ -1304,796 +2280,28 @@
     "total_showings": 134129
   },
   {
-    "movie_id": 614154,
-    "title": "Balala the Fairies",
-    "releaseDate": "30-01-2013",
-    "total_gross": 7.670000000000001,
-    "total_admissions": 1730743,
-    "total_showings": 102291
-  },
-  {
-    "movie_id": 617497,
-    "title": "Chinese Look",
-    "releaseDate": "23-07-2013",
-    "total_gross": 0.0,
-    "total_admissions": 1239,
-    "total_showings": 69
-  },
-  {
-    "movie_id": 617258,
-    "title": "White House Down",
-    "releaseDate": "21-07-2013",
-    "total_gross": 26.250000000000007,
-    "total_admissions": 5420969,
-    "total_showings": 213874
-  },
-  {
-    "movie_id": 616712,
-    "title": "Rhythm of the rain",
-    "releaseDate": "12-12-2013",
-    "total_gross": 0.25,
-    "total_admissions": 54937,
-    "total_showings": 23720
-  },
-  {
-    "movie_id": 617712,
-    "title": "I am Director",
-    "releaseDate": "29-08-2013",
-    "total_gross": 0.7300000000000002,
-    "total_admissions": 166710,
-    "total_showings": 27747
-  },
-  {
-    "movie_id": 589797,
-    "title": "Journey to the West: Conquering the Demons",
-    "releaseDate": "09-02-2013",
-    "total_gross": 184.69999999999993,
-    "total_admissions": 31045192,
-    "total_showings": 763294
-  },
-  {
-    "movie_id": 595639,
-    "title": "The Chrysalis",
-    "releaseDate": "31-01-2013",
-    "total_gross": 1.7699999999999998,
-    "total_admissions": 391090,
-    "total_showings": 37302
-  },
-  {
-    "movie_id": 614604,
-    "title": "The story of our hearts",
-    "releaseDate": "28-08-2013",
-    "total_gross": 0.73,
-    "total_admissions": 124600,
-    "total_showings": 810
-  },
-  {
-    "movie_id": 615202,
-    "title": "The Action Zero",
-    "releaseDate": "18-04-2013",
-    "total_gross": 0.3400000000000001,
-    "total_admissions": 79114,
-    "total_showings": 19274
-  },
-  {
-    "movie_id": 610088,
-    "title": "Skyfall",
-    "releaseDate": "20-01-2013",
-    "total_gross": 55.72000000000001,
-    "total_admissions": 10813147,
-    "total_showings": 367654
-  },
-  {
-    "movie_id": 615499,
-    "title": "The Croods",
-    "releaseDate": "19-04-2013",
-    "total_gross": 58.45999999999999,
-    "total_admissions": 10702367,
-    "total_showings": 375779
-  },
-  {
-    "movie_id": 614660,
-    "title": "Happy Little Submarine 3：Rainbow Treasure",
-    "releaseDate": "30-05-2013",
-    "total_gross": 8.37,
-    "total_admissions": 1717200,
-    "total_showings": 88667
-  },
-  {
-    "movie_id": 618532,
-    "title": "I Want You",
-    "releaseDate": "26-12-2013",
-    "total_gross": 0.43000000000000005,
-    "total_admissions": 88330,
-    "total_showings": 21304
-  },
-  {
-    "movie_id": 618328,
-    "title": "Forever Love",
-    "releaseDate": "31-12-2013",
-    "total_gross": 0.05,
-    "total_admissions": 15128,
-    "total_showings": 5735
-  },
-  {
-    "movie_id": 611374,
-    "title": "The Ferry",
-    "releaseDate": "27-12-2013",
-    "total_gross": 0.03,
-    "total_admissions": 7335,
-    "total_showings": 48
-  },
-  {
-    "movie_id": 612734,
-    "title": "Shadow of Charming",
-    "releaseDate": "25-07-2013",
-    "total_gross": 0.4700000000000001,
-    "total_admissions": 114430,
-    "total_showings": 23819
-  },
-  {
-    "movie_id": 596088,
-    "title": "The Adventures of Sinbad 2013",
-    "releaseDate": "30-05-2013",
-    "total_gross": 5.919999999999998,
-    "total_admissions": 1438901,
-    "total_showings": 77561
-  },
-  {
-    "movie_id": 602809,
-    "title": "Bullet to the Head",
-    "releaseDate": "08-07-2013",
-    "total_gross": 1.8800000000000006,
-    "total_admissions": 412226,
-    "total_showings": 53182
-  },
-  {
-    "movie_id": 589883,
-    "title": "Cross",
-    "releaseDate": "02-10-2013",
-    "total_gross": 1.5600000000000003,
-    "total_admissions": 331794,
-    "total_showings": 49908
-  },
-  {
-    "movie_id": 602795,
-    "title": "Hotel Transylvania",
-    "releaseDate": "31-10-2013",
-    "total_gross": 10.949999999999996,
-    "total_admissions": 2046084,
-    "total_showings": 147469
-  },
-  {
-    "movie_id": 595180,
-    "title": "Saving General Yang",
-    "releaseDate": "03-04-2013",
-    "total_gross": 9.139999999999999,
-    "total_admissions": 1943515,
-    "total_showings": 120661
-  },
-  {
-    "movie_id": 595235,
-    "title": "Midnight Train",
-    "releaseDate": "07-03-2013",
-    "total_gross": 0.98,
-    "total_admissions": 225573,
-    "total_showings": 30633
-  },
-  {
-    "movie_id": 592078,
-    "title": "The Wolverine",
-    "releaseDate": "16-10-2013",
-    "total_gross": 36.96999999999998,
-    "total_admissions": 6663541,
-    "total_showings": 363372
-  },
-  {
-    "movie_id": 608199,
-    "title": "Transcendence",
-    "releaseDate": "07-05-2013",
-    "total_gross": 0.02,
-    "total_admissions": 4449,
-    "total_showings": 89
-  },
-  {
-    "movie_id": 616515,
-    "title": "Dating Fever",
-    "releaseDate": "31-10-2013",
-    "total_gross": 0.7200000000000002,
-    "total_admissions": 154975,
-    "total_showings": 23196
-  },
-  {
-    "movie_id": 609005,
-    "title": "Control",
-    "releaseDate": "21-11-2013",
-    "total_gross": 6.439999999999999,
-    "total_admissions": 1404083,
-    "total_showings": 130388
-  },
-  {
-    "movie_id": 596069,
-    "title": "Kuiba 2",
-    "releaseDate": "30-05-2013",
-    "total_gross": 3.739999999999998,
-    "total_admissions": 738144,
-    "total_showings": 54938
-  },
-  {
-    "movie_id": 611576,
-    "title": "Lift to Hell",
-    "releaseDate": "21-02-2013",
-    "total_gross": 3.239999999999998,
-    "total_admissions": 743579,
-    "total_showings": 65365
-  },
-  {
-    "movie_id": 615497,
-    "title": "Scandals",
-    "releaseDate": "13-03-2013",
-    "total_gross": 0.10999999999999999,
-    "total_admissions": 24354,
-    "total_showings": 8357
-  },
-  {
-    "movie_id": 606641,
-    "title": "The Reef 2: High Tide",
-    "releaseDate": "27-12-2013",
-    "total_gross": 3.889999999999999,
-    "total_admissions": 794474,
-    "total_showings": 52560
-  },
-  {
-    "movie_id": 596592,
-    "title": "Pink Lady：Lover Run",
-    "releaseDate": "22-08-2013",
-    "total_gross": 0.5800000000000001,
-    "total_admissions": 120355,
-    "total_showings": 20347
-  },
-  {
-    "movie_id": 617257,
-    "title": "Kunta",
-    "releaseDate": "01-08-2013",
-    "total_gross": 2.5999999999999983,
-    "total_admissions": 560752,
-    "total_showings": 52145
-  },
-  {
-    "movie_id": 615994,
-    "title": "Mao Ze Dong Yu Qi Bai Shi",
-    "releaseDate": "28-06-2013",
-    "total_gross": 0.3300000000000001,
-    "total_admissions": 64232,
-    "total_showings": 961
-  },
-  {
-    "movie_id": 591779,
-    "title": "Young Detective Dee: Rise of the Sea Dragon",
-    "releaseDate": "27-09-2013",
-    "total_gross": 88.92999999999998,
-    "total_admissions": 15010687,
-    "total_showings": 503788
-  },
-  {
-    "movie_id": 614547,
-    "title": "I Love Hong Kong 2013",
-    "releaseDate": "03-06-2013",
-    "total_gross": 1.7100000000000002,
-    "total_admissions": 386703,
-    "total_showings": 54325
-  },
-  {
-    "movie_id": 613440,
-    "title": "Lei Feng Zai 1959",
-    "releaseDate": "04-03-2013",
-    "total_gross": 0.03,
-    "total_admissions": 11271,
-    "total_showings": 159
-  },
-  {
-    "movie_id": 608197,
-    "title": "Blind Detective",
-    "releaseDate": "03-07-2013",
-    "total_gross": 31.550000000000015,
-    "total_admissions": 6621350,
-    "total_showings": 251576
-  },
-  {
-    "movie_id": 615788,
-    "title": "Neverland",
-    "releaseDate": "28-03-2013",
-    "total_gross": 0.31000000000000005,
-    "total_admissions": 58701,
-    "total_showings": 2531
-  },
-  {
-    "movie_id": 617173,
-    "title": "Adventure at Flaming Mountains",
-    "releaseDate": "18-07-2013",
-    "total_gross": 0.8400000000000001,
-    "total_admissions": 207000,
-    "total_showings": 26639
-  },
-  {
-    "movie_id": 618187,
-    "title": "72 Hours of Sword Robbing",
-    "releaseDate": "29-09-2013",
-    "total_gross": 0.10999999999999999,
-    "total_admissions": 26814,
-    "total_showings": 6316
-  },
-  {
-    "movie_id": 595634,
-    "title": "The Empire Symbol",
-    "releaseDate": "17-09-2013",
-    "total_gross": 0.5,
-    "total_admissions": 112350,
-    "total_showings": 24244
-  },
-  {
-    "movie_id": 613423,
-    "title": "Oriental China Dream",
-    "releaseDate": "26-06-2013",
-    "total_gross": 0.060000000000000005,
-    "total_admissions": 17263,
-    "total_showings": 320
-  },
-  {
-    "movie_id": 617713,
-    "title": "Mayday Nowhere 3D",
-    "releaseDate": "18-09-2013",
-    "total_gross": 3.0699999999999985,
-    "total_admissions": 517909,
-    "total_showings": 45047
-  },
-  {
-    "movie_id": 613150,
-    "title": "Niu Lao Han De Xing Fu Sheng Huo",
-    "releaseDate": "20-04-2013",
-    "total_gross": 0.7399999999999999,
-    "total_admissions": 124448,
-    "total_showings": 820
-  },
-  {
-    "movie_id": 618535,
-    "title": "Thor: The Dark World",
-    "releaseDate": "07-11-2013",
-    "total_gross": 50.73,
-    "total_admissions": 8800079,
-    "total_showings": 398019
-  },
-  {
-    "movie_id": 473370,
-    "title": "Le Petit Nicolas",
-    "releaseDate": "09-02-2013",
-    "total_gross": 0.28,
-    "total_admissions": 58298,
-    "total_showings": 3522
-  },
-  {
-    "movie_id": 614346,
-    "title": "Firestorm",
-    "releaseDate": "11-12-2013",
-    "total_gross": 46.599999999999994,
-    "total_admissions": 8134765,
-    "total_showings": 353279
-  },
-  {
-    "movie_id": 590327,
-    "title": "Love Bank",
-    "releaseDate": "13-03-2013",
-    "total_gross": 0.7400000000000002,
-    "total_admissions": 178700,
-    "total_showings": 39682
-  },
-  {
-    "movie_id": 614568,
-    "title": "Unbeatable",
-    "releaseDate": "15-08-2013",
-    "total_gross": 17.440000000000015,
-    "total_admissions": 3734120,
-    "total_showings": 168142
-  },
-  {
-    "movie_id": 617189,
-    "title": "Carpooling Shock",
-    "releaseDate": "07-11-2013",
-    "total_gross": 0.29,
-    "total_admissions": 64602,
-    "total_showings": 13754
-  },
-  {
-    "movie_id": 611805,
-    "title": "The Twins' Code",
-    "releaseDate": "07-11-2013",
-    "total_gross": 0.11999999999999998,
-    "total_admissions": 22845,
-    "total_showings": 9400
-  },
-  {
-    "movie_id": 593120,
-    "title": "When A Wolf Falls In Love With A Sheep",
-    "releaseDate": "27-04-2013",
-    "total_gross": 0.06999999999999999,
-    "total_admissions": 26941,
-    "total_showings": 9602
-  },
-  {
-    "movie_id": 573137,
-    "title": "Fallen City",
-    "releaseDate": "09-05-2013",
-    "total_gross": 0.07,
-    "total_admissions": 21099,
-    "total_showings": 8187
-  },
-  {
-    "movie_id": 612702,
-    "title": "The Supernatural Events on Campus",
-    "releaseDate": "11-07-2013",
-    "total_gross": 1.1800000000000004,
-    "total_admissions": 284679,
-    "total_showings": 32889
-  },
-  {
-    "movie_id": 611357,
-    "title": "My Boyfriends",
-    "releaseDate": "14-11-2013",
-    "total_gross": 1.1200000000000003,
-    "total_admissions": 253667,
-    "total_showings": 49578
-  },
-  {
-    "movie_id": 610087,
-    "title": "The Love Flu",
-    "releaseDate": "28-02-2013",
-    "total_gross": 0.2,
-    "total_admissions": 41319,
-    "total_showings": 13862
-  },
-  {
-    "movie_id": 388774,
-    "title": "Man of Steel",
-    "releaseDate": "19-06-2013",
-    "total_gross": 58.41999999999999,
-    "total_admissions": 9665245,
-    "total_showings": 346679
-  },
-  {
-    "movie_id": 617185,
-    "title": "A Young Girl's Destiny",
-    "releaseDate": "05-09-2013",
-    "total_gross": 0.02,
-    "total_admissions": 4118,
-    "total_showings": 2236
-  },
-  {
-    "movie_id": 616532,
-    "title": "Avgust. Vosmogo",
-    "releaseDate": "12-09-2013",
-    "total_gross": 2.529999999999999,
-    "total_admissions": 561868,
-    "total_showings": 68396
-  },
-  {
-    "movie_id": 612121,
-    "title": "Out of Inferno",
-    "releaseDate": "29-09-2013",
-    "total_gross": 19.650000000000002,
-    "total_admissions": 3631852,
-    "total_showings": 198010
-  },
-  {
-    "movie_id": 608213,
-    "title": "Ip Man: Final Fight",
-    "releaseDate": "21-03-2013",
-    "total_gross": 1.6500000000000004,
-    "total_admissions": 371080,
-    "total_showings": 64273
-  },
-  {
-    "movie_id": 590372,
-    "title": "Jungle Master",
-    "releaseDate": "18-01-2013",
-    "total_gross": 1.2500000000000002,
-    "total_admissions": 273920,
-    "total_showings": 31184
-  },
-  {
-    "movie_id": 616626,
-    "title": "The Charge",
-    "releaseDate": "23-05-2013",
-    "total_gross": 0.09999999999999999,
-    "total_admissions": 22019,
-    "total_showings": 1658
-  },
-  {
-    "movie_id": 592438,
-    "title": "Cloud Atlas",
-    "releaseDate": "30-01-2013",
-    "total_gross": 25.189999999999998,
-    "total_admissions": 5086026,
-    "total_showings": 193871
-  },
-  {
-    "movie_id": 614213,
-    "title": "Bu Bu Zhui Hun",
-    "releaseDate": "14-11-2013",
-    "total_gross": 0.7200000000000002,
-    "total_admissions": 129274,
-    "total_showings": 19954
-  },
-  {
-    "movie_id": 626510,
-    "title": "Today Tomorrow",
-    "releaseDate": "05-07-2013",
+    "movie_id": 610950,
+    "title": "Badges of Fury",
+    "releaseDate": "20-06-2013",
+    "total_gross": 42.030000000000015,
+    "total_admissions": 9071275,
+    "total_showings": 361195
+  },
+  {
+    "movie_id": 589156,
+    "title": "Game of Assassins",
+    "releaseDate": "25-12-2013",
     "total_gross": 0.01,
-    "total_admissions": 2834,
-    "total_showings": 12
+    "total_admissions": 1981,
+    "total_showings": 1425
   },
   {
-    "movie_id": 609070,
-    "title": "Beloved",
-    "releaseDate": "09-05-2013",
-    "total_gross": 0.05,
-    "total_admissions": 15770,
-    "total_showings": 3440
-  },
-  {
-    "movie_id": 615249,
-    "title": "Let Panda Fly",
-    "releaseDate": "31-05-2013",
-    "total_gross": 0.27,
-    "total_admissions": 62583,
-    "total_showings": 4117
-  },
-  {
-    "movie_id": 612655,
-    "title": "Together",
-    "releaseDate": "11-02-2013",
-    "total_gross": 4.759999999999999,
-    "total_admissions": 932457,
-    "total_showings": 61125
-  },
-  {
-    "movie_id": 596789,
-    "title": "Avalokitesvara",
-    "releaseDate": "25-07-2013",
-    "total_gross": 0.24000000000000002,
-    "total_admissions": 57565,
-    "total_showings": 6692
-  },
-  {
-    "movie_id": 609363,
-    "title": "Youthful Days",
-    "releaseDate": "03-03-2013",
-    "total_gross": 0.11999999999999997,
-    "total_admissions": 36552,
-    "total_showings": 3641
-  },
-  {
-    "movie_id": 609644,
-    "title": "Conspirators",
-    "releaseDate": "26-04-2013",
-    "total_gross": 3.319999999999998,
-    "total_admissions": 700633,
-    "total_showings": 71948
-  },
-  {
-    "movie_id": 592909,
-    "title": "Thrilling Eve",
-    "releaseDate": "08-06-2013",
-    "total_gross": 0.4500000000000001,
-    "total_admissions": 114321,
-    "total_showings": 22016
-  },
-  {
-    "movie_id": 614357,
-    "title": "School Bus",
-    "releaseDate": "09-09-2013",
-    "total_gross": 0.0,
-    "total_admissions": 1048,
-    "total_showings": 862
-  },
-  {
-    "movie_id": 566700,
-    "title": "Upside Down",
-    "releaseDate": "06-03-2013",
-    "total_gross": 10.929999999999996,
-    "total_admissions": 1955129,
-    "total_showings": 135087
-  },
-  {
-    "movie_id": 595857,
-    "title": "An End To Killing",
-    "releaseDate": "21-03-2013",
-    "total_gross": 0.6400000000000001,
-    "total_admissions": 148331,
-    "total_showings": 37810
-  },
-  {
-    "movie_id": 589309,
-    "title": "Star Trek Into Darkness",
-    "releaseDate": "27-05-2013",
-    "total_gross": 52.269999999999996,
-    "total_admissions": 8618003,
-    "total_showings": 367657
-  },
-  {
-    "movie_id": 604366,
-    "title": "Welcome to the Punch",
-    "releaseDate": "05-12-2013",
-    "total_gross": 0.8400000000000003,
-    "total_admissions": 186405,
-    "total_showings": 55401
-  },
-  {
-    "movie_id": 616435,
-    "title": "Indomitable Soldiers",
-    "releaseDate": "10-05-2013",
-    "total_gross": 0.06,
-    "total_admissions": 7265,
-    "total_showings": 613
-  },
-  {
-    "movie_id": 612262,
-    "title": "Shao Nian Lin Xiang Qian",
-    "releaseDate": "22-04-2013",
-    "total_gross": 0.0,
-    "total_admissions": 5063,
-    "total_showings": 12
-  },
-  {
-    "movie_id": 594093,
-    "title": "Lucky Dog",
-    "releaseDate": "27-04-2013",
-    "total_gross": 0.03,
-    "total_admissions": 9310,
-    "total_showings": 4076
-  },
-  {
-    "movie_id": 658914,
-    "title": "Shanghai international film festival",
-    "releaseDate": "15-06-2013",
-    "total_gross": 3.879999999999998,
-    "total_admissions": 440176,
-    "total_showings": 1806
-  },
-  {
-    "movie_id": 597096,
-    "title": "Sweetheart Chocolate",
-    "releaseDate": "07-11-2013",
-    "total_gross": 0.57,
-    "total_admissions": 123570,
-    "total_showings": 35663
-  },
-  {
-    "movie_id": 616735,
-    "title": "Tiny Times2",
-    "releaseDate": "07-08-2013",
-    "total_gross": 43.79,
-    "total_admissions": 9475537,
-    "total_showings": 322753
-  },
-  {
-    "movie_id": 616186,
-    "title": "Happy Heroes",
-    "releaseDate": "27-06-2013",
-    "total_gross": 5.219999999999998,
-    "total_admissions": 1229956,
-    "total_showings": 69312
-  },
-  {
-    "movie_id": 613854,
-    "title": "One Night Surprise",
-    "releaseDate": "08-08-2013",
-    "total_gross": 26.160000000000014,
-    "total_admissions": 5640223,
-    "total_showings": 224174
-  },
-  {
-    "movie_id": 610952,
-    "title": "The Four 2",
-    "releaseDate": "05-12-2013",
-    "total_gross": 25.790000000000013,
-    "total_admissions": 4725225,
-    "total_showings": 274171
-  },
-  {
-    "movie_id": 611580,
-    "title": "My Lucky Star",
-    "releaseDate": "16-09-2013",
-    "total_gross": 20.230000000000008,
-    "total_admissions": 4208741,
-    "total_showings": 244655
-  },
-  {
-    "movie_id": 616436,
-    "title": "Pacific Rim",
-    "releaseDate": "30-07-2013",
-    "total_gross": 102.89000000000003,
-    "total_admissions": 17213562,
-    "total_showings": 450664
-  },
-  {
-    "movie_id": 615513,
-    "title": "The Wild Strawberries",
-    "releaseDate": "28-11-2013",
-    "total_gross": 0.01,
-    "total_admissions": 3541,
-    "total_showings": 2109
-  },
-  {
-    "movie_id": 659266,
-    "title": "Feng Bao",
-    "releaseDate": "11-12-2013",
-    "total_gross": 0.0,
-    "total_admissions": 2559,
-    "total_showings": 213
-  },
-  {
-    "movie_id": 610050,
-    "title": "Run Away，Woman",
-    "releaseDate": "07-03-2013",
-    "total_gross": 0.27,
-    "total_admissions": 63193,
-    "total_showings": 11900
-  },
-  {
-    "movie_id": 612736,
-    "title": "The Wrath of Vajra",
-    "releaseDate": "23-09-2013",
-    "total_gross": 1.8600000000000003,
-    "total_admissions": 401726,
-    "total_showings": 54597
-  },
-  {
-    "movie_id": 608215,
-    "title": "Princess and Seven Kung Fu Masters",
-    "releaseDate": "07-03-2013",
-    "total_gross": 10.379999999999994,
-    "total_admissions": 2356558,
-    "total_showings": 164133
-  },
-  {
-    "movie_id": 609344,
-    "title": "Chasing is Hurting",
-    "releaseDate": "07-03-2013",
-    "total_gross": 0.01,
-    "total_admissions": 2919,
-    "total_showings": 654
-  },
-  {
-    "movie_id": 348955,
-    "title": "Jurassic Park 3D",
-    "releaseDate": "19-08-2013",
-    "total_gross": 51.71999999999997,
-    "total_admissions": 9213781,
-    "total_showings": 353703
-  },
-  {
-    "movie_id": 602831,
-    "title": "Jack the Giant Slayer",
-    "releaseDate": "24-03-2013",
-    "total_gross": 7.98,
-    "total_admissions": 1386085,
-    "total_showings": 106998
-  },
-  {
-    "movie_id": 616573,
-    "title": "Wo Yao Hui Cheng",
-    "releaseDate": "30-12-2013",
-    "total_gross": 0.0,
-    "total_admissions": 173,
-    "total_showings": 2
-  },
-  {
-    "movie_id": 597113,
-    "title": "Xiao Deng",
-    "releaseDate": "26-05-2013",
-    "total_gross": 0.0,
-    "total_admissions": 458,
-    "total_showings": 14
+    "movie_id": 614166,
+    "title": "Mysterious Island 2",
+    "releaseDate": "25-01-2013",
+    "total_gross": 2.439999999999999,
+    "total_admissions": 549096,
+    "total_showings": 43369
   },
   {
     "movie_id": 615462,
@@ -2104,198 +2312,6 @@
     "total_showings": 987
   },
   {
-    "movie_id": 593851,
-    "title": "Affection to TaoRanTing",
-    "releaseDate": "28-12-2013",
-    "total_gross": 0.06,
-    "total_admissions": 6717,
-    "total_showings": 55
-  },
-  {
-    "movie_id": 610046,
-    "title": "KungFu Fighter",
-    "releaseDate": "14-11-2013",
-    "total_gross": 0.18000000000000002,
-    "total_admissions": 36517,
-    "total_showings": 10668
-  },
-  {
-    "movie_id": 555111,
-    "title": "Les Miserables",
-    "releaseDate": "27-02-2013",
-    "total_gross": 9.35,
-    "total_admissions": 1772206,
-    "total_showings": 81460
-  },
-  {
-    "movie_id": 614548,
-    "title": "Pororo, The Racing Adventure",
-    "releaseDate": "24-01-2013",
-    "total_gross": 1.7800000000000005,
-    "total_admissions": 363045,
-    "total_showings": 35125
-  },
-  {
-    "movie_id": 612221,
-    "title": "Cha Cha for Twins",
-    "releaseDate": "09-01-2013",
-    "total_gross": 0.060000000000000005,
-    "total_admissions": 12898,
-    "total_showings": 5771
-  },
-  {
-    "movie_id": 610950,
-    "title": "Badges of Fury",
-    "releaseDate": "20-06-2013",
-    "total_gross": 42.030000000000015,
-    "total_admissions": 9071275,
-    "total_showings": 361195
-  },
-  {
-    "movie_id": 617126,
-    "title": "Nightmare",
-    "releaseDate": "15-08-2013",
-    "total_gross": 0.52,
-    "total_admissions": 121028,
-    "total_showings": 17475
-  },
-  {
-    "movie_id": 612087,
-    "title": "Love In Time",
-    "releaseDate": "10-01-2013",
-    "total_gross": 1.0300000000000002,
-    "total_admissions": 252736,
-    "total_showings": 28259
-  },
-  {
-    "movie_id": 610831,
-    "title": "Ren Sheng Bu Neng Chong Lai",
-    "releaseDate": "27-08-2013",
-    "total_gross": 0.0,
-    "total_admissions": 7193,
-    "total_showings": 94
-  },
-  {
-    "movie_id": 590337,
-    "title": "The King of Comedy",
-    "releaseDate": "14-01-2013",
-    "total_gross": 0.07,
-    "total_admissions": 20976,
-    "total_showings": 6244
-  },
-  {
-    "movie_id": 614334,
-    "title": "Love You for Loving Me",
-    "releaseDate": "07-11-2013",
-    "total_gross": 4.469999999999997,
-    "total_admissions": 963823,
-    "total_showings": 96719
-  },
-  {
-    "movie_id": 589153,
-    "title": "The Family of Kongfu",
-    "releaseDate": "27-04-2013",
-    "total_gross": 0.0,
-    "total_admissions": 11215,
-    "total_showings": 80
-  },
-  {
-    "movie_id": 595767,
-    "title": "A Style of Men in Beijing",
-    "releaseDate": "20-06-2013",
-    "total_gross": 0.45000000000000007,
-    "total_admissions": 90037,
-    "total_showings": 19908
-  },
-  {
-    "movie_id": 618277,
-    "title": "Love Transplantation",
-    "releaseDate": "28-11-2013",
-    "total_gross": 0.08,
-    "total_admissions": 24889,
-    "total_showings": 14382
-  },
-  {
-    "movie_id": 617150,
-    "title": "Bachelors' love",
-    "releaseDate": "07-11-2013",
-    "total_gross": 0.08999999999999998,
-    "total_admissions": 20835,
-    "total_showings": 8303
-  },
-  {
-    "movie_id": 615152,
-    "title": "The Story of Zhou Enlai",
-    "releaseDate": "15-07-2013",
-    "total_gross": 8.639999999999981,
-    "total_admissions": 1850919,
-    "total_showings": 23706
-  },
-  {
-    "movie_id": 611390,
-    "title": "Apart Together",
-    "releaseDate": "18-09-2013",
-    "total_gross": 0.01,
-    "total_admissions": 2891,
-    "total_showings": 28
-  },
-  {
-    "movie_id": 612622,
-    "title": "The Falling Feather",
-    "releaseDate": "28-11-2013",
-    "total_gross": 0.03,
-    "total_admissions": 7864,
-    "total_showings": 4592
-  },
-  {
-    "movie_id": 592106,
-    "title": "Kung Fu Man",
-    "releaseDate": "18-07-2013",
-    "total_gross": 0.09,
-    "total_admissions": 19896,
-    "total_showings": 5172
-  },
-  {
-    "movie_id": 610355,
-    "title": "Love Retake",
-    "releaseDate": "09-02-2013",
-    "total_gross": 1.06,
-    "total_admissions": 209889,
-    "total_showings": 23097
-  },
-  {
-    "movie_id": 610462,
-    "title": "The Chef, the Actor, the Scoundrel",
-    "releaseDate": "28-03-2013",
-    "total_gross": 40.38999999999999,
-    "total_admissions": 8666172,
-    "total_showings": 330452
-  },
-  {
-    "movie_id": 614860,
-    "title": "Shui Hold Zhu Shui",
-    "releaseDate": "09-02-2013",
-    "total_gross": 0.0,
-    "total_admissions": 6344,
-    "total_showings": 274
-  },
-  {
-    "movie_id": 608149,
-    "title": "Special ID",
-    "releaseDate": "17-10-2013",
-    "total_gross": 22.959999999999994,
-    "total_admissions": 4914765,
-    "total_showings": 311112
-  },
-  {
-    "movie_id": 602828,
-    "title": "The Great Gatsby",
-    "releaseDate": "29-08-2013",
-    "total_gross": 12.57,
-    "total_admissions": 2092839,
-    "total_showings": 112054
-  },
-  {
     "movie_id": 616145,
     "title": "Mortician",
     "releaseDate": "15-05-2013",
@@ -2304,180 +2320,76 @@
     "total_showings": 50742
   },
   {
-    "movie_id": 617719,
-    "title": "Elysium",
-    "releaseDate": "04-09-2013",
-    "total_gross": 23.63999999999999,
-    "total_admissions": 4698121,
-    "total_showings": 281308
+    "movie_id": 594290,
+    "title": "Sweet Eighteen",
+    "releaseDate": "18-04-2013",
+    "total_gross": 0.05,
+    "total_admissions": 14738,
+    "total_showings": 8085
   },
   {
-    "movie_id": 617191,
-    "title": "Jobs",
-    "releaseDate": "26-09-2013",
-    "total_gross": 1.8400000000000005,
-    "total_admissions": 352448,
-    "total_showings": 35020
+    "movie_id": 618532,
+    "title": "I Want You",
+    "releaseDate": "26-12-2013",
+    "total_gross": 0.43000000000000005,
+    "total_admissions": 88330,
+    "total_showings": 21304
   },
   {
-    "movie_id": 596765,
-    "title": "Angry Kid",
-    "releaseDate": "28-01-2013",
-    "total_gross": 1.2000000000000002,
-    "total_admissions": 290072,
-    "total_showings": 26543
+    "movie_id": 597096,
+    "title": "Sweetheart Chocolate",
+    "releaseDate": "07-11-2013",
+    "total_gross": 0.57,
+    "total_admissions": 123570,
+    "total_showings": 35663
   },
   {
-    "movie_id": 614862,
-    "title": "The Smurfs 2",
-    "releaseDate": "11-09-2013",
-    "total_gross": 20.440000000000012,
-    "total_admissions": 3807382,
-    "total_showings": 215835
+    "movie_id": 614308,
+    "title": "A Werewolf Boy",
+    "releaseDate": "18-12-2013",
+    "total_gross": 0.5800000000000001,
+    "total_admissions": 128004,
+    "total_showings": 22156
   },
   {
-    "movie_id": 611817,
-    "title": "Born To Love You",
-    "releaseDate": "10-01-2013",
-    "total_gross": 0.6800000000000002,
-    "total_admissions": 154857,
-    "total_showings": 27699
-  },
-  {
-    "movie_id": 608116,
-    "title": "Murcielago",
-    "releaseDate": "29-09-2013",
-    "total_gross": 0.36000000000000004,
-    "total_admissions": 84158,
-    "total_showings": 16718
-  },
-  {
-    "movie_id": 605657,
-    "title": "Gone",
-    "releaseDate": "24-01-2013",
-    "total_gross": 1.2000000000000002,
-    "total_admissions": 267705,
-    "total_showings": 26396
-  },
-  {
-    "movie_id": 618166,
-    "title": "Zhan Zheng Kuang Ren",
-    "releaseDate": "23-08-2013",
-    "total_gross": 0.01,
-    "total_admissions": 4579,
-    "total_showings": 152
-  },
-  {
-    "movie_id": 612278,
-    "title": "Mysterious Face",
-    "releaseDate": "13-06-2013",
-    "total_gross": 3.4999999999999982,
-    "total_admissions": 812834,
-    "total_showings": 88137
-  },
-  {
-    "movie_id": 395962,
-    "title": "Under the Sea 3D",
-    "releaseDate": "09-04-2013",
+    "movie_id": 614357,
+    "title": "School Bus",
+    "releaseDate": "09-09-2013",
     "total_gross": 0.0,
-    "total_admissions": 3799,
-    "total_showings": 21
+    "total_admissions": 1048,
+    "total_showings": 862
   },
   {
-    "movie_id": 605809,
-    "title": "Django Unchained",
-    "releaseDate": "11-05-2013",
-    "total_gross": 2.639999999999996,
-    "total_admissions": 513128,
-    "total_showings": 48512
+    "movie_id": 616436,
+    "title": "Pacific Rim",
+    "releaseDate": "30-07-2013",
+    "total_gross": 102.89000000000003,
+    "total_admissions": 17213562,
+    "total_showings": 450664
   },
   {
-    "movie_id": 588923,
-    "title": "The Flying Machine 3D",
-    "releaseDate": "01-02-2013",
-    "total_gross": 0.09999999999999999,
-    "total_admissions": 18589,
-    "total_showings": 6371
+    "movie_id": 612538,
+    "title": "The Hunger Games: Catching Fire",
+    "releaseDate": "20-11-2013",
+    "total_gross": 25.460000000000004,
+    "total_admissions": 5292995,
+    "total_showings": 265352
   },
   {
-    "movie_id": 613096,
-    "title": "The Game of Hide and Seek",
-    "releaseDate": "10-10-2013",
-    "total_gross": 0.53,
-    "total_admissions": 123278,
-    "total_showings": 29826
-  },
-  {
-    "movie_id": 614829,
-    "title": "Pay Back",
-    "releaseDate": "31-10-2013",
-    "total_gross": 0.8500000000000001,
-    "total_admissions": 190990,
-    "total_showings": 33564
-  },
-  {
-    "movie_id": 616744,
-    "title": "Now You See Me",
-    "releaseDate": "09-10-2013",
-    "total_gross": 21.180000000000007,
-    "total_admissions": 4521246,
-    "total_showings": 254908
-  },
-  {
-    "movie_id": 612772,
-    "title": "Touch of the Light",
-    "releaseDate": "07-06-2013",
-    "total_gross": 1.2800000000000002,
-    "total_admissions": 275549,
-    "total_showings": 34404
-  },
-  {
-    "movie_id": 617176,
-    "title": "Young Style",
-    "releaseDate": "01-08-2013",
-    "total_gross": 4.139999999999998,
-    "total_admissions": 973332,
-    "total_showings": 70196
-  },
-  {
-    "movie_id": 615767,
-    "title": "The Deadly Strands",
-    "releaseDate": "04-07-2013",
-    "total_gross": 1.09,
-    "total_admissions": 245905,
-    "total_showings": 30481
-  },
-  {
-    "movie_id": 612577,
-    "title": "Ba Ba Ma Ma Fu Hun Ji",
-    "releaseDate": "17-09-2013",
-    "total_gross": 0.7500000000000001,
-    "total_admissions": 124972,
-    "total_showings": 759
-  },
-  {
-    "movie_id": 626699,
-    "title": "We Are Brothers",
-    "releaseDate": "25-03-2013",
-    "total_gross": 0.0,
-    "total_admissions": 896,
-    "total_showings": 4
-  },
-  {
-    "movie_id": 658917,
-    "title": "2013shanghaiguojidongmanyingzhan",
-    "releaseDate": "06-07-2013",
-    "total_gross": 0.01,
-    "total_admissions": 2359,
-    "total_showings": 26
-  },
-  {
-    "movie_id": 613518,
-    "title": "Fall of Ming",
+    "movie_id": 596038,
+    "title": "Pricess Show",
     "releaseDate": "24-10-2013",
-    "total_gross": 0.6100000000000001,
-    "total_admissions": 135582,
-    "total_showings": 22017
+    "total_gross": 0.23,
+    "total_admissions": 51345,
+    "total_showings": 17891
+  },
+  {
+    "movie_id": 617270,
+    "title": "The Lone Ranger",
+    "releaseDate": "04-10-2013",
+    "total_gross": 12.059999999999997,
+    "total_admissions": 2460590,
+    "total_showings": 149716
   },
   {
     "movie_id": 611324,
@@ -2488,27 +2400,115 @@
     "total_showings": 12451
   },
   {
-    "movie_id": 608234,
-    "title": "Xi Bai Po 2:Wang Er Xiao",
-    "releaseDate": "27-04-2013",
-    "total_gross": 0.13999999999999999,
-    "total_admissions": 106917,
-    "total_showings": 500
+    "movie_id": 615223,
+    "title": "Oz The Great and Powerful",
+    "releaseDate": "28-03-2013",
+    "total_gross": 24.320000000000007,
+    "total_admissions": 4081185,
+    "total_showings": 173298
   },
   {
-    "movie_id": 612718,
-    "title": "Striving in Beijing With Love",
-    "releaseDate": "28-10-2013",
-    "total_gross": 0.09,
-    "total_admissions": 20694,
-    "total_showings": 6260
+    "movie_id": 614089,
+    "title": "Luo Jing Shan",
+    "releaseDate": "16-09-2013",
+    "total_gross": 0.0,
+    "total_admissions": 878,
+    "total_showings": 588
   },
   {
-    "movie_id": 596965,
-    "title": "Cold Pupil",
-    "releaseDate": "30-10-2013",
-    "total_gross": 0.42000000000000004,
-    "total_admissions": 95632,
-    "total_showings": 16548
+    "movie_id": 617393,
+    "title": "The Best Kids",
+    "releaseDate": "14-08-2013",
+    "total_gross": 0.15000000000000002,
+    "total_admissions": 33367,
+    "total_showings": 5325
+  },
+  {
+    "movie_id": 614604,
+    "title": "The story of our hearts",
+    "releaseDate": "28-08-2013",
+    "total_gross": 0.73,
+    "total_admissions": 124600,
+    "total_showings": 810
+  },
+  {
+    "movie_id": 658917,
+    "title": "2013shanghaiguojidongmanyingzhan",
+    "releaseDate": "06-07-2013",
+    "total_gross": 0.01,
+    "total_admissions": 2359,
+    "total_showings": 26
+  },
+  {
+    "movie_id": 613854,
+    "title": "One Night Surprise",
+    "releaseDate": "08-08-2013",
+    "total_gross": 26.160000000000014,
+    "total_admissions": 5640223,
+    "total_showings": 224174
+  },
+  {
+    "movie_id": 616528,
+    "title": "Singing When We Are Young",
+    "releaseDate": "03-07-2013",
+    "total_gross": 0.30000000000000004,
+    "total_admissions": 72834,
+    "total_showings": 22482
+  },
+  {
+    "movie_id": 594194,
+    "title": "Xiang Jian Tong Yao",
+    "releaseDate": "31-05-2013",
+    "total_gross": 0.0,
+    "total_admissions": 961,
+    "total_showings": 10
+  },
+  {
+    "movie_id": 594678,
+    "title": "Flash Play",
+    "releaseDate": "29-08-2013",
+    "total_gross": 0.10999999999999999,
+    "total_admissions": 23502,
+    "total_showings": 8539
+  },
+  {
+    "movie_id": 615766,
+    "title": "Olympus Has Fallen",
+    "releaseDate": "28-12-2013",
+    "total_gross": 5.969999999999998,
+    "total_admissions": 1233915,
+    "total_showings": 79325
+  },
+  {
+    "movie_id": 608248,
+    "title": "Kidnapping Of A Big Star",
+    "releaseDate": "01-08-2013",
+    "total_gross": 0.15,
+    "total_admissions": 33347,
+    "total_showings": 8030
+  },
+  {
+    "movie_id": 616252,
+    "title": "Running All The Way",
+    "releaseDate": "23-05-2013",
+    "total_gross": 0.8500000000000002,
+    "total_admissions": 186566,
+    "total_showings": 34335
+  },
+  {
+    "movie_id": 592438,
+    "title": "Cloud Atlas",
+    "releaseDate": "30-01-2013",
+    "total_gross": 25.189999999999998,
+    "total_admissions": 5086026,
+    "total_showings": 193871
+  },
+  {
+    "movie_id": 611576,
+    "title": "Lift to Hell",
+    "releaseDate": "21-02-2013",
+    "total_gross": 3.239999999999998,
+    "total_admissions": 743579,
+    "total_showings": 65365
   }
 ]
