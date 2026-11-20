@@ -1,18 +1,18 @@
 [
   {
-    "movie_id": 4964,
-    "title": "Dragon Tiger Gate",
-    "releaseDate": "27-07-2006",
-    "total_gross": 0.45000000000000023,
-    "total_admissions": 145777,
-    "total_showings": 1002
-  },
-  {
     "movie_id": 559763,
     "title": "Zhi Zi Hua Kai",
     "releaseDate": "11-01-2006",
     "total_gross": 0.02,
     "total_admissions": 4714,
     "total_showings": 74
+  },
+  {
+    "movie_id": 4964,
+    "title": "Dragon Tiger Gate",
+    "releaseDate": "27-07-2006",
+    "total_gross": 0.45000000000000023,
+    "total_admissions": 145777,
+    "total_showings": 1002
   }
 ]
